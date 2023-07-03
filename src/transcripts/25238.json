@@ -1,0 +1,142 @@
+[
+    {
+        "startTime": 4313,
+        "endTime": 5127,
+        "text": "My name is Mihir."
+    },
+    {
+        "startTime": 5444,
+        "endTime": 9449,
+        "text": "I'm 15 years old, and I'm a sophomore at Fox Chapel Area High School in Pittsburgh."
+    },
+    {
+        "startTime": 10240,
+        "endTime": 13243,
+        "text": "I started visiting the Carnegie Science Center from an early age."
+    },
+    {
+        "startTime": 13831,
+        "endTime": 15856,
+        "text": "It's full of fun and interactive exhibits,..."
+    },
+    {
+        "startTime": 16063,
+        "endTime": 19363,
+        "text": "...which helped spark my interest in science and develop a love for robotics."
+    },
+    {
+        "startTime": 20197,
+        "endTime": 23029,
+        "text": "Last summer, my family and I went to India on vacation."
+    },
+    {
+        "startTime": 24611,
+        "endTime": 26838,
+        "text": "We returned to find our house filled with fruit flies,..."
+    },
+    {
+        "startTime": 27160,
+        "endTime": 29383,
+        "text": "...as we had left some bananas on the kitchen counter."
+    },
+    {
+        "startTime": 29841,
+        "endTime": 31940,
+        "text": "After many failed attempts trying to swat them,..."
+    },
+    {
+        "startTime": 32210,
+        "endTime": 34811,
+        "text": "...I started to realize how amazing the fruit fly's escape is."
+    },
+    {
+        "startTime": 35701,
+        "endTime": 39354,
+        "text": "I had been reading about flying robots at the time, and one thing that struck me..."
+    },
+    {
+        "startTime": 39517,
+        "endTime": 42451,
+        "text": "...was the similarities in the environments in which both fruit flies..."
+    },
+    {
+        "startTime": 42573,
+        "endTime": 44193,
+        "text": "...and flying robots have to operate."
+    },
+    {
+        "startTime": 45279,
+        "endTime": 47372,
+        "text": "I wanted to see whether we could draw from biology..."
+    },
+    {
+        "startTime": 47543,
+        "endTime": 49401,
+        "text": "...to make flying robots truly autonomous,..."
+    },
+    {
+        "startTime": 49705,
+        "endTime": 52914,
+        "text": "...so they could potentially be used in robot-assisted rescue missions..."
+    },
+    {
+        "startTime": 53061,
+        "endTime": 54771,
+        "text": "...in environments like collapsed buildings."
+    },
+    {
+        "startTime": 55284,
+        "endTime": 58035,
+        "text": "I wanted to apply my learnings from fruit fly escape behaviors..."
+    },
+    {
+        "startTime": 58187,
+        "endTime": 59877,
+        "text": "...to a multirotor helicopter."
+    },
+    {
+        "startTime": 60120,
+        "endTime": 62388,
+        "text": "I used a sheet of plywood to simulate an approaching threat..."
+    },
+    {
+        "startTime": 62569,
+        "endTime": 63679,
+        "text": "...while testing different algorithms."
+    },
+    {
+        "startTime": 64328,
+        "endTime": 66849,
+        "text": "And I was really excited when my robot managed to escape..."
+    },
+    {
+        "startTime": 67120,
+        "endTime": 70071,
+        "text": "...with a success rate of a hundred percent across 20 attempts."
+    },
+    {
+        "startTime": 70392,
+        "endTime": 72373,
+        "text": "I'm really optimistic about the world of tomorrow."
+    },
+    {
+        "startTime": 72709,
+        "endTime": 74477,
+        "text": "I want to save lives with flying robots..."
+    },
+    {
+        "startTime": 74780,
+        "endTime": 77561,
+        "text": "...and use computer science and robotics to make a difference."
+    },
+    {
+        "startTime": 78090,
+        "endTime": 79777,
+        "text": "This is a world that I'd like to be a part of,..."
+    },
+    {
+        "startTime": 80095,
+        "endTime": 82621,
+        "text": "...but more importantly, one that I'd like to help create."
+    }
+]

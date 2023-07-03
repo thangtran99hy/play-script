@@ -1,0 +1,122 @@
+[
+    {
+        "startTime": 900,
+        "endTime": 6400,
+        "text": "So, this is the heart of a data center. It's a server room. It's one of the ten giant server rooms..."
+    },
+    {
+        "startTime": 6940,
+        "endTime": 11310,
+        "text": "...at this particular center with as many as 30,000 servers,..."
+    },
+    {
+        "startTime": 11610,
+        "endTime": 15710,
+        "text": "...and each of them all possess a vast amount of computing power, and an awful lot of storage."
+    },
+    {
+        "startTime": 15940,
+        "endTime": 20150,
+        "text": "And all part really of this big ramping output of cloud computers."
+    },
+    {
+        "startTime": 20910,
+        "endTime": 24590,
+        "text": "And here's Mike Menaz from Microsoft, you run the data center operations."
+    },
+    {
+        "startTime": 24990,
+        "endTime": 29520,
+        "text": "Mike, just give us a sense of the scale, how much can be stored in a place like this?"
+    },
+    {
+        "startTime": 29720,
+        "endTime": 33330,
+        "text": "Well, I did a little calculations and if we apply it to something that everyone likes to do,..."
+    },
+    {
+        "startTime": 33430,
+        "endTime": 35460,
+        "text": "...which is storing pictures up on the Internet,..."
+    },
+    {
+        "startTime": 36970,
+        "endTime": 42070,
+        "text": "...a facility of this size can house somewhere in the neighborhood of 6.75 trillion photos..."
+    },
+    {
+        "startTime": 42740,
+        "endTime": 44800,
+        "text": "...for the users of our cloud applications."
+    },
+    {
+        "startTime": 45020,
+        "endTime": 49010,
+        "text": "Now, people will be worried about a couple of things. They'll be worried about security..."
+    },
+    {
+        "startTime": 49910,
+        "endTime": 54720,
+        "text": "...in terms of people getting hold of their data. They'll be worried about what happens if a place like this shuts down."
+    },
+    {
+        "startTime": 55480,
+        "endTime": 61360,
+        "text": "Well, from a security perspective and from a redundancy perspective, a facility like this is pretty hardened."
+    },
+    {
+        "startTime": 61990,
+        "endTime": 65690,
+        "text": "As you probably saw as you came in, security is pretty tight on the outside."
+    },
+    {
+        "startTime": 66260,
+        "endTime": 69100,
+        "text": "Logically, in terms of getting access to your data,..."
+    },
+    {
+        "startTime": 69330,
+        "endTime": 73440,
+        "text": "...we have pretty significant security measures deployed to protect the users."
+    },
+    {
+        "startTime": 73640,
+        "endTime": 77740,
+        "text": "If the facility were to go down, if there was a catastrophic event, for example,..."
+    },
+    {
+        "startTime": 78710,
+        "endTime": 82740,
+        "text": "...we have the ability in our application software, in our cloud infrastructure,..."
+    },
+    {
+        "startTime": 82910,
+        "endTime": 85550,
+        "text": "...to fill all of this over to other facilities."
+    },
+    {
+        "startTime": 85910,
+        "endTime": 89650,
+        "text": "So, you'll never have an issue of not being able to get to your data..."
+    },
+    {
+        "startTime": 89720,
+        "endTime": 91050,
+        "text": "...wherever you happen to be from."
+    },
+    {
+        "startTime": 91250,
+        "endTime": 94790,
+        "text": "OK, Mike. Thank you very much! So, that's one data center."
+    },
+    {
+        "startTime": 95060,
+        "endTime": 99990,
+        "text": "Part of this huge battle developing in the clouds between the likes of Microsoft, Google, and Amazon..."
+    },
+    {
+        "startTime": 100500,
+        "endTime": 103400,
+        "text": "...to take us into the future of cloud computing."
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "startTime": 143,
+        "endTime": 609,
+        "text": "Hey, Tom."
+    },
+    {
+        "startTime": 769,
+        "endTime": 2111,
+        "text": "Can I borrow your pen, please?"
+    },
+    {
+        "startTime": 2357,
+        "endTime": 2636,
+        "text": "Sure."
+    },
+    {
+        "startTime": 2869,
+        "endTime": 3370,
+        "text": "Here you go."
+    },
+    {
+        "startTime": 3595,
+        "endTime": 4179,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 5619,
+        "endTime": 8229,
+        "text": "Tina, could you help me find some information here?"
+    },
+    {
+        "startTime": 8522,
+        "endTime": 8913,
+        "text": "Sure."
+    },
+    {
+        "startTime": 9022,
+        "endTime": 9575,
+        "text": "Here you go."
+    },
+    {
+        "startTime": 9800,
+        "endTime": 10275,
+        "text": "Great."
+    },
+    {
+        "startTime": 10516,
+        "endTime": 11193,
+        "text": "Thanks for the help."
+    },
+    {
+        "startTime": 12469,
+        "endTime": 14073,
+        "text": "Tina, could you come here for a second?"
+    },
+    {
+        "startTime": 14371,
+        "endTime": 14809,
+        "text": "What is it?"
+    },
+    {
+        "startTime": 15411,
+        "endTime": 16876,
+        "text": "We can't open this laptop."
+    },
+    {
+        "startTime": 17149,
+        "endTime": 17948,
+        "text": "Let me see."
+    },
+    {
+        "startTime": 18293,
+        "endTime": 18970,
+        "text": "Oh, there."
+    },
+    {
+        "startTime": 19304,
+        "endTime": 20153,
+        "text": "The screen is on."
+    },
+    {
+        "startTime": 20413,
+        "endTime": 20893,
+        "text": "Thanks."
+    },
+    {
+        "startTime": 21386,
+        "endTime": 21725,
+        "text": "All right."
+    },
+    {
+        "startTime": 21851,
+        "endTime": 22632,
+        "text": "Anything else?"
+    },
+    {
+        "startTime": 23273,
+        "endTime": 23813,
+        "text": "No more."
+    },
+    {
+        "startTime": 24033,
+        "endTime": 24684,
+        "text": "Thanks again."
+    }
+]

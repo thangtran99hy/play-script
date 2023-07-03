@@ -1,0 +1,222 @@
+[
+    {
+        "startTime": 201,
+        "endTime": 3466,
+        "text": "Over the last few decades, the internet has evolved from a niche pastime..."
+    },
+    {
+        "startTime": 3567,
+        "endTime": 5665,
+        "text": "...to an essential part of our daily lives."
+    },
+    {
+        "startTime": 6233,
+        "endTime": 8487,
+        "text": "But despite the technology's massive progress,..."
+    },
+    {
+        "startTime": 8567,
+        "endTime": 10634,
+        "text": "…critics say it's become too centralized,..."
+    },
+    {
+        "startTime": 10753,
+        "endTime": 14261,
+        "text": "…with power concentrated in the hands of a few big tech companies."
+    },
+    {
+        "startTime": 14946,
+        "endTime": 19484,
+        "text": "Enter Web3, where a slew of companies, like the ones at this crypto conference,..."
+    },
+    {
+        "startTime": 19567,
+        "endTime": 21557,
+        "text": "…are aiming to reshape the internet."
+    },
+    {
+        "startTime": 22331,
+        "endTime": 26657,
+        "text": "Proponents of Web3 say it has the potential to disrupt the giants of the tech world..."
+    },
+    {
+        "startTime": 26759,
+        "endTime": 30007,
+        "text": "...by giving power to internet users rather than platforms."
+    },
+    {
+        "startTime": 30602,
+        "endTime": 34355,
+        "text": "But Web3's also drawn some prominent detractors, who've dismissed it as..."
+    },
+    {
+        "startTime": 34441,
+        "endTime": 38505,
+        "text": "…simply another Silicon Valley fad that creates more problems than it solves."
+    },
+    {
+        "startTime": 39718,
+        "endTime": 43542,
+        "text": "So, what is Web3 exactly, and why can't the tech world stop talking about it?"
+    },
+    {
+        "startTime": 50444,
+        "endTime": 54266,
+        "text": "Web3 is a movement in tech that calls for the creation of a decentralized..."
+    },
+    {
+        "startTime": 54349,
+        "endTime": 59049,
+        "text": "…version of the internet based on a few technologies, with blockchain being a key one."
+    },
+    {
+        "startTime": 59167,
+        "endTime": 63511,
+        "text": "Ethereum is currently the most popular platform on which Web3 services are built."
+    },
+    {
+        "startTime": 63847,
+        "endTime": 66650,
+        "text": "But there are others, including Algorand and Polkadot."
+    },
+    {
+        "startTime": 67062,
+        "endTime": 72503,
+        "text": "In fact, the term Web3 is thought to have been first coined in 2014 by Gavin Wood,..."
+    },
+    {
+        "startTime": 72694,
+        "endTime": 75400,
+        "text": "Polkadot's creator and a co-founder of Ethereum."
+    },
+    {
+        "startTime": 75725,
+        "endTime": 83787,
+        "text": "Web3 is really sort of an alternative vision of the web where the services that we use..."
+    },
+    {
+        "startTime": 84029,
+        "endTime": 86914,
+        "text": "…are not hosted by a single service provider."
+    },
+    {
+        "startTime": 87326,
+        "endTime": 90542,
+        "text": "To understand Web3 and where it's coming from, it's important to look a little..."
+    },
+    {
+        "startTime": 90622,
+        "endTime": 92009,
+        "text": "...at the history of the internet."
+    },
+    {
+        "startTime": 92645,
+        "endTime": 97130,
+        "text": "During the 90s and early 2000s, websites were mostly static pages..."
+    },
+    {
+        "startTime": 97233,
+        "endTime": 99422,
+        "text": "...where you could consume pieces of information."
+    },
+    {
+        "startTime": 99834,
+        "endTime": 102265,
+        "text": "But it was much harder to produce content of your own."
+    },
+    {
+        "startTime": 102810,
+        "endTime": 105011,
+        "text": "This period has been described as Web1."
+    },
+    {
+        "startTime": 105419,
+        "endTime": 110419,
+        "text": "With the advent of Web2 in the early to mid 2000s, we were introduced to applications..."
+    },
+    {
+        "startTime": 110491,
+        "endTime": 112771,
+        "text": "…like Facebook, YouTube and Twitter."
+    },
+    {
+        "startTime": 113468,
+        "endTime": 117319,
+        "text": "These sites were more interactive, allowing users to post their own material..."
+    },
+    {
+        "startTime": 117393,
+        "endTime": 121440,
+        "text": "…and engage in online discussions about everything from politics to pets."
+    },
+    {
+        "startTime": 122065,
+        "endTime": 125150,
+        "text": "While Web2 ushered in a more user-friendly online experience,..."
+    },
+    {
+        "startTime": 125257,
+        "endTime": 127457,
+        "text": "…there were a few significant drawbacks."
+    },
+    {
+        "startTime": 127821,
+        "endTime": 131695,
+        "text": "Bertrand Perez, chief operating officer at the Web3 Foundation,..."
+    },
+    {
+        "startTime": 131790,
+        "endTime": 133543,
+        "text": "…ran me through some of the downsides."
+    },
+    {
+        "startTime": 133860,
+        "endTime": 138458,
+        "text": "Right now, you have big organizations who are controlling your data..."
+    },
+    {
+        "startTime": 138613,
+        "endTime": 141469,
+        "text": "…and providing you services that use your data."
+    },
+    {
+        "startTime": 141600,
+        "endTime": 144570,
+        "text": "When you're using a service, if the service is free,..."
+    },
+    {
+        "startTime": 144859,
+        "endTime": 147019,
+        "text": "…that means that you are, you are the product."
+    },
+    {
+        "startTime": 147195,
+        "endTime": 151579,
+        "text": "Those organizations are having a lot of insight on you, on your life, etc."
+    },
+    {
+        "startTime": 151843,
+        "endTime": 153050,
+        "text": "And if you add that,..."
+    },
+    {
+        "startTime": 153136,
+        "endTime": 158364,
+        "text": "…together with artificial intelligence, you're able to basically know..."
+    },
+    {
+        "startTime": 158641,
+        "endTime": 164363,
+        "text": "…and kind of model, person per person, very precisely, and that's, to some extent,..."
+    },
+    {
+        "startTime": 164439,
+        "endTime": 166685,
+        "text": "…a level of freedom that you're giving away."
+    },
+    {
+        "startTime": 166948,
+        "endTime": 171760,
+        "text": "Because the more those institutions know you, the better they can sell you ads."
+    }
+]

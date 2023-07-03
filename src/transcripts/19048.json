@@ -1,0 +1,172 @@
+[
+    {
+        "startTime": 9477,
+        "endTime": 11119,
+        "text": "Today is Monday."
+    },
+    {
+        "startTime": 11589,
+        "endTime": 13281,
+        "text": "Today is Monday."
+    },
+    {
+        "startTime": 14302,
+        "endTime": 16421,
+        "text": "Monday, string beans,..."
+    },
+    {
+        "startTime": 16531,
+        "endTime": 19885,
+        "text": "...all you hungry children, come and eat it up!"
+    },
+    {
+        "startTime": 20007,
+        "endTime": 21638,
+        "text": "Today is Tuesday."
+    },
+    {
+        "startTime": 22086,
+        "endTime": 23897,
+        "text": "Today is Tuesday."
+    },
+    {
+        "startTime": 24909,
+        "endTime": 28943,
+        "text": "Tuesday, spaghetti, Monday, string beans,..."
+    },
+    {
+        "startTime": 29105,
+        "endTime": 32494,
+        "text": "...all you hungry children, come and eat it up!"
+    },
+    {
+        "startTime": 32585,
+        "endTime": 34259,
+        "text": "Today is Wednesday."
+    },
+    {
+        "startTime": 34664,
+        "endTime": 36497,
+        "text": "Today is Wednesday."
+    },
+    {
+        "startTime": 37453,
+        "endTime": 43683,
+        "text": "Wednesday, soup, Tuesday, spaghetti, Monday, string beans,..."
+    },
+    {
+        "startTime": 43807,
+        "endTime": 47161,
+        "text": "...all you hungry children, come and eat it up!"
+    },
+    {
+        "startTime": 47266,
+        "endTime": 48956,
+        "text": "Today is Thursday."
+    },
+    {
+        "startTime": 49279,
+        "endTime": 51048,
+        "text": "Today is Thursday."
+    },
+    {
+        "startTime": 52171,
+        "endTime": 56099,
+        "text": "Thursday, roast beef, Wednesday, soup,..."
+    },
+    {
+        "startTime": 56350,
+        "endTime": 60449,
+        "text": "...Tuesday, spaghetti, Monday, string beans,..."
+    },
+    {
+        "startTime": 60582,
+        "endTime": 63988,
+        "text": "...all you hungry children, come and eat it up!"
+    },
+    {
+        "startTime": 72438,
+        "endTime": 74105,
+        "text": "Today is Friday."
+    },
+    {
+        "startTime": 74545,
+        "endTime": 76214,
+        "text": "Today is Friday."
+    },
+    {
+        "startTime": 77348,
+        "endTime": 83360,
+        "text": "Friday, fresh fish, Thursday, roast beef. Wednesday, soup,..."
+    },
+    {
+        "startTime": 83611,
+        "endTime": 87656,
+        "text": "...Tuesday, spaghetti, Monday, string beans,..."
+    },
+    {
+        "startTime": 87809,
+        "endTime": 91221,
+        "text": "...all you hungry children, come and eat it up!"
+    },
+    {
+        "startTime": 91323,
+        "endTime": 92832,
+        "text": "Today is Saturday."
+    },
+    {
+        "startTime": 93415,
+        "endTime": 95023,
+        "text": "Today is Saturday."
+    },
+    {
+        "startTime": 96070,
+        "endTime": 102383,
+        "text": "Saturday, chicken, Friday, fresh fish, Thursday, roast beef,..."
+    },
+    {
+        "startTime": 102558,
+        "endTime": 108638,
+        "text": "...Wednesday, soup, Tuesday, spaghetti, Monday, string beans,..."
+    },
+    {
+        "startTime": 108803,
+        "endTime": 112175,
+        "text": "...all you hungry children, come and eat it up!"
+    },
+    {
+        "startTime": 112282,
+        "endTime": 113800,
+        "text": "Today is Sunday."
+    },
+    {
+        "startTime": 114389,
+        "endTime": 115789,
+        "text": "Today is Sunday."
+    },
+    {
+        "startTime": 117071,
+        "endTime": 125337,
+        "text": "Sunday, ice cream, Saturday, chicken, Friday, fresh fish, Thursday, roast beef,..."
+    },
+    {
+        "startTime": 125500,
+        "endTime": 131753,
+        "text": "...Wednesday, soup, Tuesday, spaghetti, Monday, string beans,..."
+    },
+    {
+        "startTime": 131925,
+        "endTime": 135311,
+        "text": "...all you hungry children, come and eat it up!"
+    },
+    {
+        "startTime": 136136,
+        "endTime": 138107,
+        "text": "All you hungry children,..."
+    },
+    {
+        "startTime": 138246,
+        "endTime": 143043,
+        "text": "...come and eat it up!"
+    }
+]

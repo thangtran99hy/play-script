@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 2160,
+        "endTime": 5120,
+        "text": "My name is Linda Strait. Is Ms. Brown in?"
+    },
+    {
+        "startTime": 5800,
+        "endTime": 7610,
+        "text": "May I ask the reason of your call?"
+    },
+    {
+        "startTime": 7970,
+        "endTime": 11270,
+        "text": "Ms. Brown asked me to check the status of her order with us."
+    },
+    {
+        "startTime": 12040,
+        "endTime": 14240,
+        "text": "Ms. Brown is not at her desk at the moment."
+    },
+    {
+        "startTime": 14780,
+        "endTime": 18250,
+        "text": "If you give me your name and number, I can ask her to call you back."
+    },
+    {
+        "startTime": 18580,
+        "endTime": 20820,
+        "text": "Alright. My name is Linda Strait."
+    },
+    {
+        "startTime": 21150,
+        "endTime": 24350,
+        "text": "My last name is spelled \"S\" as in summer,..."
+    },
+    {
+        "startTime": 24750,
+        "endTime": 26390,
+        "text": "...\"T\" as in teacher,..."
+    },
+    {
+        "startTime": 26760,
+        "endTime": 28460,
+        "text": "...\"R\" like Robert,..."
+    },
+    {
+        "startTime": 28790,
+        "endTime": 30160,
+        "text": "...\"A\" apple,..."
+    },
+    {
+        "startTime": 30600,
+        "endTime": 32490,
+        "text": "...\"I\" like indigo,..."
+    },
+    {
+        "startTime": 32800,
+        "endTime": 34260,
+        "text": "...\"T\" teacher."
+    },
+    {
+        "startTime": 35160,
+        "endTime": 36930,
+        "text": "I'll give her the message, Ms. Strait."
+    }
+]

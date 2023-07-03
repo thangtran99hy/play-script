@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 1384,
+        "endTime": 5576,
+        "text": "We use \"can\" to show that someone is able to do something."
+    },
+    {
+        "startTime": 9395,
+        "endTime": 11506,
+        "text": "They can dance!"
+    },
+    {
+        "startTime": 15751,
+        "endTime": 18526,
+        "text": "They can't dance."
+    },
+    {
+        "startTime": 22815,
+        "endTime": 25147,
+        "text": "He can jump."
+    },
+    {
+        "startTime": 29493,
+        "endTime": 31909,
+        "text": "She can't jump."
+    },
+    {
+        "startTime": 37287,
+        "endTime": 39048,
+        "text": "The baby can swim."
+    },
+    {
+        "startTime": 44020,
+        "endTime": 45558,
+        "text": "He can't swim."
+    },
+    {
+        "startTime": 50892,
+        "endTime": 52849,
+        "text": "The man can cook."
+    },
+    {
+        "startTime": 57105,
+        "endTime": 59309,
+        "text": "This guy can't cook."
+    },
+    {
+        "startTime": 65353,
+        "endTime": 67701,
+        "text": "He can drive well."
+    },
+    {
+        "startTime": 73083,
+        "endTime": 75907,
+        "text": "They can't drive well."
+    },
+    {
+        "startTime": 83083,
+        "endTime": 85170,
+        "text": "He can play golf."
+    },
+    {
+        "startTime": 94019,
+        "endTime": 96387,
+        "text": "He can't play golf."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 5194,
+        "endTime": 7500,
+        "text": "﻿The man is more handsome than the monster."
+    },
+    {
+        "startTime": 8539,
+        "endTime": 11088,
+        "text": "The monster is not more handsome than the man."
+    },
+    {
+        "startTime": 12805,
+        "endTime": 15521,
+        "text": "The mountains are more beautiful than the garbage."
+    },
+    {
+        "startTime": 16544,
+        "endTime": 19849,
+        "text": "The garbage is not more beautiful than the mountains."
+    },
+    {
+        "startTime": 21386,
+        "endTime": 23999,
+        "text": "Is the amusement park more exciting than the museum?"
+    },
+    {
+        "startTime": 25115,
+        "endTime": 25931,
+        "text": "Yes, it is."
+    },
+    {
+        "startTime": 27369,
+        "endTime": 29541,
+        "text": "Is the apple more delicious than the pie?"
+    },
+    {
+        "startTime": 30115,
+        "endTime": 31118,
+        "text": "No, it isn't."
+    },
+    {
+        "startTime": 31313,
+        "endTime": 33654,
+        "text": "The pie is more delicious than the apple."
+    }
+]

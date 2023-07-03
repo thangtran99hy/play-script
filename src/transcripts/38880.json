@@ -1,0 +1,107 @@
+[
+    {
+        "startTime": 800,
+        "endTime": 1458,
+        "text": "Good afternoon."
+    },
+    {
+        "startTime": 1895,
+        "endTime": 2687,
+        "text": "Good afternoon."
+    },
+    {
+        "startTime": 2893,
+        "endTime": 3705,
+        "text": "Can I help you?"
+    },
+    {
+        "startTime": 3860,
+        "endTime": 4685,
+        "text": "Yes, please."
+    },
+    {
+        "startTime": 5373,
+        "endTime": 6903,
+        "text": "I'm looking for a jacket."
+    },
+    {
+        "startTime": 7244,
+        "endTime": 7875,
+        "text": "Jacket?"
+    },
+    {
+        "startTime": 8586,
+        "endTime": 9161,
+        "text": "Okay."
+    },
+    {
+        "startTime": 9656,
+        "endTime": 11288,
+        "text": "What color are you looking for?"
+    },
+    {
+        "startTime": 11610,
+        "endTime": 12033,
+        "text": "Black."
+    },
+    {
+        "startTime": 12319,
+        "endTime": 13955,
+        "text": "I'm looking for a black jacket."
+    },
+    {
+        "startTime": 14265,
+        "endTime": 14822,
+        "text": "Black?"
+    },
+    {
+        "startTime": 15181,
+        "endTime": 15769,
+        "text": "Okay."
+    },
+    {
+        "startTime": 15971,
+        "endTime": 17611,
+        "text": "And what size are you looking for?"
+    },
+    {
+        "startTime": 18170,
+        "endTime": 18776,
+        "text": "Medium."
+    },
+    {
+        "startTime": 18930,
+        "endTime": 20010,
+        "text": "I'm looking for a medium."
+    },
+    {
+        "startTime": 20455,
+        "endTime": 21165,
+        "text": "Medium?"
+    },
+    {
+        "startTime": 21839,
+        "endTime": 23189,
+        "text": "Alright."
+    },
+    {
+        "startTime": 28881,
+        "endTime": 30722,
+        "text": "A black jacket in medium."
+    },
+    {
+        "startTime": 30993,
+        "endTime": 31602,
+        "text": "Here you are."
+    },
+    {
+        "startTime": 31716,
+        "endTime": 33195,
+        "text": "Ooh, that's nice."
+    },
+    {
+        "startTime": 33461,
+        "endTime": 33762,
+        "text": "Yes."
+    }
+]

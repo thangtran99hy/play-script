@@ -1,0 +1,102 @@
+[
+    {
+        "startTime": 3723,
+        "endTime": 6219,
+        "text": "There is no doubt that fraud is a global concern."
+    },
+    {
+        "startTime": 6633,
+        "endTime": 9384,
+        "text": "In 2005, Unisys conducted a survey..."
+    },
+    {
+        "startTime": 9497,
+        "endTime": 12650,
+        "text": "...into the increasing prevalence of online identity theft."
+    },
+    {
+        "startTime": 13502,
+        "endTime": 20306,
+        "text": "At that time, 17% of US and 11% of UK consumers reported being a victim."
+    },
+    {
+        "startTime": 21353,
+        "endTime": 24493,
+        "text": "In 2006, a Gartner research survey..."
+    },
+    {
+        "startTime": 24633,
+        "endTime": 29113,
+        "text": "...found a 50% increase in ID theft victims compared to 2003."
+    },
+    {
+        "startTime": 30115,
+        "endTime": 31513,
+        "text": "All the evidence shows that..."
+    },
+    {
+        "startTime": 31913,
+        "endTime": 35548,
+        "text": "...as the acceptance of financial products such as credit cards grows,..."
+    },
+    {
+        "startTime": 36055,
+        "endTime": 38257,
+        "text": "...the risk of ID fraud also increases."
+    },
+    {
+        "startTime": 38997,
+        "endTime": 42048,
+        "text": "What seems obvious is that banks and their customers..."
+    },
+    {
+        "startTime": 42320,
+        "endTime": 45180,
+        "text": "...have a responsibility for remaining vigilant and up-to-date..."
+    },
+    {
+        "startTime": 45271,
+        "endTime": 49655,
+        "text": "...with online security measures in order to protect themselves from Internet hackers."
+    },
+    {
+        "startTime": 51198,
+        "endTime": 55584,
+        "text": "Some people claim that biometric data, such as iris scans and fingerprints,..."
+    },
+    {
+        "startTime": 55888,
+        "endTime": 57053,
+        "text": "...could provide the answer."
+    },
+    {
+        "startTime": 57707,
+        "endTime": 61123,
+        "text": "However, it could be argued that this will not solve the problem,..."
+    },
+    {
+        "startTime": 61416,
+        "endTime": 64371,
+        "text": "...as the usefulness of biometrics depends on the quality..."
+    },
+    {
+        "startTime": 64690,
+        "endTime": 68309,
+        "text": "...and therefore the cost of the machine and the technology used."
+    },
+    {
+        "startTime": 69237,
+        "endTime": 72207,
+        "text": "Other people favour \"two-factor identification.\""
+    },
+    {
+        "startTime": 72779,
+        "endTime": 76741,
+        "text": "In addition to a password, confirmation by cellphone is required."
+    },
+    {
+        "startTime": 77551,
+        "endTime": 80915,
+        "text": "Two-factor identification puts another step in the way of criminals."
+    }
+]

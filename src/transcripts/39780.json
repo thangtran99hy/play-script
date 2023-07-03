@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 618,
+        "endTime": 2085,
+        "text": "It's January 13th."
+    },
+    {
+        "startTime": 3287,
+        "endTime": 4538,
+        "text": "It's February 15th."
+    },
+    {
+        "startTime": 5889,
+        "endTime": 7123,
+        "text": "It's March 21st."
+    },
+    {
+        "startTime": 8189,
+        "endTime": 9458,
+        "text": "It's April 8th."
+    },
+    {
+        "startTime": 10560,
+        "endTime": 11451,
+        "text": "It's May 10th."
+    },
+    {
+        "startTime": 12669,
+        "endTime": 13731,
+        "text": "It's June 12th."
+    },
+    {
+        "startTime": 14967,
+        "endTime": 17060,
+        "text": "Today is July 4th."
+    },
+    {
+        "startTime": 17825,
+        "endTime": 19919,
+        "text": "Today is August 23rd."
+    },
+    {
+        "startTime": 20835,
+        "endTime": 23346,
+        "text": "Today is September 22nd."
+    },
+    {
+        "startTime": 24689,
+        "endTime": 26952,
+        "text": "Today is October 31st."
+    },
+    {
+        "startTime": 28295,
+        "endTime": 30357,
+        "text": "Today is November 24th."
+    },
+    {
+        "startTime": 31975,
+        "endTime": 34393,
+        "text": "Today is December 25th."
+    }
+]

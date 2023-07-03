@@ -1,0 +1,92 @@
+[
+    {
+        "startTime": 2872,
+        "endTime": 4053,
+        "text": "What are you doing?"
+    },
+    {
+        "startTime": 5689,
+        "endTime": 8187,
+        "text": "I'm looking for my MP3 player."
+    },
+    {
+        "startTime": 10059,
+        "endTime": 11629,
+        "text": "Did you look in the drawer?"
+    },
+    {
+        "startTime": 12674,
+        "endTime": 15374,
+        "text": "No, I didn't put it in the drawer."
+    },
+    {
+        "startTime": 16809,
+        "endTime": 18769,
+        "text": "Did you look under the sofa?"
+    },
+    {
+        "startTime": 20239,
+        "endTime": 22961,
+        "text": "No, it is not under the sofa."
+    },
+    {
+        "startTime": 24571,
+        "endTime": 26427,
+        "text": "Did you look in your bag?"
+    },
+    {
+        "startTime": 28462,
+        "endTime": 29245,
+        "text": "Oh, no!"
+    },
+    {
+        "startTime": 29705,
+        "endTime": 31703,
+        "text": "I didn't look in my bag."
+    },
+    {
+        "startTime": 38716,
+        "endTime": 42072,
+        "text": "What, what, what, what do you look for?"
+    },
+    {
+        "startTime": 42464,
+        "endTime": 45707,
+        "text": "Shoe, shoe, shoe, I look for my shoe."
+    },
+    {
+        "startTime": 46254,
+        "endTime": 49392,
+        "text": "Bed, bed, bed, did you look under the bed?"
+    },
+    {
+        "startTime": 49983,
+        "endTime": 53207,
+        "text": "No, no, no, my shoe is not there."
+    },
+    {
+        "startTime": 53752,
+        "endTime": 57025,
+        "text": "Box, box, box, did you look in the box?"
+    },
+    {
+        "startTime": 57503,
+        "endTime": 60729,
+        "text": "No, no, no, my shoe is not there."
+    },
+    {
+        "startTime": 61229,
+        "endTime": 64470,
+        "text": "Closet, closet, closet, did you look in the closet?"
+    },
+    {
+        "startTime": 64791,
+        "endTime": 65563,
+        "text": "Oh, no!"
+    },
+    {
+        "startTime": 65709,
+        "endTime": 68402,
+        "text": "My shoe is right in the closet!"
+    }
+]

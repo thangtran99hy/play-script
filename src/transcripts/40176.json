@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 777,
+        "endTime": 2413,
+        "text": "Thank you for calling our office."
+    },
+    {
+        "startTime": 3313,
+        "endTime": 8203,
+        "text": "Our office hours are 9:00 a.m to 5:00 p.m, Mondays to Fridays."
+    },
+    {
+        "startTime": 8883,
+        "endTime": 12560,
+        "text": "On Saturdays, we work from 9:00 a.m. to 12:00 p.m. only."
+    },
+    {
+        "startTime": 15616,
+        "endTime": 19893,
+        "text": "Can I reserve a meeting room for tomorrow from 10:00 a.m. to 12:00 p.m.?"
+    },
+    {
+        "startTime": 21530,
+        "endTime": 23097,
+        "text": "10:00 a.m. to 12:00 p.m.?"
+    },
+    {
+        "startTime": 23643,
+        "endTime": 24501,
+        "text": "Let me check."
+    },
+    {
+        "startTime": 26365,
+        "endTime": 27078,
+        "text": "I'm sorry."
+    },
+    {
+        "startTime": 27199,
+        "endTime": 29297,
+        "text": "All the meeting rooms will be used at that time."
+    },
+    {
+        "startTime": 29683,
+        "endTime": 31341,
+        "text": "Would you like to choose a different time?"
+    },
+    {
+        "startTime": 32774,
+        "endTime": 35812,
+        "text": "How about 2:00 p.m to 4:00 p.m. tomorrow?"
+    },
+    {
+        "startTime": 36669,
+        "endTime": 40051,
+        "text": "You can use the small room from 2:00 p.m. to 4:00 p.m. tomorrow."
+    },
+    {
+        "startTime": 40897,
+        "endTime": 41369,
+        "text": "Okay."
+    },
+    {
+        "startTime": 41624,
+        "endTime": 43156,
+        "text": "Please reserve it for my team."
+    },
+    {
+        "startTime": 43461,
+        "endTime": 43915,
+        "text": "Thank you."
+    }
+]

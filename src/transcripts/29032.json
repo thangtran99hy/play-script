@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 449,
+        "endTime": 4300,
+        "text": "People often call IT professionals about network connection problems."
+    },
+    {
+        "startTime": 4634,
+        "endTime": 6999,
+        "text": "But many problems are easy to fix without help."
+    },
+    {
+        "startTime": 7449,
+        "endTime": 11486,
+        "text": "First, reconnect any loose CAT5 cable connections."
+    },
+    {
+        "startTime": 11794,
+        "endTime": 14778,
+        "text": "Next, investigate IP address issues."
+    },
+    {
+        "startTime": 15147,
+        "endTime": 18193,
+        "text": "This group of numbers allows communication on the internet."
+    },
+    {
+        "startTime": 18577,
+        "endTime": 22119,
+        "text": "Renewing your DHCP fixes most IP problems."
+    },
+    {
+        "startTime": 22534,
+        "endTime": 24082,
+        "text": "Next, check the router."
+    },
+    {
+        "startTime": 24492,
+        "endTime": 27290,
+        "text": "The router links LANs to the internet."
+    },
+    {
+        "startTime": 27921,
+        "endTime": 30625,
+        "text": "Make sure the router's configuration is correct."
+    },
+    {
+        "startTime": 31262,
+        "endTime": 34061,
+        "text": "WLANs have other problems."
+    },
+    {
+        "startTime": 34447,
+        "endTime": 37369,
+        "text": "Interference often blocks their wireless signals."
+    },
+    {
+        "startTime": 37613,
+        "endTime": 39235,
+        "text": "But there is a simple solution."
+    },
+    {
+        "startTime": 39480,
+        "endTime": 41845,
+        "text": "Just move the router away from walls and metals."
+    },
+    {
+        "startTime": 42182,
+        "endTime": 44114,
+        "text": "Finally, cycle the network."
+    },
+    {
+        "startTime": 44676,
+        "endTime": 47846,
+        "text": "Turn all equipment off for a full minute and then restart."
+    }
+]

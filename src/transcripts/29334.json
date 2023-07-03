@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 1236,
+        "endTime": 8665,
+        "text": "Somewhere over the rainbow,..."
+    },
+    {
+        "startTime": 9807,
+        "endTime": 13891,
+        "text": "...skies are blue."
+    },
+    {
+        "startTime": 15089,
+        "endTime": 27618,
+        "text": "And the dreams that you dare to dream really do come true."
+    },
+    {
+        "startTime": 28209,
+        "endTime": 39761,
+        "text": "Someday I'll wish upon a star and wake up where the clouds are far behind me,..."
+    },
+    {
+        "startTime": 42077,
+        "endTime": 45433,
+        "text": "...where troubles melt like lemon drops."
+    },
+    {
+        "startTime": 45922,
+        "endTime": 55610,
+        "text": "High above the chimney top, that's where you'll find me."
+    },
+    {
+        "startTime": 56091,
+        "endTime": 68793,
+        "text": "Somewhere over the rainbow bluebirds fly"
+    },
+    {
+        "startTime": 69941,
+        "endTime": 81512,
+        "text": "Birds fly over the rainbow, why then, oh why can't I?"
+    }
+]

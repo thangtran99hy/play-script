@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 193,
+        "endTime": 1895,
+        "text": "Can I get your phone number, please?"
+    },
+    {
+        "startTime": 2889,
+        "endTime": 7629,
+        "text": "Yes, my phone number is 877-05912."
+    },
+    {
+        "startTime": 7835,
+        "endTime": 9898,
+        "text": "I'm sorry. Is the first number 8?"
+    },
+    {
+        "startTime": 10927,
+        "endTime": 11779,
+        "text": "Yes, it is."
+    },
+    {
+        "startTime": 16164,
+        "endTime": 17995,
+        "text": "Can I get your phone number, please?"
+    },
+    {
+        "startTime": 19394,
+        "endTime": 23816,
+        "text": "Yes, it's 867-05912."
+    },
+    {
+        "startTime": 25039,
+        "endTime": 27681,
+        "text": "Sorry. Is the third number 6?"
+    },
+    {
+        "startTime": 28629,
+        "endTime": 30224,
+        "text": "No, it's 7."
+    }
+]

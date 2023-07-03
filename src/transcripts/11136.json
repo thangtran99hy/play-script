@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 2230,
+        "endTime": 7040,
+        "text": "Hi, Sam. I was just calling to let you know my meeting at work finished on time..."
+    },
+    {
+        "startTime": 7140,
+        "endTime": 9070,
+        "text": "...and I'll be leaving the office soon."
+    },
+    {
+        "startTime": 9440,
+        "endTime": 13810,
+        "text": "Unfortunately, a problem arose here, so I won't be able to leave for a while."
+    },
+    {
+        "startTime": 14210,
+        "endTime": 17780,
+        "text": "In addition, we are facing a big deadline coming up Friday,..."
+    },
+    {
+        "startTime": 18020,
+        "endTime": 22220,
+        "text": "...so my boss wants to have a meeting tonight to tackle the root of the problem."
+    },
+    {
+        "startTime": 22660,
+        "endTime": 26220,
+        "text": "Then, we'll have to postpone tonight's plans with Diane and her boyfriend."
+    },
+    {
+        "startTime": 26390,
+        "endTime": 30360,
+        "text": "Yeah, it might be better just to reschedule with Diane for next week."
+    },
+    {
+        "startTime": 30790,
+        "endTime": 35130,
+        "text": "I anticipate this problem will take a few days of working overtime to deal with."
+    }
+]

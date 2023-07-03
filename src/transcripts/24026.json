@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 813,
+        "endTime": 1948,
+        "text": "Ladies and gentlemen,..."
+    },
+    {
+        "startTime": 2587,
+        "endTime": 4242,
+        "text": "...welcome to the Shinkansen."
+    },
+    {
+        "startTime": 4999,
+        "endTime": 9225,
+        "text": "This is the Nozomi Super Express bound for Tokyo."
+    },
+    {
+        "startTime": 10049,
+        "endTime": 16797,
+        "text": "We'll be stopping at Kyoto, Nagoya, Shin-Yokohama and Shinagawa stations..."
+    },
+    {
+        "startTime": 17339,
+        "endTime": 19546,
+        "text": "...before arriving at Tokyo Terminal."
+    },
+    {
+        "startTime": 20625,
+        "endTime": 25725,
+        "text": "Smoking is not allowed on this train except in the designated smoking rooms..."
+    },
+    {
+        "startTime": 25902,
+        "endTime": 29719,
+        "text": "...located in cars three, seven and 15."
+    },
+    {
+        "startTime": 30739,
+        "endTime": 35660,
+        "text": "The smoking room in car number ten is for passengers in the green cars."
+    },
+    {
+        "startTime": 36612,
+        "endTime": 42315,
+        "text": "Please refrain from smoking in the train including areas at either end of the cars."
+    },
+    {
+        "startTime": 43387,
+        "endTime": 46119,
+        "text": "The conductor's room is in car number eight."
+    },
+    {
+        "startTime": 46904,
+        "endTime": 47511,
+        "text": "Thank you."
+    }
+]

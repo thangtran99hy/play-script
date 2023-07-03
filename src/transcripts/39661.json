@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 1219,
+        "endTime": 2989,
+        "text": "Hello, Mr. Rashid."
+    },
+    {
+        "startTime": 3064,
+        "endTime": 3503,
+        "text": "Hi!"
+    },
+    {
+        "startTime": 3584,
+        "endTime": 4037,
+        "text": "How are you?"
+    },
+    {
+        "startTime": 4120,
+        "endTime": 5165,
+        "text": "Fine, thank you."
+    },
+    {
+        "startTime": 5409,
+        "endTime": 6392,
+        "text": "How was your vacation?"
+    },
+    {
+        "startTime": 6483,
+        "endTime": 7179,
+        "text": "It was wonderful."
+    },
+    {
+        "startTime": 7519,
+        "endTime": 8669,
+        "text": "I'm so happy to hear that."
+    },
+    {
+        "startTime": 9035,
+        "endTime": 10069,
+        "text": "Was your flight okay?"
+    },
+    {
+        "startTime": 10381,
+        "endTime": 11709,
+        "text": "No. Pretty bad, actually."
+    },
+    {
+        "startTime": 11915,
+        "endTime": 14228,
+        "text": "It was so bumpy; it was very scary."
+    },
+    {
+        "startTime": 14418,
+        "endTime": 16125,
+        "text": "Was the hotel room nice?"
+    },
+    {
+        "startTime": 16379,
+        "endTime": 19212,
+        "text": "The room was fine, but it was right next to the cafe,..."
+    },
+    {
+        "startTime": 19583,
+        "endTime": 22409,
+        "text": "...and the music was very loud, I didn't sleep much."
+    }
+]

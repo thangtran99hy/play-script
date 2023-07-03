@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 7781,
+        "endTime": 8907,
+        "text": "﻿Excavator."
+    },
+    {
+        "startTime": 18482,
+        "endTime": 20042,
+        "text": "Bulldozer."
+    },
+    {
+        "startTime": 28068,
+        "endTime": 29476,
+        "text": "Dump truck."
+    },
+    {
+        "startTime": 39244,
+        "endTime": 40742,
+        "text": "Fire truck."
+    },
+    {
+        "startTime": 50470,
+        "endTime": 51597,
+        "text": "Forklift."
+    },
+    {
+        "startTime": 63101,
+        "endTime": 64165,
+        "text": "Tractor."
+    },
+    {
+        "startTime": 73833,
+        "endTime": 75021,
+        "text": "Trailer."
+    },
+    {
+        "startTime": 85303,
+        "endTime": 86614,
+        "text": "Army truck."
+    }
+]

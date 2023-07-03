@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 2200,
+        "endTime": 5670,
+        "text": "I'm calling to confirm that I've received your order by fax."
+    },
+    {
+        "startTime": 5900,
+        "endTime": 9170,
+        "text": "However, we need to discuss the payment schedule for your order."
+    },
+    {
+        "startTime": 9970,
+        "endTime": 11710,
+        "text": "Can I get back to you about this?"
+    },
+    {
+        "startTime": 12080,
+        "endTime": 17350,
+        "text": "I don't usually deal with payments and the person who usually handles them is out to lunch."
+    },
+    {
+        "startTime": 17680,
+        "endTime": 21880,
+        "text": "I see. Would you like me to explain the payment options to that person?"
+    },
+    {
+        "startTime": 22420,
+        "endTime": 25330,
+        "text": "I think we talked about that when we met here in my office."
+    },
+    {
+        "startTime": 25620,
+        "endTime": 29490,
+        "text": "I think you can leave it to me to inform her of the payment options."
+    },
+    {
+        "startTime": 29890,
+        "endTime": 34070,
+        "text": "When you have decided on the option you'd like to use, please call me back."
+    },
+    {
+        "startTime": 34300,
+        "endTime": 35060,
+        "text": "I'll do that."
+    },
+    {
+        "startTime": 35440,
+        "endTime": 38570,
+        "text": "Is there anything else we need to discuss regarding our order?"
+    },
+    {
+        "startTime": 38760,
+        "endTime": 43070,
+        "text": "No. Once we organize the payment schedule, everything will be set."
+    }
+]

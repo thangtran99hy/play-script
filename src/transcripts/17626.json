@@ -1,0 +1,117 @@
+[
+    {
+        "startTime": 2514,
+        "endTime": 4559,
+        "text": "I go to my friend's house."
+    },
+    {
+        "startTime": 5622,
+        "endTime": 7497,
+        "text": "I go on my skateboard."
+    },
+    {
+        "startTime": 8531,
+        "endTime": 10363,
+        "text": "My sister goes to school."
+    },
+    {
+        "startTime": 11397,
+        "endTime": 12901,
+        "text": "She goes on a bike."
+    },
+    {
+        "startTime": 13992,
+        "endTime": 15625,
+        "text": "My mom goes to work."
+    },
+    {
+        "startTime": 16749,
+        "endTime": 18353,
+        "text": "She goes in a car."
+    },
+    {
+        "startTime": 19437,
+        "endTime": 21072,
+        "text": "My dad goes to work."
+    },
+    {
+        "startTime": 22121,
+        "endTime": 23837,
+        "text": "He goes on the subway."
+    },
+    {
+        "startTime": 24887,
+        "endTime": 27302,
+        "text": "My grandpa goes to the airport."
+    },
+    {
+        "startTime": 28218,
+        "endTime": 29874,
+        "text": "He goes in a taxi."
+    },
+    {
+        "startTime": 30893,
+        "endTime": 32828,
+        "text": "My aunt goes to the store."
+    },
+    {
+        "startTime": 33798,
+        "endTime": 35395,
+        "text": "She goes on a bus."
+    },
+    {
+        "startTime": 36413,
+        "endTime": 38736,
+        "text": "My uncle goes to his office."
+    },
+    {
+        "startTime": 39803,
+        "endTime": 41545,
+        "text": "He goes on a ferry boat."
+    },
+    {
+        "startTime": 42612,
+        "endTime": 44402,
+        "text": "We all go to the park."
+    },
+    {
+        "startTime": 45421,
+        "endTime": 46581,
+        "text": "We walk."
+    },
+    {
+        "startTime": 50329,
+        "endTime": 51834,
+        "text": "Where are you going, Jeff?"
+    },
+    {
+        "startTime": 53033,
+        "endTime": 54605,
+        "text": "I go to the park."
+    },
+    {
+        "startTime": 55669,
+        "endTime": 57377,
+        "text": "How do you go to the park?"
+    },
+    {
+        "startTime": 58373,
+        "endTime": 60622,
+        "text": "I go on my skateboard."
+    },
+    {
+        "startTime": 61618,
+        "endTime": 64002,
+        "text": "Does your sister go to the park, too?"
+    },
+    {
+        "startTime": 64931,
+        "endTime": 67321,
+        "text": "No, she goes to the airport."
+    },
+    {
+        "startTime": 67756,
+        "endTime": 69359,
+        "text": "She goes in a taxi."
+    }
+]

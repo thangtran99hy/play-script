@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 527,
+        "endTime": 3711,
+        "text": "The word THIS tells us about something close."
+    },
+    {
+        "startTime": 5398,
+        "endTime": 7093,
+        "text": "This is an animal."
+    },
+    {
+        "startTime": 8824,
+        "endTime": 10185,
+        "text": "This is a place."
+    },
+    {
+        "startTime": 11871,
+        "endTime": 13785,
+        "text": "This place is a house."
+    },
+    {
+        "startTime": 15449,
+        "endTime": 17040,
+        "text": "This toy is a robot."
+    },
+    {
+        "startTime": 18593,
+        "endTime": 22474,
+        "text": "The word THAT tells us about something far away."
+    },
+    {
+        "startTime": 24425,
+        "endTime": 26052,
+        "text": "That is an animal."
+    },
+    {
+        "startTime": 27877,
+        "endTime": 30112,
+        "text": "That place is a mountain."
+    },
+    {
+        "startTime": 31807,
+        "endTime": 33008,
+        "text": "That is a tree."
+    },
+    {
+        "startTime": 34779,
+        "endTime": 36423,
+        "text": "That man is a teacher."
+    }
+]

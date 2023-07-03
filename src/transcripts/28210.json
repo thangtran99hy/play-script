@@ -1,0 +1,27 @@
+[
+    {
+        "startTime": 4844,
+        "endTime": 12967,
+        "text": "﻿Zero plus one equals one."
+    },
+    {
+        "startTime": 17593,
+        "endTime": 25716,
+        "text": "One plus one equals two."
+    },
+    {
+        "startTime": 29721,
+        "endTime": 37937,
+        "text": "Two plus one equals three."
+    },
+    {
+        "startTime": 41663,
+        "endTime": 49725,
+        "text": "Three plus one equals four."
+    },
+    {
+        "startTime": 53793,
+        "endTime": 61451,
+        "text": "Four plus one equals five."
+    }
+]

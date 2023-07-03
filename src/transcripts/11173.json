@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 1600,
+        "endTime": 3500,
+        "text": "How are you enjoying the Happy Hour, Linda?"
+    },
+    {
+        "startTime": 3900,
+        "endTime": 5100,
+        "text": "It's wonderful!"
+    },
+    {
+        "startTime": 5350,
+        "endTime": 7000,
+        "text": "All of the food is delicious."
+    },
+    {
+        "startTime": 7150,
+        "endTime": 10900,
+        "text": "Yeah. My favorites are the stuffed eggplant and cocktail shrimp."
+    },
+    {
+        "startTime": 11450,
+        "endTime": 13900,
+        "text": "The grilled zucchini is also very tasty."
+    },
+    {
+        "startTime": 14350,
+        "endTime": 16200,
+        "text": "I noticed you didn't try the chicken wings."
+    },
+    {
+        "startTime": 16800,
+        "endTime": 17800,
+        "text": "Are you a vegetarian?"
+    },
+    {
+        "startTime": 18150,
+        "endTime": 20800,
+        "text": "No, but I try to avoid fatty foods."
+    },
+    {
+        "startTime": 21200,
+        "endTime": 23600,
+        "text": "And besides, they looked really spicy."
+    },
+    {
+        "startTime": 24350,
+        "endTime": 25350,
+        "text": "We should order drinks."
+    },
+    {
+        "startTime": 25900,
+        "endTime": 27050,
+        "text": "How about some wine, Linda?"
+    },
+    {
+        "startTime": 27600,
+        "endTime": 28650,
+        "text": "Here is the wine list."
+    }
+]

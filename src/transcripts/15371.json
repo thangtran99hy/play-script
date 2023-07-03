@@ -1,0 +1,222 @@
+[
+    {
+        "startTime": 9328,
+        "endTime": 11056,
+        "text": "Okay well, the reason we have Scrum is..."
+    },
+    {
+        "startTime": 11135,
+        "endTime": 14895,
+        "text": "...because I came into software development from a medical school."
+    },
+    {
+        "startTime": 15036,
+        "endTime": 21775,
+        "text": "I had done 11 years funded by the National Cancer Institute's research on complex adaptive systems."
+    },
+    {
+        "startTime": 21917,
+        "endTime": 27390,
+        "text": "And a large banking company hired me to come in and help them with their advanced technologies."
+    },
+    {
+        "startTime": 27961,
+        "endTime": 31363,
+        "text": "And as I looked at the way they were managing projects,..."
+    },
+    {
+        "startTime": 32049,
+        "endTime": 34155,
+        "text": "...I realized developers were always late,..."
+    },
+    {
+        "startTime": 34646,
+        "endTime": 38169,
+        "text": "...management was always under pressure; they were putting pressure on the developers."
+    },
+    {
+        "startTime": 38674,
+        "endTime": 42069,
+        "text": "The more pressure they would put on the developers, the later the project would get."
+    },
+    {
+        "startTime": 42636,
+        "endTime": 45833,
+        "text": "And the whole thing was designed in such a way..."
+    },
+    {
+        "startTime": 46385,
+        "endTime": 49281,
+        "text": "...that the stable state of the system was not what you wanted."
+    },
+    {
+        "startTime": 49825,
+        "endTime": 53056,
+        "text": "In order to do that, we had to change the whole dynamics."
+    },
+    {
+        "startTime": 53227,
+        "endTime": 58897,
+        "text": "Now, what we knew from research at Bell Labs is that we had to have very few roles..."
+    },
+    {
+        "startTime": 59033,
+        "endTime": 61248,
+        "text": "...in the team that was doing software development."
+    },
+    {
+        "startTime": 61631,
+        "endTime": 67222,
+        "text": "The specialized styles of activity slowed down communications and made it impossible to do."
+    },
+    {
+        "startTime": 67664,
+        "endTime": 70112,
+        "text": "So, one of the first things we did was we set it up;..."
+    },
+    {
+        "startTime": 70269,
+        "endTime": 72302,
+        "text": "...we only had a team and we had a team leader."
+    },
+    {
+        "startTime": 72807,
+        "endTime": 77847,
+        "text": "We read a paper by two Japanese business school professors on the best teams in the world."
+    },
+    {
+        "startTime": 78507,
+        "endTime": 82936,
+        "text": "And they described how the best new product development teams were set up,..."
+    },
+    {
+        "startTime": 83028,
+        "endTime": 86205,
+        "text": "...how the teams were motivated; we set up the team just like that."
+    },
+    {
+        "startTime": 87008,
+        "endTime": 90570,
+        "text": "The team wanted to know what we would call the team leader; we called him the scrum master."
+    },
+    {
+        "startTime": 91705,
+        "endTime": 97981,
+        "text": "We then, as we got the role simplified, streamlined and leaned out all the system."
+    },
+    {
+        "startTime": 98451,
+        "endTime": 102315,
+        "text": "We very quickly found we needed a person we called the product owner,..."
+    },
+    {
+        "startTime": 102406,
+        "endTime": 103567,
+        "text": "...in addition to the scrum master..."
+    },
+    {
+        "startTime": 103667,
+        "endTime": 108917,
+        "text": "...who is responsible for clearly specifying the backlog in the right ordering."
+    },
+    {
+        "startTime": 109009,
+        "endTime": 113539,
+        "text": "So when we ship the product, it would really take the market as a really good product."
+    },
+    {
+        "startTime": 113994,
+        "endTime": 116348,
+        "text": "So, we had the product owner, the Scrum master and the team."
+    },
+    {
+        "startTime": 117182,
+        "endTime": 122586,
+        "text": "We then turned our attention to the meetings because in order to build software fast,..."
+    },
+    {
+        "startTime": 122780,
+        "endTime": 127150,
+        "text": "...you cannot have people going into meetings all the time where they're wasting a lot of time."
+    },
+    {
+        "startTime": 127234,
+        "endTime": 130845,
+        "text": "So we asked, \"What of the minimal meetings we need to have for scrum?\""
+    },
+    {
+        "startTime": 131620,
+        "endTime": 135506,
+        "text": "We knew we needed to deliver a software in short cycles, no more than four weeks."
+    },
+    {
+        "startTime": 135901,
+        "endTime": 139164,
+        "text": "Probably the majority of the teams now are doing two - week sprints."
+    },
+    {
+        "startTime": 139800,
+        "endTime": 142731,
+        "text": "So, we needed a meeting at the beginning of the sprint to define..."
+    },
+    {
+        "startTime": 142872,
+        "endTime": 143971,
+        "text": "...\"What are we going to...\""
+    },
+    {
+        "startTime": 144341,
+        "endTime": 148335,
+        "text": "\"...pull from the product backlog owned by the product owner into that two - week cycle?\""
+    },
+    {
+        "startTime": 149095,
+        "endTime": 152555,
+        "text": "\"How are we going to implement it and track it?\""
+    },
+    {
+        "startTime": 153788,
+        "endTime": 155613,
+        "text": "A meeting at the beginning of the cycle,..."
+    },
+    {
+        "startTime": 155729,
+        "endTime": 159273,
+        "text": "...we also knew because again of research done by Bell Labs..."
+    },
+    {
+        "startTime": 159345,
+        "endTime": 162390,
+        "text": "...that the highest performing teams were driven by daily meeting."
+    },
+    {
+        "startTime": 162519,
+        "endTime": 164714,
+        "text": "So, we knew we had to have the daily meeting."
+    },
+    {
+        "startTime": 165003,
+        "endTime": 167041,
+        "text": "But we wanted it to be a really short meeting..."
+    },
+    {
+        "startTime": 167142,
+        "endTime": 169731,
+        "text": "...and we got it down to no more than 15 minutes."
+    },
+    {
+        "startTime": 170309,
+        "endTime": 175325,
+        "text": "And in that meeting, everybody on the team needs to know what everybody else has been doing,..."
+    },
+    {
+        "startTime": 175533,
+        "endTime": 180027,
+        "text": "...what they're going to do next and how they can help one another move really fast."
+    },
+    {
+        "startTime": 180913,
+        "endTime": 185027,
+        "text": "So, it's like a huddle in a football game but a little bit longer than a huddle."
+    }
+]

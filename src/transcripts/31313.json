@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 3742,
+        "endTime": 4992,
+        "text": "I like books."
+    },
+    {
+        "startTime": 5752,
+        "endTime": 6867,
+        "text": "She likes books"
+    },
+    {
+        "startTime": 8656,
+        "endTime": 9783,
+        "text": "You want a treat."
+    },
+    {
+        "startTime": 10600,
+        "endTime": 11899,
+        "text": "It wants a treat."
+    },
+    {
+        "startTime": 17361,
+        "endTime": 18655,
+        "text": "I brush my hair."
+    },
+    {
+        "startTime": 19506,
+        "endTime": 21127,
+        "text": "He brushes his hair."
+    },
+    {
+        "startTime": 22741,
+        "endTime": 24795,
+        "text": "The girl washes her hands."
+    },
+    {
+        "startTime": 25493,
+        "endTime": 27609,
+        "text": "Cindy washes her hands."
+    },
+    {
+        "startTime": 32842,
+        "endTime": 33869,
+        "text": "We study."
+    },
+    {
+        "startTime": 34557,
+        "endTime": 35685,
+        "text": "She studies."
+    },
+    {
+        "startTime": 37233,
+        "endTime": 38545,
+        "text": "The baby cries."
+    },
+    {
+        "startTime": 39118,
+        "endTime": 40307,
+        "text": "Sam cries."
+    }
+]

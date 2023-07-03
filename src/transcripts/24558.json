@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 1037,
+        "endTime": 2737,
+        "text": "Let's learn about food."
+    },
+    {
+        "startTime": 6001,
+        "endTime": 8015,
+        "text": "The bread is warm."
+    },
+    {
+        "startTime": 14241,
+        "endTime": 16657,
+        "text": "The mouse likes cheese."
+    },
+    {
+        "startTime": 21007,
+        "endTime": 22547,
+        "text": "The rice is ready!"
+    },
+    {
+        "startTime": 27650,
+        "endTime": 29674,
+        "text": "The pasta is cooked."
+    },
+    {
+        "startTime": 36863,
+        "endTime": 39170,
+        "text": "The meat is juicy."
+    },
+    {
+        "startTime": 47063,
+        "endTime": 48687,
+        "text": "Eat lots of vegetables!"
+    },
+    {
+        "startTime": 57602,
+        "endTime": 59287,
+        "text": "Fruit is very healthy."
+    },
+    {
+        "startTime": 66046,
+        "endTime": 68331,
+        "text": "I eat fried eggs in the morning."
+    },
+    {
+        "startTime": 74511,
+        "endTime": 77755,
+        "text": "He puts a lot of sugar in his coffee."
+    }
+]

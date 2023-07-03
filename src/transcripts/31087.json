@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 3803,
+        "endTime": 5245,
+        "text": "﻿There is one child."
+    },
+    {
+        "startTime": 6904,
+        "endTime": 8419,
+        "text": "There are a few children."
+    },
+    {
+        "startTime": 10151,
+        "endTime": 11238,
+        "text": "There is one man."
+    },
+    {
+        "startTime": 12981,
+        "endTime": 14168,
+        "text": "There are two men."
+    },
+    {
+        "startTime": 15909,
+        "endTime": 17168,
+        "text": "There is one woman."
+    },
+    {
+        "startTime": 18812,
+        "endTime": 20171,
+        "text": "There are three women."
+    },
+    {
+        "startTime": 22074,
+        "endTime": 23323,
+        "text": "There is a person."
+    },
+    {
+        "startTime": 24868,
+        "endTime": 26174,
+        "text": "There are a few people."
+    }
+]

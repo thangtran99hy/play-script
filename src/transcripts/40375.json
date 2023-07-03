@@ -1,0 +1,92 @@
+[
+    {
+        "startTime": 1233,
+        "endTime": 3077,
+        "text": "Could you call me a taxi, please?"
+    },
+    {
+        "startTime": 3197,
+        "endTime": 4110,
+        "text": "Yes, of course!"
+    },
+    {
+        "startTime": 4268,
+        "endTime": 4852,
+        "text": "Where to?"
+    },
+    {
+        "startTime": 5321,
+        "endTime": 6567,
+        "text": "To Paddington Station."
+    },
+    {
+        "startTime": 6839,
+        "endTime": 8098,
+        "text": "And when would you like it for?"
+    },
+    {
+        "startTime": 8388,
+        "endTime": 9361,
+        "text": "Now, please."
+    },
+    {
+        "startTime": 29155,
+        "endTime": 30319,
+        "text": "How much is it?"
+    },
+    {
+        "startTime": 30571,
+        "endTime": 33181,
+        "text": "That's 13.60, please."
+    },
+    {
+        "startTime": 39138,
+        "endTime": 42881,
+        "text": "Make it 15 pounds, and could I have a receipt?"
+    },
+    {
+        "startTime": 43397,
+        "endTime": 44525,
+        "text": "Thank you very much, madam."
+    },
+    {
+        "startTime": 55027,
+        "endTime": 57887,
+        "text": "Could I have a ticket to Heathrow Airport, please?"
+    },
+    {
+        "startTime": 58073,
+        "endTime": 59168,
+        "text": "Single or return?"
+    },
+    {
+        "startTime": 59695,
+        "endTime": 60662,
+        "text": "Single, please."
+    },
+    {
+        "startTime": 61095,
+        "endTime": 62909,
+        "text": "Standard or first class?"
+    },
+    {
+        "startTime": 63057,
+        "endTime": 64343,
+        "text": "Standard, please."
+    },
+    {
+        "startTime": 65607,
+        "endTime": 67178,
+        "text": "That's 18 pounds."
+    },
+    {
+        "startTime": 67768,
+        "endTime": 69037,
+        "text": "Can I pay by credit card?"
+    },
+    {
+        "startTime": 69214,
+        "endTime": 70035,
+        "text": "Yes, of course."
+    }
+]

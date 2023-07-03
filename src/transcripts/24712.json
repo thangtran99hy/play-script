@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1989,
+        "endTime": 3786,
+        "text": "﻿Let's learn about pets."
+    },
+    {
+        "startTime": 7249,
+        "endTime": 8992,
+        "text": "The dog is skateboarding."
+    },
+    {
+        "startTime": 15135,
+        "endTime": 16991,
+        "text": "The cat is playing."
+    },
+    {
+        "startTime": 21557,
+        "endTime": 23592,
+        "text": "The fish is swimming."
+    },
+    {
+        "startTime": 28655,
+        "endTime": 30795,
+        "text": "The turtle is skateboarding."
+    },
+    {
+        "startTime": 35130,
+        "endTime": 36703,
+        "text": "This is a rabbit."
+    },
+    {
+        "startTime": 42253,
+        "endTime": 43900,
+        "text": "This is a snake."
+    },
+    {
+        "startTime": 49053,
+        "endTime": 51691,
+        "text": "The bird is standing on a ball."
+    },
+    {
+        "startTime": 56205,
+        "endTime": 57899,
+        "text": "The hamster is eating."
+    },
+    {
+        "startTime": 63732,
+        "endTime": 65426,
+        "text": "These are puppies."
+    },
+    {
+        "startTime": 69427,
+        "endTime": 70865,
+        "text": "This is a kitten."
+    }
+]

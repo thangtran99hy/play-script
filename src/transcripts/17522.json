@@ -1,0 +1,97 @@
+[
+    {
+        "startTime": 2929,
+        "endTime": 4500,
+        "text": "Is this room yours?"
+    },
+    {
+        "startTime": 5677,
+        "endTime": 7322,
+        "text": "Yes, it's mine."
+    },
+    {
+        "startTime": 8623,
+        "endTime": 11395,
+        "text": "Your room is very clean and tidy."
+    },
+    {
+        "startTime": 12621,
+        "endTime": 15476,
+        "text": "I have to clean my room every day."
+    },
+    {
+        "startTime": 17880,
+        "endTime": 20081,
+        "text": "Frank, are these books yours?"
+    },
+    {
+        "startTime": 20517,
+        "endTime": 23702,
+        "text": "You should put your books away after reading them."
+    },
+    {
+        "startTime": 24992,
+        "endTime": 26853,
+        "text": "No, they are not mine."
+    },
+    {
+        "startTime": 27334,
+        "endTime": 28579,
+        "text": "They are Helen's."
+    },
+    {
+        "startTime": 29937,
+        "endTime": 31014,
+        "text": "Oh, sorry."
+    },
+    {
+        "startTime": 31536,
+        "endTime": 33265,
+        "text": "Tell her to put them away."
+    },
+    {
+        "startTime": 39481,
+        "endTime": 42791,
+        "text": "Let's have a contest, let's have a contest."
+    },
+    {
+        "startTime": 43254,
+        "endTime": 46007,
+        "text": "Good, good, good, that's a good idea!"
+    },
+    {
+        "startTime": 46993,
+        "endTime": 52089,
+        "text": "One, two, three, four, my seed went four steps away."
+    },
+    {
+        "startTime": 54457,
+        "endTime": 59560,
+        "text": "One, two, three, your seed went three steps away."
+    },
+    {
+        "startTime": 61965,
+        "endTime": 66331,
+        "text": "My seed sent one step farther than yours."
+    },
+    {
+        "startTime": 69479,
+        "endTime": 76388,
+        "text": "One, two, three, four, five, six, my seed went six steps away."
+    },
+    {
+        "startTime": 76995,
+        "endTime": 83884,
+        "text": "One, two, three, four, five, six, seven, yours went seven steps away."
+    },
+    {
+        "startTime": 84498,
+        "endTime": 85804,
+        "text": "We both won."
+    },
+    {
+        "startTime": 86215,
+        "endTime": 89586,
+        "text": "Now we have to break the tie."
+    }
+]

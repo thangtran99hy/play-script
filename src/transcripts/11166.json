@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 3100,
+        "endTime": 5900,
+        "text": "Do you think this recession can get much worse?"
+    },
+    {
+        "startTime": 6300,
+        "endTime": 7150,
+        "text": "On the contrary,..."
+    },
+    {
+        "startTime": 7550,
+        "endTime": 9250,
+        "text": "...I see signs of a recovery."
+    },
+    {
+        "startTime": 9700,
+        "endTime": 12050,
+        "text": "The inflation rate has been steadily declining,..."
+    },
+    {
+        "startTime": 12500,
+        "endTime": 14550,
+        "text": "...and the unemployment rate is also low."
+    },
+    {
+        "startTime": 15050,
+        "endTime": 20700,
+        "text": "But I've also heard reports that lots of companies will continue to downsize over the next few years."
+    },
+    {
+        "startTime": 21250,
+        "endTime": 24800,
+        "text": "That may be true, but I don't think the recession is the cause."
+    },
+    {
+        "startTime": 25250,
+        "endTime": 29100,
+        "text": "Companies are restructuring and laying off people in redundant positions."
+    },
+    {
+        "startTime": 29600,
+        "endTime": 31700,
+        "text": "And they're also outsourcing more work,..."
+    },
+    {
+        "startTime": 32000,
+        "endTime": 34750,
+        "text": "...so they need fewer permanent staff on the payroll."
+    }
+]

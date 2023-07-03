@@ -1,0 +1,92 @@
+[
+    {
+        "startTime": 3443,
+        "endTime": 4581,
+        "text": "I can run."
+    },
+    {
+        "startTime": 5783,
+        "endTime": 6981,
+        "text": "I can jump."
+    },
+    {
+        "startTime": 8177,
+        "endTime": 9486,
+        "text": "I can swing."
+    },
+    {
+        "startTime": 10848,
+        "endTime": 12005,
+        "text": "I can hop."
+    },
+    {
+        "startTime": 13045,
+        "endTime": 14317,
+        "text": "I can ride."
+    },
+    {
+        "startTime": 15495,
+        "endTime": 16761,
+        "text": "I can climb."
+    },
+    {
+        "startTime": 18173,
+        "endTime": 19495,
+        "text": "I can crawl."
+    },
+    {
+        "startTime": 20901,
+        "endTime": 22092,
+        "text": "I can play."
+    },
+    {
+        "startTime": 25012,
+        "endTime": 26441,
+        "text": "What can you do?"
+    },
+    {
+        "startTime": 27889,
+        "endTime": 29033,
+        "text": "I can run."
+    },
+    {
+        "startTime": 29483,
+        "endTime": 30753,
+        "text": "What about you?"
+    },
+    {
+        "startTime": 32097,
+        "endTime": 33192,
+        "text": "I can jump."
+    },
+    {
+        "startTime": 33542,
+        "endTime": 35221,
+        "text": "What can your brother do?"
+    },
+    {
+        "startTime": 36707,
+        "endTime": 38051,
+        "text": "He can climb."
+    },
+    {
+        "startTime": 38593,
+        "endTime": 40040,
+        "text": "What can Jenny do?"
+    },
+    {
+        "startTime": 41399,
+        "endTime": 42444,
+        "text": "She can hop."
+    },
+    {
+        "startTime": 42877,
+        "endTime": 44596,
+        "text": "What can a snail do?"
+    },
+    {
+        "startTime": 46085,
+        "endTime": 47438,
+        "text": "It can crawl."
+    }
+]

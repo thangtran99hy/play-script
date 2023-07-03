@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 1775,
+        "endTime": 13720,
+        "text": "O say can you see by the dawn's early light..."
+    },
+    {
+        "startTime": 14731,
+        "endTime": 27644,
+        "text": "...what so proudly we hailed at the twilight's last gleaming?"
+    },
+    {
+        "startTime": 28642,
+        "endTime": 41137,
+        "text": "Whose broad stripes and bright stars through the perilous fight..."
+    },
+    {
+        "startTime": 41761,
+        "endTime": 56307,
+        "text": "...o'er the ramparts we watched were so gallantly streaming?"
+    },
+    {
+        "startTime": 58025,
+        "endTime": 70227,
+        "text": "And the rocket's red glare, the bombs bursting in air,..."
+    },
+    {
+        "startTime": 70429,
+        "endTime": 85449,
+        "text": "...gave proof through the night that our flag was still there."
+    },
+    {
+        "startTime": 85829,
+        "endTime": 101367,
+        "text": "O say does that star-spangled banner yet wave..."
+    },
+    {
+        "startTime": 106095,
+        "endTime": 128517,
+        "text": "...o'er the land of the free and the home of the brave?"
+    }
+]

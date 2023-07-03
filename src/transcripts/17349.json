@@ -1,0 +1,102 @@
+[
+    {
+        "startTime": 2463,
+        "endTime": 3113,
+        "text": "Boy."
+    },
+    {
+        "startTime": 3849,
+        "endTime": 5329,
+        "text": "The boy is playing."
+    },
+    {
+        "startTime": 6702,
+        "endTime": 8621,
+        "text": "The boy is playing a game."
+    },
+    {
+        "startTime": 9975,
+        "endTime": 10474,
+        "text": "Toy."
+    },
+    {
+        "startTime": 11357,
+        "endTime": 13019,
+        "text": "I want to buy a toy."
+    },
+    {
+        "startTime": 14420,
+        "endTime": 16605,
+        "text": "I want to buy a toy train."
+    },
+    {
+        "startTime": 17901,
+        "endTime": 18561,
+        "text": "Joy."
+    },
+    {
+        "startTime": 19409,
+        "endTime": 20585,
+        "text": "I have joy."
+    },
+    {
+        "startTime": 21993,
+        "endTime": 23458,
+        "text": "I have great joy."
+    },
+    {
+        "startTime": 24850,
+        "endTime": 25519,
+        "text": "Soy."
+    },
+    {
+        "startTime": 26398,
+        "endTime": 27644,
+        "text": "I eat soy."
+    },
+    {
+        "startTime": 28999,
+        "endTime": 30592,
+        "text": "I often eat soy."
+    },
+    {
+        "startTime": 36143,
+        "endTime": 38576,
+        "text": "You and I open the door."
+    },
+    {
+        "startTime": 39937,
+        "endTime": 43312,
+        "text": "Open the door, open the door."
+    },
+    {
+        "startTime": 43704,
+        "endTime": 46042,
+        "text": "You and I close the door."
+    },
+    {
+        "startTime": 47381,
+        "endTime": 50880,
+        "text": "Close the door, close the door."
+    },
+    {
+        "startTime": 51211,
+        "endTime": 53607,
+        "text": "Do you open the door?"
+    },
+    {
+        "startTime": 54871,
+        "endTime": 58369,
+        "text": "Yes, yes, yes. I open the door."
+    },
+    {
+        "startTime": 58705,
+        "endTime": 61140,
+        "text": "Do you close the door?"
+    },
+    {
+        "startTime": 62365,
+        "endTime": 65780,
+        "text": "No, no, no. I open the door."
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "startTime": 452,
+        "endTime": 2103,
+        "text": "﻿May I have your attention please?"
+    },
+    {
+        "startTime": 2942,
+        "endTime": 9138,
+        "text": "We have made a stop because of bad weather between Shin-Nihombashi and Bakurocho."
+    },
+    {
+        "startTime": 10125,
+        "endTime": 12959,
+        "text": "Our train cannot continue beyond Nakano."
+    },
+    {
+        "startTime": 13767,
+        "endTime": 15305,
+        "text": "We apologize for the delay."
+    },
+    {
+        "startTime": 16541,
+        "endTime": 18182,
+        "text": "May I have your attention please?"
+    },
+    {
+        "startTime": 18958,
+        "endTime": 24010,
+        "text": "Our train is going slowly for safety confirmation near Nakano."
+    },
+    {
+        "startTime": 24851,
+        "endTime": 26563,
+        "text": "We will resume our travel soon."
+    },
+    {
+        "startTime": 27431,
+        "endTime": 28416,
+        "text": "Thank you for waiting."
+    },
+    {
+        "startTime": 28847,
+        "endTime": 30498,
+        "text": "May I have your attention please?"
+    },
+    {
+        "startTime": 31278,
+        "endTime": 37228,
+        "text": "We have made a stop because of a signal failure between Ninomiya and Kouzu."
+    },
+    {
+        "startTime": 38051,
+        "endTime": 39527,
+        "text": "We apologize for the delay."
+    },
+    {
+        "startTime": 39811,
+        "endTime": 41366,
+        "text": "May I have your attention please?"
+    },
+    {
+        "startTime": 42231,
+        "endTime": 49077,
+        "text": "Our train is going slowly because of a wayside fire between Monoi and Nishi-Funabashi."
+    },
+    {
+        "startTime": 49911,
+        "endTime": 53491,
+        "text": "We expect to start at 2:55."
+    },
+    {
+        "startTime": 54388,
+        "endTime": 57128,
+        "text": "Our train cannot continue beyond Urawa."
+    },
+    {
+        "startTime": 57872,
+        "endTime": 59424,
+        "text": "We apologize for the delay."
+    },
+    {
+        "startTime": 59936,
+        "endTime": 61595,
+        "text": "May I have your attention please?"
+    },
+    {
+        "startTime": 62383,
+        "endTime": 66113,
+        "text": "Our train is going slowly because another train is passing."
+    },
+    {
+        "startTime": 66874,
+        "endTime": 69763,
+        "text": "We expect to start at 4:40."
+    },
+    {
+        "startTime": 70645,
+        "endTime": 73602,
+        "text": "Our train cannot continue beyond Nishi-Oi."
+    },
+    {
+        "startTime": 74456,
+        "endTime": 75914,
+        "text": "We apologize for the delay."
+    }
+]

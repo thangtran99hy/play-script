@@ -1,0 +1,162 @@
+[
+    {
+        "startTime": 7236,
+        "endTime": 7900,
+        "text": "I'm Brittany."
+    },
+    {
+        "startTime": 8045,
+        "endTime": 10653,
+        "text": "I'm 18 and I live in Florida in the USA."
+    },
+    {
+        "startTime": 22961,
+        "endTime": 26266,
+        "text": "Almost every day, I read the latest science news and research advances..."
+    },
+    {
+        "startTime": 26389,
+        "endTime": 29020,
+        "text": "...because it is so exciting to see the breakthroughs being made."
+    },
+    {
+        "startTime": 30761,
+        "endTime": 33682,
+        "text": "I became fascinated by an article on artificial intelligence,..."
+    },
+    {
+        "startTime": 34089,
+        "endTime": 35757,
+        "text": "...and I decided to learn how to program."
+    },
+    {
+        "startTime": 36815,
+        "endTime": 40093,
+        "text": "Coding was a real challenge and it took a few attempts to get it to work."
+    },
+    {
+        "startTime": 41345,
+        "endTime": 44739,
+        "text": "Back when I was little, I really grew to idolize the men and women in scrubs..."
+    },
+    {
+        "startTime": 44864,
+        "endTime": 47256,
+        "text": "...who were using science every day to save lives."
+    },
+    {
+        "startTime": 48141,
+        "endTime": 52780,
+        "text": "My brother was born premature and we spent a lot of time in the hospital for his first few years."
+    },
+    {
+        "startTime": 53815,
+        "endTime": 56945,
+        "text": "Then when I was 15, my cousin was diagnosed with breast cancer..."
+    },
+    {
+        "startTime": 57210,
+        "endTime": 60579,
+        "text": "...and I saw firsthand the impact it has on a woman and her family."
+    },
+    {
+        "startTime": 61289,
+        "endTime": 63055,
+        "text": "I decided I wanted to make a difference..."
+    },
+    {
+        "startTime": 63170,
+        "endTime": 66370,
+        "text": "...by trying to make the experience a little bit better for those involved."
+    },
+    {
+        "startTime": 66991,
+        "endTime": 70018,
+        "text": "I was able to teach the computer how to diagnose breast cancer..."
+    },
+    {
+        "startTime": 70181,
+        "endTime": 75419,
+        "text": "...by making it think like the brain to detect patterns far too complex for humans to recognize."
+    },
+    {
+        "startTime": 75857,
+        "endTime": 79126,
+        "text": "This means it could determine if a breast mass is malignant or benign."
+    },
+    {
+        "startTime": 79850,
+        "endTime": 83133,
+        "text": "It's really important because the least invasive test for breast cancer..."
+    },
+    {
+        "startTime": 83539,
+        "endTime": 85079,
+        "text": "...is also the least conclusive."
+    },
+    {
+        "startTime": 85843,
+        "endTime": 88209,
+        "text": "Most doctors refuse to use these biopsies."
+    },
+    {
+        "startTime": 88493,
+        "endTime": 92659,
+        "text": "If they could be used, it could lead to earlier detection and a better process for the patient."
+    },
+    {
+        "startTime": 93377,
+        "endTime": 97061,
+        "text": "I spent hundreds upon hundreds of hours researching for over two years,..."
+    },
+    {
+        "startTime": 97521,
+        "endTime": 101129,
+        "text": "...creating a neural network tool for doctors to use when analyzing results."
+    },
+    {
+        "startTime": 101811,
+        "endTime": 105788,
+        "text": "When the application actually diagnosed masses successfully, it was very exciting."
+    },
+    {
+        "startTime": 106207,
+        "endTime": 109441,
+        "text": "It diagnoses over ninety-nine percent of cancer patients correctly."
+    },
+    {
+        "startTime": 109905,
+        "endTime": 111879,
+        "text": "And since it is deployed as a cloud service,..."
+    },
+    {
+        "startTime": 112002,
+        "endTime": 114867,
+        "text": "...it has the potential to be accessed by any hospital in the world."
+    },
+    {
+        "startTime": 115753,
+        "endTime": 119213,
+        "text": "It has been amazing to see how people, including cancer survivors,..."
+    },
+    {
+        "startTime": 119663,
+        "endTime": 122056,
+        "text": "...are responding to my program and its potential."
+    },
+    {
+        "startTime": 123383,
+        "endTime": 127067,
+        "text": "Cancer touches all of us, and unfortunately, the rates are rising."
+    },
+    {
+        "startTime": 127764,
+        "endTime": 130279,
+        "text": "Helping find the cure to cancer is a real goal of mine,..."
+    },
+    {
+        "startTime": 130506,
+        "endTime": 134155,
+        "text": "...and one day, I would love to be working on breakthroughs that can save lives."
+    }
+]

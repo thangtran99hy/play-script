@@ -1,0 +1,132 @@
+[
+    {
+        "startTime": 350,
+        "endTime": 4600,
+        "text": "At UCLA in 1969, the very first Internet message was sent."
+    },
+    {
+        "startTime": 5000,
+        "endTime": 8300,
+        "text": "Kleinrock's team of computer scientists sent it to another team of computer wizards..."
+    },
+    {
+        "startTime": 8450,
+        "endTime": 10550,
+        "text": "...at the Stanford Research Institute."
+    },
+    {
+        "startTime": 11100,
+        "endTime": 14700,
+        "text": "That first message was supposed to be the word \"log\" as in \"log in\"."
+    },
+    {
+        "startTime": 15300,
+        "endTime": 17350,
+        "text": "Charlie typed the \"L\". He said, \"Did you get the L?\""
+    },
+    {
+        "startTime": 17900,
+        "endTime": 18900,
+        "text": "\"Yup! I got the L.\""
+    },
+    {
+        "startTime": 19400,
+        "endTime": 21100,
+        "text": "\"Type the O. Got the O?\""
+    },
+    {
+        "startTime": 21600,
+        "endTime": 22200,
+        "text": "\"I got the O.\""
+    },
+    {
+        "startTime": 22500,
+        "endTime": 23600,
+        "text": "\"Type the G. Did you get the G?\""
+    },
+    {
+        "startTime": 24050,
+        "endTime": 24600,
+        "text": "Crash!"
+    },
+    {
+        "startTime": 25200,
+        "endTime": 26950,
+        "text": "The SRI computer crashed."
+    },
+    {
+        "startTime": 27550,
+        "endTime": 31800,
+        "text": "So the first message ever on the Internet was \"lo\"!..."
+    },
+    {
+        "startTime": 32300,
+        "endTime": 34100,
+        "text": "...as in \"lo and behold.\""
+    },
+    {
+        "startTime": 34550,
+        "endTime": 38200,
+        "text": "Just a few years later, the very first e-mail was sent on this ARPANET system."
+    },
+    {
+        "startTime": 38350,
+        "endTime": 44200,
+        "text": "Ray Tomlinson wrote the code that allowed text messages to be sent to users on different computers..."
+    },
+    {
+        "startTime": 44400,
+        "endTime": 46200,
+        "text": "...rather than to one shared computer."
+    },
+    {
+        "startTime": 46350,
+        "endTime": 48500,
+        "text": "Scientists began to share personal messages with each other."
+    },
+    {
+        "startTime": 49000,
+        "endTime": 49900,
+        "text": "\"How are the wife and kids?\""
+    },
+    {
+        "startTime": 50200,
+        "endTime": 51900,
+        "text": "You know, \"How are you doing? When are you gonna go to this conference?\""
+    },
+    {
+        "startTime": 52000,
+        "endTime": 54200,
+        "text": "Or \"What are you gonna do on your summer vacation?\""
+    },
+    {
+        "startTime": 54670,
+        "endTime": 58300,
+        "text": "At this point in the 1970s, the spread of the Internet was still an apparatus..."
+    },
+    {
+        "startTime": 58450,
+        "endTime": 61800,
+        "text": "...used by a select elite few, mostly from the world of academia."
+    },
+    {
+        "startTime": 62000,
+        "endTime": 65600,
+        "text": "It was the introduction of the personal computer in 1981..."
+    },
+    {
+        "startTime": 66100,
+        "endTime": 69200,
+        "text": "...that started the massive migration of humanity to the Internet."
+    },
+    {
+        "startTime": 69850,
+        "endTime": 72350,
+        "text": "When IBM came out with the PC and Microsoft came up with DOS,..."
+    },
+    {
+        "startTime": 72800,
+        "endTime": 74700,
+        "text": "...that's what put it into the hands of normal people."
+    }
+]

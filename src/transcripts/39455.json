@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 150,
+        "endTime": 1890,
+        "text": "What country are you from?"
+    },
+    {
+        "startTime": 2285,
+        "endTime": 3692,
+        "text": "I'm from Bangladesh."
+    },
+    {
+        "startTime": 4125,
+        "endTime": 6053,
+        "text": "So, you are Bangladeshi?"
+    },
+    {
+        "startTime": 6491,
+        "endTime": 7196,
+        "text": "That's right!"
+    },
+    {
+        "startTime": 7415,
+        "endTime": 9963,
+        "text": "My nationality is Bangladeshi."
+    },
+    {
+        "startTime": 10421,
+        "endTime": 11597,
+        "text": "Where are you from?"
+    },
+    {
+        "startTime": 11798,
+        "endTime": 12685,
+        "text": "I'm from China."
+    },
+    {
+        "startTime": 13221,
+        "endTime": 14871,
+        "text": "What languages do you speak?"
+    },
+    {
+        "startTime": 15291,
+        "endTime": 17176,
+        "text": "I speak Chinese and English."
+    },
+    {
+        "startTime": 17668,
+        "endTime": 18661,
+        "text": "Where are you from?"
+    },
+    {
+        "startTime": 18773,
+        "endTime": 19914,
+        "text": "I'm from Iran."
+    },
+    {
+        "startTime": 20117,
+        "endTime": 20974,
+        "text": "I'm Iranian."
+    }
+]

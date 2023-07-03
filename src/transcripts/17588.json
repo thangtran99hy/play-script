@@ -1,0 +1,102 @@
+[
+    {
+        "startTime": 2668,
+        "endTime": 3231,
+        "text": "Car."
+    },
+    {
+        "startTime": 4079,
+        "endTime": 5427,
+        "text": "I drive a car."
+    },
+    {
+        "startTime": 6757,
+        "endTime": 8713,
+        "text": "I drive a fancy car."
+    },
+    {
+        "startTime": 10063,
+        "endTime": 10738,
+        "text": "Farm."
+    },
+    {
+        "startTime": 11496,
+        "endTime": 13586,
+        "text": "There are animals on a farm."
+    },
+    {
+        "startTime": 14897,
+        "endTime": 17332,
+        "text": "There are many animals on a farm."
+    },
+    {
+        "startTime": 18605,
+        "endTime": 19109,
+        "text": "Park."
+    },
+    {
+        "startTime": 19794,
+        "endTime": 21539,
+        "text": "I like to go to the park"
+    },
+    {
+        "startTime": 22813,
+        "endTime": 25209,
+        "text": "I like to go to the park to play."
+    },
+    {
+        "startTime": 26425,
+        "endTime": 27139,
+        "text": "Star."
+    },
+    {
+        "startTime": 27839,
+        "endTime": 29323,
+        "text": "The star is bright."
+    },
+    {
+        "startTime": 30538,
+        "endTime": 32457,
+        "text": "The star is very bright."
+    },
+    {
+        "startTime": 37886,
+        "endTime": 41220,
+        "text": "Frog, frog, frog. A frog lives in a tank."
+    },
+    {
+        "startTime": 41686,
+        "endTime": 45089,
+        "text": "Boy, boy, boy. A boy feeds him frog food."
+    },
+    {
+        "startTime": 45426,
+        "endTime": 49066,
+        "text": "Hop, hop, hop. The boy takes the frog outside."
+    },
+    {
+        "startTime": 49183,
+        "endTime": 52431,
+        "text": "Munch, munch, munch. The frog eats a flower."
+    },
+    {
+        "startTime": 52865,
+        "endTime": 56110,
+        "text": "Crunch, crunch, crunch. The frog eats a stick."
+    },
+    {
+        "startTime": 56637,
+        "endTime": 61124,
+        "text": "Yuck, yuck, yuck. Flowers and sticks are not frog food."
+    },
+    {
+        "startTime": 62305,
+        "endTime": 65560,
+        "text": "Buzz, buzz, buzz. The frog eats a fly."
+    },
+    {
+        "startTime": 65993,
+        "endTime": 70389,
+        "text": "Yum, yum, yum. A fly is a very good lunch!"
+    }
+]

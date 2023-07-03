@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 620,
+        "endTime": 1671,
+        "text": "January"
+    },
+    {
+        "startTime": 4007,
+        "endTime": 4847,
+        "text": "February"
+    },
+    {
+        "startTime": 7522,
+        "endTime": 8277,
+        "text": "March"
+    },
+    {
+        "startTime": 10529,
+        "endTime": 11325,
+        "text": "April"
+    },
+    {
+        "startTime": 13323,
+        "endTime": 13867,
+        "text": "May"
+    },
+    {
+        "startTime": 15779,
+        "endTime": 16407,
+        "text": "June"
+    },
+    {
+        "startTime": 18193,
+        "endTime": 18948,
+        "text": "July"
+    },
+    {
+        "startTime": 20607,
+        "endTime": 21277,
+        "text": "August"
+    },
+    {
+        "startTime": 22385,
+        "endTime": 23309,
+        "text": "September"
+    },
+    {
+        "startTime": 24418,
+        "endTime": 25402,
+        "text": "October"
+    },
+    {
+        "startTime": 26791,
+        "endTime": 27585,
+        "text": "November"
+    },
+    {
+        "startTime": 29002,
+        "endTime": 29756,
+        "text": "December"
+    },
+    {
+        "startTime": 32097,
+        "endTime": 34131,
+        "text": "My birthday is in December."
+    },
+    {
+        "startTime": 35849,
+        "endTime": 37627,
+        "text": "My birthday is in January."
+    }
+]

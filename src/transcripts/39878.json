@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 584,
+        "endTime": 1963,
+        "text": "What time is it?"
+    },
+    {
+        "startTime": 3001,
+        "endTime": 4336,
+        "text": "It's one o'clock."
+    },
+    {
+        "startTime": 4705,
+        "endTime": 6547,
+        "text": "It's quarter past twelve."
+    },
+    {
+        "startTime": 7005,
+        "endTime": 8340,
+        "text": "It's quarter to one."
+    },
+    {
+        "startTime": 9049,
+        "endTime": 10569,
+        "text": "It's 12:30."
+    },
+    {
+        "startTime": 11493,
+        "endTime": 14013,
+        "text": "It's 2:46 in the afternoon."
+    },
+    {
+        "startTime": 15461,
+        "endTime": 18160,
+        "text": "It's ten past seven in the morning."
+    },
+    {
+        "startTime": 18909,
+        "endTime": 20327,
+        "text": "It's ten to five."
+    },
+    {
+        "startTime": 21296,
+        "endTime": 22605,
+        "text": "It's 12 p.m."
+    },
+    {
+        "startTime": 22920,
+        "endTime": 23837,
+        "text": "It's noon."
+    },
+    {
+        "startTime": 25248,
+        "endTime": 26653,
+        "text": "It's 12 a.m."
+    },
+    {
+        "startTime": 26843,
+        "endTime": 28329,
+        "text": "It's midnight."
+    },
+    {
+        "startTime": 29343,
+        "endTime": 30827,
+        "text": "It's 11:40."
+    }
+]

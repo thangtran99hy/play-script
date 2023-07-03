@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 220,
+        "endTime": 5131,
+        "text": "And then with the advent of cloud computing and search, people realized,..."
+    },
+    {
+        "startTime": 5520,
+        "endTime": 9469,
+        "text": "...\"Wow, machine intelligence, adaptive learning, big data.\""
+    },
+    {
+        "startTime": 9868,
+        "endTime": 11667,
+        "text": "Here's a new set of techniques."
+    },
+    {
+        "startTime": 12042,
+        "endTime": 18453,
+        "text": "And now we're able to throw enormous computational resources at it with cloud computing."
+    },
+    {
+        "startTime": 18766,
+        "endTime": 20764,
+        "text": "And we're starting to make real progress."
+    },
+    {
+        "startTime": 21094,
+        "endTime": 25965,
+        "text": "And so when you think of voice recognition in Siri or in Android,..."
+    },
+    {
+        "startTime": 26153,
+        "endTime": 28577,
+        "text": "...it's really getting impressively good."
+    },
+    {
+        "startTime": 28967,
+        "endTime": 33354,
+        "text": "And it's doing this through these large-scale statistical techniques."
+    }
+]

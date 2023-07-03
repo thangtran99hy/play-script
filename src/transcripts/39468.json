@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 351,
+        "endTime": 2288,
+        "text": "Hello! I'm Adam."
+    },
+    {
+        "startTime": 2793,
+        "endTime": 3731,
+        "text": "What's your name?"
+    },
+    {
+        "startTime": 4529,
+        "endTime": 5369,
+        "text": "Hi, Adam!"
+    },
+    {
+        "startTime": 5720,
+        "endTime": 7026,
+        "text": "My name is James."
+    },
+    {
+        "startTime": 8014,
+        "endTime": 10142,
+        "text": "It's nice to meet you, James."
+    },
+    {
+        "startTime": 10895,
+        "endTime": 12918,
+        "text": "Nice to meet you too, Adam."
+    },
+    {
+        "startTime": 13824,
+        "endTime": 15261,
+        "text": "Are you from Spain?"
+    },
+    {
+        "startTime": 15717,
+        "endTime": 16657,
+        "text": "No, I'm not."
+    },
+    {
+        "startTime": 17049,
+        "endTime": 18055,
+        "text": "I'm from Italy."
+    },
+    {
+        "startTime": 19017,
+        "endTime": 20241,
+        "text": "Are you Italian?"
+    },
+    {
+        "startTime": 20793,
+        "endTime": 21692,
+        "text": "Yes, I am."
+    },
+    {
+        "startTime": 21993,
+        "endTime": 23193,
+        "text": "Where are you from, Adam?"
+    },
+    {
+        "startTime": 23767,
+        "endTime": 25339,
+        "text": "I come from Poland."
+    },
+    {
+        "startTime": 26048,
+        "endTime": 27337,
+        "text": "I'm Polish."
+    }
+]

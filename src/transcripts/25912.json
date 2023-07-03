@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 2733,
+        "endTime": 5325,
+        "text": "Go is a very ancient game."
+    },
+    {
+        "startTime": 6020,
+        "endTime": 8083,
+        "text": "It's probably the most complex game humans play."
+    },
+    {
+        "startTime": 8294,
+        "endTime": 11959,
+        "text": "There's more configurations of the board than there are atoms in the universe."
+    },
+    {
+        "startTime": 12746,
+        "endTime": 15160,
+        "text": "So, we've beaten Fan Hui, the European champion."
+    },
+    {
+        "startTime": 15351,
+        "endTime": 19079,
+        "text": "Now, we have to go and demonstrate we can beat the world's top players,..."
+    },
+    {
+        "startTime": 19310,
+        "endTime": 21055,
+        "text": "...not just the European top player."
+    },
+    {
+        "startTime": 22024,
+        "endTime": 25589,
+        "text": "So, we're actually going to be playing a match in March against Lee Sedol,..."
+    },
+    {
+        "startTime": 25780,
+        "endTime": 27685,
+        "text": "...who is the greatest player of modern times."
+    },
+    {
+        "startTime": 27757,
+        "endTime": 30431,
+        "text": "He has won more championships than any other player in the last decade."
+    },
+    {
+        "startTime": 30801,
+        "endTime": 34157,
+        "text": "And he has accepted the challenge to play AlphaGo..."
+    },
+    {
+        "startTime": 34522,
+        "endTime": 39600,
+        "text": "...and we're quietly confident that again, who knows what will happen."
+    },
+    {
+        "startTime": 39883,
+        "endTime": 43115,
+        "text": "A human perhaps can play a thousand games a year."
+    },
+    {
+        "startTime": 43437,
+        "endTime": 48093,
+        "text": "AlphaGo can play through millions of games every single day."
+    },
+    {
+        "startTime": 48931,
+        "endTime": 53992,
+        "text": "That's at least conceivable that as a result, AlphaGo could, given enough processing,..."
+    },
+    {
+        "startTime": 54079,
+        "endTime": 58735,
+        "text": "...given enough training, given enough search power, reach a level that's beyond any human."
+    }
+]

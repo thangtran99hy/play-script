@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1700,
+        "endTime": 6070,
+        "text": "This is Linda. I got a message you called, so I'm returning your call."
+    },
+    {
+        "startTime": 6450,
+        "endTime": 9400,
+        "text": "Hi, Linda. Thanks for getting back to me so soon."
+    },
+    {
+        "startTime": 9800,
+        "endTime": 13840,
+        "text": "The reason I called you was to check and see if our order has been shipped."
+    },
+    {
+        "startTime": 14150,
+        "endTime": 16250,
+        "text": "Yes, it was shipped yesterday."
+    },
+    {
+        "startTime": 16470,
+        "endTime": 19580,
+        "text": "Great! I'll need to check the information later."
+    },
+    {
+        "startTime": 19990,
+        "endTime": 23120,
+        "text": "If you like, I can go over the invoice with you now."
+    },
+    {
+        "startTime": 23390,
+        "endTime": 25460,
+        "text": "Are you available now to talk about it?"
+    },
+    {
+        "startTime": 25820,
+        "endTime": 27670,
+        "text": "Actually I have an appointment."
+    },
+    {
+        "startTime": 28090,
+        "endTime": 30360,
+        "text": "Is it alright if I call you back in an hour?"
+    },
+    {
+        "startTime": 30630,
+        "endTime": 32930,
+        "text": "No problem. Talk to you soon."
+    },
+    {
+        "startTime": 33030,
+        "endTime": 34330,
+        "text": "Thanks. Bye."
+    }
+]

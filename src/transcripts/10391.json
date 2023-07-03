@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 300,
+        "endTime": 1900,
+        "text": "What kind of sports do you like to play?"
+    },
+    {
+        "startTime": 2500,
+        "endTime": 5350,
+        "text": "I play soccer and basketball for fun on the weekends..."
+    },
+    {
+        "startTime": 5800,
+        "endTime": 7200,
+        "text": "...and I play baseball, too."
+    },
+    {
+        "startTime": 8050,
+        "endTime": 11200,
+        "text": "We have a neighborhood pickup game twice a month. It's really fun!"
+    },
+    {
+        "startTime": 12300,
+        "endTime": 14700,
+        "text": "And I also play tennis with my brother sometimes."
+    },
+    {
+        "startTime": 15600,
+        "endTime": 17900,
+        "text": "How about you? Do you play any sports?"
+    },
+    {
+        "startTime": 18500,
+        "endTime": 21800,
+        "text": "I like to do archery and karate. I'm working on my green belt now."
+    },
+    {
+        "startTime": 22200,
+        "endTime": 24600,
+        "text": "I also go golfing with my dad when I get a chance."
+    },
+    {
+        "startTime": 24850,
+        "endTime": 26200,
+        "text": "You should come with us sometime."
+    },
+    {
+        "startTime": 26600,
+        "endTime": 28800,
+        "text": "Sure, I'd like to learn how to play golf."
+    },
+    {
+        "startTime": 29250,
+        "endTime": 30800,
+        "text": "And you should come play tennis with us!"
+    },
+    {
+        "startTime": 31300,
+        "endTime": 32200,
+        "text": "Sounds good!"
+    }
+]

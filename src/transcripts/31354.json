@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 5139,
+        "endTime": 7244,
+        "text": "﻿Steve is the most handsome male."
+    },
+    {
+        "startTime": 8102,
+        "endTime": 10243,
+        "text": "Bill is not the most handsome male."
+    },
+    {
+        "startTime": 11737,
+        "endTime": 13855,
+        "text": "Is the red apple the most delicious?"
+    },
+    {
+        "startTime": 14625,
+        "endTime": 15472,
+        "text": "No, it isn't."
+    },
+    {
+        "startTime": 15713,
+        "endTime": 18077,
+        "text": "The apple pie is the most delicious."
+    },
+    {
+        "startTime": 19620,
+        "endTime": 21923,
+        "text": "Is the hospital the most exciting place?"
+    },
+    {
+        "startTime": 22373,
+        "endTime": 23066,
+        "text": "No, it isn't."
+    },
+    {
+        "startTime": 23277,
+        "endTime": 26076,
+        "text": "The amusement park is the most exciting place."
+    }
+]

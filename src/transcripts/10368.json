@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 100,
+        "endTime": 2700,
+        "text": "What seems to be the problem with our friend Daniel today?"
+    },
+    {
+        "startTime": 2965,
+        "endTime": 8520,
+        "text": "He's been coughing a lot, he's tired all the time, he has no appetite."
+    },
+    {
+        "startTime": 8850,
+        "endTime": 10770,
+        "text": "Uh-huh. Is he running a fever?"
+    },
+    {
+        "startTime": 11100,
+        "endTime": 15315,
+        "text": "Yes, he is. It was 103.7 when I checked last."
+    },
+    {
+        "startTime": 15560,
+        "endTime": 19585,
+        "text": "Hmm. It could be the flu, but I'd like to see him just to be sure."
+    },
+    {
+        "startTime": 20220,
+        "endTime": 22955,
+        "text": "Can you bring him in this afternoon at three?"
+    },
+    {
+        "startTime": 23540,
+        "endTime": 25770,
+        "text": "At three? Yes, I can do that."
+    },
+    {
+        "startTime": 26410,
+        "endTime": 27360,
+        "text": "Thank you, doctor!"
+    },
+    {
+        "startTime": 27670,
+        "endTime": 28400,
+        "text": "You're welcome!"
+    },
+    {
+        "startTime": 28760,
+        "endTime": 30530,
+        "text": "See you at three. Bye!"
+    }
+]

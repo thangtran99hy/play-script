@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 1036,
+        "endTime": 2097,
+        "text": "Giving Directions"
+    },
+    {
+        "startTime": 3360,
+        "endTime": 6851,
+        "text": "Excuse me, how do I get to the Convention Center?"
+    },
+    {
+        "startTime": 13559,
+        "endTime": 16440,
+        "text": "It's easy. Keep driving straight ahead."
+    },
+    {
+        "startTime": 22643,
+        "endTime": 24860,
+        "text": "Keep going straight across the bridge."
+    },
+    {
+        "startTime": 30859,
+        "endTime": 32135,
+        "text": "Turn left on Park Road."
+    },
+    {
+        "startTime": 38249,
+        "endTime": 40549,
+        "text": "It's the first exit after you get off the bridge."
+    },
+    {
+        "startTime": 46394,
+        "endTime": 47889,
+        "text": "Turn right before the factory."
+    },
+    {
+        "startTime": 53901,
+        "endTime": 55565,
+        "text": "Go through the next intersection."
+    },
+    {
+        "startTime": 61594,
+        "endTime": 63397,
+        "text": "Go past the big building."
+    },
+    {
+        "startTime": 69476,
+        "endTime": 71599,
+        "text": "Take your next left and park."
+    },
+    {
+        "startTime": 77543,
+        "endTime": 79215,
+        "text": "Get out and cross the street."
+    },
+    {
+        "startTime": 85131,
+        "endTime": 86365,
+        "text": "Walk through the park."
+    },
+    {
+        "startTime": 92360,
+        "endTime": 96460,
+        "text": "You are there. You can't miss it. It's a huge building."
+    },
+    {
+        "startTime": 102474,
+        "endTime": 104030,
+        "text": "Thanks! You've been a big help."
+    }
+]

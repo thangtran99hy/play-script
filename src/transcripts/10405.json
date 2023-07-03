@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 300,
+        "endTime": 2200,
+        "text": "Hi, how can I help you?"
+    },
+    {
+        "startTime": 2750,
+        "endTime": 4750,
+        "text": "I have a pair of jeans I need to return."
+    },
+    {
+        "startTime": 5400,
+        "endTime": 7150,
+        "text": "Sure. Do you have the receipt?"
+    },
+    {
+        "startTime": 7900,
+        "endTime": 9000,
+        "text": "Yes, I do."
+    },
+    {
+        "startTime": 9900,
+        "endTime": 12300,
+        "text": "Okay. What's the reason for the return?"
+    },
+    {
+        "startTime": 13000,
+        "endTime": 16300,
+        "text": "Umm, I changed my mind, I don't like the fit."
+    },
+    {
+        "startTime": 17000,
+        "endTime": 19500,
+        "text": "Would you like to exchange them for something else?"
+    },
+    {
+        "startTime": 20200,
+        "endTime": 22600,
+        "text": "No, I don't need anything for now."
+    },
+    {
+        "startTime": 23300,
+        "endTime": 27400,
+        "text": "Not a problem. That'll be $89.50 back on your credit card."
+    },
+    {
+        "startTime": 28000,
+        "endTime": 29300,
+        "text": "Great, thanks!"
+    }
+]

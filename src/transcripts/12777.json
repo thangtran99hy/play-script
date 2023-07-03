@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 2270,
+        "endTime": 2762,
+        "text": "Hello?"
+    },
+    {
+        "startTime": 3247,
+        "endTime": 5373,
+        "text": "Hello sir, how are you this evening?"
+    },
+    {
+        "startTime": 5587,
+        "endTime": 6979,
+        "text": "Can I speak to Mr. Kim?"
+    },
+    {
+        "startTime": 7546,
+        "endTime": 9978,
+        "text": "I'm fine, thank you. This is Kim Changmin."
+    },
+    {
+        "startTime": 10517,
+        "endTime": 11859,
+        "text": "May I ask who's calling, please?"
+    },
+    {
+        "startTime": 12311,
+        "endTime": 14133,
+        "text": "This is Jeff Copeland calling."
+    },
+    {
+        "startTime": 14463,
+        "endTime": 17131,
+        "text": "I'm a representative of Wandex Investments."
+    },
+    {
+        "startTime": 17777,
+        "endTime": 18200,
+        "text": "Yes?"
+    },
+    {
+        "startTime": 18685,
+        "endTime": 22617,
+        "text": "I'd like to let you know about some great investment opportunities."
+    },
+    {
+        "startTime": 23314,
+        "endTime": 25744,
+        "text": "Well, uh, I think you have the wrong number."
+    },
+    {
+        "startTime": 26274,
+        "endTime": 28623,
+        "text": "I'm not really looking to invest any money right now."
+    },
+    {
+        "startTime": 29199,
+        "endTime": 34789,
+        "text": "We're offering a great investment deal and I'm sure you will be interested after you hear about it."
+    },
+    {
+        "startTime": 35441,
+        "endTime": 39120,
+        "text": "Well, to be honest with you, I'm a little bit busy at the moment."
+    },
+    {
+        "startTime": 39637,
+        "endTime": 42788,
+        "text": "OK, I see. Then have a good day, sir."
+    }
+]

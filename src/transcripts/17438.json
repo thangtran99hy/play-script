@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 2934,
+        "endTime": 4637,
+        "text": "A dog is in a house."
+    },
+    {
+        "startTime": 5753,
+        "endTime": 7321,
+        "text": "A cow is in a barn."
+    },
+    {
+        "startTime": 8470,
+        "endTime": 10225,
+        "text": "A pig is in the mud."
+    },
+    {
+        "startTime": 11327,
+        "endTime": 13059,
+        "text": "A chicken is in the hay."
+    },
+    {
+        "startTime": 14203,
+        "endTime": 15864,
+        "text": "A goat is in a field."
+    },
+    {
+        "startTime": 17035,
+        "endTime": 18606,
+        "text": "A duck is on a pond."
+    },
+    {
+        "startTime": 19726,
+        "endTime": 21284,
+        "text": "A sheep is on a hill."
+    },
+    {
+        "startTime": 22353,
+        "endTime": 24285,
+        "text": "Animals are on a farm."
+    },
+    {
+        "startTime": 28471,
+        "endTime": 29721,
+        "text": "Where is the dog?"
+    },
+    {
+        "startTime": 30992,
+        "endTime": 32309,
+        "text": "It is in a house."
+    },
+    {
+        "startTime": 33539,
+        "endTime": 35842,
+        "text": "Is the duck in a house, too?"
+    },
+    {
+        "startTime": 36975,
+        "endTime": 38128,
+        "text": "No, it isn't."
+    },
+    {
+        "startTime": 38590,
+        "endTime": 39727,
+        "text": "It is on a pond."
+    },
+    {
+        "startTime": 40924,
+        "endTime": 42407,
+        "text": "What is in a field?"
+    },
+    {
+        "startTime": 43478,
+        "endTime": 45188,
+        "text": "A goat is in a field."
+    }
+]

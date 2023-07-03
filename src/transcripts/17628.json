@@ -1,0 +1,112 @@
+[
+    {
+        "startTime": 2430,
+        "endTime": 4610,
+        "text": "Katie likes to go to the store."
+    },
+    {
+        "startTime": 5620,
+        "endTime": 6875,
+        "text": "She likes to shop."
+    },
+    {
+        "startTime": 7911,
+        "endTime": 10505,
+        "text": "She goes to the bookstore with her mom."
+    },
+    {
+        "startTime": 11520,
+        "endTime": 13199,
+        "text": "She shops for a book."
+    },
+    {
+        "startTime": 14253,
+        "endTime": 17311,
+        "text": "She likes going to the food store with her dad."
+    },
+    {
+        "startTime": 18422,
+        "endTime": 20254,
+        "text": "She likes shopping for food."
+    },
+    {
+        "startTime": 21355,
+        "endTime": 24355,
+        "text": "She goes to the toy store with her grandfather."
+    },
+    {
+        "startTime": 25432,
+        "endTime": 26875,
+        "text": "She buys a toy."
+    },
+    {
+        "startTime": 27919,
+        "endTime": 30615,
+        "text": "She goes to the clothing store with her mom."
+    },
+    {
+        "startTime": 31677,
+        "endTime": 33125,
+        "text": "She looks for a coat."
+    },
+    {
+        "startTime": 34211,
+        "endTime": 38004,
+        "text": "She likes going to the shoe store with her grandmother."
+    },
+    {
+        "startTime": 39060,
+        "endTime": 40771,
+        "text": "She buys new shoes."
+    },
+    {
+        "startTime": 41827,
+        "endTime": 43665,
+        "text": "She goes to the pet store."
+    },
+    {
+        "startTime": 44736,
+        "endTime": 46299,
+        "text": "She looks for a pet."
+    },
+    {
+        "startTime": 47427,
+        "endTime": 49851,
+        "text": "Katie likes the pet store best."
+    },
+    {
+        "startTime": 50922,
+        "endTime": 52537,
+        "text": "She buys a puppy."
+    },
+    {
+        "startTime": 56106,
+        "endTime": 58017,
+        "text": "What does your sister like to do?"
+    },
+    {
+        "startTime": 59131,
+        "endTime": 61218,
+        "text": "She likes to shop for food."
+    },
+    {
+        "startTime": 62311,
+        "endTime": 64612,
+        "text": "What else does your sister like doing?"
+    },
+    {
+        "startTime": 65675,
+        "endTime": 67839,
+        "text": "She likes going to the bookstore."
+    },
+    {
+        "startTime": 68967,
+        "endTime": 71691,
+        "text": "Does she also like to go to the toy store?"
+    },
+    {
+        "startTime": 72791,
+        "endTime": 75323,
+        "text": "Yes, she likes buying a toy."
+    }
+]

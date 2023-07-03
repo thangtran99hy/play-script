@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 396,
+        "endTime": 1553,
+        "text": "Anna booked a room."
+    },
+    {
+        "startTime": 2091,
+        "endTime": 3717,
+        "text": "Her room has a double bed."
+    },
+    {
+        "startTime": 6979,
+        "endTime": 8715,
+        "text": "The group arrived at the hotel."
+    },
+    {
+        "startTime": 9572,
+        "endTime": 10807,
+        "text": "They will spend the night there."
+    },
+    {
+        "startTime": 13969,
+        "endTime": 14951,
+        "text": "Here is your room key."
+    },
+    {
+        "startTime": 15591,
+        "endTime": 17688,
+        "text": "Your room is on the 9th floor."
+    },
+    {
+        "startTime": 21059,
+        "endTime": 23512,
+        "text": "Check in at the hotel is at 2 PM."
+    },
+    {
+        "startTime": 24155,
+        "endTime": 26627,
+        "text": "Check out at the hotel is before noon."
+    },
+    {
+        "startTime": 29759,
+        "endTime": 31250,
+        "text": "This is your hotel bill."
+    },
+    {
+        "startTime": 31955,
+        "endTime": 33831,
+        "text": "These are charges for room service."
+    },
+    {
+        "startTime": 34383,
+        "endTime": 36339,
+        "text": "Will you pay in cash or credit card?"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1612,
+        "endTime": 7002,
+        "text": "Imagine you're trapped in a cell with a killer and he asked you to play a game."
+    },
+    {
+        "startTime": 7984,
+        "endTime": 12377,
+        "text": "Place your finger or the cursor on any of the green squares."
+    },
+    {
+        "startTime": 13441,
+        "endTime": 15044,
+        "text": "You're going to make four moves."
+    },
+    {
+        "startTime": 15436,
+        "endTime": 18733,
+        "text": "Each move may involve going across one square or several."
+    },
+    {
+        "startTime": 19759,
+        "endTime": 23591,
+        "text": "Now move left or right to the nearest pink square."
+    },
+    {
+        "startTime": 25174,
+        "endTime": 28307,
+        "text": "Now, move up or down to the nearest green square."
+    },
+    {
+        "startTime": 30101,
+        "endTime": 32813,
+        "text": "Now move diagonally to the nearest pink square..."
+    },
+    {
+        "startTime": 33481,
+        "endTime": 39075,
+        "text": "...and now move either down or to the right to the nearest green square."
+    },
+    {
+        "startTime": 40033,
+        "endTime": 45849,
+        "text": "If you've chosen any of these squares, the killer is going to let you go free."
+    },
+    {
+        "startTime": 52861,
+        "endTime": 55901,
+        "text": "Any of these squares are absolutely fine."
+    },
+    {
+        "startTime": 57190,
+        "endTime": 61302,
+        "text": "But if you've chosen this square, then your time has come."
+    }
+]

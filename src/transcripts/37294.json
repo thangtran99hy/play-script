@@ -1,0 +1,157 @@
+[
+    {
+        "startTime": 1658,
+        "endTime": 2043,
+        "text": "Hello."
+    },
+    {
+        "startTime": 2231,
+        "endTime": 3687,
+        "text": "Thank you for calling Grand Hotel."
+    },
+    {
+        "startTime": 3857,
+        "endTime": 4753,
+        "text": "My name is Laurie."
+    },
+    {
+        "startTime": 5059,
+        "endTime": 6055,
+        "text": "How can I help you?"
+    },
+    {
+        "startTime": 6760,
+        "endTime": 7187,
+        "text": "Hello."
+    },
+    {
+        "startTime": 7709,
+        "endTime": 12783,
+        "text": "A couple of weeks ago, I made a reservation and I have to cancel my reservation."
+    },
+    {
+        "startTime": 13467,
+        "endTime": 14337,
+        "text": "Absolutely."
+    },
+    {
+        "startTime": 14411,
+        "endTime": 16741,
+        "text": "Let me bring you up on the system here."
+    },
+    {
+        "startTime": 17529,
+        "endTime": 19357,
+        "text": "Do you have the reservation number?"
+    },
+    {
+        "startTime": 19973,
+        "endTime": 21193,
+        "text": "Reservation number?"
+    },
+    {
+        "startTime": 21683,
+        "endTime": 25147,
+        "text": "Yeah, you received that when you called the first time."
+    },
+    {
+        "startTime": 26516,
+        "endTime": 27709,
+        "text": "No, I haven't."
+    },
+    {
+        "startTime": 27845,
+        "endTime": 29475,
+        "text": "I haven't received any."
+    },
+    {
+        "startTime": 30158,
+        "endTime": 31875,
+        "text": "Oh, that's not a problem."
+    },
+    {
+        "startTime": 31964,
+        "endTime": 33717,
+        "text": "I can look you up on the system."
+    },
+    {
+        "startTime": 34021,
+        "endTime": 35832,
+        "text": "What's the last name on the reservation?"
+    },
+    {
+        "startTime": 36152,
+        "endTime": 36510,
+        "text": "Yes!"
+    },
+    {
+        "startTime": 36866,
+        "endTime": 38773,
+        "text": "My last name is Veltman."
+    },
+    {
+        "startTime": 38994,
+        "endTime": 42161,
+        "text": "V E L T M A N."
+    },
+    {
+        "startTime": 42964,
+        "endTime": 44893,
+        "text": "And what's your arrival date?"
+    },
+    {
+        "startTime": 45602,
+        "endTime": 46833,
+        "text": "October 12th."
+    },
+    {
+        "startTime": 47297,
+        "endTime": 49379,
+        "text": "Okay, let me see here."
+    },
+    {
+        "startTime": 49871,
+        "endTime": 50657,
+        "text": "Here you are!"
+    },
+    {
+        "startTime": 51013,
+        "endTime": 53271,
+        "text": "And you'd like me to cancel that reservation?"
+    },
+    {
+        "startTime": 53651,
+        "endTime": 55690,
+        "text": "I need to cancel the reservation, yes."
+    },
+    {
+        "startTime": 55881,
+        "endTime": 57399,
+        "text": "No problem at all, sir."
+    },
+    {
+        "startTime": 57529,
+        "endTime": 61440,
+        "text": "I just need the credit card number that you used to make the reservation with."
+    },
+    {
+        "startTime": 61703,
+        "endTime": 62376,
+        "text": "Okay."
+    },
+    {
+        "startTime": 62805,
+        "endTime": 68916,
+        "text": "My credit card number is 12345678900."
+    },
+    {
+        "startTime": 69348,
+        "endTime": 73789,
+        "text": "Okay, I can cancel your reservation right now."
+    },
+    {
+        "startTime": 74050,
+        "endTime": 74770,
+        "text": "Thanks."
+    }
+]

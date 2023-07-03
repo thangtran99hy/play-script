@@ -1,0 +1,137 @@
+[
+    {
+        "startTime": 5601,
+        "endTime": 11190,
+        "text": "Intel Anti - Theft Technology includes built-in intelligence that detects potential theft situations..."
+    },
+    {
+        "startTime": 11246,
+        "endTime": 13649,
+        "text": "...and responds according to a set IT policy."
+    },
+    {
+        "startTime": 14701,
+        "endTime": 18171,
+        "text": "For example, if an unauthorized user tries to change the BIOS..."
+    },
+    {
+        "startTime": 18294,
+        "endTime": 19735,
+        "text": "...or the firmware of the PC,..."
+    },
+    {
+        "startTime": 19961,
+        "endTime": 23059,
+        "text": "...or if the notebook is not rendezvoused with the central security server..."
+    },
+    {
+        "startTime": 23141,
+        "endTime": 24511,
+        "text": "...within a predetermined interval,..."
+    },
+    {
+        "startTime": 24750,
+        "endTime": 28198,
+        "text": "...a hardware - based local timer will expire and trigger a response."
+    },
+    {
+        "startTime": 31195,
+        "endTime": 33359,
+        "text": "Or if the number of failed log in attempts..."
+    },
+    {
+        "startTime": 33457,
+        "endTime": 36255,
+        "text": "...in a pre - OS screen reaches a policy - based limit,..."
+    },
+    {
+        "startTime": 37097,
+        "endTime": 40158,
+        "text": "...it also triggers a response that can stop the OS from booting..."
+    },
+    {
+        "startTime": 40446,
+        "endTime": 43651,
+        "text": "...or deletes important encryption keys, disabling data access."
+    },
+    {
+        "startTime": 45497,
+        "endTime": 47849,
+        "text": "If a user calls me to report a stolen notebook,..."
+    },
+    {
+        "startTime": 47985,
+        "endTime": 49607,
+        "text": "...I simply flag it in our database."
+    },
+    {
+        "startTime": 50654,
+        "endTime": 53601,
+        "text": "Synchronization occurs whenever the notebook connects to the Internet."
+    },
+    {
+        "startTime": 54598,
+        "endTime": 58597,
+        "text": "When that happens, a poison pill can be sent, rendering the notebook inoperable."
+    },
+    {
+        "startTime": 60199,
+        "endTime": 61851,
+        "text": "If the PC is 3G - enabled,..."
+    },
+    {
+        "startTime": 62087,
+        "endTime": 66185,
+        "text": "...it can quickly receive a poison pill via an encrypted SMS message."
+    },
+    {
+        "startTime": 67292,
+        "endTime": 71946,
+        "text": "3G connections can now occur out-of-band, without OS or BIOS dependencies,..."
+    },
+    {
+        "startTime": 72050,
+        "endTime": 75607,
+        "text": "...significantly reducing the window of time to respond to PC theft."
+    },
+    {
+        "startTime": 78850,
+        "endTime": 83901,
+        "text": "The poison pill can delete the encryption keys and user credentials required to access data on the hard drive."
+    },
+    {
+        "startTime": 85497,
+        "endTime": 90087,
+        "text": "And because Intel Anti - Theft Technology enables that data to be stored in the chipset,..."
+    },
+    {
+        "startTime": 90344,
+        "endTime": 91748,
+        "text": "...our data is fully protected,..."
+    },
+    {
+        "startTime": 92288,
+        "endTime": 96257,
+        "text": "...even if someone who knew the credentials tries to access the hard drive on another PC."
+    },
+    {
+        "startTime": 97291,
+        "endTime": 101850,
+        "text": "Thieves or disgruntled employees have no means of unlocking the data on the hard drive."
+    },
+    {
+        "startTime": 102847,
+        "endTime": 106899,
+        "text": "Both the PC and the hard drive data become completely useless when disabled."
+    },
+    {
+        "startTime": 108154,
+        "endTime": 114740,
+        "text": "A new \"Location on Demand\" feature enables me to query the GPS coordinates of the missing PC via the 3G connection."
+    },
+    {
+        "startTime": 117148,
+        "endTime": 121951,
+        "text": "Discover more about how Intel Anti - Theft Technology can help protect your PCs and data."
+    }
+]

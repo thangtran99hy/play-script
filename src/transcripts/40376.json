@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 833,
+        "endTime": 1965,
+        "text": "Excuse me."
+    },
+    {
+        "startTime": 2235,
+        "endTime": 2853,
+        "text": "Yes?"
+    },
+    {
+        "startTime": 3323,
+        "endTime": 6758,
+        "text": "I heard there is bus service from here to Brian Park Skate Rink..."
+    },
+    {
+        "startTime": 7185,
+        "endTime": 8801,
+        "text": "...and I want to know the bus schedule."
+    },
+    {
+        "startTime": 9643,
+        "endTime": 12205,
+        "text": "How often does the bus operate in the daytime?"
+    },
+    {
+        "startTime": 12979,
+        "endTime": 17787,
+        "text": "The bus from Brian Park operates every thirty minutes from 10:00 AM through 3:00 PM."
+    },
+    {
+        "startTime": 18483,
+        "endTime": 20328,
+        "text": "Here is the bus schedule so you can check it."
+    },
+    {
+        "startTime": 21038,
+        "endTime": 22602,
+        "text": "Good. This is helpful."
+    },
+    {
+        "startTime": 23205,
+        "endTime": 24771,
+        "text": "And how much is the bus fare?"
+    },
+    {
+        "startTime": 25211,
+        "endTime": 28525,
+        "text": "It is 2 dollars for an adult, and 90 cents for a kid."
+    },
+    {
+        "startTime": 29340,
+        "endTime": 32362,
+        "text": "The bus in the morning on weekends is rather crowded these days."
+    },
+    {
+        "startTime": 32757,
+        "endTime": 34214,
+        "text": "Thank you for the information."
+    }
+]

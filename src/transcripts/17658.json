@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 2776,
+        "endTime": 3743,
+        "text": "What is that?"
+    },
+    {
+        "startTime": 4883,
+        "endTime": 7139,
+        "text": "It is my new cell phone."
+    },
+    {
+        "startTime": 7597,
+        "endTime": 9459,
+        "text": "I don't know how to use it."
+    },
+    {
+        "startTime": 10039,
+        "endTime": 12582,
+        "text": "Can you tell me how I can use it?"
+    },
+    {
+        "startTime": 13660,
+        "endTime": 14299,
+        "text": "Sure."
+    },
+    {
+        "startTime": 17538,
+        "endTime": 20057,
+        "text": "Do you know how to get to the stadium?"
+    },
+    {
+        "startTime": 21289,
+        "endTime": 24892,
+        "text": "I'm sorry, but I don't know how we can get there."
+    },
+    {
+        "startTime": 25983,
+        "endTime": 28295,
+        "text": "Then, where is the stadium?"
+    },
+    {
+        "startTime": 31489,
+        "endTime": 34113,
+        "text": "Please tell me when you will finish your homework."
+    },
+    {
+        "startTime": 35270,
+        "endTime": 39705,
+        "text": "I don't know when I can finish it because I'm poor at math."
+    },
+    {
+        "startTime": 40773,
+        "endTime": 43928,
+        "text": "Is it possible to finish it before five?"
+    }
+]

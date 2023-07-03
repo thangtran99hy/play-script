@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 22841,
+        "endTime": 23315,
+        "text": "What's your name?"
+    },
+    {
+        "startTime": 25539,
+        "endTime": 26114,
+        "text": "Can I have your name?"
+    },
+    {
+        "startTime": 28172,
+        "endTime": 30135,
+        "text": "Could you tell me your name please?"
+    },
+    {
+        "startTime": 34041,
+        "endTime": 34925,
+        "text": "Where do you live?"
+    },
+    {
+        "startTime": 37043,
+        "endTime": 42425,
+        "text": "What kind of place do you live in? A house, a flat or a dormitory?"
+    },
+    {
+        "startTime": 44381,
+        "endTime": 46909,
+        "text": "Okay, and could I have your address, please?"
+    },
+    {
+        "startTime": 50345,
+        "endTime": 53161,
+        "text": "So, do you have a part-time job? What do you do?"
+    },
+    {
+        "startTime": 54887,
+        "endTime": 55985,
+        "text": "So, what do you do for a living?"
+    },
+    {
+        "startTime": 59375,
+        "endTime": 60161,
+        "text": "When is your birthday?"
+    }
+]

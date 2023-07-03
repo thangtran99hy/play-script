@@ -1,0 +1,137 @@
+[
+    {
+        "startTime": 677,
+        "endTime": 1227,
+        "text": "Hello?"
+    },
+    {
+        "startTime": 1941,
+        "endTime": 2454,
+        "text": "Hello?"
+    },
+    {
+        "startTime": 2843,
+        "endTime": 3656,
+        "text": "This is David."
+    },
+    {
+        "startTime": 4071,
+        "endTime": 5380,
+        "text": "Can I speak to Amanda?"
+    },
+    {
+        "startTime": 5751,
+        "endTime": 7191,
+        "text": "This is Amanda speaking."
+    },
+    {
+        "startTime": 7625,
+        "endTime": 8391,
+        "text": "Hi Amanda."
+    },
+    {
+        "startTime": 8734,
+        "endTime": 9629,
+        "text": "How are you today?"
+    },
+    {
+        "startTime": 10029,
+        "endTime": 10825,
+        "text": "I'm good."
+    },
+    {
+        "startTime": 11234,
+        "endTime": 12145,
+        "text": "That's good to hear."
+    },
+    {
+        "startTime": 12554,
+        "endTime": 13535,
+        "text": "Did you have lunch?"
+    },
+    {
+        "startTime": 13695,
+        "endTime": 15088,
+        "text": "Yes, I had lunch."
+    },
+    {
+        "startTime": 15669,
+        "endTime": 16860,
+        "text": "What did you have for lunch?"
+    },
+    {
+        "startTime": 17195,
+        "endTime": 20317,
+        "text": "I had pizza, salad and Coke for lunch."
+    },
+    {
+        "startTime": 20697,
+        "endTime": 23060,
+        "text": "Wow, that sounds very delicious!"
+    },
+    {
+        "startTime": 23360,
+        "endTime": 23908,
+        "text": "Yes."
+    },
+    {
+        "startTime": 24129,
+        "endTime": 25601,
+        "text": "It was very yummy."
+    },
+    {
+        "startTime": 26193,
+        "endTime": 27786,
+        "text": "What kind of pizza did you have?"
+    },
+    {
+        "startTime": 28118,
+        "endTime": 29624,
+        "text": "I had cheese pizza."
+    },
+    {
+        "startTime": 29920,
+        "endTime": 32027,
+        "text": "Oh, it makes me very hungry."
+    },
+    {
+        "startTime": 32380,
+        "endTime": 33739,
+        "text": "Do you like Italian food?"
+    },
+    {
+        "startTime": 34160,
+        "endTime": 37649,
+        "text": "Yes, but I usually have Korean food for lunch."
+    },
+    {
+        "startTime": 38156,
+        "endTime": 39891,
+        "text": "What is your favorite Korean food?"
+    },
+    {
+        "startTime": 40176,
+        "endTime": 43035,
+        "text": "My favorite Korean food is kimchi jjigae."
+    },
+    {
+        "startTime": 43639,
+        "endTime": 44642,
+        "text": "How does it taste?"
+    },
+    {
+        "startTime": 45539,
+        "endTime": 47123,
+        "text": "Oh, you mean kimchi jjigae?"
+    },
+    {
+        "startTime": 47749,
+        "endTime": 49181,
+        "text": "It's hot and spicy."
+    },
+    {
+        "startTime": 50397,
+        "endTime": 52145,
+        "text": "Maybe you need water when you eat."
+    }
+]

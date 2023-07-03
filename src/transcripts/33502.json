@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 1201,
+        "endTime": 5429,
+        "text": "The most interesting things that we should know about the solar system are the planets."
+    },
+    {
+        "startTime": 5759,
+        "endTime": 10122,
+        "text": "Let's look at them, starting with the ones closest to the sun..."
+    },
+    {
+        "startTime": 10551,
+        "endTime": 12261,
+        "text": "...and then getting further away!"
+    },
+    {
+        "startTime": 16500,
+        "endTime": 25968,
+        "text": "The closest planet to the sun is Mercury; then there is Venus; then comes the Earth."
+    },
+    {
+        "startTime": 26183,
+        "endTime": 28315,
+        "text": "Yes, our planet where we live."
+    },
+    {
+        "startTime": 29445,
+        "endTime": 39275,
+        "text": "Then there is Mars, Jupiter, the largest planet, Saturn, Uranus..."
+    },
+    {
+        "startTime": 39979,
+        "endTime": 42852,
+        "text": "...and then the farthest away is Neptune."
+    },
+    {
+        "startTime": 46975,
+        "endTime": 52859,
+        "text": "As you can see, Mercury, Venus, Earth and Mars are closer to the sun..."
+    },
+    {
+        "startTime": 53166,
+        "endTime": 58717,
+        "text": "...and also smaller than Jupiter, Saturn, Uranus and Neptune."
+    }
+]

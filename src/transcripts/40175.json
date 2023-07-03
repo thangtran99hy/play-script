@@ -1,0 +1,127 @@
+[
+    {
+        "startTime": 551,
+        "endTime": 2140,
+        "text": "What time is the meeting tomorrow?"
+    },
+    {
+        "startTime": 2592,
+        "endTime": 3481,
+        "text": "It's 2 p.m."
+    },
+    {
+        "startTime": 3889,
+        "endTime": 3989,
+        "text": "Great!"
+    },
+    {
+        "startTime": 4313,
+        "endTime": 5709,
+        "text": "And what time will it finish?"
+    },
+    {
+        "startTime": 6475,
+        "endTime": 8114,
+        "text": "We will finish at 3 p.m."
+    },
+    {
+        "startTime": 8388,
+        "endTime": 9263,
+        "text": "Thanks, Mike."
+    },
+    {
+        "startTime": 12343,
+        "endTime": 13929,
+        "text": "What time is our lunch break?"
+    },
+    {
+        "startTime": 14513,
+        "endTime": 17617,
+        "text": "It's at 12 p.m. and it finishes at 1 p.m."
+    },
+    {
+        "startTime": 18323,
+        "endTime": 18866,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 19098,
+        "endTime": 20457,
+        "text": "I will be back at 1 p.m."
+    },
+    {
+        "startTime": 20921,
+        "endTime": 21311,
+        "text": "Okay."
+    },
+    {
+        "startTime": 21411,
+        "endTime": 22059,
+        "text": "See you later."
+    },
+    {
+        "startTime": 24511,
+        "endTime": 25026,
+        "text": "Hi, Jane."
+    },
+    {
+        "startTime": 25173,
+        "endTime": 26701,
+        "text": "What time is our training on Friday?"
+    },
+    {
+        "startTime": 27169,
+        "endTime": 27711,
+        "text": "Hello, Mike."
+    },
+    {
+        "startTime": 27885,
+        "endTime": 29065,
+        "text": "It starts at 9 a.m."
+    },
+    {
+        "startTime": 29780,
+        "endTime": 30597,
+        "text": "Is there a break?"
+    },
+    {
+        "startTime": 31086,
+        "endTime": 31483,
+        "text": "Yes."
+    },
+    {
+        "startTime": 31683,
+        "endTime": 33336,
+        "text": "The break is at half past 9."
+    },
+    {
+        "startTime": 33931,
+        "endTime": 36124,
+        "text": "And what time does it start again?"
+    },
+    {
+        "startTime": 36380,
+        "endTime": 37933,
+        "text": "It starts again at 10 a.m."
+    },
+    {
+        "startTime": 38682,
+        "endTime": 39393,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 39829,
+        "endTime": 41216,
+        "text": "Will it finish at 11 a.m.?"
+    },
+    {
+        "startTime": 41704,
+        "endTime": 42121,
+        "text": "No."
+    },
+    {
+        "startTime": 42327,
+        "endTime": 44331,
+        "text": "It will finish at half past 11."
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 4547,
+        "endTime": 7682,
+        "text": "Excuse me, where do I go to get a prescription filled?"
+    },
+    {
+        "startTime": 8017,
+        "endTime": 11620,
+        "text": "The prescription counter is in the back of the store on the left side."
+    },
+    {
+        "startTime": 12064,
+        "endTime": 12830,
+        "text": "Thank you, ma'am."
+    },
+    {
+        "startTime": 14821,
+        "endTime": 16273,
+        "text": "Yes sir, can I help you?"
+    },
+    {
+        "startTime": 16484,
+        "endTime": 19013,
+        "text": "Yes, I need to get this prescription filled, please."
+    },
+    {
+        "startTime": 19289,
+        "endTime": 22362,
+        "text": "Okay, let's have a look. Pain relievers."
+    },
+    {
+        "startTime": 22498,
+        "endTime": 23983,
+        "text": "Yes, just a moment, please."
+    },
+    {
+        "startTime": 24195,
+        "endTime": 24670,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 25092,
+        "endTime": 26085,
+        "text": "Here you go, sir."
+    },
+    {
+        "startTime": 26205,
+        "endTime": 28265,
+        "text": "You're supposed to take two pills a day."
+    },
+    {
+        "startTime": 28528,
+        "endTime": 29739,
+        "text": "Do you mean twice a day?"
+    },
+    {
+        "startTime": 29932,
+        "endTime": 32005,
+        "text": "Should I take them before or after meals?"
+    },
+    {
+        "startTime": 32334,
+        "endTime": 34812,
+        "text": "You should take them thirty minutes after you eat;..."
+    },
+    {
+        "startTime": 34949,
+        "endTime": 37116,
+        "text": "...one in the morning and one in the evening."
+    },
+    {
+        "startTime": 37285,
+        "endTime": 38698,
+        "text": "Okay, thank you very much."
+    }
+]

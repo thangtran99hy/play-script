@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 488,
+        "endTime": 2791,
+        "text": "﻿Let's order food in a restaurant."
+    },
+    {
+        "startTime": 5216,
+        "endTime": 5827,
+        "text": "Waiter!"
+    },
+    {
+        "startTime": 9113,
+        "endTime": 11257,
+        "text": "We have a reservation for two."
+    },
+    {
+        "startTime": 14931,
+        "endTime": 17948,
+        "text": "Hmm. What will I order?"
+    },
+    {
+        "startTime": 19419,
+        "endTime": 21439,
+        "text": "What's in the menu?"
+    },
+    {
+        "startTime": 23761,
+        "endTime": 25288,
+        "text": "I'll have an appetizer."
+    },
+    {
+        "startTime": 27713,
+        "endTime": 29630,
+        "text": "I love the main course."
+    },
+    {
+        "startTime": 31073,
+        "endTime": 33471,
+        "text": "I'll have some cake for dessert."
+    },
+    {
+        "startTime": 34754,
+        "endTime": 36503,
+        "text": "Can I have the bill, please?"
+    },
+    {
+        "startTime": 38301,
+        "endTime": 39485,
+        "text": "Here's your tip."
+    }
+]

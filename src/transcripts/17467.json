@@ -1,0 +1,107 @@
+[
+    {
+        "startTime": 2301,
+        "endTime": 2868,
+        "text": "Boil"
+    },
+    {
+        "startTime": 3677,
+        "endTime": 5261,
+        "text": "I need to boil water."
+    },
+    {
+        "startTime": 6668,
+        "endTime": 9186,
+        "text": "I need to boil water for 10 minutes."
+    },
+    {
+        "startTime": 10589,
+        "endTime": 11111,
+        "text": "Coin"
+    },
+    {
+        "startTime": 11915,
+        "endTime": 13060,
+        "text": "I have a coin."
+    },
+    {
+        "startTime": 14443,
+        "endTime": 16382,
+        "text": "I have a coin in my pocket."
+    },
+    {
+        "startTime": 17789,
+        "endTime": 18407,
+        "text": "Soil"
+    },
+    {
+        "startTime": 19209,
+        "endTime": 20691,
+        "text": "The soil is wet."
+    },
+    {
+        "startTime": 22077,
+        "endTime": 23922,
+        "text": "The soil is very wet."
+    },
+    {
+        "startTime": 25223,
+        "endTime": 25911,
+        "text": "Foil"
+    },
+    {
+        "startTime": 26659,
+        "endTime": 28085,
+        "text": "I used the foil."
+    },
+    {
+        "startTime": 29419,
+        "endTime": 32065,
+        "text": "I used the foil to wrap the food."
+    },
+    {
+        "startTime": 38395,
+        "endTime": 41423,
+        "text": "Pop, pop, pop, the sun pops up."
+    },
+    {
+        "startTime": 42183,
+        "endTime": 45371,
+        "text": "Pop, pop, pop, the flowers pop out."
+    },
+    {
+        "startTime": 45915,
+        "endTime": 48971,
+        "text": "Pop, pop, pop, the worms pop up."
+    },
+    {
+        "startTime": 49659,
+        "endTime": 52711,
+        "text": "Pop, pop, pop, the plants pop up."
+    },
+    {
+        "startTime": 53411,
+        "endTime": 56589,
+        "text": "Pop, pop, pop, the leaves pop out."
+    },
+    {
+        "startTime": 57179,
+        "endTime": 60345,
+        "text": "Pop, pop, pop, the birds pop out."
+    },
+    {
+        "startTime": 60921,
+        "endTime": 64087,
+        "text": "Pop, pop, pop, the animals pop out."
+    },
+    {
+        "startTime": 64665,
+        "endTime": 68200,
+        "text": "Pop, pop, pop, spring pops out everywhere."
+    },
+    {
+        "startTime": 68415,
+        "endTime": 71495,
+        "text": "Pop, pop, pop, pop, pop, pop!"
+    }
+]

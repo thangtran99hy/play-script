@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 1868,
+        "endTime": 4448,
+        "text": "Luigi's Pizzeria, can I take your order?"
+    },
+    {
+        "startTime": 4729,
+        "endTime": 6971,
+        "text": "Yes, I'd like a large Hawaiian pizza, please."
+    },
+    {
+        "startTime": 7147,
+        "endTime": 10124,
+        "text": "Okay, one large Hawaiian. Anything else?"
+    },
+    {
+        "startTime": 10315,
+        "endTime": 11637,
+        "text": "No, that's all, thank you."
+    },
+    {
+        "startTime": 11865,
+        "endTime": 14881,
+        "text": "Okay, did you want a pan crust or thin crust?"
+    },
+    {
+        "startTime": 15227,
+        "endTime": 16199,
+        "text": "Pan crust, please."
+    },
+    {
+        "startTime": 16419,
+        "endTime": 18964,
+        "text": "Okay, and could I have your address, please?"
+    },
+    {
+        "startTime": 19266,
+        "endTime": 23846,
+        "text": "Yes, it's 2323 Jordan Avenue, Apartment 415."
+    },
+    {
+        "startTime": 24074,
+        "endTime": 28913,
+        "text": "2323 Jordan Avenue, Apartment 415. Correct?"
+    },
+    {
+        "startTime": 29099,
+        "endTime": 31229,
+        "text": "Yes, how soon will the pizza get here?"
+    },
+    {
+        "startTime": 31485,
+        "endTime": 33383,
+        "text": "We'll have it at your door very soon."
+    },
+    {
+        "startTime": 33644,
+        "endTime": 35529,
+        "text": "Please make it in 30 minutes or less."
+    },
+    {
+        "startTime": 35829,
+        "endTime": 37481,
+        "text": "Thank you for choosing Luigi's."
+    }
+]

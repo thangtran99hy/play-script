@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 460,
+        "endTime": 1012,
+        "text": "Okay sir."
+    },
+    {
+        "startTime": 1324,
+        "endTime": 3248,
+        "text": "So, I just want to make sure that I understand."
+    },
+    {
+        "startTime": 3457,
+        "endTime": 6267,
+        "text": "You purchased a drill from us and you took it home."
+    },
+    {
+        "startTime": 6925,
+        "endTime": 9006,
+        "text": "You found out it didn't work, so you came back,..."
+    },
+    {
+        "startTime": 9102,
+        "endTime": 11799,
+        "text": "...got a replacement drill and that one didn't work as well?"
+    },
+    {
+        "startTime": 12395,
+        "endTime": 13298,
+        "text": "That's exactly right."
+    }
+]

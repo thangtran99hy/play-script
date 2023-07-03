@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 159,
+        "endTime": 3088,
+        "text": "On those cold, rainy days when you forget your rain jacket or umbrella..."
+    },
+    {
+        "startTime": 3178,
+        "endTime": 4657,
+        "text": "...and you want to stay as dry as possible,..."
+    },
+    {
+        "startTime": 5026,
+        "endTime": 7138,
+        "text": "...should you walk and spend more time in the rain?"
+    },
+    {
+        "startTime": 7453,
+        "endTime": 10744,
+        "text": "Or should you run, which means you'll be hitting more raindrops from the side?"
+    },
+    {
+        "startTime": 11098,
+        "endTime": 12696,
+        "text": "Assuming you haven't been fully soaked yet..."
+    },
+    {
+        "startTime": 12790,
+        "endTime": 15331,
+        "text": "...and you aren't jumping into puddles, the answer is simple."
+    },
+    {
+        "startTime": 15659,
+        "endTime": 19027,
+        "text": "As you move out of the way of one falling raindrop, you move into the way of another."
+    },
+    {
+        "startTime": 19232,
+        "endTime": 21431,
+        "text": "So the amount of rain hitting the top of you is constant,..."
+    },
+    {
+        "startTime": 21528,
+        "endTime": 22735,
+        "text": "...regardless of how fast you're going."
+    },
+    {
+        "startTime": 22881,
+        "endTime": 25375,
+        "text": "If you're not moving, the rain from the top is all you'll get."
+    },
+    {
+        "startTime": 25647,
+        "endTime": 28393,
+        "text": "But if you are moving, you'll also run into raindrops from the side..."
+    },
+    {
+        "startTime": 28476,
+        "endTime": 29309,
+        "text": "...and you'll get wetter."
+    },
+    {
+        "startTime": 29546,
+        "endTime": 32261,
+        "text": "So in any given second, you stay driest by standing still,..."
+    },
+    {
+        "startTime": 32427,
+        "endTime": 34445,
+        "text": "...and the faster you move, the wetter you become."
+    }
+]

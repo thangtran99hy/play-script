@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1207,
+        "endTime": 2582,
+        "text": "Did you just arrive?"
+    },
+    {
+        "startTime": 3145,
+        "endTime": 4761,
+        "text": "I arrived on July 2nd."
+    },
+    {
+        "startTime": 5244,
+        "endTime": 6691,
+        "text": "Are you enjoying your vacation?"
+    },
+    {
+        "startTime": 7187,
+        "endTime": 8017,
+        "text": "Oh, yes."
+    },
+    {
+        "startTime": 8683,
+        "endTime": 9927,
+        "text": "But it's too short."
+    },
+    {
+        "startTime": 10301,
+        "endTime": 11568,
+        "text": "I'll leave on the 10th."
+    },
+    {
+        "startTime": 13036,
+        "endTime": 14523,
+        "text": "When did you arrive?"
+    },
+    {
+        "startTime": 15164,
+        "endTime": 16339,
+        "text": "We got in on the 5th."
+    },
+    {
+        "startTime": 16773,
+        "endTime": 18171,
+        "text": "How long are you staying?"
+    },
+    {
+        "startTime": 18631,
+        "endTime": 20018,
+        "text": "We're leaving on the 15th."
+    },
+    {
+        "startTime": 20540,
+        "endTime": 21960,
+        "text": "We're just staying 10 days."
+    }
+]

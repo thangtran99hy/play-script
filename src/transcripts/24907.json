@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 2065,
+        "endTime": 3391,
+        "text": "Nice to meet you."
+    },
+    {
+        "startTime": 8767,
+        "endTime": 9990,
+        "text": "What is your name?"
+    },
+    {
+        "startTime": 17565,
+        "endTime": 18754,
+        "text": "Where do you live?"
+    },
+    {
+        "startTime": 27873,
+        "endTime": 29555,
+        "text": "How big is your family?"
+    },
+    {
+        "startTime": 35307,
+        "endTime": 36493,
+        "text": "Where have you traveled?"
+    },
+    {
+        "startTime": 44507,
+        "endTime": 46564,
+        "text": "Do you have a favorite place in the world?"
+    },
+    {
+        "startTime": 54507,
+        "endTime": 56752,
+        "text": "What do you like to do for exercise?"
+    },
+    {
+        "startTime": 63097,
+        "endTime": 64991,
+        "text": "Can you play a musical instrument?"
+    },
+    {
+        "startTime": 70077,
+        "endTime": 71509,
+        "text": "Do you have any pets?"
+    },
+    {
+        "startTime": 80743,
+        "endTime": 82189,
+        "text": "What do you like to eat?"
+    },
+    {
+        "startTime": 90151,
+        "endTime": 92193,
+        "text": "What's your favorite movie?"
+    },
+    {
+        "startTime": 101431,
+        "endTime": 103539,
+        "text": "What do you like to do in your free time?"
+    }
+]

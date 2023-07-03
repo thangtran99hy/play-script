@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 80,
+        "endTime": 3651,
+        "text": "May I have the number for Tom Leeds in Denver, Colorado?"
+    },
+    {
+        "startTime": 4118,
+        "endTime": 4783,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 5116,
+        "endTime": 11813,
+        "text": "The number is 515-739-0882."
+    },
+    {
+        "startTime": 12406,
+        "endTime": 14403,
+        "text": "May I help you with anything else?"
+    },
+    {
+        "startTime": 14704,
+        "endTime": 15199,
+        "text": "No."
+    },
+    {
+        "startTime": 15297,
+        "endTime": 16487,
+        "text": "That's all, thank you."
+    },
+    {
+        "startTime": 17060,
+        "endTime": 18057,
+        "text": "Have a great day."
+    }
+]

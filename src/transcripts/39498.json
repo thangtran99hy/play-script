@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 455,
+        "endTime": 1749,
+        "text": "What do you do, Rachel?"
+    },
+    {
+        "startTime": 2451,
+        "endTime": 3247,
+        "text": "I'm a nurse."
+    },
+    {
+        "startTime": 5626,
+        "endTime": 6827,
+        "text": "What is your job?"
+    },
+    {
+        "startTime": 7542,
+        "endTime": 8405,
+        "text": "I'm a teacher."
+    },
+    {
+        "startTime": 8987,
+        "endTime": 9868,
+        "text": "What is your job?"
+    },
+    {
+        "startTime": 10773,
+        "endTime": 11930,
+        "text": "I'm a doctor."
+    }
+]

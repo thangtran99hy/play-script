@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 131,
+        "endTime": 2945,
+        "text": "Here are some phrases you can use when shopping."
+    },
+    {
+        "startTime": 4751,
+        "endTime": 5484,
+        "text": "How much is it?"
+    },
+    {
+        "startTime": 7500,
+        "endTime": 9115,
+        "text": "Do you have this in another color?"
+    },
+    {
+        "startTime": 10967,
+        "endTime": 12251,
+        "text": "Do you have this in a medium?"
+    },
+    {
+        "startTime": 14123,
+        "endTime": 16375,
+        "text": "I want... of this."
+    },
+    {
+        "startTime": 18167,
+        "endTime": 19062,
+        "text": "May I see it?"
+    },
+    {
+        "startTime": 20939,
+        "endTime": 21861,
+        "text": "Can I try it on?"
+    },
+    {
+        "startTime": 23839,
+        "endTime": 24747,
+        "text": "I like that one."
+    },
+    {
+        "startTime": 26723,
+        "endTime": 28378,
+        "text": "I don't like this color."
+    },
+    {
+        "startTime": 30300,
+        "endTime": 31765,
+        "text": "I love this color!"
+    },
+    {
+        "startTime": 33663,
+        "endTime": 34890,
+        "text": "Do you take returns?"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 2520,
+        "endTime": 4247,
+        "text": "The cow is in a car."
+    },
+    {
+        "startTime": 5413,
+        "endTime": 7093,
+        "text": "The pig is on a bike."
+    },
+    {
+        "startTime": 8225,
+        "endTime": 9801,
+        "text": "The goat is in a boat."
+    },
+    {
+        "startTime": 10947,
+        "endTime": 12852,
+        "text": "The dog is on a train."
+    },
+    {
+        "startTime": 13938,
+        "endTime": 15843,
+        "text": "The bird is on skates."
+    },
+    {
+        "startTime": 16976,
+        "endTime": 18837,
+        "text": "The duck is in a plane."
+    },
+    {
+        "startTime": 19909,
+        "endTime": 21889,
+        "text": "The cat is on a horse."
+    },
+    {
+        "startTime": 23051,
+        "endTime": 24761,
+        "text": "Go animals go."
+    },
+    {
+        "startTime": 27781,
+        "endTime": 29317,
+        "text": "Where is the cow?"
+    },
+    {
+        "startTime": 30323,
+        "endTime": 31765,
+        "text": "It is in a car."
+    },
+    {
+        "startTime": 32685,
+        "endTime": 35109,
+        "text": "Is the pig in a car, too?"
+    },
+    {
+        "startTime": 36249,
+        "endTime": 38288,
+        "text": "No, it is on a bike."
+    },
+    {
+        "startTime": 39311,
+        "endTime": 40891,
+        "text": "What is in a plane?"
+    },
+    {
+        "startTime": 42011,
+        "endTime": 43684,
+        "text": "The duck is in a plane."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 805,
+        "endTime": 4434,
+        "text": "Spencer, will you call a client for me to set up a meeting with our team?"
+    },
+    {
+        "startTime": 4869,
+        "endTime": 5252,
+        "text": "Sure!"
+    },
+    {
+        "startTime": 5400,
+        "endTime": 6420,
+        "text": "I'd be happy to."
+    },
+    {
+        "startTime": 6615,
+        "endTime": 7357,
+        "text": "Who's the client?"
+    },
+    {
+        "startTime": 8119,
+        "endTime": 11411,
+        "text": "The client is a new company interested in developing a marketing strategy."
+    },
+    {
+        "startTime": 12331,
+        "endTime": 12615,
+        "text": "Alright."
+    },
+    {
+        "startTime": 12786,
+        "endTime": 15847,
+        "text": "What should I tell them about the meeting date and location?"
+    },
+    {
+        "startTime": 16116,
+        "endTime": 22117,
+        "text": "Hmm, any afternoon this week works, so they can choose."
+    },
+    {
+        "startTime": 22662,
+        "endTime": 26732,
+        "text": "As for the location, it will be in our conference room with the rest of the team."
+    }
+]

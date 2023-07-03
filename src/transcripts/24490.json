@@ -1,0 +1,27 @@
+[
+    {
+        "startTime": 2539,
+        "endTime": 7267,
+        "text": "Dear candidate, thank you for your application to our ballet academy."
+    },
+    {
+        "startTime": 8561,
+        "endTime": 11753,
+        "text": "Unfortunately, you have not been accepted."
+    },
+    {
+        "startTime": 12311,
+        "endTime": 19315,
+        "text": "You lack the right feet, Achilles tendons, turnout, torso length, and bust."
+    },
+    {
+        "startTime": 20161,
+        "endTime": 22443,
+        "text": "You have the wrong body for ballet."
+    },
+    {
+        "startTime": 23025,
+        "endTime": 26872,
+        "text": "And at 13, you are too old to be considered."
+    }
+]

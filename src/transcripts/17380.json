@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 3242,
+        "endTime": 5357,
+        "text": "We put in some flour."
+    },
+    {
+        "startTime": 6821,
+        "endTime": 8674,
+        "text": "We put in some sugar."
+    },
+    {
+        "startTime": 10231,
+        "endTime": 12462,
+        "text": "We put in a little salt."
+    },
+    {
+        "startTime": 13928,
+        "endTime": 15997,
+        "text": "We put in two eggs."
+    },
+    {
+        "startTime": 17465,
+        "endTime": 19451,
+        "text": "We put in some milk."
+    },
+    {
+        "startTime": 20829,
+        "endTime": 22827,
+        "text": "We put in some butter."
+    },
+    {
+        "startTime": 24304,
+        "endTime": 25571,
+        "text": "We mix it up."
+    },
+    {
+        "startTime": 27467,
+        "endTime": 29664,
+        "text": "Dad puts it in the oven."
+    },
+    {
+        "startTime": 30229,
+        "endTime": 31639,
+        "text": "Yum, yum."
+    },
+    {
+        "startTime": 35802,
+        "endTime": 36853,
+        "text": "What are you doing?"
+    },
+    {
+        "startTime": 38155,
+        "endTime": 40030,
+        "text": "I am making cookies."
+    },
+    {
+        "startTime": 41573,
+        "endTime": 43273,
+        "text": "What do you do first?"
+    },
+    {
+        "startTime": 44569,
+        "endTime": 48238,
+        "text": "I put in some flour, sugar and salt."
+    },
+    {
+        "startTime": 49255,
+        "endTime": 50789,
+        "text": "What do you do next?"
+    },
+    {
+        "startTime": 52200,
+        "endTime": 54142,
+        "text": "I put in some eggs."
+    }
+]

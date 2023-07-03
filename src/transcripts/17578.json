@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 2345,
+        "endTime": 4568,
+        "text": "Dark clouds begin to gather."
+    },
+    {
+        "startTime": 5714,
+        "endTime": 7867,
+        "text": "They get darker and darker."
+    },
+    {
+        "startTime": 8994,
+        "endTime": 10404,
+        "text": "A storm is coming."
+    },
+    {
+        "startTime": 11575,
+        "endTime": 14011,
+        "text": "Tim and Pam run into the house."
+    },
+    {
+        "startTime": 15115,
+        "endTime": 17551,
+        "text": "The strong winds begin to blow."
+    },
+    {
+        "startTime": 18609,
+        "endTime": 23044,
+        "text": "Strong winds begin to blow, and the sky gets darker."
+    },
+    {
+        "startTime": 24197,
+        "endTime": 28776,
+        "text": "The sky gets darker, and the clouds move over the house."
+    },
+    {
+        "startTime": 29857,
+        "endTime": 35005,
+        "text": "The clouds move over the house, and lightning flashes all around."
+    },
+    {
+        "startTime": 36127,
+        "endTime": 41274,
+        "text": "Lightning flashes all around, and thunder crashes loudly."
+    },
+    {
+        "startTime": 42349,
+        "endTime": 46531,
+        "text": "Thunder crashes loudly, and the rain begins to fall."
+    },
+    {
+        "startTime": 47609,
+        "endTime": 51445,
+        "text": "The rain falls, and the winds blow wildly."
+    },
+    {
+        "startTime": 52466,
+        "endTime": 56981,
+        "text": "Then the rain stops falling, and the winds stop blowing."
+    },
+    {
+        "startTime": 58058,
+        "endTime": 59652,
+        "text": "The sun comes out."
+    },
+    {
+        "startTime": 60731,
+        "endTime": 63174,
+        "text": "Tim and Pam come out, too."
+    }
+]

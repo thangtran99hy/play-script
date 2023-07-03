@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 1053,
+        "endTime": 2437,
+        "text": "Hi, my name is Jack."
+    },
+    {
+        "startTime": 3087,
+        "endTime": 3747,
+        "text": "Hi, Jack!"
+    },
+    {
+        "startTime": 3995,
+        "endTime": 4641,
+        "text": "I'm Philip."
+    },
+    {
+        "startTime": 4851,
+        "endTime": 6048,
+        "text": "Nice to meet you, Philip!"
+    },
+    {
+        "startTime": 6735,
+        "endTime": 8067,
+        "text": "Nice to meet you too, Jack!"
+    },
+    {
+        "startTime": 8755,
+        "endTime": 10155,
+        "text": "Welcome to the company!"
+    },
+    {
+        "startTime": 10540,
+        "endTime": 12171,
+        "text": "We're happy to have you here."
+    },
+    {
+        "startTime": 12811,
+        "endTime": 13276,
+        "text": "Thank you!"
+    },
+    {
+        "startTime": 13581,
+        "endTime": 15206,
+        "text": "I'm very happy to be here."
+    },
+    {
+        "startTime": 20621,
+        "endTime": 21675,
+        "text": "Good morning, Prim!"
+    },
+    {
+        "startTime": 22047,
+        "endTime": 24253,
+        "text": "Welcome to the Istanbul State Library!"
+    },
+    {
+        "startTime": 24765,
+        "endTime": 27015,
+        "text": "We are so happy to have you working with us."
+    },
+    {
+        "startTime": 27754,
+        "endTime": 28517,
+        "text": "Thank you, Jamie!"
+    },
+    {
+        "startTime": 28693,
+        "endTime": 30118,
+        "text": "I'm really happy to be here."
+    },
+    {
+        "startTime": 32677,
+        "endTime": 33543,
+        "text": "Welcome, everyone."
+    },
+    {
+        "startTime": 34213,
+        "endTime": 36648,
+        "text": "Welcome to your new office."
+    },
+    {
+        "startTime": 38172,
+        "endTime": 39419,
+        "text": "It's good to be back."
+    }
+]

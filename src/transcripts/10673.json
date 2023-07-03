@@ -1,0 +1,182 @@
+[
+    {
+        "startTime": 450,
+        "endTime": 2900,
+        "text": "Hi, I'm Hartmut. I'm an engineer at Google."
+    },
+    {
+        "startTime": 3700,
+        "endTime": 5900,
+        "text": "Hi, I'm Shailesh, product manager at Google."
+    },
+    {
+        "startTime": 6500,
+        "endTime": 8500,
+        "text": "We're here to introduce Google Goggles,..."
+    },
+    {
+        "startTime": 8600,
+        "endTime": 11100,
+        "text": "...a visual search application for Android phones."
+    },
+    {
+        "startTime": 11750,
+        "endTime": 15950,
+        "text": "Until now, the only option for web search has been typing or speaking."
+    },
+    {
+        "startTime": 16550,
+        "endTime": 18400,
+        "text": "Now, you can search by taking a photo."
+    },
+    {
+        "startTime": 19100,
+        "endTime": 20050,
+        "text": "Let's try this book."
+    },
+    {
+        "startTime": 20950,
+        "endTime": 22500,
+        "text": "Just open Google Goggles,..."
+    },
+    {
+        "startTime": 23000,
+        "endTime": 25700,
+        "text": "...fill as much of the screen as possible with the object..."
+    },
+    {
+        "startTime": 25900,
+        "endTime": 26850,
+        "text": "...and take a picture."
+    },
+    {
+        "startTime": 27650,
+        "endTime": 30150,
+        "text": "You'll see the exact book match in the search results..."
+    },
+    {
+        "startTime": 30300,
+        "endTime": 32000,
+        "text": "...without typing or saying a word."
+    },
+    {
+        "startTime": 32550,
+        "endTime": 34600,
+        "text": "Another good use is on a business card."
+    },
+    {
+        "startTime": 34850,
+        "endTime": 35700,
+        "text": "Let's try mine."
+    },
+    {
+        "startTime": 36100,
+        "endTime": 38050,
+        "text": "Frame the text you're interested in well."
+    },
+    {
+        "startTime": 38600,
+        "endTime": 41850,
+        "text": "Google Goggles will recognize the text and return a result."
+    },
+    {
+        "startTime": 42650,
+        "endTime": 46250,
+        "text": "Now, I can click to call Shailesh or add him to my contacts."
+    },
+    {
+        "startTime": 46800,
+        "endTime": 49150,
+        "text": "Let's go out and check what else Google Goggles can do."
+    },
+    {
+        "startTime": 49850,
+        "endTime": 52950,
+        "text": "We can figure out the title and artist of this painting,..."
+    },
+    {
+        "startTime": 54050,
+        "endTime": 55350,
+        "text": "...or landmark information."
+    },
+    {
+        "startTime": 58900,
+        "endTime": 62250,
+        "text": "For local business information, you don't even need to take a picture."
+    },
+    {
+        "startTime": 62750,
+        "endTime": 64800,
+        "text": "Just point your phone at the store."
+    },
+    {
+        "startTime": 65200,
+        "endTime": 68750,
+        "text": "Using GPS and compass, Google Goggles will show you the name."
+    },
+    {
+        "startTime": 69800,
+        "endTime": 72000,
+        "text": "Tap the name to learn more about that store."
+    },
+    {
+        "startTime": 72750,
+        "endTime": 75000,
+        "text": "Visual search technology is still in its infancy."
+    },
+    {
+        "startTime": 75450,
+        "endTime": 77600,
+        "text": "It works best on things like we saw today..."
+    },
+    {
+        "startTime": 78450,
+        "endTime": 83250,
+        "text": "...but it doesn't work well yet on things like food, cars, plants or animals."
+    },
+    {
+        "startTime": 83650,
+        "endTime": 87250,
+        "text": "And we're only scratching the surface of the visual search technology."
+    },
+    {
+        "startTime": 87700,
+        "endTime": 90700,
+        "text": "In the future, it will help you do more cool things,..."
+    },
+    {
+        "startTime": 91150,
+        "endTime": 93250,
+        "text": "...like suggesting a move in a chess game..."
+    },
+    {
+        "startTime": 93500,
+        "endTime": 96600,
+        "text": "...or taking a picture of a leaf to identify the plant."
+    },
+    {
+        "startTime": 97350,
+        "endTime": 99950,
+        "text": "You might wonder what happens to all these pictures you're taking."
+    },
+    {
+        "startTime": 101100,
+        "endTime": 103600,
+        "text": "You can choose to discard them as soon as the search is done..."
+    },
+    {
+        "startTime": 104150,
+        "endTime": 106900,
+        "text": "...or save them to your search history to view them at any time."
+    },
+    {
+        "startTime": 107650,
+        "endTime": 110150,
+        "text": "It's available for Android-powered phones now."
+    },
+    {
+        "startTime": 110500,
+        "endTime": 115450,
+        "text": "To download, go to Android Market from your phone and search for Google Goggles."
+    }
+]

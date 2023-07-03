@@ -1,0 +1,107 @@
+[
+    {
+        "startTime": 7498,
+        "endTime": 9215,
+        "text": "How do I get to the Red Cafe?"
+    },
+    {
+        "startTime": 9511,
+        "endTime": 10376,
+        "text": "The Red Cafe?"
+    },
+    {
+        "startTime": 11165,
+        "endTime": 11841,
+        "text": "Let's see."
+    },
+    {
+        "startTime": 13491,
+        "endTime": 15715,
+        "text": "Go to the corner and turn left."
+    },
+    {
+        "startTime": 15964,
+        "endTime": 16367,
+        "text": "Left."
+    },
+    {
+        "startTime": 16832,
+        "endTime": 19133,
+        "text": "Go two blocks and turn right."
+    },
+    {
+        "startTime": 19486,
+        "endTime": 20015,
+        "text": "Right."
+    },
+    {
+        "startTime": 20643,
+        "endTime": 22881,
+        "text": "Around the corner is a train station."
+    },
+    {
+        "startTime": 23397,
+        "endTime": 24045,
+        "text": "Take the train."
+    },
+    {
+        "startTime": 24318,
+        "endTime": 25375,
+        "text": "Don't take the train."
+    },
+    {
+        "startTime": 26091,
+        "endTime": 30410,
+        "text": "Go through the station across the street to the bookstore."
+    },
+    {
+        "startTime": 31233,
+        "endTime": 33937,
+        "text": "Next to the bookstore is a pharmacy."
+    },
+    {
+        "startTime": 34300,
+        "endTime": 36944,
+        "text": "Next to the pharmacy is the Red Cafe."
+    },
+    {
+        "startTime": 37115,
+        "endTime": 37537,
+        "text": "Yes."
+    },
+    {
+        "startTime": 38197,
+        "endTime": 38535,
+        "text": "Got it?"
+    },
+    {
+        "startTime": 40493,
+        "endTime": 41433,
+        "text": "Let's do it again."
+    },
+    {
+        "startTime": 43027,
+        "endTime": 47517,
+        "text": "Corner left, two blocks, right."
+    },
+    {
+        "startTime": 48263,
+        "endTime": 53623,
+        "text": "Around the corner, don't take the train, through the station, across the street."
+    },
+    {
+        "startTime": 53978,
+        "endTime": 57475,
+        "text": "Bookstore, pharmacy, Red Cafe."
+    },
+    {
+        "startTime": 57877,
+        "endTime": 58792,
+        "text": "Thank you very much."
+    },
+    {
+        "startTime": 58892,
+        "endTime": 59741,
+        "text": "You're very welcome."
+    }
+]

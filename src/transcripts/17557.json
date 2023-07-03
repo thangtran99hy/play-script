@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 2655,
+        "endTime": 5433,
+        "text": "Lily the cat woke up from her nap."
+    },
+    {
+        "startTime": 6559,
+        "endTime": 8703,
+        "text": "She jumped down from the bed."
+    },
+    {
+        "startTime": 9979,
+        "endTime": 11403,
+        "text": "She saw a door."
+    },
+    {
+        "startTime": 12525,
+        "endTime": 14388,
+        "text": "She walked through the door."
+    },
+    {
+        "startTime": 15653,
+        "endTime": 17111,
+        "text": "She saw a room."
+    },
+    {
+        "startTime": 18489,
+        "endTime": 20104,
+        "text": "She crossed the room."
+    },
+    {
+        "startTime": 21387,
+        "endTime": 23119,
+        "text": "She saw a chair."
+    },
+    {
+        "startTime": 24319,
+        "endTime": 26199,
+        "text": "She circled the chair."
+    },
+    {
+        "startTime": 27585,
+        "endTime": 29316,
+        "text": "She saw a table."
+    },
+    {
+        "startTime": 30684,
+        "endTime": 32995,
+        "text": "She strolled under the table."
+    },
+    {
+        "startTime": 34464,
+        "endTime": 36133,
+        "text": "She saw the couch."
+    },
+    {
+        "startTime": 37443,
+        "endTime": 39714,
+        "text": "She jumped up on the couch."
+    },
+    {
+        "startTime": 41098,
+        "endTime": 42884,
+        "text": "She saw Jack's lap."
+    },
+    {
+        "startTime": 44157,
+        "endTime": 47575,
+        "text": "Lily curled up on Jack's lap to nap."
+    }
+]

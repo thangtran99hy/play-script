@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 350,
+        "endTime": 2300,
+        "text": "In case you haven't heard the news,..."
+    },
+    {
+        "startTime": 2600,
+        "endTime": 6100,
+        "text": "...the Eiffel Tower is 120 years old this year."
+    },
+    {
+        "startTime": 6850,
+        "endTime": 10100,
+        "text": "To celebrate, they installed a new set of lights..."
+    },
+    {
+        "startTime": 10350,
+        "endTime": 12550,
+        "text": "...on the side facing the Trocadero."
+    },
+    {
+        "startTime": 13100,
+        "endTime": 16400,
+        "text": "And every night from 8 p.m. to 11 p.m.,..."
+    },
+    {
+        "startTime": 16700,
+        "endTime": 19850,
+        "text": "...they \"play\" with them for 12 minutes."
+    },
+    {
+        "startTime": 20700,
+        "endTime": 24150,
+        "text": "Well, when I say, \"they,\" I mean, the computer,..."
+    },
+    {
+        "startTime": 24350,
+        "endTime": 28000,
+        "text": "...as of course, all these lights are computer controlled."
+    }
+]

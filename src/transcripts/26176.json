@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 720,
+        "endTime": 2647,
+        "text": "﻿Let's make some travel plans."
+    },
+    {
+        "startTime": 5970,
+        "endTime": 8375,
+        "text": "I want to fly to New York in January."
+    },
+    {
+        "startTime": 11755,
+        "endTime": 13836,
+        "text": "I will bring my passport."
+    },
+    {
+        "startTime": 17071,
+        "endTime": 18551,
+        "text": "I am going to need luggage."
+    },
+    {
+        "startTime": 21859,
+        "endTime": 25044,
+        "text": "I will leave early because the airport is far."
+    },
+    {
+        "startTime": 27940,
+        "endTime": 30553,
+        "text": "I'm going to miss my flight! I have to hurry."
+    },
+    {
+        "startTime": 33877,
+        "endTime": 36058,
+        "text": "My plane will land at 6:00 pm."
+    },
+    {
+        "startTime": 39233,
+        "endTime": 41013,
+        "text": "I will take the taxi from there."
+    },
+    {
+        "startTime": 44299,
+        "endTime": 46208,
+        "text": "I am going to stay in a hotel."
+    }
+]

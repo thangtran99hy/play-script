@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 2735,
+        "endTime": 3951,
+        "text": "Hello! This is Jim."
+    },
+    {
+        "startTime": 4613,
+        "endTime": 6067,
+        "text": "Hi, Jim! Eddie here."
+    },
+    {
+        "startTime": 6292,
+        "endTime": 8471,
+        "text": "Oh, hello! How's it going?"
+    },
+    {
+        "startTime": 8729,
+        "endTime": 9483,
+        "text": "Good, thanks."
+    },
+    {
+        "startTime": 10007,
+        "endTime": 14011,
+        "text": "I just wanted to let you know that Linh and I will come to the party on Friday."
+    },
+    {
+        "startTime": 14155,
+        "endTime": 15733,
+        "text": "Ah, great news!"
+    },
+    {
+        "startTime": 15942,
+        "endTime": 17545,
+        "text": "What time should we come over?"
+    },
+    {
+        "startTime": 17801,
+        "endTime": 20421,
+        "text": "About around 7:30?"
+    },
+    {
+        "startTime": 20662,
+        "endTime": 23403,
+        "text": "OK. Is there anything we can bring?"
+    },
+    {
+        "startTime": 24041,
+        "endTime": 25781,
+        "text": "Should we bring some food too?"
+    },
+    {
+        "startTime": 26939,
+        "endTime": 29561,
+        "text": "No, it's OK. I'll provide the food."
+    },
+    {
+        "startTime": 29801,
+        "endTime": 31730,
+        "text": "OK. See you Friday then."
+    },
+    {
+        "startTime": 32035,
+        "endTime": 32639,
+        "text": "See you, Eddie."
+    }
+]

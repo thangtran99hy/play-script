@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 13204,
+        "endTime": 14309,
+        "text": "Mayday, mayday."
+    },
+    {
+        "startTime": 14912,
+        "endTime": 15850,
+        "text": "Hello, can you hear us?"
+    },
+    {
+        "startTime": 15973,
+        "endTime": 16871,
+        "text": "Can you hear us?"
+    },
+    {
+        "startTime": 19503,
+        "endTime": 20199,
+        "text": "We are sinking."
+    },
+    {
+        "startTime": 20335,
+        "endTime": 21447,
+        "text": "We are sinking."
+    },
+    {
+        "startTime": 21575,
+        "endTime": 22325,
+        "text": "Hello?"
+    },
+    {
+        "startTime": 24180,
+        "endTime": 26721,
+        "text": "This is the German Coast Guard."
+    },
+    {
+        "startTime": 27890,
+        "endTime": 28641,
+        "text": "We are sinking."
+    },
+    {
+        "startTime": 28739,
+        "endTime": 29337,
+        "text": "We're sinking."
+    },
+    {
+        "startTime": 30635,
+        "endTime": 33700,
+        "text": "What are you thinking about?"
+    }
+]

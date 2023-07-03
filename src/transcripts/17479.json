@@ -1,0 +1,102 @@
+[
+    {
+        "startTime": 2326,
+        "endTime": 3401,
+        "text": "What is this?"
+    },
+    {
+        "startTime": 4513,
+        "endTime": 5706,
+        "text": "It is a crayon."
+    },
+    {
+        "startTime": 6153,
+        "endTime": 7647,
+        "text": "I use it for coloring."
+    },
+    {
+        "startTime": 8243,
+        "endTime": 9049,
+        "text": "What is that?"
+    },
+    {
+        "startTime": 10235,
+        "endTime": 11231,
+        "text": "It is a pot."
+    },
+    {
+        "startTime": 11905,
+        "endTime": 13489,
+        "text": "We use it to cook."
+    },
+    {
+        "startTime": 14604,
+        "endTime": 16561,
+        "text": "What do you use to write?"
+    },
+    {
+        "startTime": 17415,
+        "endTime": 19151,
+        "text": "Here is a pencil."
+    },
+    {
+        "startTime": 19883,
+        "endTime": 21999,
+        "text": "I use a pencil to write."
+    },
+    {
+        "startTime": 22973,
+        "endTime": 25493,
+        "text": "Here are a knife and scissors."
+    },
+    {
+        "startTime": 26070,
+        "endTime": 28590,
+        "text": "Do you use a knife for cutting paper?"
+    },
+    {
+        "startTime": 29677,
+        "endTime": 33277,
+        "text": "No, I use scissors for cutting paper."
+    },
+    {
+        "startTime": 40122,
+        "endTime": 43466,
+        "text": "What, what, what, what do you see?"
+    },
+    {
+        "startTime": 44005,
+        "endTime": 47361,
+        "text": "Hammer, hammer, hammer, here is a hammer."
+    },
+    {
+        "startTime": 47757,
+        "endTime": 51104,
+        "text": "What, what, what, for what do you use it?"
+    },
+    {
+        "startTime": 51480,
+        "endTime": 54737,
+        "text": "Pound, pound, pound, I use it for pounding."
+    },
+    {
+        "startTime": 55258,
+        "endTime": 58485,
+        "text": "What, what, what, what do you see?"
+    },
+    {
+        "startTime": 58891,
+        "endTime": 62356,
+        "text": "Shovel, shovel, shovel, here is a shovel."
+    },
+    {
+        "startTime": 62777,
+        "endTime": 65988,
+        "text": "What, what, what, for what do you use it?"
+    },
+    {
+        "startTime": 66487,
+        "endTime": 69883,
+        "text": "Dig, dig, dig, I use it for digging."
+    }
+]

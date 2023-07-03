@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1900,
+        "endTime": 3200,
+        "text": "Look at the time!"
+    },
+    {
+        "startTime": 3450,
+        "endTime": 5900,
+        "text": "I'd better leave soon or I'll miss my flight."
+    },
+    {
+        "startTime": 6300,
+        "endTime": 9300,
+        "text": "It's been a pleasure working with you over the past few days, Linda."
+    },
+    {
+        "startTime": 9700,
+        "endTime": 11500,
+        "text": "I learned a lot while I was here."
+    },
+    {
+        "startTime": 11850,
+        "endTime": 13750,
+        "text": "I think the trip was very useful."
+    },
+    {
+        "startTime": 14150,
+        "endTime": 16750,
+        "text": "I really appreciate everything you've done for me."
+    },
+    {
+        "startTime": 17100,
+        "endTime": 18600,
+        "text": "I'm sure we'll meet again."
+    },
+    {
+        "startTime": 19200,
+        "endTime": 21400,
+        "text": "You have my business card with my e-mail address."
+    },
+    {
+        "startTime": 21750,
+        "endTime": 23750,
+        "text": "Write or give me a call anytime."
+    },
+    {
+        "startTime": 24100,
+        "endTime": 25950,
+        "text": "Thanks! I will keep in touch."
+    },
+    {
+        "startTime": 26300,
+        "endTime": 27450,
+        "text": "Have a safe trip back!"
+    }
+]

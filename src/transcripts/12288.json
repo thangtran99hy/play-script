@@ -1,0 +1,97 @@
+[
+    {
+        "startTime": 2215,
+        "endTime": 3175,
+        "text": "Good morning, sir."
+    },
+    {
+        "startTime": 3563,
+        "endTime": 4902,
+        "text": "I'm here to see a doctor."
+    },
+    {
+        "startTime": 5180,
+        "endTime": 6863,
+        "text": "Have you been to our clinic before?"
+    },
+    {
+        "startTime": 7068,
+        "endTime": 8527,
+        "text": "No, it's my first visit."
+    },
+    {
+        "startTime": 8853,
+        "endTime": 11278,
+        "text": "I just moved to this city a couple of months ago."
+    },
+    {
+        "startTime": 11636,
+        "endTime": 13929,
+        "text": "Do you have any sort of medical insurance?"
+    },
+    {
+        "startTime": 14097,
+        "endTime": 16005,
+        "text": "Yes, here is my insurance card."
+    },
+    {
+        "startTime": 16381,
+        "endTime": 18551,
+        "text": "Thank you. Please fill out this form."
+    },
+    {
+        "startTime": 18685,
+        "endTime": 20413,
+        "text": "The doctor will be with you shortly."
+    },
+    {
+        "startTime": 21896,
+        "endTime": 22669,
+        "text": "Can I have a seat?"
+    },
+    {
+        "startTime": 23000,
+        "endTime": 23507,
+        "text": "Sure."
+    },
+    {
+        "startTime": 23700,
+        "endTime": 25457,
+        "text": "What seems to be the problem today?"
+    },
+    {
+        "startTime": 25694,
+        "endTime": 27242,
+        "text": "I think I threw my back out."
+    },
+    {
+        "startTime": 27419,
+        "endTime": 28475,
+        "text": "It's really killing me."
+    },
+    {
+        "startTime": 28809,
+        "endTime": 30066,
+        "text": "How did you do that?"
+    },
+    {
+        "startTime": 30185,
+        "endTime": 33215,
+        "text": "I was carrying some heavy boxes around at work yesterday."
+    },
+    {
+        "startTime": 33422,
+        "endTime": 35245,
+        "text": "I see, let's have a look."
+    },
+    {
+        "startTime": 35687,
+        "endTime": 36581,
+        "text": "Where does it hurt?"
+    },
+    {
+        "startTime": 36785,
+        "endTime": 38163,
+        "text": "Mostly in the lower back."
+    }
+]

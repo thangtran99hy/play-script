@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 5739,
+        "endTime": 9652,
+        "text": "Red light, red light, what do you say?"
+    },
+    {
+        "startTime": 9920,
+        "endTime": 13699,
+        "text": "I say stop, stop right away."
+    },
+    {
+        "startTime": 13815,
+        "endTime": 17430,
+        "text": "Yellow light, yellow light, what do you say?"
+    },
+    {
+        "startTime": 17858,
+        "endTime": 21709,
+        "text": "I say wait until the light turns green."
+    },
+    {
+        "startTime": 21951,
+        "endTime": 25449,
+        "text": "Green light, green light, what do you say?"
+    },
+    {
+        "startTime": 25954,
+        "endTime": 29867,
+        "text": "I say go, go right away."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 3170,
+        "endTime": 6200,
+        "text": "I have a contract negotiation coming up this week, Linda."
+    },
+    {
+        "startTime": 6630,
+        "endTime": 10280,
+        "text": "It might be a good idea for you to sit in to see the procedure."
+    },
+    {
+        "startTime": 11070,
+        "endTime": 15310,
+        "text": "That sounds very interesting. Who is the other party in this negotiation?"
+    },
+    {
+        "startTime": 15980,
+        "endTime": 17350,
+        "text": "One of our suppliers."
+    },
+    {
+        "startTime": 17680,
+        "endTime": 21780,
+        "text": "The company wants to renegotiate the contract we initially signed with them."
+    },
+    {
+        "startTime": 22220,
+        "endTime": 24120,
+        "text": "What kind of deal are they looking for?"
+    },
+    {
+        "startTime": 24590,
+        "endTime": 28220,
+        "text": "I was informed that the company will only extend their contract with us..."
+    },
+    {
+        "startTime": 28490,
+        "endTime": 31090,
+        "text": "...if we agree to pay them a higher fee."
+    },
+    {
+        "startTime": 31630,
+        "endTime": 33260,
+        "text": "They didn't specify how much,..."
+    },
+    {
+        "startTime": 33660,
+        "endTime": 37670,
+        "text": "...so the agenda of the negotiation will include bargaining on the new fee."
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 2800,
+        "endTime": 6700,
+        "text": "The last time we had a vacation, my husband and I went camping."
+    },
+    {
+        "startTime": 7300,
+        "endTime": 9050,
+        "text": "I haven't been camping in ages."
+    },
+    {
+        "startTime": 9400,
+        "endTime": 10000,
+        "text": "How was it?"
+    },
+    {
+        "startTime": 10250,
+        "endTime": 11200,
+        "text": "Marvelous."
+    },
+    {
+        "startTime": 11550,
+        "endTime": 16500,
+        "text": "We stayed near an area that is a ski resort in winter, but we were there in the summer."
+    },
+    {
+        "startTime": 16900,
+        "endTime": 20600,
+        "text": "There was a quaint little town in the valley at the base of the ski slopes."
+    },
+    {
+        "startTime": 21050,
+        "endTime": 24000,
+        "text": "It was a little touristy, but very picturesque."
+    },
+    {
+        "startTime": 24450,
+        "endTime": 25950,
+        "text": "Did you rent a cabin there?"
+    },
+    {
+        "startTime": 26350,
+        "endTime": 28100,
+        "text": "No, we camped in a tent."
+    },
+    {
+        "startTime": 28550,
+        "endTime": 31100,
+        "text": "We spent most of our time hiking in the mountains,..."
+    },
+    {
+        "startTime": 31400,
+        "endTime": 35750,
+        "text": "...but on several evenings we went into town to look around and do some shopping."
+    }
+]

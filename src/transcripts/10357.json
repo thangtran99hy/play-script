@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 400,
+        "endTime": 3040,
+        "text": "I'm going to visit New York City on my next vacation."
+    },
+    {
+        "startTime": 3860,
+        "endTime": 6270,
+        "text": "First on my agenda is going to a Broadway show."
+    },
+    {
+        "startTime": 6650,
+        "endTime": 9175,
+        "text": "And after that I want to explore Central Park."
+    },
+    {
+        "startTime": 9560,
+        "endTime": 11550,
+        "text": "I heard you can ice skate there in the winter!"
+    },
+    {
+        "startTime": 12010,
+        "endTime": 13850,
+        "text": "I also want to cross the Brooklyn Bridge,..."
+    },
+    {
+        "startTime": 14250,
+        "endTime": 16670,
+        "text": "...and see the Statue of Liberty in New York Harbor."
+    },
+    {
+        "startTime": 17570,
+        "endTime": 19230,
+        "text": "I won't have a car while I'm there,..."
+    },
+    {
+        "startTime": 19720,
+        "endTime": 22600,
+        "text": "...but there are a lot of ways for tourists to get around New York."
+    },
+    {
+        "startTime": 23340,
+        "endTime": 25510,
+        "text": "You can take a train from Grand Central Station,..."
+    },
+    {
+        "startTime": 26050,
+        "endTime": 28035,
+        "text": "...or ride the subway to most points in the city."
+    },
+    {
+        "startTime": 28710,
+        "endTime": 31400,
+        "text": "I hope I can see all these things in only three days!"
+    }
+]

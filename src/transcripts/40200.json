@@ -1,0 +1,162 @@
+[
+    {
+        "startTime": 1028,
+        "endTime": 1619,
+        "text": "Farmers."
+    },
+    {
+        "startTime": 2001,
+        "endTime": 3987,
+        "text": "They have an interest in sustainability,..."
+    },
+    {
+        "startTime": 4417,
+        "endTime": 6737,
+        "text": "...but what's been lacking historically for growers..."
+    },
+    {
+        "startTime": 6849,
+        "endTime": 9017,
+        "text": "...is having the data and the tools that they need..."
+    },
+    {
+        "startTime": 9083,
+        "endTime": 10287,
+        "text": "...to be able to do that well."
+    },
+    {
+        "startTime": 11125,
+        "endTime": 13918,
+        "text": "And that's the reason we're so excited to work with farmers,..."
+    },
+    {
+        "startTime": 14083,
+        "endTime": 16007,
+        "text": "...to give them the guidance that will help them succeed."
+    },
+    {
+        "startTime": 16798,
+        "endTime": 17329,
+        "text": "I'm Tyler."
+    },
+    {
+        "startTime": 17691,
+        "endTime": 18095,
+        "text": "I'm Adam."
+    },
+    {
+        "startTime": 18357,
+        "endTime": 19993,
+        "text": "And we're the co-founders of Agrology."
+    },
+    {
+        "startTime": 21565,
+        "endTime": 23467,
+        "text": "We started Agrology in 2019."
+    },
+    {
+        "startTime": 24331,
+        "endTime": 25683,
+        "text": "We've been kicking around the idea..."
+    },
+    {
+        "startTime": 25791,
+        "endTime": 27603,
+        "text": "...of how do we use a lot of different sensors..."
+    },
+    {
+        "startTime": 27695,
+        "endTime": 29239,
+        "text": "...and machine learning and sensor fusion..."
+    },
+    {
+        "startTime": 29451,
+        "endTime": 31451,
+        "text": "...to deliver predictive insights to our growers..."
+    },
+    {
+        "startTime": 31526,
+        "endTime": 32749,
+        "text": "...to thrive in a changing climate."
+    },
+    {
+        "startTime": 33784,
+        "endTime": 36642,
+        "text": "Traditionally, growers, they try to use predictions themselves,..."
+    },
+    {
+        "startTime": 36725,
+        "endTime": 39525,
+        "text": "...but they can't be on every inch of every farm every day."
+    },
+    {
+        "startTime": 40185,
+        "endTime": 42389,
+        "text": "They also have to deal with a climate that's changing on them..."
+    },
+    {
+        "startTime": 42473,
+        "endTime": 44356,
+        "text": "...that makes every year harder and less predictable."
+    },
+    {
+        "startTime": 44797,
+        "endTime": 46528,
+        "text": "We used TensorFlow and Google Cloud..."
+    },
+    {
+        "startTime": 46604,
+        "endTime": 49161,
+        "text": "...to train the models that take our data streams..."
+    },
+    {
+        "startTime": 49455,
+        "endTime": 51465,
+        "text": "...and turn it into predictions for our customers."
+    },
+    {
+        "startTime": 52078,
+        "endTime": 55459,
+        "text": "Our app takes data from our sensor, rays in the soil and in the air,..."
+    },
+    {
+        "startTime": 55902,
+        "endTime": 57577,
+        "text": "...and it runs it through our machine learning models..."
+    },
+    {
+        "startTime": 57715,
+        "endTime": 61310,
+        "text": "...to make predictions to warn farmers about problems before they emerge."
+    },
+    {
+        "startTime": 62211,
+        "endTime": 65227,
+        "text": "The synthetic models we generate, the forecast models we generate."
+    },
+    {
+        "startTime": 65343,
+        "endTime": 68611,
+        "text": "It's just impossible without TensorFlow, without Google Cloud..."
+    },
+    {
+        "startTime": 68844,
+        "endTime": 72229,
+        "text": "...taking all the data from every block, from every site..."
+    },
+    {
+        "startTime": 72448,
+        "endTime": 75193,
+        "text": "...and forecasting that three to four days out."
+    },
+    {
+        "startTime": 75555,
+        "endTime": 80355,
+        "text": "Technology allows us to continue to push forward so the vineyards outlast us."
+    },
+    {
+        "startTime": 81769,
+        "endTime": 84359,
+        "text": "We would love for these vineyards to last 100 years."
+    }
+]

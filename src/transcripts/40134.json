@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 1236,
+        "endTime": 3291,
+        "text": "So what did you do today?"
+    },
+    {
+        "startTime": 5594,
+        "endTime": 6338,
+        "text": "Nothing."
+    },
+    {
+        "startTime": 8483,
+        "endTime": 9114,
+        "text": "Where did you go?"
+    },
+    {
+        "startTime": 10091,
+        "endTime": 11032,
+        "text": "Nowhere."
+    },
+    {
+        "startTime": 22849,
+        "endTime": 23357,
+        "text": "Who's that?"
+    },
+    {
+        "startTime": 24363,
+        "endTime": 25118,
+        "text": "No one."
+    }
+]

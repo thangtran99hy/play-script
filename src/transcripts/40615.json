@@ -1,0 +1,102 @@
+[
+    {
+        "startTime": 4231,
+        "endTime": 5442,
+        "text": "Excuse me."
+    },
+    {
+        "startTime": 5870,
+        "endTime": 6731,
+        "text": "Are you Frank?"
+    },
+    {
+        "startTime": 7468,
+        "endTime": 8977,
+        "text": "Yes, I am."
+    },
+    {
+        "startTime": 12009,
+        "endTime": 12897,
+        "text": "Hello."
+    },
+    {
+        "startTime": 13354,
+        "endTime": 14377,
+        "text": "What's your name?"
+    },
+    {
+        "startTime": 15119,
+        "endTime": 16104,
+        "text": "I'm Frank."
+    },
+    {
+        "startTime": 16506,
+        "endTime": 16953,
+        "text": "And you?"
+    },
+    {
+        "startTime": 18067,
+        "endTime": 18781,
+        "text": "I'm Julie."
+    },
+    {
+        "startTime": 20195,
+        "endTime": 21275,
+        "text": "Where are you from?"
+    },
+    {
+        "startTime": 22573,
+        "endTime": 23906,
+        "text": "I'm from Los Angeles."
+    },
+    {
+        "startTime": 24271,
+        "endTime": 24780,
+        "text": "And you?"
+    },
+    {
+        "startTime": 26293,
+        "endTime": 27737,
+        "text": "I'm from San Diego."
+    },
+    {
+        "startTime": 28665,
+        "endTime": 30457,
+        "text": "We are both from California."
+    },
+    {
+        "startTime": 31593,
+        "endTime": 32983,
+        "text": "And you, Fernando,..."
+    },
+    {
+        "startTime": 33860,
+        "endTime": 35194,
+        "text": "...where are you from?"
+    },
+    {
+        "startTime": 36651,
+        "endTime": 37859,
+        "text": "I'm from Peru."
+    },
+    {
+        "startTime": 39489,
+        "endTime": 41729,
+        "text": "Oh, that's a great country."
+    },
+    {
+        "startTime": 43131,
+        "endTime": 44677,
+        "text": "Which city are you from?"
+    },
+    {
+        "startTime": 46300,
+        "endTime": 47568,
+        "text": "I'm from Lima,..."
+    },
+    {
+        "startTime": 48787,
+        "endTime": 50477,
+        "text": "...the capital of Peru."
+    }
+]

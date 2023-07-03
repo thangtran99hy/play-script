@@ -1,0 +1,147 @@
+[
+    {
+        "startTime": 13200,
+        "endTime": 16400,
+        "text": "I'm wearing a camera, just a simple webcam."
+    },
+    {
+        "startTime": 16750,
+        "endTime": 22400,
+        "text": "A portable, battery powered projection system with a little mirror."
+    },
+    {
+        "startTime": 22800,
+        "endTime": 26400,
+        "text": "These components communicate to my cellphone in my pocket..."
+    },
+    {
+        "startTime": 26450,
+        "endTime": 30850,
+        "text": "...which acts as the communication and computation device."
+    },
+    {
+        "startTime": 30900,
+        "endTime": 34900,
+        "text": "And in the video here, we see my student Pranav Mistry,..."
+    },
+    {
+        "startTime": 34950,
+        "endTime": 39600,
+        "text": "...who's really the genius, who's been implementing and designing this whole system."
+    },
+    {
+        "startTime": 39900,
+        "endTime": 46950,
+        "text": "And we see how this system lets him walk up to any surface and start using his hands..."
+    },
+    {
+        "startTime": 47100,
+        "endTime": 51600,
+        "text": "...to interact with the information that is projected in front of him."
+    },
+    {
+        "startTime": 51850,
+        "endTime": 56150,
+        "text": "The system tracks the four significant fingers."
+    },
+    {
+        "startTime": 56200,
+        "endTime": 61150,
+        "text": "In this case, he's wearing simple marker caps that you may recognize..."
+    },
+    {
+        "startTime": 61450,
+        "endTime": 67350,
+        "text": "...but if you want a more stylish version, you could also paint your nails in different colors."
+    },
+    {
+        "startTime": 67650,
+        "endTime": 71200,
+        "text": "And the camera basically tracks these four fingers,..."
+    },
+    {
+        "startTime": 71250,
+        "endTime": 79400,
+        "text": "...and recognizes any gestures that he's making, so he can just go to... for example, a map of Long Beach,..."
+    },
+    {
+        "startTime": 79450,
+        "endTime": 81250,
+        "text": "...zoom in and out, et cetera."
+    },
+    {
+        "startTime": 81900,
+        "endTime": 87400,
+        "text": "The system also recognizes iconic gestures such as the take-a-picture gesture..."
+    },
+    {
+        "startTime": 87450,
+        "endTime": 90500,
+        "text": "...and then, takes a picture of whatever is in front of you."
+    },
+    {
+        "startTime": 91200,
+        "endTime": 94150,
+        "text": "And when he then walks back to the Media Lab,..."
+    },
+    {
+        "startTime": 94200,
+        "endTime": 99300,
+        "text": "...he can just go up to any wall and project all the pictures that he's taken,..."
+    },
+    {
+        "startTime": 99550,
+        "endTime": 103000,
+        "text": "...sort through them and organize them, and resize them, et cetera,..."
+    },
+    {
+        "startTime": 103150,
+        "endTime": 106750,
+        "text": "...again using all natural gestures."
+    },
+    {
+        "startTime": 107150,
+        "endTime": 110900,
+        "text": "So, some of you most likely were here two years ago..."
+    },
+    {
+        "startTime": 111100,
+        "endTime": 115800,
+        "text": "...and saw the demo by Jeff Han, or some of you may think,..."
+    },
+    {
+        "startTime": 115850,
+        "endTime": 118550,
+        "text": "...\"Well, doesn't this look like the Microsoft Surface Table?\"..."
+    },
+    {
+        "startTime": 118900,
+        "endTime": 124750,
+        "text": "...and yes, you also interact using natural gestures, both hands, et cetera,..."
+    },
+    {
+        "startTime": 125200,
+        "endTime": 128250,
+        "text": "...but the difference here is that you can use any surface."
+    },
+    {
+        "startTime": 128300,
+        "endTime": 130700,
+        "text": "You can walk up to any surface,..."
+    },
+    {
+        "startTime": 130750,
+        "endTime": 133750,
+        "text": "...including your hand if nothing else is available..."
+    },
+    {
+        "startTime": 134650,
+        "endTime": 137600,
+        "text": "...and interact with this projected data."
+    },
+    {
+        "startTime": 137750,
+        "endTime": 140600,
+        "text": "The device is completely portable."
+    }
+]

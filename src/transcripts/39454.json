@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 175,
+        "endTime": 625,
+        "text": "Hi!"
+    },
+    {
+        "startTime": 1435,
+        "endTime": 1966,
+        "text": "Hello!"
+    },
+    {
+        "startTime": 2824,
+        "endTime": 3436,
+        "text": "Hello, Tom!"
+    },
+    {
+        "startTime": 4277,
+        "endTime": 5019,
+        "text": "Hi, Jane!"
+    },
+    {
+        "startTime": 5909,
+        "endTime": 6763,
+        "text": "Hi, Sally!"
+    },
+    {
+        "startTime": 7847,
+        "endTime": 8637,
+        "text": "Hello, Bill!"
+    },
+    {
+        "startTime": 10149,
+        "endTime": 10971,
+        "text": "Hi there, Jack!"
+    },
+    {
+        "startTime": 12839,
+        "endTime": 13879,
+        "text": "Hello there, Ann!"
+    }
+]

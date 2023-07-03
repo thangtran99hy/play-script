@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 3721,
+        "endTime": 4915,
+        "text": "Is he sleeping?"
+    },
+    {
+        "startTime": 5940,
+        "endTime": 6885,
+        "text": "Yes, he is."
+    },
+    {
+        "startTime": 8516,
+        "endTime": 9383,
+        "text": "Am I running?"
+    },
+    {
+        "startTime": 10315,
+        "endTime": 11728,
+        "text": "No, I'm not running."
+    },
+    {
+        "startTime": 11831,
+        "endTime": 12761,
+        "text": "I'm climbing a tree."
+    },
+    {
+        "startTime": 18064,
+        "endTime": 19329,
+        "text": "What is she doing?"
+    },
+    {
+        "startTime": 20197,
+        "endTime": 21323,
+        "text": "She is drawing."
+    },
+    {
+        "startTime": 23019,
+        "endTime": 24455,
+        "text": "Who is Alice talking to?"
+    },
+    {
+        "startTime": 25551,
+        "endTime": 27005,
+        "text": "Alice is talking to Rita."
+    }
+]

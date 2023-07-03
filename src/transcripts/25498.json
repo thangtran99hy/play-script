@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 240,
+        "endTime": 2835,
+        "text": "Hey Siri, read me my unread emails."
+    },
+    {
+        "startTime": 3745,
+        "endTime": 5799,
+        "text": "Prince Oseph sent you an email about..."
+    },
+    {
+        "startTime": 6033,
+        "endTime": 8201,
+        "text": "\"Life-changing opportunity, if you please\""
+    },
+    {
+        "startTime": 8392,
+        "endTime": 11889,
+        "text": "It says, \"I have a once in a lifetime investment opportunity...\""
+    },
+    {
+        "startTime": 11970,
+        "endTime": 14281,
+        "text": "\"...for the making of many of millions of currency.\""
+    },
+    {
+        "startTime": 15136,
+        "endTime": 16337,
+        "text": "Would you like to reply?"
+    },
+    {
+        "startTime": 17609,
+        "endTime": 18451,
+        "text": "Yeah."
+    },
+    {
+        "startTime": 19624,
+        "endTime": 21964,
+        "text": "OK, what would you like the email to say?"
+    },
+    {
+        "startTime": 23499,
+        "endTime": 24504,
+        "text": "\"Sign me up.\""
+    },
+    {
+        "startTime": 24957,
+        "endTime": 27923,
+        "text": "Okay Bill, here's your email message to Prince Oseph."
+    },
+    {
+        "startTime": 28185,
+        "endTime": 29045,
+        "text": "Thank you, Siri."
+    }
+]

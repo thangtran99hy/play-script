@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 171,
+        "endTime": 1790,
+        "text": "Do you always go straight home?"
+    },
+    {
+        "startTime": 2865,
+        "endTime": 3609,
+        "text": "Not really."
+    },
+    {
+        "startTime": 3956,
+        "endTime": 6344,
+        "text": "Sometimes, I hang out with my friends."
+    },
+    {
+        "startTime": 6633,
+        "endTime": 8593,
+        "text": "What do you usually do with your friends?"
+    },
+    {
+        "startTime": 8964,
+        "endTime": 10189,
+        "text": "We go for dinner."
+    },
+    {
+        "startTime": 11511,
+        "endTime": 14130,
+        "text": "Well, what are you going to do when you get back home?"
+    },
+    {
+        "startTime": 14789,
+        "endTime": 17900,
+        "text": "I'm going to clean my room and do the laundry."
+    },
+    {
+        "startTime": 18254,
+        "endTime": 20686,
+        "text": "After that, I'll iron some clothes."
+    }
+]

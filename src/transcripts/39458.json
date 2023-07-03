@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1222,
+        "endTime": 2208,
+        "text": "Good morning, Helen."
+    },
+    {
+        "startTime": 3161,
+        "endTime": 4179,
+        "text": "Good morning, Mike!"
+    },
+    {
+        "startTime": 5659,
+        "endTime": 6623,
+        "text": "Good afternoon."
+    },
+    {
+        "startTime": 6875,
+        "endTime": 7849,
+        "text": "Good afternoon."
+    },
+    {
+        "startTime": 8191,
+        "endTime": 10125,
+        "text": "Good night, old friend."
+    },
+    {
+        "startTime": 11622,
+        "endTime": 12472,
+        "text": "Bob?"
+    },
+    {
+        "startTime": 13508,
+        "endTime": 14412,
+        "text": "Sue!"
+    },
+    {
+        "startTime": 14692,
+        "endTime": 15988,
+        "text": "It's nice to see you!"
+    },
+    {
+        "startTime": 16067,
+        "endTime": 18097,
+        "text": "God! It's great to see you, too!"
+    },
+    {
+        "startTime": 18176,
+        "endTime": 18936,
+        "text": "How are you?"
+    },
+    {
+        "startTime": 19021,
+        "endTime": 20053,
+        "text": "I'm just fine."
+    }
+]

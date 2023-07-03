@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 300,
+        "endTime": 4000,
+        "text": "There are so many possibilities for exciting travel in Europe."
+    },
+    {
+        "startTime": 4600,
+        "endTime": 7200,
+        "text": "One of the most beautiful and historic cities..."
+    },
+    {
+        "startTime": 7250,
+        "endTime": 9600,
+        "text": "...is the capital city of Paris, France."
+    },
+    {
+        "startTime": 10000,
+        "endTime": 13800,
+        "text": "The stunning cathedrals, world famous art museums,..."
+    },
+    {
+        "startTime": 14100,
+        "endTime": 18300,
+        "text": "...romantic river walks and gourmet dining all make Paris..."
+    },
+    {
+        "startTime": 18350,
+        "endTime": 21700,
+        "text": "...a place that everyone should experience in their lifetime."
+    }
+]

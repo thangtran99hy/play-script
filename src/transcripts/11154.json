@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 3500,
+        "endTime": 6200,
+        "text": "Good afternoon, Roger. It's nice to see you again."
+    },
+    {
+        "startTime": 6670,
+        "endTime": 9740,
+        "text": "Allow me to introduce Linda Strait, a colleague of mine."
+    },
+    {
+        "startTime": 10070,
+        "endTime": 12570,
+        "text": "She'll be sitting in on our negotiations."
+    },
+    {
+        "startTime": 13380,
+        "endTime": 14880,
+        "text": "Delighted to meet you, Linda."
+    },
+    {
+        "startTime": 15240,
+        "endTime": 18750,
+        "text": "Likewise. Can I offer you some coffee or tea, Roger?"
+    },
+    {
+        "startTime": 19080,
+        "endTime": 20330,
+        "text": "No, thanks. I'm fine."
+    },
+    {
+        "startTime": 20820,
+        "endTime": 25720,
+        "text": "So, Bob, I heard William took over as head of personnel here at your company."
+    },
+    {
+        "startTime": 26330,
+        "endTime": 31590,
+        "text": "That's right. William left sales, so now I'm in charge of these contract negotiations."
+    },
+    {
+        "startTime": 32160,
+        "endTime": 35360,
+        "text": "Since we've got a full agenda today, should we get started?"
+    }
+]

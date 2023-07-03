@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 787,
+        "endTime": 1192,
+        "text": "Hi."
+    },
+    {
+        "startTime": 1657,
+        "endTime": 2593,
+        "text": "My name is Steve."
+    },
+    {
+        "startTime": 4398,
+        "endTime": 5687,
+        "text": "This is my wife Susan."
+    },
+    {
+        "startTime": 7613,
+        "endTime": 8753,
+        "text": "We have 2 kids."
+    },
+    {
+        "startTime": 9234,
+        "endTime": 9847,
+        "text": "This is Mary."
+    },
+    {
+        "startTime": 9960,
+        "endTime": 10631,
+        "text": "She is 7."
+    },
+    {
+        "startTime": 13398,
+        "endTime": 14692,
+        "text": "This is our boy Zack."
+    },
+    {
+        "startTime": 15139,
+        "endTime": 15878,
+        "text": "He is 9."
+    },
+    {
+        "startTime": 19144,
+        "endTime": 20775,
+        "text": "We live in Chicago, USA."
+    },
+    {
+        "startTime": 23616,
+        "endTime": 24531,
+        "text": "We have a dog."
+    },
+    {
+        "startTime": 25072,
+        "endTime": 26080,
+        "text": "Its name is Chico."
+    },
+    {
+        "startTime": 30313,
+        "endTime": 32029,
+        "text": "We live at 38 King Street."
+    },
+    {
+        "startTime": 32317,
+        "endTime": 33548,
+        "text": "Apartment number 12."
+    },
+    {
+        "startTime": 36762,
+        "endTime": 39280,
+        "text": "On weekends, I make breakfast for the family."
+    },
+    {
+        "startTime": 42133,
+        "endTime": 44543,
+        "text": "After breakfast, we take a drive."
+    },
+    {
+        "startTime": 49809,
+        "endTime": 51789,
+        "text": "We usually stop and buy ice cream."
+    },
+    {
+        "startTime": 54845,
+        "endTime": 56355,
+        "text": "We have a good life."
+    }
+]

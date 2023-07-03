@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 1966,
+        "endTime": 3911,
+        "text": "Hey, what are you up to tonight?"
+    },
+    {
+        "startTime": 4049,
+        "endTime": 5735,
+        "text": "Nothing much, why? What's up?"
+    },
+    {
+        "startTime": 6172,
+        "endTime": 9664,
+        "text": "Well, we are going to watch the new Star Wars movie tonight."
+    },
+    {
+        "startTime": 9771,
+        "endTime": 11912,
+        "text": "Oh yeah? I really want to see that."
+    },
+    {
+        "startTime": 12111,
+        "endTime": 14045,
+        "text": "Well, why don't you join us then?"
+    },
+    {
+        "startTime": 14141,
+        "endTime": 16651,
+        "text": "I'd love to! What time are you guys heading out?"
+    },
+    {
+        "startTime": 16891,
+        "endTime": 22104,
+        "text": "At seven o'clock. We're meeting at Jerry's Coffee House and going to the theater from there."
+    },
+    {
+        "startTime": 22311,
+        "endTime": 25323,
+        "text": "Seven o'clock at Jerry's. Okay, I'll see you there."
+    },
+    {
+        "startTime": 25553,
+        "endTime": 30239,
+        "text": "Sounds good. The movie starts at eight o'clock but we want to get there a bit early."
+    },
+    {
+        "startTime": 30373,
+        "endTime": 33249,
+        "text": "Good idea, there will probably be a lot of people there."
+    }
+]

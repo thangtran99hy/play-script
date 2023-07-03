@@ -1,0 +1,112 @@
+[
+    {
+        "startTime": 3083,
+        "endTime": 5233,
+        "text": "Are there bears at the zoo?"
+    },
+    {
+        "startTime": 6765,
+        "endTime": 7942,
+        "text": "Yes, there are."
+    },
+    {
+        "startTime": 9127,
+        "endTime": 11207,
+        "text": "Are there monkeys at the zoo?"
+    },
+    {
+        "startTime": 12461,
+        "endTime": 13637,
+        "text": "Yes, there are."
+    },
+    {
+        "startTime": 14729,
+        "endTime": 17065,
+        "text": "Are there elephants at the zoo?"
+    },
+    {
+        "startTime": 18319,
+        "endTime": 19565,
+        "text": "Yes, there are."
+    },
+    {
+        "startTime": 20472,
+        "endTime": 22765,
+        "text": "Are there giraffes at the zoo?"
+    },
+    {
+        "startTime": 24203,
+        "endTime": 25543,
+        "text": "Yes, there are."
+    },
+    {
+        "startTime": 26658,
+        "endTime": 29757,
+        "text": "Are there lions and tigers at the zoo?"
+    },
+    {
+        "startTime": 30965,
+        "endTime": 32327,
+        "text": "Yes, there are."
+    },
+    {
+        "startTime": 33221,
+        "endTime": 35394,
+        "text": "Are there hippos at the zoo?"
+    },
+    {
+        "startTime": 36463,
+        "endTime": 37733,
+        "text": "Yes, there are."
+    },
+    {
+        "startTime": 39033,
+        "endTime": 41646,
+        "text": "Are there sea lions at the zoo?"
+    },
+    {
+        "startTime": 42877,
+        "endTime": 44100,
+        "text": "Yes, there are."
+    },
+    {
+        "startTime": 45417,
+        "endTime": 47983,
+        "text": "Are there dinosaurs at the zoo?"
+    },
+    {
+        "startTime": 49283,
+        "endTime": 51090,
+        "text": "No, there are not."
+    },
+    {
+        "startTime": 54518,
+        "endTime": 56019,
+        "text": "Let's go to the zoo."
+    },
+    {
+        "startTime": 57459,
+        "endTime": 59539,
+        "text": "Wow, I'd love to."
+    },
+    {
+        "startTime": 60839,
+        "endTime": 63279,
+        "text": "There are many animals at the zoo."
+    },
+    {
+        "startTime": 64324,
+        "endTime": 66659,
+        "text": "Are there dinosaurs at the zoo?"
+    },
+    {
+        "startTime": 67751,
+        "endTime": 70595,
+        "text": "No, there aren't dinosaurs at the zoo."
+    },
+    {
+        "startTime": 71895,
+        "endTime": 75596,
+        "text": "Oh, no. I want to see dinosaurs."
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 750,
+        "endTime": 2700,
+        "text": "Hello. Can I sit here?"
+    },
+    {
+        "startTime": 3350,
+        "endTime": 6200,
+        "text": "Sure. Hi, I'm Julia."
+    },
+    {
+        "startTime": 6750,
+        "endTime": 7800,
+        "text": "What's your name?"
+    },
+    {
+        "startTime": 8100,
+        "endTime": 9500,
+        "text": "My name is Nat."
+    },
+    {
+        "startTime": 9900,
+        "endTime": 12600,
+        "text": "Hi Nat. Where are you from?"
+    },
+    {
+        "startTime": 12950,
+        "endTime": 14200,
+        "text": "I'm from Thailand."
+    },
+    {
+        "startTime": 14900,
+        "endTime": 15850,
+        "text": "What about you?"
+    },
+    {
+        "startTime": 16350,
+        "endTime": 17400,
+        "text": "Where are you from?"
+    },
+    {
+        "startTime": 18000,
+        "endTime": 21700,
+        "text": "I'm from Australia. Sydney is my hometown."
+    },
+    {
+        "startTime": 21800,
+        "endTime": 24600,
+        "text": "Really? It's a beautiful city."
+    },
+    {
+        "startTime": 24800,
+        "endTime": 28100,
+        "text": "Yes it is. What are you studying?"
+    },
+    {
+        "startTime": 28500,
+        "endTime": 29800,
+        "text": "I study Business."
+    },
+    {
+        "startTime": 30450,
+        "endTime": 32900,
+        "text": "And you? What are you studying?"
+    },
+    {
+        "startTime": 33500,
+        "endTime": 35450,
+        "text": "I'm studying Business too."
+    },
+    {
+        "startTime": 35850,
+        "endTime": 37500,
+        "text": "Nice to meet you, Nat."
+    },
+    {
+        "startTime": 37650,
+        "endTime": 39400,
+        "text": "Nice to meet you too, Julia."
+    }
+]

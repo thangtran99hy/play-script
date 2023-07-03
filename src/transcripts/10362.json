@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 283,
+        "endTime": 1984,
+        "text": "Hi, Veronica! How's it going?"
+    },
+    {
+        "startTime": 2751,
+        "endTime": 5231,
+        "text": "Hey, Ben! Pretty good. How are you?"
+    },
+    {
+        "startTime": 5733,
+        "endTime": 8387,
+        "text": "Not bad. Hey, are you busy on Friday?"
+    },
+    {
+        "startTime": 9359,
+        "endTime": 11742,
+        "text": "Actually, I'm very busy that day."
+    },
+    {
+        "startTime": 12227,
+        "endTime": 14124,
+        "text": "I have a ton of biology homework."
+    },
+    {
+        "startTime": 14951,
+        "endTime": 16300,
+        "text": "Well, how about Saturday?"
+    },
+    {
+        "startTime": 16963,
+        "endTime": 19104,
+        "text": "I think I'm free, why?"
+    },
+    {
+        "startTime": 19843,
+        "endTime": 20968,
+        "text": "Would you like to go to a movie?"
+    },
+    {
+        "startTime": 21709,
+        "endTime": 23576,
+        "text": "Sure, what do you wanna see?"
+    },
+    {
+        "startTime": 24200,
+        "endTime": 25958,
+        "text": "There's a new movie with Drew Barrymore..."
+    },
+    {
+        "startTime": 26537,
+        "endTime": 28707,
+        "text": "I love her! Ok, I'm in."
+    },
+    {
+        "startTime": 29699,
+        "endTime": 30977,
+        "text": "Let's go to an early show."
+    },
+    {
+        "startTime": 31571,
+        "endTime": 32909,
+        "text": "I'll be at your house before 7."
+    }
+]

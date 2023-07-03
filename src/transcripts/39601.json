@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 343,
+        "endTime": 775,
+        "text": "Hello!"
+    },
+    {
+        "startTime": 1413,
+        "endTime": 2781,
+        "text": "Hi, Marco! It's Hannah."
+    },
+    {
+        "startTime": 3661,
+        "endTime": 4283,
+        "text": "Hi, Hannah!"
+    },
+    {
+        "startTime": 4425,
+        "endTime": 5747,
+        "text": "Oh, what are you doing Friday night?"
+    },
+    {
+        "startTime": 6109,
+        "endTime": 8963,
+        "text": "Friday night? I always work Friday night."
+    },
+    {
+        "startTime": 9990,
+        "endTime": 10800,
+        "text": "That's right."
+    },
+    {
+        "startTime": 11433,
+        "endTime": 12733,
+        "text": "Well, what about Saturday?"
+    },
+    {
+        "startTime": 12981,
+        "endTime": 15537,
+        "text": "Saturday is fine. I never work on Saturday."
+    },
+    {
+        "startTime": 16451,
+        "endTime": 17509,
+        "text": "Well, would you like to go to dinner?"
+    },
+    {
+        "startTime": 17869,
+        "endTime": 19831,
+        "text": "Dinner? That sounds good."
+    },
+    {
+        "startTime": 20127,
+        "endTime": 20998,
+        "text": "Wonderful!"
+    }
+]

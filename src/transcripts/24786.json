@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 5425,
+        "endTime": 11234,
+        "text": "Hello, welcome to DJC News."
+    },
+    {
+        "startTime": 12559,
+        "endTime": 14456,
+        "text": "Oh hi, Urple."
+    },
+    {
+        "startTime": 14739,
+        "endTime": 16070,
+        "text": "Hello!"
+    },
+    {
+        "startTime": 16665,
+        "endTime": 18549,
+        "text": "How's the weather today?"
+    },
+    {
+        "startTime": 19282,
+        "endTime": 23385,
+        "text": "Oh, it's sunny."
+    },
+    {
+        "startTime": 25882,
+        "endTime": 27493,
+        "text": "It's sunny!"
+    },
+    {
+        "startTime": 28553,
+        "endTime": 30551,
+        "text": "How's the weather today?"
+    },
+    {
+        "startTime": 31752,
+        "endTime": 37903,
+        "text": "Oh, it's cloudy."
+    },
+    {
+        "startTime": 38248,
+        "endTime": 40842,
+        "text": "It's cloudy!"
+    },
+    {
+        "startTime": 43515,
+        "endTime": 45883,
+        "text": "How's the weather today?"
+    },
+    {
+        "startTime": 49333,
+        "endTime": 51225,
+        "text": "It's rainy."
+    },
+    {
+        "startTime": 53201,
+        "endTime": 54220,
+        "text": "It's rainy!"
+    },
+    {
+        "startTime": 57665,
+        "endTime": 59863,
+        "text": "How's the weather today?"
+    },
+    {
+        "startTime": 60455,
+        "endTime": 64444,
+        "text": "Oh, it's snowy."
+    },
+    {
+        "startTime": 69108,
+        "endTime": 71818,
+        "text": "It's snowy!"
+    },
+    {
+        "startTime": 77904,
+        "endTime": 91633,
+        "text": "Sunny, cloudy, rainy, snowy."
+    },
+    {
+        "startTime": 95107,
+        "endTime": 99665,
+        "text": "Well, thank you Urple, bye-bye!"
+    }
+]

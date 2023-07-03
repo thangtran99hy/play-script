@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 766,
+        "endTime": 2114,
+        "text": "This shirt is cheap."
+    },
+    {
+        "startTime": 3663,
+        "endTime": 5477,
+        "text": "That blouse is expensive."
+    },
+    {
+        "startTime": 6793,
+        "endTime": 8141,
+        "text": "My phone is cheap."
+    },
+    {
+        "startTime": 9790,
+        "endTime": 11837,
+        "text": "My laptop is expensive."
+    },
+    {
+        "startTime": 13486,
+        "endTime": 15567,
+        "text": "This TV is 300 dollars."
+    },
+    {
+        "startTime": 18015,
+        "endTime": 20878,
+        "text": "That TV is 400 dollars."
+    },
+    {
+        "startTime": 23375,
+        "endTime": 25773,
+        "text": "My notebooks are three dollars each."
+    },
+    {
+        "startTime": 28520,
+        "endTime": 31067,
+        "text": "My notebooks are four dollars each."
+    }
+]

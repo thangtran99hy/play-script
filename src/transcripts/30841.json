@@ -1,0 +1,217 @@
+[
+    {
+        "startTime": 50,
+        "endTime": 3460,
+        "text": "﻿Most people know that Facebook has information about them."
+    },
+    {
+        "startTime": 3678,
+        "endTime": 8369,
+        "text": "We submit things like our names, our hometowns, our ages,..."
+    },
+    {
+        "startTime": 8443,
+        "endTime": 10697,
+        "text": "...our birthdays and our interests,..."
+    },
+    {
+        "startTime": 10781,
+        "endTime": 13423,
+        "text": "...and we assume that Facebook is collecting that data."
+    },
+    {
+        "startTime": 13506,
+        "endTime": 18472,
+        "text": "But Facebook has much more data on most people than they realize."
+    },
+    {
+        "startTime": 21790,
+        "endTime": 23804,
+        "text": "Facebook can take all the data that you submit..."
+    },
+    {
+        "startTime": 23901,
+        "endTime": 26003,
+        "text": "...and combine it with data from other users..."
+    },
+    {
+        "startTime": 26209,
+        "endTime": 29069,
+        "text": "...and outside information to construct a profile of you."
+    },
+    {
+        "startTime": 29467,
+        "endTime": 32181,
+        "text": "Facebook uses nearly 100 different data points..."
+    },
+    {
+        "startTime": 32284,
+        "endTime": 34959,
+        "text": "...to classify your interests and activities."
+    },
+    {
+        "startTime": 35421,
+        "endTime": 38158,
+        "text": "This would include basic stuff like your age and gender,..."
+    },
+    {
+        "startTime": 38387,
+        "endTime": 42224,
+        "text": "...but also more complicated information like whether you own a motorcycle..."
+    },
+    {
+        "startTime": 42327,
+        "endTime": 45714,
+        "text": "...or you recently went on vacation or whether you're a gadget geek."
+    },
+    {
+        "startTime": 46067,
+        "endTime": 49847,
+        "text": "Researchers have found that by using signals such as your likes and interactions,..."
+    },
+    {
+        "startTime": 50163,
+        "endTime": 54200,
+        "text": "...Facebook could tell if you were in a relationship or going through a breakup."
+    },
+    {
+        "startTime": 56209,
+        "endTime": 58351,
+        "text": "Facebook doesn't just know who you are."
+    },
+    {
+        "startTime": 58430,
+        "endTime": 60103,
+        "text": "It also knows where you are."
+    },
+    {
+        "startTime": 60409,
+        "endTime": 62712,
+        "text": "If you have location tracking turned on,..."
+    },
+    {
+        "startTime": 62798,
+        "endTime": 65478,
+        "text": "...Facebook collects an enormous amount of location data..."
+    },
+    {
+        "startTime": 65561,
+        "endTime": 68760,
+        "text": "...about where you're going, where you came from, where you live,..."
+    },
+    {
+        "startTime": 68867,
+        "endTime": 72795,
+        "text": "...where you work, what restaurants and businesses you tend to go to..."
+    },
+    {
+        "startTime": 72893,
+        "endTime": 75811,
+        "text": "...and they use this information to target ads at you."
+    },
+    {
+        "startTime": 75899,
+        "endTime": 79471,
+        "text": "And location data could reveal other people who live in your house,..."
+    },
+    {
+        "startTime": 79655,
+        "endTime": 81731,
+        "text": "...even if you're not connected to them on Facebook."
+    },
+    {
+        "startTime": 84314,
+        "endTime": 89465,
+        "text": "Now obviously, Facebook knows what its users buy when they click on ads from Facebook."
+    },
+    {
+        "startTime": 89905,
+        "endTime": 91179,
+        "text": "But what most people don't realize..."
+    },
+    {
+        "startTime": 91243,
+        "endTime": 94569,
+        "text": "...is that they have ways of tracking your offline purchases as well."
+    },
+    {
+        "startTime": 95773,
+        "endTime": 98418,
+        "text": "For many years, Facebook has had partnerships with data brokers..."
+    },
+    {
+        "startTime": 98508,
+        "endTime": 100997,
+        "text": "...that collected information about people's purchases."
+    },
+    {
+        "startTime": 101213,
+        "endTime": 104166,
+        "text": "So, for example, if you buy a burrito with your credit card,..."
+    },
+    {
+        "startTime": 104445,
+        "endTime": 106339,
+        "text": "...Facebook could know about that transaction,..."
+    },
+    {
+        "startTime": 106530,
+        "endTime": 110133,
+        "text": "...match it with a credit card that you've added to Facebook or Facebook Messenger,..."
+    },
+    {
+        "startTime": 110371,
+        "endTime": 113107,
+        "text": "...and start showing you ads for indigestion medicine."
+    },
+    {
+        "startTime": 117306,
+        "endTime": 120781,
+        "text": "One of the most controversial parts of Facebook data collection..."
+    },
+    {
+        "startTime": 120864,
+        "endTime": 123321,
+        "text": "...is a feature called \"People You May Know.\""
+    },
+    {
+        "startTime": 123665,
+        "endTime": 126681,
+        "text": "And this is where Facebook uses many different signals..."
+    },
+    {
+        "startTime": 126992,
+        "endTime": 130542,
+        "text": "...of what it knows about you to determine who else you might be connected to."
+    },
+    {
+        "startTime": 130995,
+        "endTime": 133431,
+        "text": "And this is not always things that you share with Facebook."
+    },
+    {
+        "startTime": 133527,
+        "endTime": 135345,
+        "text": "It might be contacts in your phone."
+    },
+    {
+        "startTime": 135634,
+        "endTime": 138773,
+        "text": "It might be people who have been in the same room as you."
+    },
+    {
+        "startTime": 139167,
+        "endTime": 141911,
+        "text": "Facebook was using location data to recommend friends."
+    },
+    {
+        "startTime": 142031,
+        "endTime": 145336,
+        "text": "So, it might have been recommending people who share a doctor with you..."
+    },
+    {
+        "startTime": 145417,
+        "endTime": 146901,
+        "text": "...or work in the same building."
+    }
+]

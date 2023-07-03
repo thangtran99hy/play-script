@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 200,
+        "endTime": 3165,
+        "text": "Hi Becca! Thanks for helping me with my shopping."
+    },
+    {
+        "startTime": 3550,
+        "endTime": 4670,
+        "text": "I'm hopeless."
+    },
+    {
+        "startTime": 5600,
+        "endTime": 7000,
+        "text": "Oh, it's no problem!"
+    },
+    {
+        "startTime": 7690,
+        "endTime": 9845,
+        "text": "I need a suit for my job interviews."
+    },
+    {
+        "startTime": 10510,
+        "endTime": 12375,
+        "text": "Okay. What's your budget?"
+    },
+    {
+        "startTime": 12945,
+        "endTime": 17250,
+        "text": "Well, I'm not sure. I don't know what suits cost!"
+    },
+    {
+        "startTime": 17885,
+        "endTime": 22555,
+        "text": "I think you could get a nice one on sale for about five or six hundred dollars."
+    },
+    {
+        "startTime": 22885,
+        "endTime": 25195,
+        "text": "What? That's a SALE price?"
+    },
+    {
+        "startTime": 25395,
+        "endTime": 27700,
+        "text": "Yeah, quality suits are expensive!"
+    },
+    {
+        "startTime": 27950,
+        "endTime": 31730,
+        "text": "Hmm, okay. I guess I have no choice!"
+    }
+]

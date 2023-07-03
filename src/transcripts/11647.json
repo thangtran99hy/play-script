@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 6000,
+        "endTime": 8200,
+        "text": "She's been waiting half an hour, what took you so long?"
+    },
+    {
+        "startTime": 10000,
+        "endTime": 13300,
+        "text": "I'm in a hurry, my back is killing me, can we just do this?"
+    },
+    {
+        "startTime": 15150,
+        "endTime": 17050,
+        "text": "I just got a collection notice from you people."
+    },
+    {
+        "startTime": 17250,
+        "endTime": 19250,
+        "text": "If this affects my credit, I will sue!"
+    },
+    {
+        "startTime": 21800,
+        "endTime": 25650,
+        "text": "Do you feel as though your job becomes more demanding and stressful every day?"
+    },
+    {
+        "startTime": 26300,
+        "endTime": 28400,
+        "text": "For most of us, there's just too much to do..."
+    },
+    {
+        "startTime": 28800,
+        "endTime": 30650,
+        "text": "...and not enough time to get it done."
+    },
+    {
+        "startTime": 31400,
+        "endTime": 32650,
+        "text": "With pressures like these,..."
+    },
+    {
+        "startTime": 32800,
+        "endTime": 37550,
+        "text": "...it can be all too easy to forget about the needs of the person we're here to help:..."
+    },
+    {
+        "startTime": 39250,
+        "endTime": 39950,
+        "text": "...the patient."
+    },
+    {
+        "startTime": 40650,
+        "endTime": 45150,
+        "text": "The result: patient dissatisfaction, patient complaints,..."
+    },
+    {
+        "startTime": 45900,
+        "endTime": 48300,
+        "text": "...and even more job stress for you."
+    },
+    {
+        "startTime": 48850,
+        "endTime": 57000,
+        "text": "Today more than ever, it's important we learn how to handle patient complaints easily and quickly."
+    },
+    {
+        "startTime": 57350,
+        "endTime": 62550,
+        "text": "What we need is a simple, easy-to-remember formula for managing patient complaints:..."
+    },
+    {
+        "startTime": 66150,
+        "endTime": 66800,
+        "text": "...STAT."
+    }
+]

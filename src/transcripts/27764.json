@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 1741,
+        "endTime": 3277,
+        "text": "﻿Since the Industrial Revolution,..."
+    },
+    {
+        "startTime": 3373,
+        "endTime": 6543,
+        "text": "...we've been taking new materials from the ground to make things,..."
+    },
+    {
+        "startTime": 6863,
+        "endTime": 9029,
+        "text": "...things that we toss away after we've used them."
+    },
+    {
+        "startTime": 9825,
+        "endTime": 14635,
+        "text": "When it comes to resources, we have to start thinking circular, not linear,..."
+    },
+    {
+        "startTime": 15093,
+        "endTime": 17025,
+        "text": "...keeping materials out of the landfill..."
+    },
+    {
+        "startTime": 17126,
+        "endTime": 20357,
+        "text": "...and conserving resources such as energy and water."
+    },
+    {
+        "startTime": 21363,
+        "endTime": 24874,
+        "text": "At Google, we've applied this circular approach to our data centers,..."
+    },
+    {
+        "startTime": 25153,
+        "endTime": 28881,
+        "text": "...which are engines of the internet and the most energy-efficient in the world."
+    },
+    {
+        "startTime": 29373,
+        "endTime": 30659,
+        "text": "We've redesigned the system..."
+    },
+    {
+        "startTime": 30911,
+        "endTime": 36434,
+        "text": "...so nearly all components are maintained, reused, refurbished, or recycled."
+    },
+    {
+        "startTime": 37314,
+        "endTime": 42303,
+        "text": "In 2015, 52 percent of machine upgrades used refurbished inventory,..."
+    },
+    {
+        "startTime": 42399,
+        "endTime": 46007,
+        "text": "...and Google resold nearly 2 million units into secondary markets..."
+    },
+    {
+        "startTime": 46087,
+        "endTime": 48235,
+        "text": "...for reuse by other organizations."
+    },
+    {
+        "startTime": 49176,
+        "endTime": 51975,
+        "text": "By practicing circular concepts and server management,..."
+    },
+    {
+        "startTime": 52165,
+        "endTime": 55393,
+        "text": "...we saved hundreds of millions of dollars in redirected materials..."
+    },
+    {
+        "startTime": 55486,
+        "endTime": 58811,
+        "text": "...back into the marketplace, instead of the landfill."
+    }
+]

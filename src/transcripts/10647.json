@@ -1,0 +1,102 @@
+[
+    {
+        "startTime": 2550,
+        "endTime": 6400,
+        "text": "Hi, my name is Matt Cutts and I work in Google Search Quality Group."
+    },
+    {
+        "startTime": 6750,
+        "endTime": 10550,
+        "text": "Today, I'm gonna tell you a bit about how Google Social Search works."
+    },
+    {
+        "startTime": 10750,
+        "endTime": 16150,
+        "text": "Google Social Search is a new experiment to help you find publicly available Web content..."
+    },
+    {
+        "startTime": 16500,
+        "endTime": 20850,
+        "text": "...from your social circle quickly and more easily in Google Search."
+    },
+    {
+        "startTime": 21100,
+        "endTime": 23500,
+        "text": "First, let me give you some context."
+    },
+    {
+        "startTime": 24150,
+        "endTime": 28650,
+        "text": "Today on the Internet, people have many different places where they make social connections..."
+    },
+    {
+        "startTime": 28850,
+        "endTime": 34750,
+        "text": "...and publish web content like blogs, status updates, Tweets and pictures."
+    },
+    {
+        "startTime": 35250,
+        "endTime": 39550,
+        "text": "People choose to publish much of this content publicly for everyone to see."
+    },
+    {
+        "startTime": 40150,
+        "endTime": 44250,
+        "text": "For example, I have a Twitter account where I follow more than a hundred people."
+    },
+    {
+        "startTime": 45150,
+        "endTime": 50250,
+        "text": "Anyone browsing on the Web today can visit my Twitter page and see the Tweets I've been writing."
+    },
+    {
+        "startTime": 50400,
+        "endTime": 54300,
+        "text": "Anyone can also see the list of people I'm following on Twitter."
+    },
+    {
+        "startTime": 55000,
+        "endTime": 57800,
+        "text": "I also write a public blog, and have a FriendFeed account."
+    },
+    {
+        "startTime": 58250,
+        "endTime": 63000,
+        "text": "These various online social services create an implicit network of connections..."
+    },
+    {
+        "startTime": 63250,
+        "endTime": 65400,
+        "text": "...which we like to call, your social circle."
+    },
+    {
+        "startTime": 66100,
+        "endTime": 69200,
+        "text": "For example, I'm following Leo Laporte on Twitter,..."
+    },
+    {
+        "startTime": 70250,
+        "endTime": 72600,
+        "text": "...and on FriendFeed, I follow Danny Sullivan."
+    },
+    {
+        "startTime": 73850,
+        "endTime": 75950,
+        "text": "There's also an extended social circle..."
+    },
+    {
+        "startTime": 76100,
+        "endTime": 78950,
+        "text": "...which is the set of people that Leo and Danny follow."
+    },
+    {
+        "startTime": 79650,
+        "endTime": 82400,
+        "text": "With Google Social Search, we've managed to pull..."
+    },
+    {
+        "startTime": 82450,
+        "endTime": 86200,
+        "text": "...different pieces of your public social circle together in a single place."
+    }
+]

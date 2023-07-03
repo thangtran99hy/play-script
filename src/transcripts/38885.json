@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 540,
+        "endTime": 1923,
+        "text": "My name is Ron."
+    },
+    {
+        "startTime": 2654,
+        "endTime": 4440,
+        "text": "I can eat lots of food."
+    },
+    {
+        "startTime": 5617,
+        "endTime": 7487,
+        "text": "I could make Hermione happy."
+    },
+    {
+        "startTime": 8566,
+        "endTime": 10616,
+        "text": "I know how to drive a car."
+    },
+    {
+        "startTime": 11557,
+        "endTime": 13579,
+        "text": "I'm good at making people laugh."
+    },
+    {
+        "startTime": 14443,
+        "endTime": 16500,
+        "text": "Hermione is my friend."
+    },
+    {
+        "startTime": 17113,
+        "endTime": 19046,
+        "text": "She is able to do magic."
+    }
+]

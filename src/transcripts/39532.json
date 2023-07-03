@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 1494,
+        "endTime": 3487,
+        "text": "It's time to have breakfast!"
+    },
+    {
+        "startTime": 8114,
+        "endTime": 10598,
+        "text": "After breakfast, we do the dishes."
+    },
+    {
+        "startTime": 14121,
+        "endTime": 17300,
+        "text": "It's time to relax and take a break!"
+    },
+    {
+        "startTime": 18862,
+        "endTime": 20559,
+        "text": "When is a good time to call you?"
+    },
+    {
+        "startTime": 20947,
+        "endTime": 23166,
+        "text": "You can call me anytime after 9."
+    },
+    {
+        "startTime": 23371,
+        "endTime": 24853,
+        "text": "I go to bed pretty late."
+    },
+    {
+        "startTime": 25133,
+        "endTime": 27023,
+        "text": "What time do you usually go to bed?"
+    },
+    {
+        "startTime": 27399,
+        "endTime": 30061,
+        "text": "I usually stay awake until 2 A.M."
+    },
+    {
+        "startTime": 30343,
+        "endTime": 32039,
+        "text": "What time do you usually get up?"
+    },
+    {
+        "startTime": 32593,
+        "endTime": 34607,
+        "text": "I get up at around 8 o'clock."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "startTime": 5039,
+        "endTime": 12915,
+        "text": "Ten minus one equals nine."
+    },
+    {
+        "startTime": 17697,
+        "endTime": 25665,
+        "text": "Nine minus one equals eight."
+    },
+    {
+        "startTime": 29659,
+        "endTime": 37845,
+        "text": "Eight minus one equals seven."
+    },
+    {
+        "startTime": 41701,
+        "endTime": 49887,
+        "text": "Seven minus one equals six."
+    },
+    {
+        "startTime": 53778,
+        "endTime": 61530,
+        "text": "Six minus one equals five."
+    }
+]

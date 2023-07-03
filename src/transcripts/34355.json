@@ -1,0 +1,112 @@
+[
+    {
+        "startTime": 205,
+        "endTime": 3319,
+        "text": "For decades, human beings have played games against computers."
+    },
+    {
+        "startTime": 3678,
+        "endTime": 5364,
+        "text": "At first, the computers struggled."
+    },
+    {
+        "startTime": 5737,
+        "endTime": 6893,
+        "text": "But then, they started winning."
+    },
+    {
+        "startTime": 7089,
+        "endTime": 7603,
+        "text": "Watson!"
+    },
+    {
+        "startTime": 7783,
+        "endTime": 8751,
+        "text": "What is Creed?"
+    },
+    {
+        "startTime": 8936,
+        "endTime": 9243,
+        "text": "Yes!"
+    },
+    {
+        "startTime": 9673,
+        "endTime": 13562,
+        "text": "And now they've become so dominant that they're raising doubts about the future of humanity."
+    },
+    {
+        "startTime": 14147,
+        "endTime": 17317,
+        "text": "The latest emblem for existential dread is Google's DeepMind project,..."
+    },
+    {
+        "startTime": 17665,
+        "endTime": 18825,
+        "text": "...which created AlphaGo,..."
+    },
+    {
+        "startTime": 19157,
+        "endTime": 23468,
+        "text": "...an AI program that's become unbeatable at the most complex strategy game on the planet."
+    },
+    {
+        "startTime": 23953,
+        "endTime": 27466,
+        "text": "While the game of checkers has 10 to the power of 20 possible outcomes,..."
+    },
+    {
+        "startTime": 27567,
+        "endTime": 30934,
+        "text": "...and a game of chess has 10 to the power of 40 possible outcomes,..."
+    },
+    {
+        "startTime": 31115,
+        "endTime": 33969,
+        "text": "...Go has 10 to the power of 80 possible outcomes."
+    },
+    {
+        "startTime": 34449,
+        "endTime": 36829,
+        "text": "AlphaGo is trained to analyze situations itself,...."
+    },
+    {
+        "startTime": 37033,
+        "endTime": 41486,
+        "text": "...by breaking the game down to tiny parts and visualizing all possible moves."
+    },
+    {
+        "startTime": 42249,
+        "endTime": 45575,
+        "text": "It played the world's best Go player, 19-year-old Ke Jie,..."
+    },
+    {
+        "startTime": 46081,
+        "endTime": 47419,
+        "text": "...with the help of a human handler."
+    },
+    {
+        "startTime": 47965,
+        "endTime": 51460,
+        "text": "AlphaGo beat him three times and after doing what it was designed to do,..."
+    },
+    {
+        "startTime": 51749,
+        "endTime": 52808,
+        "text": "...retired from the game."
+    },
+    {
+        "startTime": 53558,
+        "endTime": 57381,
+        "text": "If a system like AlphaGo can learn all the moves in Go well enough to beat a person,..."
+    },
+    {
+        "startTime": 57803,
+        "endTime": 62283,
+        "text": "...then it has the potential to replace lawyers and accountants, among dozens of other jobs."
+    },
+    {
+        "startTime": 62931,
+        "endTime": 66745,
+        "text": "It might be perfect, but it has no way to navigate human politics."
+    }
+]

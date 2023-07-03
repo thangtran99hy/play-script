@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 3000,
+        "endTime": 4900,
+        "text": "So, what do you think happens when you die?"
+    },
+    {
+        "startTime": 10000,
+        "endTime": 10900,
+        "text": "I don't think we die."
+    },
+    {
+        "startTime": 14250,
+        "endTime": 15400,
+        "text": "Your body dies."
+    },
+    {
+        "startTime": 19300,
+        "endTime": 20350,
+        "text": "But that's just your body."
+    },
+    {
+        "startTime": 27600,
+        "endTime": 29150,
+        "text": "So, what continues on then..."
+    },
+    {
+        "startTime": 29800,
+        "endTime": 31700,
+        "text": "...if it's just your body that dies?"
+    }
+]

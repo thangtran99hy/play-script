@@ -1,0 +1,92 @@
+[
+    {
+        "startTime": 2551,
+        "endTime": 5435,
+        "text": "Hi! I'm Peter, a Product Manager at Google."
+    },
+    {
+        "startTime": 6573,
+        "endTime": 9848,
+        "text": "Today, I'm gonna tell you a little bit about SafeSearch for Google images."
+    },
+    {
+        "startTime": 10398,
+        "endTime": 15409,
+        "text": "SafeSearch is a feature which filters adult content from your web, images, and video results."
+    },
+    {
+        "startTime": 16279,
+        "endTime": 17882,
+        "text": "By default, it's set to \"moderate\"."
+    },
+    {
+        "startTime": 18524,
+        "endTime": 20495,
+        "text": "But you can change this in the Search Settings menu..."
+    },
+    {
+        "startTime": 20653,
+        "endTime": 22270,
+        "text": "...on any image search results page."
+    },
+    {
+        "startTime": 24659,
+        "endTime": 28977,
+        "text": "You'll find the three SafeSearch options in a drop-down menu to the right of the search box."
+    },
+    {
+        "startTime": 30495,
+        "endTime": 32771,
+        "text": "You can turn SafeSearch off to remove filtering..."
+    },
+    {
+        "startTime": 33391,
+        "endTime": 35847,
+        "text": "...or set it to \"strict\" for a stronger set of filters."
+    },
+    {
+        "startTime": 36505,
+        "endTime": 38489,
+        "text": "No filter is 100% perfect, however."
+    },
+    {
+        "startTime": 38878,
+        "endTime": 42962,
+        "text": "So if you do happen to see an adult image while using a SafeSearch set to \"strict\" or \"moderate\",..."
+    },
+    {
+        "startTime": 43353,
+        "endTime": 44861,
+        "text": "...we encourage you to report this to us."
+    },
+    {
+        "startTime": 46009,
+        "endTime": 50617,
+        "text": "To do this, click the \"report offensive images\" link in the SafeSearch drop-down menu,..."
+    },
+    {
+        "startTime": 51578,
+        "endTime": 54740,
+        "text": "...then click the \"report\" button over the image you wish to report."
+    },
+    {
+        "startTime": 56024,
+        "endTime": 57983,
+        "text": "While we can't take action on all of the reports,..."
+    },
+    {
+        "startTime": 58169,
+        "endTime": 60681,
+        "text": "...they help us improve our SafeSearch algorithm over time,..."
+    },
+    {
+        "startTime": 60981,
+        "endTime": 63057,
+        "text": "...and create a better Images experience for everyone."
+    },
+    {
+        "startTime": 64592,
+        "endTime": 66928,
+        "text": "To learn more, please visit our Help Center."
+    }
+]

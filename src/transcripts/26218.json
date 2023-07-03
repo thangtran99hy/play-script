@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 723,
+        "endTime": 2666,
+        "text": "Let's learn about transport."
+    },
+    {
+        "startTime": 5493,
+        "endTime": 6419,
+        "text": "Airplane."
+    },
+    {
+        "startTime": 10391,
+        "endTime": 11456,
+        "text": "Van."
+    },
+    {
+        "startTime": 14859,
+        "endTime": 15681,
+        "text": "Cycle."
+    },
+    {
+        "startTime": 19680,
+        "endTime": 20482,
+        "text": "Ambulance."
+    },
+    {
+        "startTime": 24277,
+        "endTime": 25094,
+        "text": "Car."
+    },
+    {
+        "startTime": 28887,
+        "endTime": 29765,
+        "text": "Rocket."
+    },
+    {
+        "startTime": 34031,
+        "endTime": 34600,
+        "text": "Ship."
+    },
+    {
+        "startTime": 38713,
+        "endTime": 39839,
+        "text": "Fire engine."
+    },
+    {
+        "startTime": 43523,
+        "endTime": 44401,
+        "text": "Taxi."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 405,
+        "endTime": 3030,
+        "text": "I'd like to buy fifty of these hand towels, please."
+    },
+    {
+        "startTime": 3461,
+        "endTime": 5461,
+        "text": "We're going to give them away to our customers."
+    },
+    {
+        "startTime": 6665,
+        "endTime": 7357,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 7703,
+        "endTime": 9913,
+        "text": "The design on this towel is beautiful..."
+    },
+    {
+        "startTime": 10052,
+        "endTime": 11969,
+        "text": "...so I'm sure your customers will like them."
+    },
+    {
+        "startTime": 12835,
+        "endTime": 15007,
+        "text": "Is it possible to give us a discount?"
+    },
+    {
+        "startTime": 15385,
+        "endTime": 16400,
+        "text": "OK."
+    },
+    {
+        "startTime": 17263,
+        "endTime": 19357,
+        "text": "We will give you 10% discount."
+    },
+    {
+        "startTime": 19995,
+        "endTime": 23503,
+        "text": "The price of one towel is $5.25,..."
+    },
+    {
+        "startTime": 24063,
+        "endTime": 28173,
+        "text": "...so the total amount will be $236.25."
+    },
+    {
+        "startTime": 29359,
+        "endTime": 29599,
+        "text": "Great."
+    },
+    {
+        "startTime": 30267,
+        "endTime": 32808,
+        "text": "And would you like us to deliver them to your office?"
+    }
+]

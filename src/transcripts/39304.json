@@ -1,0 +1,147 @@
+[
+    {
+        "startTime": 1015,
+        "endTime": 3058,
+        "text": "Good evening, are you ready to order?"
+    },
+    {
+        "startTime": 3661,
+        "endTime": 6904,
+        "text": "Well, first, can you tell me please, what is today's soup?"
+    },
+    {
+        "startTime": 7179,
+        "endTime": 8158,
+        "text": "It's bean soup."
+    },
+    {
+        "startTime": 8334,
+        "endTime": 9203,
+        "text": "It's very good."
+    },
+    {
+        "startTime": 9571,
+        "endTime": 11863,
+        "text": "Okay, I'd like soup as a starter..."
+    },
+    {
+        "startTime": 12493,
+        "endTime": 15685,
+        "text": "...and then could I have veal escalope for my main course."
+    },
+    {
+        "startTime": 16011,
+        "endTime": 17537,
+        "text": "Is that with salad?"
+    },
+    {
+        "startTime": 17945,
+        "endTime": 19289,
+        "text": "With vegetables please."
+    },
+    {
+        "startTime": 19452,
+        "endTime": 20268,
+        "text": "Certainly, madam."
+    },
+    {
+        "startTime": 20672,
+        "endTime": 23215,
+        "text": "I'd like the same for my starter, please."
+    },
+    {
+        "startTime": 23580,
+        "endTime": 28855,
+        "text": "And then I'd like spaghetti bolognese for my main course with salad."
+    },
+    {
+        "startTime": 29356,
+        "endTime": 30022,
+        "text": "And you, sir?"
+    },
+    {
+        "startTime": 30341,
+        "endTime": 32581,
+        "text": "Could I have risotto as a starter, please?"
+    },
+    {
+        "startTime": 33075,
+        "endTime": 34937,
+        "text": "And then what is chicken amalfi?"
+    },
+    {
+        "startTime": 35091,
+        "endTime": 36295,
+        "text": "It's our speciality."
+    },
+    {
+        "startTime": 36600,
+        "endTime": 39305,
+        "text": "It's chicken with tomato and mushroom sauce."
+    },
+    {
+        "startTime": 39547,
+        "endTime": 41565,
+        "text": "That sounds good. I'd like that, please."
+    },
+    {
+        "startTime": 42886,
+        "endTime": 44583,
+        "text": "Would you like something to drink?"
+    },
+    {
+        "startTime": 45142,
+        "endTime": 46669,
+        "text": "Mary, Anna, would you like wine?"
+    },
+    {
+        "startTime": 46880,
+        "endTime": 48067,
+        "text": "I'd love a glass of red wine."
+    },
+    {
+        "startTime": 49020,
+        "endTime": 49856,
+        "text": "The house wine?"
+    },
+    {
+        "startTime": 50227,
+        "endTime": 51479,
+        "text": "Yes, that's fine, thanks."
+    },
+    {
+        "startTime": 51754,
+        "endTime": 53957,
+        "text": "I'd just like some sparkling water."
+    },
+    {
+        "startTime": 54578,
+        "endTime": 59015,
+        "text": "Okay, two glasses of the house red wine and a bottle of sparkling water, please."
+    },
+    {
+        "startTime": 59213,
+        "endTime": 59879,
+        "text": "Very good."
+    },
+    {
+        "startTime": 66601,
+        "endTime": 68701,
+        "text": "They have very good desserts here too."
+    },
+    {
+        "startTime": 68821,
+        "endTime": 70781,
+        "text": "The ice cream is wonderful."
+    },
+    {
+        "startTime": 71111,
+        "endTime": 73724,
+        "text": "Great! I love Italian ice cream."
+    },
+    {
+        "startTime": 73883,
+        "endTime": 74426,
+        "text": "Me too."
+    }
+]

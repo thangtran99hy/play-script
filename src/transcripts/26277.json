@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 735,
+        "endTime": 2977,
+        "text": "Let's learn about vegetables."
+    },
+    {
+        "startTime": 5637,
+        "endTime": 6366,
+        "text": "Tomato."
+    },
+    {
+        "startTime": 10519,
+        "endTime": 11275,
+        "text": "Carrot."
+    },
+    {
+        "startTime": 14999,
+        "endTime": 16188,
+        "text": "Capsicum."
+    },
+    {
+        "startTime": 19924,
+        "endTime": 20927,
+        "text": "Eggplant."
+    },
+    {
+        "startTime": 24497,
+        "endTime": 25655,
+        "text": "Mushroom."
+    },
+    {
+        "startTime": 29298,
+        "endTime": 30239,
+        "text": "Potato."
+    },
+    {
+        "startTime": 33965,
+        "endTime": 34782,
+        "text": "Broccoli."
+    },
+    {
+        "startTime": 38984,
+        "endTime": 39925,
+        "text": "Cucumber."
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 3870,
+        "endTime": 4960,
+        "text": "﻿I am a swimmer."
+    },
+    {
+        "startTime": 6680,
+        "endTime": 8150,
+        "text": "You are a teacher."
+    },
+    {
+        "startTime": 9727,
+        "endTime": 10643,
+        "text": "He is a cook."
+    },
+    {
+        "startTime": 12318,
+        "endTime": 13875,
+        "text": "She is a scientist."
+    },
+    {
+        "startTime": 15572,
+        "endTime": 16974,
+        "text": "It is an orange juice."
+    },
+    {
+        "startTime": 18601,
+        "endTime": 19516,
+        "text": "They are girls."
+    },
+    {
+        "startTime": 21271,
+        "endTime": 22341,
+        "text": "We are friends."
+    }
+]

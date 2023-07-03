@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 174,
+        "endTime": 3251,
+        "text": "Here are some phrases you can use in online meetings."
+    },
+    {
+        "startTime": 4245,
+        "endTime": 5712,
+        "text": "Hello everyone! Good morning."
+    },
+    {
+        "startTime": 7577,
+        "endTime": 8815,
+        "text": "You're on mute."
+    },
+    {
+        "startTime": 10755,
+        "endTime": 13027,
+        "text": "I'm sorry, I didn't realize I was on mute."
+    },
+    {
+        "startTime": 14922,
+        "endTime": 17349,
+        "text": "Can you please share your screen so everyone can see?"
+    },
+    {
+        "startTime": 19269,
+        "endTime": 22315,
+        "text": "Sorry to interrupt, but may I ask a quick question?"
+    },
+    {
+        "startTime": 24325,
+        "endTime": 26629,
+        "text": "I'm sorry, I have a terrible connection today."
+    },
+    {
+        "startTime": 28602,
+        "endTime": 31122,
+        "text": "Can you hear me? I think you're breaking up."
+    },
+    {
+        "startTime": 33173,
+        "endTime": 35167,
+        "text": "Let's go over our priorities, shall we?"
+    },
+    {
+        "startTime": 37167,
+        "endTime": 39036,
+        "text": "Are there any comments or questions?"
+    },
+    {
+        "startTime": 40971,
+        "endTime": 42531,
+        "text": "Have a great day! Goodbye."
+    }
+]

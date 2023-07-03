@@ -1,0 +1,92 @@
+[
+    {
+        "startTime": 3359,
+        "endTime": 3957,
+        "text": "You want the book?"
+    },
+    {
+        "startTime": 4222,
+        "endTime": 5463,
+        "text": "Yes or no?"
+    },
+    {
+        "startTime": 8312,
+        "endTime": 9371,
+        "text": "Look, Cameron, you want the book?"
+    },
+    {
+        "startTime": 9512,
+        "endTime": 10389,
+        "text": "Yes or no?"
+    },
+    {
+        "startTime": 14045,
+        "endTime": 14443,
+        "text": "No."
+    },
+    {
+        "startTime": 14757,
+        "endTime": 15871,
+        "text": "No, you don't want the book?"
+    },
+    {
+        "startTime": 16087,
+        "endTime": 16747,
+        "text": "Okay."
+    },
+    {
+        "startTime": 18005,
+        "endTime": 19235,
+        "text": "Do you want the car?"
+    },
+    {
+        "startTime": 19424,
+        "endTime": 20659,
+        "text": "Yes or no?"
+    },
+    {
+        "startTime": 28059,
+        "endTime": 28389,
+        "text": "No."
+    },
+    {
+        "startTime": 28667,
+        "endTime": 30241,
+        "text": "No, you don't want the car."
+    },
+    {
+        "startTime": 31035,
+        "endTime": 33407,
+        "text": "Let's see what else."
+    },
+    {
+        "startTime": 35965,
+        "endTime": 37419,
+        "text": "Do you want the bubbles?"
+    },
+    {
+        "startTime": 37648,
+        "endTime": 39482,
+        "text": "Yes or no?"
+    },
+    {
+        "startTime": 43456,
+        "endTime": 44207,
+        "text": "You want the bubbles?"
+    },
+    {
+        "startTime": 44413,
+        "endTime": 45763,
+        "text": "You have to tell me yes or no."
+    },
+    {
+        "startTime": 49963,
+        "endTime": 50489,
+        "text": "Yes."
+    },
+    {
+        "startTime": 50920,
+        "endTime": 54425,
+        "text": "Yes, you want the bubbles; I thought so!"
+    }
+]

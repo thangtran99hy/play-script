@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 600,
+        "endTime": 2005,
+        "text": "This is the iPhone 6."
+    },
+    {
+        "startTime": 2139,
+        "endTime": 4235,
+        "text": "And this is the iPhone 6 Plus."
+    },
+    {
+        "startTime": 4591,
+        "endTime": 7735,
+        "text": "They come with a thing called \"Health\" so they can help you track a lot of stuff."
+    },
+    {
+        "startTime": 8111,
+        "endTime": 9853,
+        "text": "Like today, I walked 3.8 miles."
+    },
+    {
+        "startTime": 10107,
+        "endTime": 12413,
+        "text": "Well, I ran 4.2 miles."
+    },
+    {
+        "startTime": 12630,
+        "endTime": 14824,
+        "text": "Well, I climbed 11 flights of stairs."
+    },
+    {
+        "startTime": 15131,
+        "endTime": 18770,
+        "text": "Well, I drank a smoothie that had 362 calories in it."
+    },
+    {
+        "startTime": 18889,
+        "endTime": 22320,
+        "text": "Well, I had a funnel cake that had 1,230 calories in it."
+    },
+    {
+        "startTime": 23973,
+        "endTime": 25593,
+        "text": "You know that's not good, right?"
+    },
+    {
+        "startTime": 26865,
+        "endTime": 27471,
+        "text": "It was good."
+    },
+    {
+        "startTime": 28661,
+        "endTime": 29255,
+        "text": "It was delicious."
+    }
+]

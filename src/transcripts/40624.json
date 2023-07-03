@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 150,
+        "endTime": 2381,
+        "text": "Tell me, is there a bank near here?"
+    },
+    {
+        "startTime": 3050,
+        "endTime": 5163,
+        "text": "Actually, there's several."
+    },
+    {
+        "startTime": 5623,
+        "endTime": 7065,
+        "text": "There's one on the corner up here..."
+    },
+    {
+        "startTime": 7305,
+        "endTime": 11580,
+        "text": "...and one right behind us across the street and then one diagonal."
+    },
+    {
+        "startTime": 12156,
+        "endTime": 14368,
+        "text": "Excuse me, is there a newsstand nearby?"
+    },
+    {
+        "startTime": 14583,
+        "endTime": 15377,
+        "text": "Yes, there is."
+    },
+    {
+        "startTime": 16721,
+        "endTime": 18134,
+        "text": "There's one right down the street."
+    },
+    {
+        "startTime": 18265,
+        "endTime": 19464,
+        "text": "Two blocks, make a right."
+    },
+    {
+        "startTime": 19589,
+        "endTime": 21604,
+        "text": "Go one block, and it's right on the right-hand side."
+    },
+    {
+        "startTime": 22181,
+        "endTime": 23978,
+        "text": "Okay, so that was, go up this street."
+    },
+    {
+        "startTime": 24055,
+        "endTime": 24584,
+        "text": "Two blocks."
+    },
+    {
+        "startTime": 24781,
+        "endTime": 24891,
+        "text": "Yes."
+    },
+    {
+        "startTime": 24951,
+        "endTime": 25557,
+        "text": "Make a right."
+    },
+    {
+        "startTime": 26175,
+        "endTime": 26803,
+        "text": "One block."
+    },
+    {
+        "startTime": 26937,
+        "endTime": 27491,
+        "text": "Two blocks."
+    },
+    {
+        "startTime": 27551,
+        "endTime": 29848,
+        "text": "Two blocks, and it's right on the right-hand side."
+    },
+    {
+        "startTime": 29919,
+        "endTime": 31014,
+        "text": "On the right-hand side."
+    }
+]

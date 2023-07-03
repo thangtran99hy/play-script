@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 161,
+        "endTime": 1371,
+        "text": "Hello, Ali?"
+    },
+    {
+        "startTime": 1945,
+        "endTime": 2515,
+        "text": "Where are you?"
+    },
+    {
+        "startTime": 2973,
+        "endTime": 3568,
+        "text": "Hi, Jane."
+    },
+    {
+        "startTime": 3645,
+        "endTime": 4528,
+        "text": "I'm at the station."
+    },
+    {
+        "startTime": 5406,
+        "endTime": 6558,
+        "text": "Yes sir, we will."
+    },
+    {
+        "startTime": 6814,
+        "endTime": 7701,
+        "text": "Where are you now?"
+    },
+    {
+        "startTime": 8219,
+        "endTime": 10104,
+        "text": "I'm standing outside of my house."
+    },
+    {
+        "startTime": 11501,
+        "endTime": 13405,
+        "text": "She is in a cafe."
+    },
+    {
+        "startTime": 15354,
+        "endTime": 17960,
+        "text": "He is at the convenience store."
+    },
+    {
+        "startTime": 20018,
+        "endTime": 22354,
+        "text": "He is at the flower shop."
+    },
+    {
+        "startTime": 24408,
+        "endTime": 25026,
+        "text": "Where is he?"
+    },
+    {
+        "startTime": 25697,
+        "endTime": 26752,
+        "text": "I have no idea."
+    },
+    {
+        "startTime": 27789,
+        "endTime": 28648,
+        "text": "Where is he?"
+    },
+    {
+        "startTime": 29042,
+        "endTime": 30757,
+        "text": "He's kept in a safe house."
+    },
+    {
+        "startTime": 30923,
+        "endTime": 33826,
+        "text": "Brooklyn, 434 Wallace Place."
+    },
+    {
+        "startTime": 34354,
+        "endTime": 35349,
+        "text": "They know you're coming."
+    },
+    {
+        "startTime": 35714,
+        "endTime": 36476,
+        "text": "Of course."
+    }
+]

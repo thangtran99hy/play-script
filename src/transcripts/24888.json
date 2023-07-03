@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1719,
+        "endTime": 5689,
+        "text": "Adjectives are words that describe someone or something"
+    },
+    {
+        "startTime": 10083,
+        "endTime": 11889,
+        "text": "This bear is big."
+    },
+    {
+        "startTime": 17995,
+        "endTime": 20424,
+        "text": "This bear is small."
+    },
+    {
+        "startTime": 26164,
+        "endTime": 29244,
+        "text": "She is very tall."
+    },
+    {
+        "startTime": 35976,
+        "endTime": 38662,
+        "text": "The penguins are short."
+    },
+    {
+        "startTime": 46063,
+        "endTime": 48889,
+        "text": "This young boy can dance."
+    },
+    {
+        "startTime": 53374,
+        "endTime": 55598,
+        "text": "This old man can dance too!"
+    },
+    {
+        "startTime": 64247,
+        "endTime": 66352,
+        "text": "They are rich."
+    },
+    {
+        "startTime": 73454,
+        "endTime": 76918,
+        "text": "She is poor."
+    },
+    {
+        "startTime": 86142,
+        "endTime": 87303,
+        "text": "He is happy."
+    },
+    {
+        "startTime": 95119,
+        "endTime": 97111,
+        "text": "She is very sad."
+    }
+]

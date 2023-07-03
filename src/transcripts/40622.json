@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 153,
+        "endTime": 1413,
+        "text": "How was the test?"
+    },
+    {
+        "startTime": 2617,
+        "endTime": 4045,
+        "text": "It was really hard."
+    },
+    {
+        "startTime": 5038,
+        "endTime": 6283,
+        "text": "How long was it?"
+    },
+    {
+        "startTime": 7671,
+        "endTime": 10039,
+        "text": "There were about 20 problems."
+    },
+    {
+        "startTime": 10377,
+        "endTime": 10845,
+        "text": "Yeah."
+    },
+    {
+        "startTime": 11283,
+        "endTime": 12457,
+        "text": "What was your score?"
+    },
+    {
+        "startTime": 12892,
+        "endTime": 15518,
+        "text": "Let's just say it wasn't great,..."
+    },
+    {
+        "startTime": 15923,
+        "endTime": 17878,
+        "text": "...but it wasn't bad either."
+    }
+]

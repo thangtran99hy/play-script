@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1995,
+        "endTime": 3823,
+        "text": "What can I get you to drink, sir?"
+    },
+    {
+        "startTime": 4041,
+        "endTime": 6065,
+        "text": "Well, I think I'm in the mood for a beer."
+    },
+    {
+        "startTime": 6371,
+        "endTime": 9008,
+        "text": "Okay, would you like draft or bottle?"
+    },
+    {
+        "startTime": 9228,
+        "endTime": 10985,
+        "text": "What kind of beer do you have on tap?"
+    },
+    {
+        "startTime": 11230,
+        "endTime": 14521,
+        "text": "All kinds; we have a few really good microbrews."
+    },
+    {
+        "startTime": 14679,
+        "endTime": 16274,
+        "text": "Microbrews? What are they?"
+    },
+    {
+        "startTime": 16561,
+        "endTime": 21091,
+        "text": "Microbrews. You know, beers made in smaller, lesser - known breweries."
+    },
+    {
+        "startTime": 21367,
+        "endTime": 22248,
+        "text": "Are they any good?"
+    },
+    {
+        "startTime": 22475,
+        "endTime": 28080,
+        "text": "Yeah! Most people, myself included, think they are a lot better than the more famous beers."
+    },
+    {
+        "startTime": 28247,
+        "endTime": 32103,
+        "text": "Okay, I'll try. Get me a pint of whatever you recommend."
+    },
+    {
+        "startTime": 32435,
+        "endTime": 35990,
+        "text": "Here you go. This is my favorite, and it's called Winterbrew."
+    }
+]

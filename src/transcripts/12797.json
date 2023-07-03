@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 3526,
+        "endTime": 5122,
+        "text": "Oh my god, fire!"
+    },
+    {
+        "startTime": 5583,
+        "endTime": 6680,
+        "text": "Are you okay, Kathy?"
+    },
+    {
+        "startTime": 7011,
+        "endTime": 11804,
+        "text": "I just got burned. Call 911!"
+    },
+    {
+        "startTime": 12396,
+        "endTime": 14139,
+        "text": "911 emergency service."
+    },
+    {
+        "startTime": 14719,
+        "endTime": 17483,
+        "text": "Hello? I'd like to report a fire in my home."
+    },
+    {
+        "startTime": 17852,
+        "endTime": 19369,
+        "text": "A fire in your home, sir?"
+    },
+    {
+        "startTime": 19660,
+        "endTime": 20401,
+        "text": "Are you okay? "
+    },
+    {
+        "startTime": 20655,
+        "endTime": 21745,
+        "text": "Have you been hurt at all?"
+    },
+    {
+        "startTime": 22351,
+        "endTime": 25352,
+        "text": "No, I haven't, but my friend seems to be burned."
+    },
+    {
+        "startTime": 25779,
+        "endTime": 27581,
+        "text": "Send an ambulance over here, please."
+    },
+    {
+        "startTime": 27885,
+        "endTime": 30163,
+        "text": "Yes, sir, we will. Where are you now?"
+    },
+    {
+        "startTime": 30761,
+        "endTime": 32498,
+        "text": "I'm standing outside of my house."
+    },
+    {
+        "startTime": 32810,
+        "endTime": 34186,
+        "text": "What is the address there?"
+    },
+    {
+        "startTime": 34597,
+        "endTime": 39026,
+        "text": "It's 4428 Pine Street. Can you send someone here right away?"
+    },
+    {
+        "startTime": 39357,
+        "endTime": 43313,
+        "text": "Yes, sir. We will send a fire truck and ambulance there immediately."
+    }
+]

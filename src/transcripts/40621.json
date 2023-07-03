@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 2464,
+        "endTime": 3637,
+        "text": "Excuse me."
+    },
+    {
+        "startTime": 4161,
+        "endTime": 7456,
+        "text": "Can you tell me how to get to the shopping area from here?"
+    },
+    {
+        "startTime": 7927,
+        "endTime": 8616,
+        "text": "Sure."
+    },
+    {
+        "startTime": 9210,
+        "endTime": 10740,
+        "text": "Go straight down the street."
+    },
+    {
+        "startTime": 12016,
+        "endTime": 12577,
+        "text": "OK."
+    },
+    {
+        "startTime": 12804,
+        "endTime": 14483,
+        "text": "Straight down this street."
+    },
+    {
+        "startTime": 15123,
+        "endTime": 17069,
+        "text": "Turn left at the second traffic light."
+    },
+    {
+        "startTime": 17830,
+        "endTime": 18317,
+        "text": "Okay."
+    },
+    {
+        "startTime": 18525,
+        "endTime": 22629,
+        "text": "Straight down this street and turn left at the second traffic light."
+    },
+    {
+        "startTime": 23013,
+        "endTime": 25245,
+        "text": "You will see the police station on your left."
+    },
+    {
+        "startTime": 25809,
+        "endTime": 27098,
+        "text": "Okay, got it."
+    },
+    {
+        "startTime": 27437,
+        "endTime": 31315,
+        "text": "Right next to the police station, you will see a large blue building."
+    },
+    {
+        "startTime": 31740,
+        "endTime": 32094,
+        "text": "Okay."
+    },
+    {
+        "startTime": 32304,
+        "endTime": 33875,
+        "text": "A large blue building."
+    },
+    {
+        "startTime": 34329,
+        "endTime": 36115,
+        "text": "That's Blue Note Shopping Center."
+    },
+    {
+        "startTime": 36892,
+        "endTime": 37891,
+        "text": "Thank you so much."
+    },
+    {
+        "startTime": 38157,
+        "endTime": 39696,
+        "text": "I really appreciate it."
+    }
+]

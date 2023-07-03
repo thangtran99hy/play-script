@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 4789,
+        "endTime": 5936,
+        "text": "What is that?"
+    },
+    {
+        "startTime": 6735,
+        "endTime": 8351,
+        "text": "That is the moon."
+    },
+    {
+        "startTime": 15281,
+        "endTime": 16346,
+        "text": "What is this thing?"
+    },
+    {
+        "startTime": 16943,
+        "endTime": 18268,
+        "text": "This thing is an umbrella."
+    },
+    {
+        "startTime": 20007,
+        "endTime": 21629,
+        "text": "What are these things?"
+    },
+    {
+        "startTime": 22273,
+        "endTime": 23957,
+        "text": "These things are pens."
+    },
+    {
+        "startTime": 30405,
+        "endTime": 31222,
+        "text": "What are they?"
+    },
+    {
+        "startTime": 32115,
+        "endTime": 33073,
+        "text": "They are buses."
+    },
+    {
+        "startTime": 34980,
+        "endTime": 35891,
+        "text": "What is it?"
+    },
+    {
+        "startTime": 36573,
+        "endTime": 37637,
+        "text": "It is a cat."
+    }
+]

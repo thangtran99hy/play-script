@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 3825,
+        "endTime": 5186,
+        "text": "The dog is ugly."
+    },
+    {
+        "startTime": 6829,
+        "endTime": 8058,
+        "text": "The cat is cute."
+    },
+    {
+        "startTime": 9762,
+        "endTime": 11199,
+        "text": "The vase is white."
+    },
+    {
+        "startTime": 12757,
+        "endTime": 14367,
+        "text": "The flowers are pink."
+    },
+    {
+        "startTime": 16049,
+        "endTime": 17599,
+        "text": "The woman is not short."
+    },
+    {
+        "startTime": 19179,
+        "endTime": 20124,
+        "text": "She is tall."
+    },
+    {
+        "startTime": 21933,
+        "endTime": 23550,
+        "text": "My grandfather is not young."
+    },
+    {
+        "startTime": 25247,
+        "endTime": 26003,
+        "text": "He is old."
+    },
+    {
+        "startTime": 27947,
+        "endTime": 28968,
+        "text": "Is the drink cold?"
+    },
+    {
+        "startTime": 30709,
+        "endTime": 31709,
+        "text": "No, it's hot."
+    },
+    {
+        "startTime": 33533,
+        "endTime": 34655,
+        "text": "Are the girls brave?"
+    },
+    {
+        "startTime": 36389,
+        "endTime": 38309,
+        "text": "No, they're afraid."
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 301,
+        "endTime": 1269,
+        "text": "Hello, everyone."
+    },
+    {
+        "startTime": 2517,
+        "endTime": 3809,
+        "text": "Good morning, everybody."
+    },
+    {
+        "startTime": 4971,
+        "endTime": 6287,
+        "text": "Good afternoon, class."
+    },
+    {
+        "startTime": 7353,
+        "endTime": 8603,
+        "text": "Hello there, Tom."
+    },
+    {
+        "startTime": 9843,
+        "endTime": 11408,
+        "text": "Good afternoon, everybody."
+    },
+    {
+        "startTime": 12449,
+        "endTime": 13561,
+        "text": "How are you today?"
+    },
+    {
+        "startTime": 14659,
+        "endTime": 15742,
+        "text": "How are you getting on?"
+    },
+    {
+        "startTime": 16982,
+        "endTime": 17863,
+        "text": "How's life?"
+    },
+    {
+        "startTime": 18945,
+        "endTime": 20443,
+        "text": "How are things with you?"
+    },
+    {
+        "startTime": 21266,
+        "endTime": 23151,
+        "text": "Are you feeling better today, David?"
+    },
+    {
+        "startTime": 24189,
+        "endTime": 25515,
+        "text": "What a lovely day!"
+    }
+]

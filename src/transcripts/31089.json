@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 3759,
+        "endTime": 5209,
+        "text": "There is an egg."
+    },
+    {
+        "startTime": 6687,
+        "endTime": 7994,
+        "text": "There is a house."
+    },
+    {
+        "startTime": 9513,
+        "endTime": 10865,
+        "text": "There are two rulers."
+    },
+    {
+        "startTime": 12336,
+        "endTime": 13803,
+        "text": "There are four pencils."
+    },
+    {
+        "startTime": 18940,
+        "endTime": 19990,
+        "text": "There is coffee."
+    },
+    {
+        "startTime": 21543,
+        "endTime": 22373,
+        "text": "There is milk."
+    },
+    {
+        "startTime": 23783,
+        "endTime": 24980,
+        "text": "I see sand."
+    },
+    {
+        "startTime": 26459,
+        "endTime": 27591,
+        "text": "I see water."
+    }
+]

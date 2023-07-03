@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 800,
+        "endTime": 2230,
+        "text": "Have you ever really wanted a beer,..."
+    },
+    {
+        "startTime": 5200,
+        "endTime": 6400,
+        "text": "...but you don't wanna stop working?"
+    },
+    {
+        "startTime": 10480,
+        "endTime": 12540,
+        "text": "At Willow Garage, we've solved this problem."
+    },
+    {
+        "startTime": 14540,
+        "endTime": 19320,
+        "text": "We built a Web interface that has a menu of a number of different beers that you can select from."
+    },
+    {
+        "startTime": 20250,
+        "endTime": 23860,
+        "text": "Once you select the beer of your choice, you can place it in the \"beer bucket\"..."
+    },
+    {
+        "startTime": 24430,
+        "endTime": 27960,
+        "text": "...and then, select the location of your choice for the robot to drive to."
+    },
+    {
+        "startTime": 28360,
+        "endTime": 32160,
+        "text": "Once those two things are completed, you simply click the big \"beer me\" button..."
+    },
+    {
+        "startTime": 32600,
+        "endTime": 34640,
+        "text": "...and the robot comes to you to deliver your beer."
+    },
+    {
+        "startTime": 35730,
+        "endTime": 38170,
+        "text": "In this process, the robot goes to the fridge,..."
+    },
+    {
+        "startTime": 38470,
+        "endTime": 40400,
+        "text": "...detects the handle of the fridge and opens it,..."
+    },
+    {
+        "startTime": 40740,
+        "endTime": 45470,
+        "text": "...looks inside of the fridge and uses its cameras to detect what kinds of beers are available."
+    },
+    {
+        "startTime": 49420,
+        "endTime": 51230,
+        "text": "If the beers you've selected are not available,..."
+    },
+    {
+        "startTime": 51390,
+        "endTime": 55180,
+        "text": "...the robot will inform you that your choice is not available at this time."
+    },
+    {
+        "startTime": 55950,
+        "endTime": 58920,
+        "text": "Otherwise, the robot picks the beers that you've selected from the fridge,..."
+    },
+    {
+        "startTime": 59190,
+        "endTime": 64650,
+        "text": "...puts them in the cup holders mounted on its base and delivers them to the location that you've selected."
+    }
+]

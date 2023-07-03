@@ -1,0 +1,102 @@
+[
+    {
+        "startTime": 3349,
+        "endTime": 3865,
+        "text": "Dog."
+    },
+    {
+        "startTime": 4759,
+        "endTime": 6291,
+        "text": "My dog is small."
+    },
+    {
+        "startTime": 7787,
+        "endTime": 9953,
+        "text": "My dog is very small."
+    },
+    {
+        "startTime": 11387,
+        "endTime": 11669,
+        "text": "Mop."
+    },
+    {
+        "startTime": 12447,
+        "endTime": 13687,
+        "text": "I need a mop."
+    },
+    {
+        "startTime": 15005,
+        "endTime": 16837,
+        "text": "I need a big mop."
+    },
+    {
+        "startTime": 18063,
+        "endTime": 18553,
+        "text": "Pot."
+    },
+    {
+        "startTime": 19313,
+        "endTime": 20832,
+        "text": "I found a pot."
+    },
+    {
+        "startTime": 22264,
+        "endTime": 24277,
+        "text": "I found a flower pot."
+    },
+    {
+        "startTime": 25630,
+        "endTime": 26201,
+        "text": "Fox."
+    },
+    {
+        "startTime": 27009,
+        "endTime": 28455,
+        "text": "There is a fox."
+    },
+    {
+        "startTime": 29821,
+        "endTime": 31583,
+        "text": "There is a little fox."
+    },
+    {
+        "startTime": 38725,
+        "endTime": 42146,
+        "text": "The dogs go in, in, into the mud."
+    },
+    {
+        "startTime": 42470,
+        "endTime": 45855,
+        "text": "The dogs go out, out, out of the mud."
+    },
+    {
+        "startTime": 46205,
+        "endTime": 49635,
+        "text": "The cats go in, in, into the mud."
+    },
+    {
+        "startTime": 49980,
+        "endTime": 53324,
+        "text": "The cats go out, out, out of the mud."
+    },
+    {
+        "startTime": 53691,
+        "endTime": 57118,
+        "text": "The cows go in, in, into the mud."
+    },
+    {
+        "startTime": 57473,
+        "endTime": 60848,
+        "text": "The cows go out, out, out of the mud."
+    },
+    {
+        "startTime": 61195,
+        "endTime": 64612,
+        "text": "The pigs go in, in, into the mud."
+    },
+    {
+        "startTime": 65171,
+        "endTime": 68568,
+        "text": "Dogs, cats, cows and pigs. They are all muddy!"
+    }
+]

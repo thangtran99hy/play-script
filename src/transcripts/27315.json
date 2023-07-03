@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 1604,
+        "endTime": 3320,
+        "text": "﻿Do you have enough clothes for the trip?"
+    },
+    {
+        "startTime": 8627,
+        "endTime": 10692,
+        "text": "Your luggage is too big!"
+    },
+    {
+        "startTime": 16101,
+        "endTime": 18105,
+        "text": "He has a travel visa to Canada."
+    },
+    {
+        "startTime": 23227,
+        "endTime": 25477,
+        "text": "You need a boarding pass to get on the plane."
+    },
+    {
+        "startTime": 30516,
+        "endTime": 32530,
+        "text": "We need a map so we won't get lost."
+    },
+    {
+        "startTime": 37231,
+        "endTime": 40015,
+        "text": "A tour guide is always helpful when traveling."
+    },
+    {
+        "startTime": 43853,
+        "endTime": 45621,
+        "text": "I can speak the language of Brazil."
+    }
+]

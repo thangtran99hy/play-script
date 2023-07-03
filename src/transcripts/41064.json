@@ -1,0 +1,162 @@
+[
+    {
+        "startTime": 115,
+        "endTime": 3521,
+        "text": "Now, on to something that's been all over the news in recent weeks,..."
+    },
+    {
+        "startTime": 3607,
+        "endTime": 5649,
+        "text": "...Elon Musk's purchase of Twitter."
+    },
+    {
+        "startTime": 5781,
+        "endTime": 9243,
+        "text": "Yeah, his takeover hasn't been without issues, shall we say,..."
+    },
+    {
+        "startTime": 9399,
+        "endTime": 13983,
+        "text": "...from charging for verification, to laying off half of the social media site staff."
+    },
+    {
+        "startTime": 14104,
+        "endTime": 14878,
+        "text": "As a result,..."
+    },
+    {
+        "startTime": 14970,
+        "endTime": 20692,
+        "text": "...millions of Twitter users are exploring another little-known platform called Mastodon."
+    },
+    {
+        "startTime": 20974,
+        "endTime": 24176,
+        "text": "Our technology editor, Zoe Kleinman, gives us the low-down."
+    },
+    {
+        "startTime": 28288,
+        "endTime": 31381,
+        "text": "It gets its name from a prehistoric elephant..."
+    },
+    {
+        "startTime": 33641,
+        "endTime": 37997,
+        "text": "...and shares it with a heavy metal band."
+    },
+    {
+        "startTime": 40516,
+        "endTime": 45724,
+        "text": "Yes, Mastodon, an alternative to Twitter that's exploded in popularity lately."
+    },
+    {
+        "startTime": 47647,
+        "endTime": 50593,
+        "text": "The first thing you have to do when you sign up is choose a server."
+    },
+    {
+        "startTime": 50819,
+        "endTime": 51693,
+        "text": "There are loads of them,..."
+    },
+    {
+        "startTime": 51771,
+        "endTime": 55447,
+        "text": "...and they're themed by things like country, city, interests."
+    },
+    {
+        "startTime": 55540,
+        "endTime": 59115,
+        "text": "You've got UK, Glasgow, gaming, and so on."
+    },
+    {
+        "startTime": 59327,
+        "endTime": 60817,
+        "text": "It doesn't really matter which one you choose..."
+    },
+    {
+        "startTime": 60900,
+        "endTime": 62373,
+        "text": "...because you can see all the others anyway,..."
+    },
+    {
+        "startTime": 62652,
+        "endTime": 65355,
+        "text": "...but it gives you a sort of starting community of people..."
+    },
+    {
+        "startTime": 65433,
+        "endTime": 68006,
+        "text": "...who are more likely to be sharing the same sort of stuff..."
+    },
+    {
+        "startTime": 68091,
+        "endTime": 69971,
+        "text": "...that you're interested in as well."
+    },
+    {
+        "startTime": 70438,
+        "endTime": 73370,
+        "text": "By the way, you don't tweet here, you Toot."
+    },
+    {
+        "startTime": 74602,
+        "endTime": 78161,
+        "text": "One of the attractions of this platform is that it's decentralized."
+    },
+    {
+        "startTime": 78425,
+        "endTime": 81414,
+        "text": "No one person or company owns Mastodon."
+    },
+    {
+        "startTime": 81751,
+        "endTime": 85040,
+        "text": "The staffers all link up to form a kind of collective network,..."
+    },
+    {
+        "startTime": 85233,
+        "endTime": 88471,
+        "text": "...but they're all owned by individuals and different organizations."
+    },
+    {
+        "startTime": 88807,
+        "endTime": 92429,
+        "text": "This does mean that you can be at the whim of whoever owns your server."
+    },
+    {
+        "startTime": 92662,
+        "endTime": 95100,
+        "text": "If that goes down, so does your account."
+    },
+    {
+        "startTime": 95414,
+        "endTime": 97405,
+        "text": "You can switch servers if you want to."
+    },
+    {
+        "startTime": 97711,
+        "endTime": 99792,
+        "text": "But people are saying that it's quite a faff."
+    },
+    {
+        "startTime": 100502,
+        "endTime": 102455,
+        "text": "There's also the issue of moderation."
+    },
+    {
+        "startTime": 102567,
+        "endTime": 106850,
+        "text": "Because it's not centrally run, Mastodon moderation differs from server to server."
+    },
+    {
+        "startTime": 107123,
+        "endTime": 108709,
+        "text": "Some have rules, some have none."
+    },
+    {
+        "startTime": 108989,
+        "endTime": 113637,
+        "text": "It's free to use, but some of the hosts ask for donations because they don't get paid."
+    }
+]

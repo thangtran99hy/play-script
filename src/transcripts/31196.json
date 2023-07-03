@@ -1,0 +1,122 @@
+[
+    {
+        "startTime": 1178,
+        "endTime": 3687,
+        "text": "5G is a software-defined network."
+    },
+    {
+        "startTime": 3926,
+        "endTime": 6755,
+        "text": "It means that while it won't replace cables entirely,..."
+    },
+    {
+        "startTime": 7011,
+        "endTime": 8651,
+        "text": "...it could replace the need for them..."
+    },
+    {
+        "startTime": 8812,
+        "endTime": 11296,
+        "text": "...by largely operating on the cloud instead."
+    },
+    {
+        "startTime": 11385,
+        "endTime": 15143,
+        "text": "This means it will have a hundred times better capacity than 4G,..."
+    },
+    {
+        "startTime": 15241,
+        "endTime": 17923,
+        "text": "...which will dramatically improve internet speeds."
+    },
+    {
+        "startTime": 18032,
+        "endTime": 21016,
+        "text": "For example, to download a two-hour film on 3G..."
+    },
+    {
+        "startTime": 21206,
+        "endTime": 23136,
+        "text": "...would take about 26 hours."
+    },
+    {
+        "startTime": 23397,
+        "endTime": 25804,
+        "text": "On 4G, you'd be waiting six minutes,..."
+    },
+    {
+        "startTime": 26103,
+        "endTime": 28540,
+        "text": "...and on 5G you'll be ready to watch your film..."
+    },
+    {
+        "startTime": 28841,
+        "endTime": 30865,
+        "text": "...in just over three and a half seconds."
+    },
+    {
+        "startTime": 31162,
+        "endTime": 33898,
+        "text": "But it's not just internet capacity that will be upgraded."
+    },
+    {
+        "startTime": 34049,
+        "endTime": 36436,
+        "text": "Response times will also be much faster."
+    },
+    {
+        "startTime": 36672,
+        "endTime": 41037,
+        "text": "The 4G network responds to our commands in just under 50 milliseconds."
+    },
+    {
+        "startTime": 41205,
+        "endTime": 44142,
+        "text": "With 5G, it will take around one millisecond,..."
+    },
+    {
+        "startTime": 44293,
+        "endTime": 46940,
+        "text": "...400 times faster than a blink of the eye."
+    },
+    {
+        "startTime": 47130,
+        "endTime": 50963,
+        "text": "Self-driving cars, for example, require a continuous stream of data."
+    },
+    {
+        "startTime": 51201,
+        "endTime": 54367,
+        "text": "The quicker that information is delivered to autonomous vehicles,..."
+    },
+    {
+        "startTime": 54549,
+        "endTime": 56574,
+        "text": "...the better and safer they can run."
+    },
+    {
+        "startTime": 56655,
+        "endTime": 58700,
+        "text": "For many analysts, this is just one example..."
+    },
+    {
+        "startTime": 58818,
+        "endTime": 62855,
+        "text": "...of how 5G could become the connective tissue for the internet of things,..."
+    },
+    {
+        "startTime": 62982,
+        "endTime": 66380,
+        "text": "...an industry that's set to grow threefold by 2025,..."
+    },
+    {
+        "startTime": 66531,
+        "endTime": 70236,
+        "text": "...linking and controlling not just robots, but also medical devices,..."
+    },
+    {
+        "startTime": 70359,
+        "endTime": 73202,
+        "text": "...industrial equipment and agricultural machinery."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 457,
+        "endTime": 1783,
+        "text": "Excuse me, can I help you?"
+    },
+    {
+        "startTime": 2558,
+        "endTime": 4548,
+        "text": "Yes, please. I need a dress."
+    },
+    {
+        "startTime": 5894,
+        "endTime": 7311,
+        "text": "What kind would you like?"
+    },
+    {
+        "startTime": 7992,
+        "endTime": 9605,
+        "text": "A dress with flowers."
+    },
+    {
+        "startTime": 10666,
+        "endTime": 11645,
+        "text": "How about this?"
+    },
+    {
+        "startTime": 12676,
+        "endTime": 13607,
+        "text": "How much is it?"
+    },
+    {
+        "startTime": 14501,
+        "endTime": 16051,
+        "text": "It's $30."
+    },
+    {
+        "startTime": 16999,
+        "endTime": 18435,
+        "text": "Do you have a cheaper one?"
+    },
+    {
+        "startTime": 19491,
+        "endTime": 20988,
+        "text": "This one is $20."
+    },
+    {
+        "startTime": 21789,
+        "endTime": 24045,
+        "text": "Great, I'll take that one, thanks!"
+    }
+]

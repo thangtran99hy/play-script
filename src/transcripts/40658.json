@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 2379,
+        "endTime": 6883,
+        "text": "More than 20,000 species of debris are tracked as they orbit Earth."
+    },
+    {
+        "startTime": 7719,
+        "endTime": 12523,
+        "text": "However, most of this debris is too small for ground-based sensors to track."
+    },
+    {
+        "startTime": 15500,
+        "endTime": 19115,
+        "text": "Mounted on the exterior of the International Space Station,..."
+    },
+    {
+        "startTime": 19572,
+        "endTime": 25040,
+        "text": "...the Space Debris Sensor (SDS) collects data on smaller orbital debris."
+    },
+    {
+        "startTime": 25583,
+        "endTime": 28201,
+        "text": "The SDS consists of three layers."
+    },
+    {
+        "startTime": 28667,
+        "endTime": 32949,
+        "text": "The first two layers are identical and incorporate acoustic sensors."
+    },
+    {
+        "startTime": 33761,
+        "endTime": 38885,
+        "text": "These measure the exact time and location of a debris hit and the velocity vector."
+    },
+    {
+        "startTime": 39432,
+        "endTime": 44825,
+        "text": "The first layer has a resistive grid, which gives an indication of debris size."
+    },
+    {
+        "startTime": 45695,
+        "endTime": 50727,
+        "text": "The last layer helps determine the impact energy and density of the particle."
+    },
+    {
+        "startTime": 55322,
+        "endTime": 60319,
+        "text": "The data obtained will help estimate the population of debris smaller than 1 mm,..."
+    },
+    {
+        "startTime": 60979,
+        "endTime": 63414,
+        "text": "...and allow a new set of sensors to be developed..."
+    },
+    {
+        "startTime": 63845,
+        "endTime": 67977,
+        "text": "...and placed in the midst of the debris field above station orbit."
+    },
+    {
+        "startTime": 70007,
+        "endTime": 74566,
+        "text": "This will help improve the debris detection and characterization technology..."
+    },
+    {
+        "startTime": 75073,
+        "endTime": 79270,
+        "text": "...necessary to protect satellites and human space flight missions."
+    }
+]

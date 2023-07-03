@@ -1,0 +1,117 @@
+[
+    {
+        "startTime": 3039,
+        "endTime": 5465,
+        "text": "Robots seem magical at times."
+    },
+    {
+        "startTime": 7281,
+        "endTime": 10444,
+        "text": "They can move and act as if they have a life of their own."
+    },
+    {
+        "startTime": 11748,
+        "endTime": 15725,
+        "text": "In movies like \"Star Wars,\" they seem almost human."
+    },
+    {
+        "startTime": 18103,
+        "endTime": 22256,
+        "text": "But in reality, everything a robot does is programmed in advance by the engineers..."
+    },
+    {
+        "startTime": 22355,
+        "endTime": 24223,
+        "text": "...who created it."
+    },
+    {
+        "startTime": 25979,
+        "endTime": 29879,
+        "text": "Chad Jenkins of Brown University explains that useful robots..."
+    },
+    {
+        "startTime": 30059,
+        "endTime": 33147,
+        "text": "...must be able to sense, plan and act."
+    },
+    {
+        "startTime": 33536,
+        "endTime": 36715,
+        "text": "We have to have robots that can sense and perceive the world,..."
+    },
+    {
+        "startTime": 37116,
+        "endTime": 39730,
+        "text": "...that can make decisions that will lead them to a goal,..."
+    },
+    {
+        "startTime": 40038,
+        "endTime": 42989,
+        "text": "...and then be able to act in a way that's going to perform that plan."
+    },
+    {
+        "startTime": 44533,
+        "endTime": 48985,
+        "text": "By sensing, the robot takes in information from the world around it."
+    },
+    {
+        "startTime": 49329,
+        "endTime": 52767,
+        "text": "They have to be able to perceive all of those things that we take for granted as humans."
+    },
+    {
+        "startTime": 52889,
+        "endTime": 55565,
+        "text": "Being able to recognize a variety of different objects."
+    },
+    {
+        "startTime": 57632,
+        "endTime": 60729,
+        "text": "Once the robot has gathered information from its senses,..."
+    },
+    {
+        "startTime": 60915,
+        "endTime": 64461,
+        "text": "...it needs to analyze that data in its onboard computer..."
+    },
+    {
+        "startTime": 64884,
+        "endTime": 66489,
+        "text": "...and plan a response."
+    },
+    {
+        "startTime": 67667,
+        "endTime": 73651,
+        "text": "Finally, once it's sensed the situation and planned a response, the robot needs to act."
+    },
+    {
+        "startTime": 74552,
+        "endTime": 79105,
+        "text": "We essentially are sending commands to the motors of the robot, and the robot is executing that."
+    },
+    {
+        "startTime": 80139,
+        "endTime": 85251,
+        "text": "Variations of this sense, plan, act paradigm power many modern robots."
+    },
+    {
+        "startTime": 85520,
+        "endTime": 87933,
+        "text": "And this loop goes around over and over and over,..."
+    },
+    {
+        "startTime": 88364,
+        "endTime": 90536,
+        "text": "...then you're continually sensing, planning and acting."
+    },
+    {
+        "startTime": 90799,
+        "endTime": 92426,
+        "text": "And hopefully, if you've done everything right,..."
+    },
+    {
+        "startTime": 92509,
+        "endTime": 95034,
+        "text": "...it should produce the kind of behavior that you wanna see in a robot."
+    }
+]

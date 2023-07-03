@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 3777,
+        "endTime": 5003,
+        "text": "Be quiet!"
+    },
+    {
+        "startTime": 6626,
+        "endTime": 7353,
+        "text": "Be good!"
+    },
+    {
+        "startTime": 9035,
+        "endTime": 9865,
+        "text": "Be friendly!"
+    },
+    {
+        "startTime": 15352,
+        "endTime": 16073,
+        "text": "Go to bed."
+    },
+    {
+        "startTime": 17787,
+        "endTime": 19023,
+        "text": "Sit down."
+    },
+    {
+        "startTime": 20676,
+        "endTime": 21437,
+        "text": "Open the door."
+    },
+    {
+        "startTime": 26877,
+        "endTime": 28147,
+        "text": "Do your homework."
+    },
+    {
+        "startTime": 29791,
+        "endTime": 30854,
+        "text": "Do your chores."
+    },
+    {
+        "startTime": 32623,
+        "endTime": 33705,
+        "text": "Do your best."
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 666,
+        "endTime": 1899,
+        "text": "My house is an old house."
+    },
+    {
+        "startTime": 2205,
+        "endTime": 3072,
+        "text": "It's near the town."
+    },
+    {
+        "startTime": 3578,
+        "endTime": 4743,
+        "text": "There are ten rooms in my house."
+    },
+    {
+        "startTime": 5248,
+        "endTime": 8429,
+        "text": "There are three bedrooms, two bathrooms, dining room,..."
+    },
+    {
+        "startTime": 8576,
+        "endTime": 11007,
+        "text": "...a living room, a family room and the kitchen."
+    },
+    {
+        "startTime": 11779,
+        "endTime": 13612,
+        "text": "In the kitchen, there are twelve cupboards,..."
+    },
+    {
+        "startTime": 13849,
+        "endTime": 15454,
+        "text": "....and the stove is next to the fridge."
+    },
+    {
+        "startTime": 16102,
+        "endTime": 18611,
+        "text": "My favorite room is the kitchen because that's where the food is."
+    },
+    {
+        "startTime": 22723,
+        "endTime": 24136,
+        "text": "My home is a new house."
+    },
+    {
+        "startTime": 24399,
+        "endTime": 25717,
+        "text": "It's near New York City."
+    },
+    {
+        "startTime": 26138,
+        "endTime": 27413,
+        "text": "There are ten rooms."
+    },
+    {
+        "startTime": 27787,
+        "endTime": 31674,
+        "text": "Two big bedrooms, two small bedrooms, three bathrooms,..."
+    },
+    {
+        "startTime": 31979,
+        "endTime": 34656,
+        "text": "...a living room, a kitchen and a dining room."
+    },
+    {
+        "startTime": 35130,
+        "endTime": 37590,
+        "text": "My favorite room is the dining room."
+    },
+    {
+        "startTime": 38140,
+        "endTime": 41177,
+        "text": "There's a piano, a dining room table,..."
+    },
+    {
+        "startTime": 41569,
+        "endTime": 43983,
+        "text": "...and on the walls, there are paintings."
+    },
+    {
+        "startTime": 44437,
+        "endTime": 45569,
+        "text": "I love to be there."
+    }
+]

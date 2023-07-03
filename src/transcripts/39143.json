@@ -1,0 +1,167 @@
+[
+    {
+        "startTime": 88,
+        "endTime": 1059,
+        "text": "Yes, sir. Can I help you?"
+    },
+    {
+        "startTime": 1161,
+        "endTime": 3345,
+        "text": "Hi, checking out of room 809, please."
+    },
+    {
+        "startTime": 3452,
+        "endTime": 5823,
+        "text": "Yes, sir. Was everything satisfactory, sir?"
+    },
+    {
+        "startTime": 6037,
+        "endTime": 7701,
+        "text": "Yeah. Look, I'm sorry, I'm in a hurry."
+    },
+    {
+        "startTime": 7773,
+        "endTime": 10835,
+        "text": "I'm running late for a flight, so if we could speed this up..."
+    },
+    {
+        "startTime": 11490,
+        "endTime": 12533,
+        "text": "I just need to review your account..."
+    },
+    {
+        "startTime": 12603,
+        "endTime": 15051,
+        "text": "...and have you sign the room rate and the incidentals, sir."
+    },
+    {
+        "startTime": 15263,
+        "endTime": 15525,
+        "text": "Fine."
+    },
+    {
+        "startTime": 16219,
+        "endTime": 19373,
+        "text": "One night at a standard rate: 119 dollars."
+    },
+    {
+        "startTime": 19573,
+        "endTime": 19893,
+        "text": "Okay, yes."
+    },
+    {
+        "startTime": 20147,
+        "endTime": 22953,
+        "text": "State tax comes to 9 dollars and 52 cents."
+    },
+    {
+        "startTime": 23039,
+        "endTime": 23353,
+        "text": "Okay."
+    },
+    {
+        "startTime": 23681,
+        "endTime": 25538,
+        "text": "Facility fee: 15 dollars."
+    },
+    {
+        "startTime": 25625,
+        "endTime": 27086,
+        "text": "It's fine, I don't care."
+    },
+    {
+        "startTime": 27201,
+        "endTime": 28330,
+        "text": "I just need to get to the airport."
+    },
+    {
+        "startTime": 28403,
+        "endTime": 30388,
+        "text": "So, you can just put it on the credit card that you have on file."
+    },
+    {
+        "startTime": 30493,
+        "endTime": 31965,
+        "text": "We don't want to overcharge you, sir."
+    },
+    {
+        "startTime": 32070,
+        "endTime": 35369,
+        "text": "Three-minute phone calls: 4 dollars and 22 cents."
+    },
+    {
+        "startTime": 35444,
+        "endTime": 36408,
+        "text": "Okay, that's right."
+    },
+    {
+        "startTime": 36655,
+        "endTime": 39123,
+        "text": "One dinner buffet billed to the room: 15 dollars."
+    },
+    {
+        "startTime": 39217,
+        "endTime": 39467,
+        "text": "Sure."
+    },
+    {
+        "startTime": 39775,
+        "endTime": 42613,
+        "text": "One glass of red wine with the buffet: 9 dollars."
+    },
+    {
+        "startTime": 42687,
+        "endTime": 45857,
+        "text": "Okay, this all sounds fine. Look, I really have to go, I have a cab waiting."
+    },
+    {
+        "startTime": 45960,
+        "endTime": 47687,
+        "text": "Your receipt is printing."
+    },
+    {
+        "startTime": 47766,
+        "endTime": 49302,
+        "text": "Okay, I don't need a receipt."
+    },
+    {
+        "startTime": 49369,
+        "endTime": 50772,
+        "text": "It's nearly printed."
+    },
+    {
+        "startTime": 56202,
+        "endTime": 57627,
+        "text": "And it's jammed, sir."
+    },
+    {
+        "startTime": 58233,
+        "endTime": 59171,
+        "text": "I'll print you another."
+    },
+    {
+        "startTime": 59326,
+        "endTime": 60664,
+        "text": "That's okay, don't worry about it."
+    },
+    {
+        "startTime": 60779,
+        "endTime": 62979,
+        "text": "And look at that! I missed my flight!"
+    },
+    {
+        "startTime": 63789,
+        "endTime": 65385,
+        "text": "Will you be needing lodging tonight, sir?"
+    },
+    {
+        "startTime": 65481,
+        "endTime": 66135,
+        "text": "Yes, please."
+    },
+    {
+        "startTime": 66215,
+        "endTime": 68070,
+        "text": "All right, let's go through that one more time."
+    }
+]

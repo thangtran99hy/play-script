@@ -1,0 +1,122 @@
+[
+    {
+        "startTime": 429,
+        "endTime": 7075,
+        "text": "As you might notice, the product of any number and multiplicative inverse is always one."
+    },
+    {
+        "startTime": 7658,
+        "endTime": 12010,
+        "text": "If we want to divide by zero, we need to find its multiplicative inverse,..."
+    },
+    {
+        "startTime": 12231,
+        "endTime": 14625,
+        "text": "...which should be one over zero."
+    },
+    {
+        "startTime": 15117,
+        "endTime": 20699,
+        "text": "This would have to be such a number that multiplying it by zero would give one."
+    },
+    {
+        "startTime": 21516,
+        "endTime": 25133,
+        "text": "But because anything multiplied by zero is still zero,..."
+    },
+    {
+        "startTime": 25387,
+        "endTime": 30527,
+        "text": "...such a number is impossible, so zero has no multiplicative inverse."
+    },
+    {
+        "startTime": 31123,
+        "endTime": 34673,
+        "text": "So if they can do that, couldn't we just make up a new rule,..."
+    },
+    {
+        "startTime": 34976,
+        "endTime": 39595,
+        "text": "...say that the symbol infinity means one over zero and see what happens?"
+    },
+    {
+        "startTime": 40944,
+        "endTime": 44981,
+        "text": "Let's try it, imagining we don't know anything about infinity already."
+    },
+    {
+        "startTime": 45275,
+        "endTime": 47836,
+        "text": "Based on the definition of a multiplicative inverse,..."
+    },
+    {
+        "startTime": 48035,
+        "endTime": 51296,
+        "text": "...zero times infinity must be equal to one."
+    },
+    {
+        "startTime": 51637,
+        "endTime": 57383,
+        "text": "That means zero times infinity plus zero times infinity should equal two."
+    },
+    {
+        "startTime": 58094,
+        "endTime": 59843,
+        "text": "Now, by the disruptive property,..."
+    },
+    {
+        "startTime": 60061,
+        "endTime": 65703,
+        "text": "...the left side of the equation can be rearranged to zero plus zero times infinity."
+    },
+    {
+        "startTime": 66318,
+        "endTime": 69387,
+        "text": "And since zero plus zero is definitely zero,..."
+    },
+    {
+        "startTime": 69713,
+        "endTime": 72915,
+        "text": "...that reduces down to zero times infinity."
+    },
+    {
+        "startTime": 73250,
+        "endTime": 76791,
+        "text": "Unfortunately, we've already defined this as equal to one,..."
+    },
+    {
+        "startTime": 77277,
+        "endTime": 81251,
+        "text": "...while the other side of the equation is still telling us it's equal to two."
+    },
+    {
+        "startTime": 81677,
+        "endTime": 83973,
+        "text": "So, one equals two."
+    },
+    {
+        "startTime": 84810,
+        "endTime": 91045,
+        "text": "Oddly enough, that's not necessarily wrong; it's just not true in our normal world of numbers."
+    },
+    {
+        "startTime": 91687,
+        "endTime": 94052,
+        "text": "There's still a way it could be mathematically valid,..."
+    },
+    {
+        "startTime": 94336,
+        "endTime": 98284,
+        "text": "...if one, two and every other number were equal to zero."
+    },
+    {
+        "startTime": 98693,
+        "endTime": 101046,
+        "text": "But having infinity equal to zero,..."
+    },
+    {
+        "startTime": 101325,
+        "endTime": 106191,
+        "text": "...is ultimately not all that useful to mathematicians or anyone else."
+    }
+]

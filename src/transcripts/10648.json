@@ -1,0 +1,117 @@
+[
+    {
+        "startTime": 11,
+        "endTime": 3900,
+        "text": "Now that you know the basic terminology, how does Google know your social circle?"
+    },
+    {
+        "startTime": 4500,
+        "endTime": 8450,
+        "text": "Let me give you a mental model of how our social search works."
+    },
+    {
+        "startTime": 9250,
+        "endTime": 14150,
+        "text": "Right now, we surface social content that we find in three different ways."
+    },
+    {
+        "startTime": 14300,
+        "endTime": 18650,
+        "text": "The first way and the biggest in my mind is your public Google profile."
+    },
+    {
+        "startTime": 19100,
+        "endTime": 24750,
+        "text": "A Google profile is just a place where you can choose to share information about yourself with the world..."
+    },
+    {
+        "startTime": 25150,
+        "endTime": 28600,
+        "text": "...including a list of your different online social services."
+    },
+    {
+        "startTime": 28800,
+        "endTime": 31800,
+        "text": "For example, you can add a link to your Twitter account,..."
+    },
+    {
+        "startTime": 32050,
+        "endTime": 36050,
+        "text": "...your FriendFeed account, your blog or your Picasa albums."
+    },
+    {
+        "startTime": 37300,
+        "endTime": 41450,
+        "text": "Bear in mind, it's your choice whether or not to create a Google profile..."
+    },
+    {
+        "startTime": 41700,
+        "endTime": 45200,
+        "text": "...and you can always add or remove any information from it."
+    },
+    {
+        "startTime": 45450,
+        "endTime": 50550,
+        "text": "Once you've created a Google profile and added links to your various online social services,..."
+    },
+    {
+        "startTime": 50950,
+        "endTime": 56000,
+        "text": "...you've signalled a very clear choice that you're comfortable with the world knowing that information."
+    },
+    {
+        "startTime": 56350,
+        "endTime": 59600,
+        "text": "Including that you're part of the other social networks you list there."
+    },
+    {
+        "startTime": 60050,
+        "endTime": 65200,
+        "text": "Based on this opt-in decision, Google can start building a broader social graph."
+    },
+    {
+        "startTime": 65750,
+        "endTime": 68700,
+        "text": "For example, take the link to my public Twitter account,..."
+    },
+    {
+        "startTime": 69250,
+        "endTime": 72400,
+        "text": "...Google can fetch my Twitter page, just like any web surfer..."
+    },
+    {
+        "startTime": 72650,
+        "endTime": 75500,
+        "text": "...and see that I'm following about a 180 people."
+    },
+    {
+        "startTime": 75800,
+        "endTime": 79100,
+        "text": "Google will add these 180 people to my social circle."
+    },
+    {
+        "startTime": 79700,
+        "endTime": 83650,
+        "text": "We also crawl one step further to build out your extended network."
+    },
+    {
+        "startTime": 84250,
+        "endTime": 86900,
+        "text": "For example, if I'm following my best friend..."
+    },
+    {
+        "startTime": 87150,
+        "endTime": 89300,
+        "text": "...and he's following five different people,..."
+    },
+    {
+        "startTime": 89850,
+        "endTime": 93150,
+        "text": "...Google will add those five people to my extended social circle."
+    },
+    {
+        "startTime": 93450,
+        "endTime": 97450,
+        "text": "Since it's likely that some of them will be connections of mine as well."
+    }
+]

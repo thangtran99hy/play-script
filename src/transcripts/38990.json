@@ -1,0 +1,107 @@
+[
+    {
+        "startTime": 773,
+        "endTime": 5024,
+        "text": "Lately, more and more variants are emerging in various places around the world."
+    },
+    {
+        "startTime": 5970,
+        "endTime": 8211,
+        "text": "So, why are they showing up now?"
+    },
+    {
+        "startTime": 9200,
+        "endTime": 11069,
+        "text": "And what does this mean for the pandemic?"
+    },
+    {
+        "startTime": 15551,
+        "endTime": 17344,
+        "text": "Viruses are very simple."
+    },
+    {
+        "startTime": 17686,
+        "endTime": 21519,
+        "text": "They're basically just a shell of protein surrounding some genetic material:..."
+    },
+    {
+        "startTime": 21743,
+        "endTime": 23365,
+        "text": "...either DNA or RNA."
+    },
+    {
+        "startTime": 24253,
+        "endTime": 26573,
+        "text": "That genetic material is made up of molecules..."
+    },
+    {
+        "startTime": 26676,
+        "endTime": 29629,
+        "text": "...that can be represented as a series of letters, like this."
+    },
+    {
+        "startTime": 30617,
+        "endTime": 34855,
+        "text": "Each part of this code contains instructions for how to make one specific protein..."
+    },
+    {
+        "startTime": 34962,
+        "endTime": 36603,
+        "text": "...that allows the virus to function."
+    },
+    {
+        "startTime": 37315,
+        "endTime": 40329,
+        "text": "A virus has one goal: to make more of itself."
+    },
+    {
+        "startTime": 40963,
+        "endTime": 44103,
+        "text": "But because it's so simple, it can't do that on its own."
+    },
+    {
+        "startTime": 44953,
+        "endTime": 46477,
+        "text": "So, it uses you."
+    },
+    {
+        "startTime": 47412,
+        "endTime": 51789,
+        "text": "Every time a virus infects a person, it uses their cells to make copies of itself..."
+    },
+    {
+        "startTime": 52346,
+        "endTime": 57002,
+        "text": "...replicating this complex code again, and again, and again."
+    },
+    {
+        "startTime": 57587,
+        "endTime": 59859,
+        "text": "But eventually, it makes a mistake."
+    },
+    {
+        "startTime": 60690,
+        "endTime": 62745,
+        "text": "Sometimes, it deletes or adds a letter."
+    },
+    {
+        "startTime": 62865,
+        "endTime": 64467,
+        "text": "Sometimes it flips them around."
+    },
+    {
+        "startTime": 65121,
+        "endTime": 66866,
+        "text": "That mistake is called a mutation,..."
+    },
+    {
+        "startTime": 66949,
+        "endTime": 69933,
+        "text": "...and it slightly changes the instructions for making the virus."
+    },
+    {
+        "startTime": 70385,
+        "endTime": 73211,
+        "text": "That slightly altered virus is a variant."
+    }
+]

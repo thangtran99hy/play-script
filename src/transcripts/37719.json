@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 452,
+        "endTime": 3147,
+        "text": "A baseball team has nine, nine players."
+    },
+    {
+        "startTime": 4206,
+        "endTime": 6907,
+        "text": "The pitcher pitches the ball to the batter."
+    },
+    {
+        "startTime": 7979,
+        "endTime": 10719,
+        "text": "The batter hits the ball the pitcher pitches."
+    },
+    {
+        "startTime": 11748,
+        "endTime": 14495,
+        "text": "The catcher catches the ball the pitcher pitches."
+    },
+    {
+        "startTime": 15441,
+        "endTime": 18608,
+        "text": "The infielder catches the ball the batter hits."
+    },
+    {
+        "startTime": 19191,
+        "endTime": 22371,
+        "text": "The outfielder catches the ball the batter hits."
+    },
+    {
+        "startTime": 23053,
+        "endTime": 26443,
+        "text": "Baseball, baseball, it is a team sport."
+    },
+    {
+        "startTime": 26685,
+        "endTime": 30439,
+        "text": "To win, a team needs each, each player."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "startTime": 2629,
+        "endTime": 4113,
+        "text": "I like popcorn."
+    },
+    {
+        "startTime": 5155,
+        "endTime": 6423,
+        "text": "Yummy, yummy."
+    },
+    {
+        "startTime": 7393,
+        "endTime": 8863,
+        "text": "I like pizza."
+    },
+    {
+        "startTime": 9894,
+        "endTime": 11233,
+        "text": "Yummy, yummy."
+    },
+    {
+        "startTime": 12231,
+        "endTime": 14290,
+        "text": "I like bread and jam."
+    },
+    {
+        "startTime": 15298,
+        "endTime": 16637,
+        "text": "Yummy, yummy."
+    },
+    {
+        "startTime": 17668,
+        "endTime": 20135,
+        "text": "I like apples and bananas."
+    },
+    {
+        "startTime": 21149,
+        "endTime": 22421,
+        "text": "Yummy, yummy."
+    },
+    {
+        "startTime": 23436,
+        "endTime": 25396,
+        "text": "I like corn on the cob."
+    },
+    {
+        "startTime": 26427,
+        "endTime": 27684,
+        "text": "Yummy, yummy."
+    },
+    {
+        "startTime": 28715,
+        "endTime": 30985,
+        "text": "I like carrots and peas"
+    },
+    {
+        "startTime": 32016,
+        "endTime": 33225,
+        "text": "Yummy, yummy."
+    },
+    {
+        "startTime": 34217,
+        "endTime": 36455,
+        "text": "I like cookies and milk."
+    },
+    {
+        "startTime": 37502,
+        "endTime": 38864,
+        "text": "Yummy, yummy."
+    },
+    {
+        "startTime": 39839,
+        "endTime": 42073,
+        "text": "I don't like lima beans."
+    },
+    {
+        "startTime": 43039,
+        "endTime": 44670,
+        "text": "Yucky, yucky."
+    },
+    {
+        "startTime": 48068,
+        "endTime": 52121,
+        "text": "My mom likes popcorn. But she doesn't like corn."
+    },
+    {
+        "startTime": 53135,
+        "endTime": 57009,
+        "text": "My dad likes apples. But he doesn't like bananas."
+    },
+    {
+        "startTime": 57941,
+        "endTime": 59559,
+        "text": "Does Amy like cookies?"
+    },
+    {
+        "startTime": 60547,
+        "endTime": 63031,
+        "text": "No, she doesn't like cookies."
+    },
+    {
+        "startTime": 64061,
+        "endTime": 65705,
+        "text": "Does Paul like beans?"
+    },
+    {
+        "startTime": 66701,
+        "endTime": 70983,
+        "text": "No, he doesn't like beans. But he likes peas."
+    }
+]

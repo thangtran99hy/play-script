@@ -1,0 +1,112 @@
+[
+    {
+        "startTime": 2419,
+        "endTime": 3834,
+        "text": "We go shopping."
+    },
+    {
+        "startTime": 4843,
+        "endTime": 6933,
+        "text": "It is birthday party time."
+    },
+    {
+        "startTime": 7981,
+        "endTime": 9865,
+        "text": "We go to the card shop."
+    },
+    {
+        "startTime": 10960,
+        "endTime": 12479,
+        "text": "We get a card."
+    },
+    {
+        "startTime": 13543,
+        "endTime": 15845,
+        "text": "We go to the balloon shop."
+    },
+    {
+        "startTime": 16815,
+        "endTime": 18333,
+        "text": "We get balloons."
+    },
+    {
+        "startTime": 19271,
+        "endTime": 21170,
+        "text": "We go to the bakery."
+    },
+    {
+        "startTime": 22187,
+        "endTime": 23706,
+        "text": "We get a cake."
+    },
+    {
+        "startTime": 24659,
+        "endTime": 26975,
+        "text": "We go to the ice cream shop."
+    },
+    {
+        "startTime": 28039,
+        "endTime": 29701,
+        "text": "We get ice cream."
+    },
+    {
+        "startTime": 30670,
+        "endTime": 32696,
+        "text": "We go to the toy store."
+    },
+    {
+        "startTime": 33729,
+        "endTime": 35111,
+        "text": "We get a toy."
+    },
+    {
+        "startTime": 36032,
+        "endTime": 38211,
+        "text": "We go to the birthday party."
+    },
+    {
+        "startTime": 39201,
+        "endTime": 40831,
+        "text": "We play games."
+    },
+    {
+        "startTime": 41755,
+        "endTime": 43876,
+        "text": "We sing happy birthday."
+    },
+    {
+        "startTime": 44861,
+        "endTime": 46142,
+        "text": "We have fun."
+    },
+    {
+        "startTime": 49489,
+        "endTime": 51075,
+        "text": "Do you go swimming?"
+    },
+    {
+        "startTime": 52059,
+        "endTime": 55527,
+        "text": "No, I don't go swimming. I go shopping."
+    },
+    {
+        "startTime": 56497,
+        "endTime": 58155,
+        "text": "Does he go hiking?"
+    },
+    {
+        "startTime": 59124,
+        "endTime": 62719,
+        "text": "No, he doesn't go hiking. He goes swimming."
+    },
+    {
+        "startTime": 63783,
+        "endTime": 65432,
+        "text": "Do they go shopping?"
+    },
+    {
+        "startTime": 66369,
+        "endTime": 69600,
+        "text": "Yes, they go shopping for jackets."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 659,
+        "endTime": 3346,
+        "text": "Brian has a flight to London at 9 PM."
+    },
+    {
+        "startTime": 4049,
+        "endTime": 6481,
+        "text": "He needs to be at the airport by 7 PM."
+    },
+    {
+        "startTime": 11081,
+        "endTime": 13429,
+        "text": "Natalie is waiting for the no. 12 bus."
+    },
+    {
+        "startTime": 14061,
+        "endTime": 15757,
+        "text": "It will arrive in ten minutes."
+    },
+    {
+        "startTime": 19292,
+        "endTime": 22336,
+        "text": "There is a train for Paris at platform 4."
+    },
+    {
+        "startTime": 22887,
+        "endTime": 24923,
+        "text": "It will leave the station in an hour."
+    },
+    {
+        "startTime": 28279,
+        "endTime": 30442,
+        "text": "You can take a boat to another island."
+    },
+    {
+        "startTime": 30836,
+        "endTime": 32913,
+        "text": "A boat leaves the dock every hour."
+    },
+    {
+        "startTime": 35999,
+        "endTime": 37819,
+        "text": "Our neighbor owns a car."
+    },
+    {
+        "startTime": 38371,
+        "endTime": 40791,
+        "text": "She drives it to her office every day."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 2015,
+        "endTime": 3735,
+        "text": "These new phones are too fancy."
+    },
+    {
+        "startTime": 4163,
+        "endTime": 5479,
+        "text": "I don't know how to use them."
+    },
+    {
+        "startTime": 5927,
+        "endTime": 7719,
+        "text": "It's easy. Watch."
+    },
+    {
+        "startTime": 8161,
+        "endTime": 9763,
+        "text": "First, pick up the receiver."
+    },
+    {
+        "startTime": 10304,
+        "endTime": 11603,
+        "text": "I don't hear a dial tone."
+    },
+    {
+        "startTime": 12132,
+        "endTime": 15565,
+        "text": "You have to press the number of the person you want to speak with first..."
+    },
+    {
+        "startTime": 16044,
+        "endTime": 19754,
+        "text": "...or if you want to dial out of the office, press the number nine."
+    },
+    {
+        "startTime": 20525,
+        "endTime": 24316,
+        "text": "Is there a directory somewhere, so I can look up people's extension numbers?"
+    },
+    {
+        "startTime": 24834,
+        "endTime": 25958,
+        "text": "They're on this list."
+    },
+    {
+        "startTime": 26360,
+        "endTime": 29255,
+        "text": "These numbers connect you to other desks in the office."
+    },
+    {
+        "startTime": 29951,
+        "endTime": 33629,
+        "text": "And when the phone rings, I answer it by pressing the flashing light?"
+    },
+    {
+        "startTime": 34045,
+        "endTime": 38839,
+        "text": "Right. And you can transfer a call by pressing hold and the extension number."
+    }
+]

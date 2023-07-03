@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 2000,
+        "endTime": 5100,
+        "text": "I thought that was a very constructive meeting this afternoon."
+    },
+    {
+        "startTime": 5370,
+        "endTime": 9220,
+        "text": "I agree. I think Bob had a clear goal for the meeting."
+    },
+    {
+        "startTime": 9400,
+        "endTime": 10510,
+        "text": "That helped a lot."
+    },
+    {
+        "startTime": 10980,
+        "endTime": 15420,
+        "text": "I think he also took an objective view of the suggestions everyone put forward."
+    },
+    {
+        "startTime": 15750,
+        "endTime": 19820,
+        "text": "I'm glad there was a unanimous decision to reconsider all the suggestions."
+    },
+    {
+        "startTime": 20150,
+        "endTime": 22050,
+        "text": "After Karen circulates the minutes,..."
+    },
+    {
+        "startTime": 22250,
+        "endTime": 27460,
+        "text": "...we'll have the chance to formulate a realistic plan to implement some of those suggestions in the future."
+    },
+    {
+        "startTime": 27790,
+        "endTime": 33060,
+        "text": "Yeah, I'm glad there wasn't a hasty decision made to just start trying the suggestions..."
+    },
+    {
+        "startTime": 33160,
+        "endTime": 35800,
+        "text": "...without a solid plan for carrying them out."
+    }
+]

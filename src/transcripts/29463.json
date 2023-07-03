@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 1625,
+        "endTime": 5369,
+        "text": "﻿Use \"this\" or \"that\" when there is only one."
+    },
+    {
+        "startTime": 6080,
+        "endTime": 9467,
+        "text": "Use \"these\" or \"those\" when there are many."
+    },
+    {
+        "startTime": 17608,
+        "endTime": 19481,
+        "text": "This is a broken car."
+    },
+    {
+        "startTime": 27622,
+        "endTime": 29628,
+        "text": "That is a yellow car."
+    },
+    {
+        "startTime": 38300,
+        "endTime": 39643,
+        "text": "This is my apple."
+    },
+    {
+        "startTime": 47784,
+        "endTime": 49193,
+        "text": "Why did you throw that?"
+    },
+    {
+        "startTime": 55212,
+        "endTime": 56820,
+        "text": "These are my shoes."
+    },
+    {
+        "startTime": 64862,
+        "endTime": 67001,
+        "text": "Those are his shoes."
+    },
+    {
+        "startTime": 73218,
+        "endTime": 74859,
+        "text": "These are my glasses."
+    },
+    {
+        "startTime": 81973,
+        "endTime": 85504,
+        "text": "Girls, are those your clothes? They're pretty."
+    }
+]

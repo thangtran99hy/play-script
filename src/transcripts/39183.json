@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 4511,
+        "endTime": 6289,
+        "text": "Hello, Alex in marketing speaking."
+    },
+    {
+        "startTime": 6415,
+        "endTime": 7313,
+        "text": "How can I help you?"
+    },
+    {
+        "startTime": 7612,
+        "endTime": 9281,
+        "text": "Hello, Alex, this is Josh."
+    },
+    {
+        "startTime": 9773,
+        "endTime": 11565,
+        "text": "Is Alexandra available at the moment?"
+    },
+    {
+        "startTime": 14646,
+        "endTime": 18334,
+        "text": "She is not at her desk at the moment."
+    },
+    {
+        "startTime": 18625,
+        "endTime": 19846,
+        "text": "Would you like to leave a message?"
+    },
+    {
+        "startTime": 20272,
+        "endTime": 21627,
+        "text": "Yes, I'll leave a message."
+    },
+    {
+        "startTime": 22165,
+        "endTime": 24045,
+        "text": "Please let her know Josh from New Media called..."
+    },
+    {
+        "startTime": 24120,
+        "endTime": 26008,
+        "text": "...and to contact me as soon as she can."
+    },
+    {
+        "startTime": 26273,
+        "endTime": 27576,
+        "text": "Okay, great."
+    },
+    {
+        "startTime": 27881,
+        "endTime": 33938,
+        "text": "I will let her know Josh from New Media called."
+    },
+    {
+        "startTime": 34695,
+        "endTime": 37383,
+        "text": "I'll tell her to contact you as soon as possible."
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 2401,
+        "endTime": 3707,
+        "text": "What time is it now?"
+    },
+    {
+        "startTime": 5677,
+        "endTime": 7149,
+        "text": "It's midnight."
+    },
+    {
+        "startTime": 7395,
+        "endTime": 7857,
+        "text": "Okay."
+    },
+    {
+        "startTime": 8279,
+        "endTime": 10936,
+        "text": "Please wake me up at 6 o'clock."
+    },
+    {
+        "startTime": 11214,
+        "endTime": 14412,
+        "text": "Wow, why will you wake up so early?"
+    },
+    {
+        "startTime": 14985,
+        "endTime": 17066,
+        "text": "I have a meeting tomorrow morning."
+    },
+    {
+        "startTime": 17462,
+        "endTime": 19210,
+        "text": "What time is your meeting?"
+    },
+    {
+        "startTime": 19925,
+        "endTime": 22291,
+        "text": "My meeting is at 9 o'clock."
+    },
+    {
+        "startTime": 22739,
+        "endTime": 25696,
+        "text": "Well, why are you waking up so early?"
+    },
+    {
+        "startTime": 25926,
+        "endTime": 27964,
+        "text": "The meeting is at Bob's office."
+    },
+    {
+        "startTime": 28466,
+        "endTime": 30719,
+        "text": "It is an hour and a half from here."
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 5900,
+        "endTime": 6818,
+        "text": "Take me to pizza."
+    },
+    {
+        "startTime": 13496,
+        "endTime": 14386,
+        "text": "I'm cold."
+    },
+    {
+        "startTime": 17501,
+        "endTime": 18553,
+        "text": "Open charge port."
+    },
+    {
+        "startTime": 20826,
+        "endTime": 21877,
+        "text": "Lock the doors."
+    },
+    {
+        "startTime": 24503,
+        "endTime": 25512,
+        "text": "Open Netflix."
+    },
+    {
+        "startTime": 30525,
+        "endTime": 32115,
+        "text": "I'll be there in 30 minutes."
+    },
+    {
+        "startTime": 35272,
+        "endTime": 36806,
+        "text": "Make screen brighter."
+    }
+]

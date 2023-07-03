@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 1685,
+        "endTime": 3299,
+        "text": "﻿What should I wear today?"
+    },
+    {
+        "startTime": 7137,
+        "endTime": 8130,
+        "text": "T-shirt."
+    },
+    {
+        "startTime": 13142,
+        "endTime": 14005,
+        "text": "T-shirt."
+    },
+    {
+        "startTime": 21357,
+        "endTime": 22344,
+        "text": "Jeans."
+    },
+    {
+        "startTime": 26089,
+        "endTime": 26993,
+        "text": "Jeans."
+    },
+    {
+        "startTime": 33871,
+        "endTime": 34649,
+        "text": "Blouse."
+    },
+    {
+        "startTime": 39241,
+        "endTime": 40147,
+        "text": "Blouse."
+    },
+    {
+        "startTime": 46941,
+        "endTime": 47786,
+        "text": "Skirt."
+    },
+    {
+        "startTime": 51347,
+        "endTime": 52300,
+        "text": "Skirt,"
+    },
+    {
+        "startTime": 58331,
+        "endTime": 59148,
+        "text": "Sweater."
+    },
+    {
+        "startTime": 64311,
+        "endTime": 65376,
+        "text": "Sweater."
+    },
+    {
+        "startTime": 71745,
+        "endTime": 72622,
+        "text": "Pants."
+    },
+    {
+        "startTime": 76439,
+        "endTime": 77422,
+        "text": "Pants."
+    },
+    {
+        "startTime": 86487,
+        "endTime": 87469,
+        "text": "Dress."
+    },
+    {
+        "startTime": 91981,
+        "endTime": 92843,
+        "text": "Dress."
+    }
+]

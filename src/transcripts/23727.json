@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 5233,
+        "endTime": 7743,
+        "text": "Please tell me your date of birth as I call out your names."
+    },
+    {
+        "startTime": 8235,
+        "endTime": 8687,
+        "text": "Brad?"
+    },
+    {
+        "startTime": 9145,
+        "endTime": 11589,
+        "text": "29th February, 2004."
+    },
+    {
+        "startTime": 11899,
+        "endTime": 12304,
+        "text": "Eric?"
+    },
+    {
+        "startTime": 13379,
+        "endTime": 14718,
+        "text": "15th January."
+    },
+    {
+        "startTime": 15194,
+        "endTime": 16168,
+        "text": "In which year?"
+    },
+    {
+        "startTime": 16589,
+        "endTime": 18132,
+        "text": "It is in every year, Ma'am."
+    }
+]

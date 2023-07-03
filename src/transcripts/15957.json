@@ -1,0 +1,182 @@
+[
+    {
+        "startTime": 3436,
+        "endTime": 6185,
+        "text": "Hi! I'm Jeremy, a Consumer Experience Specialist at Google."
+    },
+    {
+        "startTime": 6538,
+        "endTime": 9790,
+        "text": "Today, I'm gonna talk to you about malicious software also known as malware..."
+    },
+    {
+        "startTime": 10098,
+        "endTime": 11931,
+        "text": "...and how you can protect your computer from infection."
+    },
+    {
+        "startTime": 12371,
+        "endTime": 13998,
+        "text": "First, let's talk about how you get malware."
+    },
+    {
+        "startTime": 14749,
+        "endTime": 18355,
+        "text": "Malware is often installed on your computer without your knowledge when you visit certain websites."
+    },
+    {
+        "startTime": 19031,
+        "endTime": 22410,
+        "text": "Sometimes, these are good sites that have been compromised by malware creators."
+    },
+    {
+        "startTime": 22815,
+        "endTime": 26037,
+        "text": "And other times, they're simply bad sites built to distribute malicious software."
+    },
+    {
+        "startTime": 27820,
+        "endTime": 31010,
+        "text": "Malware may also be installed when you download a file that appears to be legitimate,..."
+    },
+    {
+        "startTime": 31362,
+        "endTime": 33939,
+        "text": "...but is actually doing things that you didn't want or expect it to do."
+    },
+    {
+        "startTime": 35632,
+        "endTime": 38444,
+        "text": "Malware has been known to do things like delete data on your computer,..."
+    },
+    {
+        "startTime": 38695,
+        "endTime": 41579,
+        "text": "...steal personal information such as credit card numbers and passwords,..."
+    },
+    {
+        "startTime": 42133,
+        "endTime": 45531,
+        "text": "...send spam email, or even attack other networks and computers."
+    },
+    {
+        "startTime": 47146,
+        "endTime": 49781,
+        "text": "One of the most common symptoms of malware that our users report..."
+    },
+    {
+        "startTime": 50113,
+        "endTime": 53113,
+        "text": "...is being taken to an unexpected site after clicking on a search result."
+    },
+    {
+        "startTime": 53475,
+        "endTime": 54647,
+        "text": "These sites are often spammy."
+    },
+    {
+        "startTime": 55603,
+        "endTime": 59425,
+        "text": "But malware can also cause pop-ups, unwanted tool bars, and other strange behavior."
+    },
+    {
+        "startTime": 60965,
+        "endTime": 63489,
+        "text": "To avoid malware from infecting your computer in the first place,..."
+    },
+    {
+        "startTime": 63891,
+        "endTime": 66141,
+        "text": "...it's a good idea to follow a few general guidelines."
+    },
+    {
+        "startTime": 66903,
+        "endTime": 70811,
+        "text": "First, upgrade your operating system and all of your software to the latest versions."
+    },
+    {
+        "startTime": 71212,
+        "endTime": 74857,
+        "text": "Check for new versions regularly, and if possible, turn on automatic updates."
+    },
+    {
+        "startTime": 75977,
+        "endTime": 78618,
+        "text": "Be careful not to click on links that you don't know the destination of..."
+    },
+    {
+        "startTime": 78763,
+        "endTime": 80904,
+        "text": "...or download files from a source that you don't trust."
+    },
+    {
+        "startTime": 81959,
+        "endTime": 85521,
+        "text": "Similarly, before you download email attachments or click links in an email,..."
+    },
+    {
+        "startTime": 85685,
+        "endTime": 86749,
+        "text": "...make sure you trust the sender."
+    },
+    {
+        "startTime": 87985,
+        "endTime": 91161,
+        "text": "And finally, make sure that you're running up-to-date antivirus software."
+    },
+    {
+        "startTime": 91471,
+        "endTime": 93010,
+        "text": "If you think you've already got malware,..."
+    },
+    {
+        "startTime": 93366,
+        "endTime": 96573,
+        "text": "...you can usually also use antivirus software to detect and remove it."
+    },
+    {
+        "startTime": 98281,
+        "endTime": 101006,
+        "text": "There are a number of programs that can remove the most common malware."
+    },
+    {
+        "startTime": 101467,
+        "endTime": 104803,
+        "text": "Although, you may need to try more than one to catch every instance on your computer."
+    },
+    {
+        "startTime": 105752,
+        "endTime": 108441,
+        "text": "And again, remember to keep all of your antivirus software up-to-date."
+    },
+    {
+        "startTime": 108945,
+        "endTime": 111089,
+        "text": "If you do find a site in our search results that installs..."
+    },
+    {
+        "startTime": 111194,
+        "endTime": 114922,
+        "text": "...unwanted programs on your computer or redirects you somewhere that you did not intend to go,..."
+    },
+    {
+        "startTime": 115581,
+        "endTime": 116288,
+        "text": "...please let us know."
+    },
+    {
+        "startTime": 117300,
+        "endTime": 119781,
+        "text": "Your report will help us improve the quality of our search results."
+    },
+    {
+        "startTime": 121018,
+        "endTime": 123524,
+        "text": "To learn more about malware, please visit our help center."
+    },
+    {
+        "startTime": 123777,
+        "endTime": 124978,
+        "text": "Thanks and safe browsing."
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "startTime": 453,
+        "endTime": 5823,
+        "text": "In a nuclear energy facility, a chain reaction of splitting atoms releases heat."
+    },
+    {
+        "startTime": 6445,
+        "endTime": 8846,
+        "text": "This reaction takes place in the reactor."
+    },
+    {
+        "startTime": 9810,
+        "endTime": 14994,
+        "text": "All reactors are designed, built, and operated with safety as a top priority."
+    },
+    {
+        "startTime": 15753,
+        "endTime": 19856,
+        "text": "Nuclear energy facilities are among the safest facilities in the world..."
+    },
+    {
+        "startTime": 20298,
+        "endTime": 24969,
+        "text": "...because they feature multiple redundant layers of safety systems and procedures,..."
+    },
+    {
+        "startTime": 25372,
+        "endTime": 27322,
+        "text": "...beginning in the core of the reactor."
+    },
+    {
+        "startTime": 28856,
+        "endTime": 37120,
+        "text": "In a nuclear reactor, metal rods with enriched uranium pellets inside are placed into bundles, creating a fuel assembly."
+    },
+    {
+        "startTime": 37717,
+        "endTime": 41465,
+        "text": "The bundles are submerged in water inside a pressurized vessel."
+    },
+    {
+        "startTime": 42252,
+        "endTime": 48961,
+        "text": "The two most common types of nuclear reactors are boiling water reactors and pressurized water reactors."
+    },
+    {
+        "startTime": 49796,
+        "endTime": 51469,
+        "text": "In a boiling water reactor,..."
+    },
+    {
+        "startTime": 52005,
+        "endTime": 57932,
+        "text": "...the heat from split atoms causes the water to boil, producing steam that drives the turbine."
+    },
+    {
+        "startTime": 58825,
+        "endTime": 64795,
+        "text": "Afterwards, the steam is converted back to liquid water and returned to the reactor core."
+    },
+    {
+        "startTime": 65534,
+        "endTime": 71732,
+        "text": "Pressurized water reactors or PWRs were developed after boiling water reactors,..."
+    },
+    {
+        "startTime": 72132,
+        "endTime": 74084,
+        "text": "...and work in a slightly different manner."
+    },
+    {
+        "startTime": 74805,
+        "endTime": 80337,
+        "text": "In a PWR, the water in the reactor tank is under pressure to keep it from boiling,..."
+    },
+    {
+        "startTime": 80622,
+        "endTime": 83060,
+        "text": "...even though it reaches very high temperatures."
+    },
+    {
+        "startTime": 83931,
+        "endTime": 89973,
+        "text": "In the steam generator of a PWR, water passes through thousands of small pipes."
+    },
+    {
+        "startTime": 90637,
+        "endTime": 95522,
+        "text": "The heat in the pipes turns the water to steam, which then drives the turbine."
+    },
+    {
+        "startTime": 96270,
+        "endTime": 100656,
+        "text": "The turbine powers the generator, which in turn produces electricity."
+    },
+    {
+        "startTime": 101576,
+        "endTime": 105041,
+        "text": "Here is where the process differs from a boiling water reactor."
+    },
+    {
+        "startTime": 105775,
+        "endTime": 110325,
+        "text": "The reactor water is now pumped back into the reactor tank and heated again."
+    },
+    {
+        "startTime": 111157,
+        "endTime": 114140,
+        "text": "The steam from the turbine is cooled in a condenser..."
+    },
+    {
+        "startTime": 114695,
+        "endTime": 119237,
+        "text": "...and the resulting water is sent back into the steam generator and heated again."
+    },
+    {
+        "startTime": 119966,
+        "endTime": 126317,
+        "text": "To prevent overheating, control rods made of a material that absorbs small atomic particles..."
+    },
+    {
+        "startTime": 126704,
+        "endTime": 129180,
+        "text": "...are inserted into the nuclear fuel bundle."
+    },
+    {
+        "startTime": 130082,
+        "endTime": 135381,
+        "text": "When an operator wants to produce more heat, the control rods are raised out of the bundle."
+    },
+    {
+        "startTime": 136169,
+        "endTime": 139190,
+        "text": "To create less heat, they are lowered into the bundle."
+    },
+    {
+        "startTime": 140223,
+        "endTime": 144296,
+        "text": "The rods can also be lowered completely to shut the reactor down..."
+    },
+    {
+        "startTime": 144607,
+        "endTime": 147860,
+        "text": "...in the case of an accident or to refuel the facility."
+    },
+    {
+        "startTime": 148816,
+        "endTime": 150259,
+        "text": "With this level of control,..."
+    },
+    {
+        "startTime": 150828,
+        "endTime": 158555,
+        "text": "...the operator of a nuclear energy facility is able to ensure that it continues to generate clean, safe, and secure energy."
+    }
+]

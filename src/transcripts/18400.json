@@ -1,0 +1,127 @@
+[
+    {
+        "startTime": 50,
+        "endTime": 3606,
+        "text": "Brown bear, brown bear, what do you see?"
+    },
+    {
+        "startTime": 3899,
+        "endTime": 7449,
+        "text": "I see a red bird looking at me."
+    },
+    {
+        "startTime": 7781,
+        "endTime": 11370,
+        "text": "Red bird, red bird, what do you see?"
+    },
+    {
+        "startTime": 11830,
+        "endTime": 15447,
+        "text": "I see a yellow duck looking at me."
+    },
+    {
+        "startTime": 15688,
+        "endTime": 19581,
+        "text": "Yellow duck, yellow duck, what do you see?"
+    },
+    {
+        "startTime": 19854,
+        "endTime": 23566,
+        "text": "I see a blue horse looking at me."
+    },
+    {
+        "startTime": 23788,
+        "endTime": 27609,
+        "text": "Blue horse, blue horse, what do you see?"
+    },
+    {
+        "startTime": 27959,
+        "endTime": 31615,
+        "text": "I see a green frog looking at me."
+    },
+    {
+        "startTime": 31893,
+        "endTime": 35564,
+        "text": "Green frog, green frog, what do you see?"
+    },
+    {
+        "startTime": 35854,
+        "endTime": 39445,
+        "text": "I see a purple cat looking at me."
+    },
+    {
+        "startTime": 39697,
+        "endTime": 43349,
+        "text": "Purple cat, purple cat, what do you see?"
+    },
+    {
+        "startTime": 43631,
+        "endTime": 47269,
+        "text": "I see a white dog looking at me."
+    },
+    {
+        "startTime": 47551,
+        "endTime": 51275,
+        "text": "White dog, white dog, what do you see?"
+    },
+    {
+        "startTime": 51519,
+        "endTime": 55176,
+        "text": "I see a black sheep looking at me."
+    },
+    {
+        "startTime": 55441,
+        "endTime": 59285,
+        "text": "Black sheep, black sheep, what do you see?"
+    },
+    {
+        "startTime": 59567,
+        "endTime": 63199,
+        "text": "I see a goldfish looking at me."
+    },
+    {
+        "startTime": 63575,
+        "endTime": 67265,
+        "text": "Goldfish, goldfish, what do you see?"
+    },
+    {
+        "startTime": 67636,
+        "endTime": 71312,
+        "text": "I see a teacher looking at me."
+    },
+    {
+        "startTime": 71587,
+        "endTime": 75259,
+        "text": "Teacher, teacher, what do you see?"
+    },
+    {
+        "startTime": 75748,
+        "endTime": 79435,
+        "text": "I see children looking at me."
+    },
+    {
+        "startTime": 79759,
+        "endTime": 83533,
+        "text": "Children, children, what do you see?"
+    },
+    {
+        "startTime": 83968,
+        "endTime": 90321,
+        "text": "We see a brown bear, a red bird, a yellow duck, a blue horse,..."
+    },
+    {
+        "startTime": 90464,
+        "endTime": 95468,
+        "text": "...a green frog, a purple cat, a white dog, a black sheep,..."
+    },
+    {
+        "startTime": 95738,
+        "endTime": 100263,
+        "text": "...a goldfish, and a teacher looking at us."
+    },
+    {
+        "startTime": 100715,
+        "endTime": 102103,
+        "text": "That's what we see."
+    }
+]

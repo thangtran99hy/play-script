@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 50,
+        "endTime": 4000,
+        "text": "Here are phrases you can use when asking others about their education."
+    },
+    {
+        "startTime": 5682,
+        "endTime": 6571,
+        "text": "Are you a student?"
+    },
+    {
+        "startTime": 8365,
+        "endTime": 10265,
+        "text": "What do you want to do when you graduate?"
+    },
+    {
+        "startTime": 11861,
+        "endTime": 13688,
+        "text": "How many more years do you have to go?"
+    },
+    {
+        "startTime": 15362,
+        "endTime": 16595,
+        "text": "Which year are you in?"
+    },
+    {
+        "startTime": 18311,
+        "endTime": 19877,
+        "text": "Do you have any exams coming up?"
+    },
+    {
+        "startTime": 21611,
+        "endTime": 22508,
+        "text": "What's your major?"
+    },
+    {
+        "startTime": 24159,
+        "endTime": 25225,
+        "text": "Where do you go to school?"
+    },
+    {
+        "startTime": 27005,
+        "endTime": 28033,
+        "text": "I went to..."
+    },
+    {
+        "startTime": 29461,
+        "endTime": 30372,
+        "text": "What did you study?"
+    },
+    {
+        "startTime": 31953,
+        "endTime": 33314,
+        "text": "I've just graduated."
+    }
+]

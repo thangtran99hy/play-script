@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 3803,
+        "endTime": 6440,
+        "text": "The bird goes over the tree."
+    },
+    {
+        "startTime": 7619,
+        "endTime": 10409,
+        "text": "The bird goes over the farm."
+    },
+    {
+        "startTime": 11521,
+        "endTime": 14123,
+        "text": "The bird goes over the city."
+    },
+    {
+        "startTime": 15543,
+        "endTime": 18178,
+        "text": "The bird goes over the street."
+    },
+    {
+        "startTime": 19467,
+        "endTime": 22159,
+        "text": "The bird goes over the tables."
+    },
+    {
+        "startTime": 23357,
+        "endTime": 26061,
+        "text": "The bird goes over the cars."
+    },
+    {
+        "startTime": 27489,
+        "endTime": 30329,
+        "text": "The bird goes over the mountains."
+    },
+    {
+        "startTime": 31449,
+        "endTime": 33143,
+        "text": "The bird goes home."
+    },
+    {
+        "startTime": 37655,
+        "endTime": 39622,
+        "text": "Where does the butterfly go?"
+    },
+    {
+        "startTime": 40754,
+        "endTime": 42631,
+        "text": "It goes over the garden."
+    },
+    {
+        "startTime": 43756,
+        "endTime": 46197,
+        "text": "Does the snail go over the bench?"
+    },
+    {
+        "startTime": 47372,
+        "endTime": 48685,
+        "text": "No, it doesn't."
+    },
+    {
+        "startTime": 49135,
+        "endTime": 50969,
+        "text": "It goes under the bench."
+    },
+    {
+        "startTime": 52143,
+        "endTime": 53789,
+        "text": "What goes over the park?"
+    },
+    {
+        "startTime": 54963,
+        "endTime": 57057,
+        "text": "The bird goes over the park."
+    }
+]

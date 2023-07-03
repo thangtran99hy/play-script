@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 2329,
+        "endTime": 4427,
+        "text": "When would you like to schedule our meeting?"
+    },
+    {
+        "startTime": 4930,
+        "endTime": 6434,
+        "text": "When would be best for you?"
+    },
+    {
+        "startTime": 6969,
+        "endTime": 8845,
+        "text": "I'm free on Wednesday afternoon."
+    },
+    {
+        "startTime": 9146,
+        "endTime": 10933,
+        "text": "Is that day convenient for you?"
+    },
+    {
+        "startTime": 11480,
+        "endTime": 13838,
+        "text": "Could we make it Thursday morning instead?"
+    },
+    {
+        "startTime": 14425,
+        "endTime": 15693,
+        "text": "Let me check my planner."
+    },
+    {
+        "startTime": 16279,
+        "endTime": 18461,
+        "text": "Yes, Thursday morning is fine."
+    },
+    {
+        "startTime": 18767,
+        "endTime": 19539,
+        "text": "What time?"
+    },
+    {
+        "startTime": 20090,
+        "endTime": 21529,
+        "text": "How does 10:00 sound?"
+    },
+    {
+        "startTime": 22087,
+        "endTime": 24119,
+        "text": "10:00 is ideal for me."
+    },
+    {
+        "startTime": 24456,
+        "endTime": 26948,
+        "text": "I'll expect you Thursday morning at 10."
+    },
+    {
+        "startTime": 27346,
+        "endTime": 29012,
+        "text": "Great! See you then."
+    }
+]

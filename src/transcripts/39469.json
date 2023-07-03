@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 6477,
+        "endTime": 10859,
+        "text": "In straight turning, the tool is fed parallel to the axis of the work..."
+    },
+    {
+        "startTime": 11117,
+        "endTime": 15842,
+        "text": "...to reduce its diameter so that the final diameter is the same at each end."
+    },
+    {
+        "startTime": 16968,
+        "endTime": 22096,
+        "text": "Removing a significant amount of material in one pass is called rough turning."
+    },
+    {
+        "startTime": 23277,
+        "endTime": 26557,
+        "text": "The final lighter cut that creates a smooth surface finish..."
+    },
+    {
+        "startTime": 26903,
+        "endTime": 28548,
+        "text": "...is called finish turning."
+    },
+    {
+        "startTime": 31396,
+        "endTime": 35603,
+        "text": "Taper turning produces a taper along the axis of the workpiece."
+    },
+    {
+        "startTime": 36541,
+        "endTime": 40623,
+        "text": "Tapers are produced by offsetting the tailstock from center line..."
+    },
+    {
+        "startTime": 41040,
+        "endTime": 43382,
+        "text": "...or by using a taper attachment."
+    },
+    {
+        "startTime": 43987,
+        "endTime": 48091,
+        "text": "Short, steep tapers can be turned using a compound rest."
+    },
+    {
+        "startTime": 50459,
+        "endTime": 54275,
+        "text": "Contour turning or profiling was formally performed..."
+    },
+    {
+        "startTime": 54377,
+        "endTime": 56583,
+        "text": "...by having the single point cutting tool..."
+    },
+    {
+        "startTime": 56913,
+        "endTime": 59492,
+        "text": "...trace a template of the desired profile shape."
+    },
+    {
+        "startTime": 60520,
+        "endTime": 63840,
+        "text": "This has largely been replaced by CNC turning,..."
+    },
+    {
+        "startTime": 64428,
+        "endTime": 68463,
+        "text": "...in which the desired contour is simply programmed into the machine,..."
+    },
+    {
+        "startTime": 68835,
+        "endTime": 71518,
+        "text": "...which directs a cutting tool to cut the contour."
+    }
+]

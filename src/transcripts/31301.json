@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 4760,
+        "endTime": 6155,
+        "text": "﻿There is a tree."
+    },
+    {
+        "startTime": 7866,
+        "endTime": 9303,
+        "text": "There are trees."
+    },
+    {
+        "startTime": 10804,
+        "endTime": 12039,
+        "text": "There is one girl."
+    },
+    {
+        "startTime": 13653,
+        "endTime": 14903,
+        "text": "There are two girls."
+    },
+    {
+        "startTime": 16651,
+        "endTime": 17718,
+        "text": "There is a banana."
+    },
+    {
+        "startTime": 19397,
+        "endTime": 20867,
+        "text": "There are some bananas."
+    },
+    {
+        "startTime": 22471,
+        "endTime": 24156,
+        "text": "There is an alligator."
+    },
+    {
+        "startTime": 25631,
+        "endTime": 27439,
+        "text": "There are many alligators."
+    }
+]

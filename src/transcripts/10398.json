@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 100,
+        "endTime": 3000,
+        "text": "I'm pleased to introduce my company, Tokyo Technology."
+    },
+    {
+        "startTime": 3850,
+        "endTime": 8500,
+        "text": "Let me start off by giving a brief corporate overview, followed by a more thorough product review."
+    },
+    {
+        "startTime": 9250,
+        "endTime": 15900,
+        "text": "Our company was established in May of 1999. We just celebrated our 10th anniversary last month."
+    },
+    {
+        "startTime": 16600,
+        "endTime": 19350,
+        "text": "Our headquarters are located at Shibuya in Tokyo."
+    },
+    {
+        "startTime": 20100,
+        "endTime": 22350,
+        "text": "We also have a branch office in Osaka."
+    },
+    {
+        "startTime": 23100,
+        "endTime": 26100,
+        "text": "Our founder and CEO is Norio Matsuda."
+    },
+    {
+        "startTime": 26950,
+        "endTime": 29700,
+        "text": "He has more than 20 years of experience in this industry."
+    },
+    {
+        "startTime": 30500,
+        "endTime": 34900,
+        "text": "The total number of employees as of last month was 358."
+    },
+    {
+        "startTime": 35800,
+        "endTime": 39600,
+        "text": "As you can see from this chart, our revenues continue to grow."
+    },
+    {
+        "startTime": 40350,
+        "endTime": 45400,
+        "text": "We have grown our top line at a rate of 12% per year, since we started the business 10 years ago."
+    },
+    {
+        "startTime": 46200,
+        "endTime": 48350,
+        "text": "We are very proud of this achievement."
+    },
+    {
+        "startTime": 49200,
+        "endTime": 56050,
+        "text": "Sales in 2008 were 122 million dollars, slightly above our target of 120 million dollars."
+    },
+    {
+        "startTime": 56900,
+        "endTime": 61100,
+        "text": "Due to the current economic situation, this year will be very tough."
+    },
+    {
+        "startTime": 61850,
+        "endTime": 65650,
+        "text": "Even so, the first quarter of this year was not as bad as expected."
+    },
+    {
+        "startTime": 65800,
+        "endTime": 70700,
+        "text": "Sales were 27 million dollars, down 8 percent from first quarter 2008."
+    }
+]

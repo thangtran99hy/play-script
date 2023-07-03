@@ -1,0 +1,207 @@
+[
+    {
+        "startTime": 350,
+        "endTime": 5250,
+        "text": "Hi. In this video, I'm going to give you a quick overview of what you can do with the YouTube APIs."
+    },
+    {
+        "startTime": 6750,
+        "endTime": 8700,
+        "text": "First of all, we all know what YouTube is, right?"
+    },
+    {
+        "startTime": 8900,
+        "endTime": 12150,
+        "text": "Millions of videos uploaded from all around the world at your fingertips."
+    },
+    {
+        "startTime": 13600,
+        "endTime": 16550,
+        "text": "The YouTube APIs allow you to integrate YouTube into your application."
+    },
+    {
+        "startTime": 17500,
+        "endTime": 18900,
+        "text": "There are two main APIs:..."
+    },
+    {
+        "startTime": 19050,
+        "endTime": 21300,
+        "text": "...the data API and the player APIs."
+    },
+    {
+        "startTime": 21950,
+        "endTime": 25750,
+        "text": "The data API is a RESTful API that allows you to do a wide breadth of operations:..."
+    },
+    {
+        "startTime": 26200,
+        "endTime": 31150,
+        "text": "...searching, pulling back user information, uploading videos, creating playlists, and much more."
+    },
+    {
+        "startTime": 31550,
+        "endTime": 36200,
+        "text": "I'll go over the two most popular use cases, \"search\" and \"upload\", and show you some examples."
+    },
+    {
+        "startTime": 37750,
+        "endTime": 38750,
+        "text": "First up, search."
+    },
+    {
+        "startTime": 38900,
+        "endTime": 41750,
+        "text": "I'm sure you've all searched for your favorite video on YouTube.com."
+    },
+    {
+        "startTime": 42250,
+        "endTime": 45400,
+        "text": "Using the API, you can send a query for a search term like you would on the site,..."
+    },
+    {
+        "startTime": 45950,
+        "endTime": 47650,
+        "text": "...and retrieve a feed of results in XML,..."
+    },
+    {
+        "startTime": 47700,
+        "endTime": 49950,
+        "text": "...which you could then display in your application how you want."
+    },
+    {
+        "startTime": 50350,
+        "endTime": 51750,
+        "text": "Another big operation is upload."
+    },
+    {
+        "startTime": 52050,
+        "endTime": 55300,
+        "text": "Your users can upload their videos to YouTube through your application."
+    },
+    {
+        "startTime": 56650,
+        "endTime": 59500,
+        "text": "For example, animoto.com is a slideshow creation site."
+    },
+    {
+        "startTime": 60300,
+        "endTime": 63650,
+        "text": "Once their users create a slideshow, they have an option to export to YouTube."
+    },
+    {
+        "startTime": 64200,
+        "endTime": 66650,
+        "text": "They use the API to authorize the user to the YouTube account,..."
+    },
+    {
+        "startTime": 66750,
+        "endTime": 67900,
+        "text": "...and then send the video over."
+    },
+    {
+        "startTime": 73500,
+        "endTime": 76750,
+        "text": "You can get started with the data API with one of our open source client libraries."
+    },
+    {
+        "startTime": 77150,
+        "endTime": 80400,
+        "text": "We have them for PHP, Java, .NET, and Python."
+    },
+    {
+        "startTime": 80900,
+        "endTime": 83700,
+        "text": "They make parsing feeds and handling authentication much easier."
+    },
+    {
+        "startTime": 84200,
+        "endTime": 86800,
+        "text": "I should also point out that, while we don't have a JavaScript client library,..."
+    },
+    {
+        "startTime": 86900,
+        "endTime": 89400,
+        "text": "...we do offer JSON as an alternative format to XML..."
+    },
+    {
+        "startTime": 89600,
+        "endTime": 91600,
+        "text": "...so you can easily parse responses with JavaScript."
+    },
+    {
+        "startTime": 92900,
+        "endTime": 94250,
+        "text": "Now, on to the player APIs."
+    },
+    {
+        "startTime": 94600,
+        "endTime": 97350,
+        "text": "The player APIs give you control over the YouTube - embedded player."
+    },
+    {
+        "startTime": 98150,
+        "endTime": 100800,
+        "text": "You can issue commands like \"stop\", \"pause\", and \"play\";..."
+    },
+    {
+        "startTime": 101450,
+        "endTime": 103500,
+        "text": "...listen for events, like air events..."
+    },
+    {
+        "startTime": 103600,
+        "endTime": 106400,
+        "text": "...or which state the player is in, and poll status,..."
+    },
+    {
+        "startTime": 106500,
+        "endTime": 108400,
+        "text": "...like how far into the video the user is."
+    },
+    {
+        "startTime": 108800,
+        "endTime": 112800,
+        "text": "Here's an example of an application that's using the player APIs to sync up this lecture with the slides."
+    },
+    {
+        "startTime": 116750,
+        "endTime": 119600,
+        "text": "If you wanna do even deeper customizations, use our chromeless player."
+    },
+    {
+        "startTime": 119700,
+        "endTime": 123100,
+        "text": "It's just a video box with no buttons that you can control with the player APIs."
+    },
+    {
+        "startTime": 123700,
+        "endTime": 128050,
+        "text": "You can skin the player to match the look and feel of your application, much like in these examples."
+    },
+    {
+        "startTime": 133200,
+        "endTime": 135550,
+        "text": "For even more examples, check out our app gallery."
+    },
+    {
+        "startTime": 136000,
+        "endTime": 138250,
+        "text": "And once you've built something, show us by submitting yours."
+    },
+    {
+        "startTime": 139250,
+        "endTime": 140450,
+        "text": "This has only been a quick overview,..."
+    },
+    {
+        "startTime": 140550,
+        "endTime": 143600,
+        "text": "...but find all the rest of the details on code.google.com,..."
+    },
+    {
+        "startTime": 143950,
+        "endTime": 145350,
+        "text": "...and ask your questions in our forum."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 343,
+        "endTime": 1113,
+        "text": "Here's my number."
+    },
+    {
+        "startTime": 1447,
+        "endTime": 7043,
+        "text": "555-614-7221."
+    },
+    {
+        "startTime": 7303,
+        "endTime": 8445,
+        "text": "What's your phone number?"
+    },
+    {
+        "startTime": 8732,
+        "endTime": 13173,
+        "text": "My phone number is 239-0560."
+    },
+    {
+        "startTime": 13464,
+        "endTime": 14817,
+        "text": "What's your cell phone number?"
+    },
+    {
+        "startTime": 15088,
+        "endTime": 19021,
+        "text": "My cell phone number is 555-1312."
+    }
+]

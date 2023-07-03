@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 4093,
+        "endTime": 8687,
+        "text": "Hello, sir. May I see your passport and immigration form, please?"
+    },
+    {
+        "startTime": 9026,
+        "endTime": 12196,
+        "text": "Yes, here's my passport and immigration form."
+    },
+    {
+        "startTime": 12733,
+        "endTime": 15041,
+        "text": "Your name is Kim Changmin?"
+    },
+    {
+        "startTime": 15422,
+        "endTime": 16673,
+        "text": "Yes, sir. That's right."
+    },
+    {
+        "startTime": 17079,
+        "endTime": 19072,
+        "text": "And you are a citizen of Korea?"
+    },
+    {
+        "startTime": 19574,
+        "endTime": 20201,
+        "text": "Yes, sir."
+    },
+    {
+        "startTime": 20659,
+        "endTime": 23550,
+        "text": "What is your purpose for coming to the United States?"
+    },
+    {
+        "startTime": 24264,
+        "endTime": 27777,
+        "text": "I'm here to study at a university. I have a student visa."
+    },
+    {
+        "startTime": 28317,
+        "endTime": 30086,
+        "text": "Do you have anything to declare?"
+    },
+    {
+        "startTime": 30499,
+        "endTime": 31501,
+        "text": "No, I don't."
+    },
+    {
+        "startTime": 31827,
+        "endTime": 34568,
+        "text": "Okay, everything looks in order here."
+    },
+    {
+        "startTime": 35006,
+        "endTime": 37588,
+        "text": "How long are you planning to stay in the U.S.?"
+    },
+    {
+        "startTime": 38051,
+        "endTime": 41995,
+        "text": "I'm hoping to stay for one year, or until I finish my degree."
+    }
+]

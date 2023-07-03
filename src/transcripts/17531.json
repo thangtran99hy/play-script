@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 2701,
+        "endTime": 5190,
+        "text": "What did you do yesterday afternoon?"
+    },
+    {
+        "startTime": 6237,
+        "endTime": 8925,
+        "text": "I just watched TV all day."
+    },
+    {
+        "startTime": 10023,
+        "endTime": 13039,
+        "text": "Did you? I called you but you didn't answer."
+    },
+    {
+        "startTime": 14255,
+        "endTime": 17537,
+        "text": "I couldn't get it because I was taking a shower then."
+    },
+    {
+        "startTime": 19935,
+        "endTime": 22691,
+        "text": "Could you Speak Chinese when you were 7?"
+    },
+    {
+        "startTime": 23331,
+        "endTime": 25635,
+        "text": "No, I couldn't speak Chinese then."
+    },
+    {
+        "startTime": 25859,
+        "endTime": 27811,
+        "text": "But now I can speak Chinese."
+    },
+    {
+        "startTime": 29937,
+        "endTime": 31975,
+        "text": "Where were you an hour ago?"
+    },
+    {
+        "startTime": 33029,
+        "endTime": 34911,
+        "text": "I was playing in the backyard."
+    },
+    {
+        "startTime": 36050,
+        "endTime": 38403,
+        "text": "You didn't hear me calling your name?"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 3715,
+        "endTime": 4896,
+        "text": "Did she clean the house?"
+    },
+    {
+        "startTime": 6539,
+        "endTime": 7502,
+        "text": "Yes, she did."
+    },
+    {
+        "startTime": 9165,
+        "endTime": 10295,
+        "text": "Did they walk to school?"
+    },
+    {
+        "startTime": 11973,
+        "endTime": 13733,
+        "text": "No, they didn't walk to school."
+    },
+    {
+        "startTime": 18756,
+        "endTime": 19737,
+        "text": "What did he get?"
+    },
+    {
+        "startTime": 21154,
+        "endTime": 22488,
+        "text": "He got a bike."
+    },
+    {
+        "startTime": 23987,
+        "endTime": 24959,
+        "text": "Where did they go?"
+    },
+    {
+        "startTime": 26485,
+        "endTime": 27525,
+        "text": "They went to the zoo."
+    },
+    {
+        "startTime": 29253,
+        "endTime": 30263,
+        "text": "When did you eat?"
+    },
+    {
+        "startTime": 31949,
+        "endTime": 33335,
+        "text": "I ate at 9 o'clock."
+    },
+    {
+        "startTime": 34937,
+        "endTime": 36123,
+        "text": "Who watched TV?"
+    },
+    {
+        "startTime": 37817,
+        "endTime": 39019,
+        "text": "Bill watched TV."
+    }
+]

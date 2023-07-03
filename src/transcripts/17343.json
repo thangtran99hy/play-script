@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 3023,
+        "endTime": 4917,
+        "text": "The dogs go in."
+    },
+    {
+        "startTime": 6009,
+        "endTime": 7965,
+        "text": "The dogs go out."
+    },
+    {
+        "startTime": 9066,
+        "endTime": 11068,
+        "text": "The cats go in."
+    },
+    {
+        "startTime": 12128,
+        "endTime": 14029,
+        "text": "The cats go out."
+    },
+    {
+        "startTime": 15049,
+        "endTime": 17084,
+        "text": "The cows go in."
+    },
+    {
+        "startTime": 18127,
+        "endTime": 19954,
+        "text": "The cows go out."
+    },
+    {
+        "startTime": 21002,
+        "endTime": 22947,
+        "text": "The pigs go in."
+    },
+    {
+        "startTime": 24005,
+        "endTime": 25843,
+        "text": "Oh boy, mud."
+    },
+    {
+        "startTime": 30058,
+        "endTime": 31808,
+        "text": "Where does the pig go?"
+    },
+    {
+        "startTime": 32884,
+        "endTime": 34733,
+        "text": "It goes into the mud."
+    },
+    {
+        "startTime": 35785,
+        "endTime": 37534,
+        "text": "Where do the cows go?"
+    },
+    {
+        "startTime": 38596,
+        "endTime": 40673,
+        "text": "They go out of the pool."
+    },
+    {
+        "startTime": 41757,
+        "endTime": 44294,
+        "text": "Does the dog go into the barn?"
+    },
+    {
+        "startTime": 45410,
+        "endTime": 48023,
+        "text": "No, it goes out of the barn."
+    }
+]

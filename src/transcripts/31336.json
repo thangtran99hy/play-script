@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 3777,
+        "endTime": 4919,
+        "text": "It is Monday."
+    },
+    {
+        "startTime": 6538,
+        "endTime": 8102,
+        "text": "It is February 11th."
+    },
+    {
+        "startTime": 9543,
+        "endTime": 10773,
+        "text": "It's my birthday."
+    },
+    {
+        "startTime": 15856,
+        "endTime": 16985,
+        "text": "What day is it?"
+    },
+    {
+        "startTime": 17561,
+        "endTime": 18356,
+        "text": "It's Sunday."
+    },
+    {
+        "startTime": 19809,
+        "endTime": 21086,
+        "text": "What month is it?"
+    },
+    {
+        "startTime": 21712,
+        "endTime": 22479,
+        "text": "It's November."
+    },
+    {
+        "startTime": 23998,
+        "endTime": 25200,
+        "text": "What date is it?"
+    },
+    {
+        "startTime": 26089,
+        "endTime": 27509,
+        "text": "It is October 3rd."
+    },
+    {
+        "startTime": 29037,
+        "endTime": 30170,
+        "text": "What season is it?"
+    },
+    {
+        "startTime": 30965,
+        "endTime": 31879,
+        "text": "It is winter."
+    }
+]

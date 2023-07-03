@@ -1,0 +1,122 @@
+[
+    {
+        "startTime": 148,
+        "endTime": 1637,
+        "text": "Customers are getting confused."
+    },
+    {
+        "startTime": 1733,
+        "endTime": 4701,
+        "text": "It may be cultural or just different personalities."
+    },
+    {
+        "startTime": 4993,
+        "endTime": 8441,
+        "text": "But, I need to make sure everybody speaks up when they have something to offer."
+    },
+    {
+        "startTime": 9599,
+        "endTime": 11035,
+        "text": "Some speak quite easily..."
+    },
+    {
+        "startTime": 11228,
+        "endTime": 14933,
+        "text": "...but others need encouragement and they really appreciate being heard."
+    },
+    {
+        "startTime": 16181,
+        "endTime": 19011,
+        "text": "Sometimes, I try to pull someone in with a compliment..."
+    },
+    {
+        "startTime": 19242,
+        "endTime": 21726,
+        "text": "...or a comment on their experience with the issue."
+    },
+    {
+        "startTime": 21965,
+        "endTime": 23803,
+        "text": "Or maybe I just beg for their help."
+    },
+    {
+        "startTime": 24234,
+        "endTime": 27023,
+        "text": "Kida, the purchasing department seems to have figured out a way..."
+    },
+    {
+        "startTime": 27108,
+        "endTime": 28551,
+        "text": "...to use the new part numbers."
+    },
+    {
+        "startTime": 28921,
+        "endTime": 30327,
+        "text": "Can you explain your workaround?"
+    },
+    {
+        "startTime": 30776,
+        "endTime": 35617,
+        "text": "Sure. So, we saw that the website upgrade appended an extra field to each SKU."
+    },
+    {
+        "startTime": 36522,
+        "endTime": 39449,
+        "text": "We tried running a conversion which seemed to work fine."
+    },
+    {
+        "startTime": 39982,
+        "endTime": 42257,
+        "text": "But, we see it only as a temporary solution."
+    },
+    {
+        "startTime": 42703,
+        "endTime": 46479,
+        "text": "So, it sounds like the best solution is to add the 01 to the end."
+    },
+    {
+        "startTime": 46569,
+        "endTime": 50438,
+        "text": "Then, when I'm sure everyone has had their say, it's time to end the meeting."
+    },
+    {
+        "startTime": 50544,
+        "endTime": 52435,
+        "text": "Listen guys, the time is almost up."
+    },
+    {
+        "startTime": 52921,
+        "endTime": 55419,
+        "text": "Let me review what we've come up with for today."
+    },
+    {
+        "startTime": 55547,
+        "endTime": 59862,
+        "text": "I always try to end with a positive statement of what we accomplished or agreed on."
+    },
+    {
+        "startTime": 60459,
+        "endTime": 65540,
+        "text": "While concluding, I'll summarize, assign action steps or schedule the next meeting."
+    },
+    {
+        "startTime": 65775,
+        "endTime": 68321,
+        "text": "Thanks, everybody. I'll see you all again on Friday..."
+    },
+    {
+        "startTime": 68409,
+        "endTime": 71222,
+        "text": "...when we've had the chance to implement and test these fixes."
+    },
+    {
+        "startTime": 71711,
+        "endTime": 72681,
+        "text": "See you then."
+    },
+    {
+        "startTime": 73171,
+        "endTime": 74147,
+        "text": "Goodbye, everyone!"
+    }
+]

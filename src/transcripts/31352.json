@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 5051,
+        "endTime": 7281,
+        "text": "The boy is younger than the lady."
+    },
+    {
+        "startTime": 8182,
+        "endTime": 10601,
+        "text": "The lady is not younger than the boy."
+    },
+    {
+        "startTime": 17297,
+        "endTime": 19127,
+        "text": "The girl is happier than the boy."
+    },
+    {
+        "startTime": 20023,
+        "endTime": 22301,
+        "text": "The boy is not happier than the girl."
+    },
+    {
+        "startTime": 28971,
+        "endTime": 30763,
+        "text": "Is the mouse bigger than the kitten?"
+    },
+    {
+        "startTime": 31664,
+        "endTime": 34224,
+        "text": "No, the mouse is smaller than the kitten."
+    },
+    {
+        "startTime": 40937,
+        "endTime": 43402,
+        "text": "Is the dirty sock better than the clean sock?"
+    },
+    {
+        "startTime": 44874,
+        "endTime": 48212,
+        "text": "No, the dirty sock is worse than the clean sock."
+    }
+]

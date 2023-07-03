@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 3833,
+        "endTime": 5779,
+        "text": "There are fifteen apples."
+    },
+    {
+        "startTime": 7398,
+        "endTime": 8631,
+        "text": "There are some apples."
+    },
+    {
+        "startTime": 10272,
+        "endTime": 11191,
+        "text": "There is juice."
+    },
+    {
+        "startTime": 12860,
+        "endTime": 14035,
+        "text": "There is some juice."
+    },
+    {
+        "startTime": 19095,
+        "endTime": 20481,
+        "text": "There are not any boys."
+    },
+    {
+        "startTime": 21994,
+        "endTime": 23329,
+        "text": "There aren't any books."
+    },
+    {
+        "startTime": 25034,
+        "endTime": 26453,
+        "text": "There is not any milk."
+    },
+    {
+        "startTime": 28024,
+        "endTime": 29577,
+        "text": "There isn't any cheese."
+    },
+    {
+        "startTime": 34809,
+        "endTime": 36061,
+        "text": "Are there any flowers?"
+    },
+    {
+        "startTime": 37729,
+        "endTime": 38462,
+        "text": "Yes, there are."
+    },
+    {
+        "startTime": 40064,
+        "endTime": 41137,
+        "text": "Is there any juice?"
+    },
+    {
+        "startTime": 42659,
+        "endTime": 44405,
+        "text": "No, there isn't any juice."
+    }
+]

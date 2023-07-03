@@ -1,0 +1,107 @@
+[
+    {
+        "startTime": 174,
+        "endTime": 4109,
+        "text": "Android phone makers are really bad about keeping your phone up-to-date..."
+    },
+    {
+        "startTime": 4217,
+        "endTime": 6458,
+        "text": "...with the latest version of Android from Google."
+    },
+    {
+        "startTime": 6941,
+        "endTime": 8570,
+        "text": "There are a lot of reasons for this."
+    },
+    {
+        "startTime": 8809,
+        "endTime": 10907,
+        "text": "When Google makes a new version of Android,..."
+    },
+    {
+        "startTime": 10989,
+        "endTime": 15025,
+        "text": "...it sends it off to phone makers who modify it for their own devices."
+    },
+    {
+        "startTime": 15577,
+        "endTime": 17493,
+        "text": "Then that has to go through a bunch of testing..."
+    },
+    {
+        "startTime": 17559,
+        "endTime": 20948,
+        "text": "...before they send it off to carriers for even more testing."
+    },
+    {
+        "startTime": 21269,
+        "endTime": 23988,
+        "text": "By the time the software update finally hits your phone,..."
+    },
+    {
+        "startTime": 24155,
+        "endTime": 28471,
+        "text": "...months have gone by and Google usually has a new version of Android by then."
+    },
+    {
+        "startTime": 28895,
+        "endTime": 29599,
+        "text": "The result:..."
+    },
+    {
+        "startTime": 30116,
+        "endTime": 35538,
+        "text": "...94 percent of smartphones out there are running an outdated version of Android."
+    },
+    {
+        "startTime": 35914,
+        "endTime": 38527,
+        "text": "Android can also be a security nightmare..."
+    },
+    {
+        "startTime": 38659,
+        "endTime": 41661,
+        "text": "...because there are so many different versions of Android out there..."
+    },
+    {
+        "startTime": 42040,
+        "endTime": 46211,
+        "text": "...and phone makers have a hard time getting them updated in a timely manner."
+    },
+    {
+        "startTime": 46641,
+        "endTime": 48790,
+        "text": "If and when a vulnerability is found,..."
+    },
+    {
+        "startTime": 48916,
+        "endTime": 51715,
+        "text": "...it can take forever for you to get the patch to update it."
+    },
+    {
+        "startTime": 51804,
+        "endTime": 53398,
+        "text": "The best example is Stagefright,..."
+    },
+    {
+        "startTime": 53565,
+        "endTime": 56553,
+        "text": "...which was a severe vulnerability found a few years ago..."
+    },
+    {
+        "startTime": 56646,
+        "endTime": 59199,
+        "text": "...in practically all Android devices."
+    },
+    {
+        "startTime": 59421,
+        "endTime": 61700,
+        "text": "Major manufacturers rushed to put out patches..."
+    },
+    {
+        "startTime": 61788,
+        "endTime": 65918,
+        "text": "...to fix the bug but we still don't know if all of them got the patch."
+    }
+]

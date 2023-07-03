@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 50,
+        "endTime": 4341,
+        "text": "Here are phrases you can use when you're asking for or giving directions."
+    },
+    {
+        "startTime": 5875,
+        "endTime": 7027,
+        "text": "Where is...?"
+    },
+    {
+        "startTime": 8635,
+        "endTime": 10686,
+        "text": "What's the fastest way to get to...?"
+    },
+    {
+        "startTime": 12392,
+        "endTime": 13472,
+        "text": "How do I get to...?"
+    },
+    {
+        "startTime": 15212,
+        "endTime": 16909,
+        "text": "Could you give me directions to the...?"
+    },
+    {
+        "startTime": 18559,
+        "endTime": 20776,
+        "text": "Excuse me, do you know where...?"
+    },
+    {
+        "startTime": 22603,
+        "endTime": 23665,
+        "text": "Follow the road."
+    },
+    {
+        "startTime": 25345,
+        "endTime": 26397,
+        "text": "Go along the..."
+    },
+    {
+        "startTime": 27987,
+        "endTime": 29316,
+        "text": "Go past the..."
+    },
+    {
+        "startTime": 30913,
+        "endTime": 31943,
+        "text": "It's on your..."
+    },
+    {
+        "startTime": 33653,
+        "endTime": 34670,
+        "text": "Do you know where...?"
+    }
+]

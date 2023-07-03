@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 2515,
+        "endTime": 5384,
+        "text": "You don't look well. What's wrong with you?"
+    },
+    {
+        "startTime": 6430,
+        "endTime": 7741,
+        "text": "I have a headache."
+    },
+    {
+        "startTime": 8216,
+        "endTime": 9941,
+        "text": "I need to have some medicine."
+    },
+    {
+        "startTime": 12945,
+        "endTime": 15445,
+        "text": "You look pale. What's the matter?"
+    },
+    {
+        "startTime": 16403,
+        "endTime": 18024,
+        "text": "I have a bad cold."
+    },
+    {
+        "startTime": 18479,
+        "endTime": 21421,
+        "text": "I have a fever, cough and sneeze."
+    },
+    {
+        "startTime": 22421,
+        "endTime": 24639,
+        "text": "Why don't you go to see a doctor?"
+    },
+    {
+        "startTime": 27690,
+        "endTime": 29976,
+        "text": "You look sick. What's wrong?"
+    },
+    {
+        "startTime": 31036,
+        "endTime": 32679,
+        "text": "I have a stomachache."
+    },
+    {
+        "startTime": 33590,
+        "endTime": 35109,
+        "text": "Have some medicine."
+    }
+]

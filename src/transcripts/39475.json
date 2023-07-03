@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 279,
+        "endTime": 761,
+        "text": "First"
+    },
+    {
+        "startTime": 1481,
+        "endTime": 2083,
+        "text": "Second"
+    },
+    {
+        "startTime": 2730,
+        "endTime": 3261,
+        "text": "Third"
+    },
+    {
+        "startTime": 4085,
+        "endTime": 4615,
+        "text": "Fourth"
+    },
+    {
+        "startTime": 5154,
+        "endTime": 5661,
+        "text": "Fifth"
+    },
+    {
+        "startTime": 6034,
+        "endTime": 6618,
+        "text": "Sixth"
+    },
+    {
+        "startTime": 7315,
+        "endTime": 8055,
+        "text": "Seventh"
+    },
+    {
+        "startTime": 8585,
+        "endTime": 9234,
+        "text": "Eighth"
+    },
+    {
+        "startTime": 9895,
+        "endTime": 10609,
+        "text": "Ninth"
+    },
+    {
+        "startTime": 11117,
+        "endTime": 11748,
+        "text": "Tenth"
+    },
+    {
+        "startTime": 12495,
+        "endTime": 13125,
+        "text": "Eleventh"
+    },
+    {
+        "startTime": 13855,
+        "endTime": 14613,
+        "text": "Twelfth"
+    },
+    {
+        "startTime": 15280,
+        "endTime": 16017,
+        "text": "Thirteenth"
+    },
+    {
+        "startTime": 16789,
+        "endTime": 17420,
+        "text": "Fourteenth"
+    },
+    {
+        "startTime": 18384,
+        "endTime": 19231,
+        "text": "Fifteenth"
+    },
+    {
+        "startTime": 19840,
+        "endTime": 22110,
+        "text": "My birthday is on August 1st."
+    },
+    {
+        "startTime": 22943,
+        "endTime": 25241,
+        "text": "My birthday is on March 8th."
+    }
+]

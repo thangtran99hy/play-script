@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 585,
+        "endTime": 2499,
+        "text": "What is your email address?"
+    },
+    {
+        "startTime": 3453,
+        "endTime": 7271,
+        "text": "My email address is clairesmith@mail.com."
+    },
+    {
+        "startTime": 8796,
+        "endTime": 9460,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 15278,
+        "endTime": 17155,
+        "text": "May I have your email address, please?"
+    },
+    {
+        "startTime": 19045,
+        "endTime": 19444,
+        "text": "Sure."
+    },
+    {
+        "startTime": 19570,
+        "endTime": 22257,
+        "text": "It's markjones@mail.com"
+    },
+    {
+        "startTime": 23913,
+        "endTime": 24719,
+        "text": "Thank you."
+    }
+]

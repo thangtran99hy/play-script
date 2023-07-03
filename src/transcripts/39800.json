@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 419,
+        "endTime": 813,
+        "text": "Hello!"
+    },
+    {
+        "startTime": 1111,
+        "endTime": 1935,
+        "text": "I'm Matthew."
+    },
+    {
+        "startTime": 2149,
+        "endTime": 3136,
+        "text": "I'm the new accountant."
+    },
+    {
+        "startTime": 4175,
+        "endTime": 4903,
+        "text": "Hi, Matthew."
+    },
+    {
+        "startTime": 5023,
+        "endTime": 5676,
+        "text": "I'm Lily."
+    },
+    {
+        "startTime": 6587,
+        "endTime": 7752,
+        "text": "I work in sales."
+    },
+    {
+        "startTime": 8723,
+        "endTime": 9942,
+        "text": "Nice to meet you, Lily."
+    },
+    {
+        "startTime": 10962,
+        "endTime": 12457,
+        "text": "Nice to meet you too, Matthew."
+    },
+    {
+        "startTime": 14717,
+        "endTime": 15647,
+        "text": "Where are you from?"
+    },
+    {
+        "startTime": 16726,
+        "endTime": 17851,
+        "text": "I'm from the USA."
+    },
+    {
+        "startTime": 19063,
+        "endTime": 20153,
+        "text": "Where are you from, Lily?"
+    },
+    {
+        "startTime": 21442,
+        "endTime": 22561,
+        "text": "I'm from France."
+    }
+]

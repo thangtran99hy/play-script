@@ -1,0 +1,112 @@
+[
+    {
+        "startTime": 2002,
+        "endTime": 2567,
+        "text": "Blue"
+    },
+    {
+        "startTime": 3443,
+        "endTime": 5630,
+        "text": "My favorite color is blue."
+    },
+    {
+        "startTime": 7073,
+        "endTime": 9548,
+        "text": "My favorite color is sea blue."
+    },
+    {
+        "startTime": 10974,
+        "endTime": 11547,
+        "text": "Cue"
+    },
+    {
+        "startTime": 12448,
+        "endTime": 14117,
+        "text": "I will buy a cue."
+    },
+    {
+        "startTime": 15487,
+        "endTime": 17602,
+        "text": "I will buy a new cue."
+    },
+    {
+        "startTime": 19044,
+        "endTime": 19663,
+        "text": "Flue"
+    },
+    {
+        "startTime": 20477,
+        "endTime": 22297,
+        "text": "I need a new flue pipe."
+    },
+    {
+        "startTime": 23805,
+        "endTime": 26115,
+        "text": "I need a big new flue pipe."
+    },
+    {
+        "startTime": 27579,
+        "endTime": 28273,
+        "text": "Glue"
+    },
+    {
+        "startTime": 29121,
+        "endTime": 30268,
+        "text": "I have glue."
+    },
+    {
+        "startTime": 31706,
+        "endTime": 33697,
+        "text": "I have glue and scissors."
+    },
+    {
+        "startTime": 40017,
+        "endTime": 43414,
+        "text": "The cow is in a car, in a car, in a car."
+    },
+    {
+        "startTime": 43772,
+        "endTime": 47037,
+        "text": "The pig is on a bike, on a bike, on a bike."
+    },
+    {
+        "startTime": 47486,
+        "endTime": 50919,
+        "text": "The goat is in a boat, in a boat, in a boat."
+    },
+    {
+        "startTime": 51439,
+        "endTime": 52810,
+        "text": "Go, go, go!"
+    },
+    {
+        "startTime": 53322,
+        "endTime": 54664,
+        "text": "Go, animals go!"
+    },
+    {
+        "startTime": 54978,
+        "endTime": 58394,
+        "text": "The dog is on a train, on a train, on a train."
+    },
+    {
+        "startTime": 58740,
+        "endTime": 62187,
+        "text": "The duck is in a plane, in a plane, in a plane."
+    },
+    {
+        "startTime": 62494,
+        "endTime": 66059,
+        "text": "The cat is on a horse, on a horse, on a horse."
+    },
+    {
+        "startTime": 66454,
+        "endTime": 67694,
+        "text": "Go, go, go!"
+    },
+    {
+        "startTime": 68337,
+        "endTime": 69677,
+        "text": "Go, animals go!"
+    }
+]

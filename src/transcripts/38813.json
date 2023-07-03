@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 2033,
+        "endTime": 3345,
+        "text": "How do bees make honey?"
+    },
+    {
+        "startTime": 3634,
+        "endTime": 4409,
+        "text": "No idea."
+    },
+    {
+        "startTime": 4772,
+        "endTime": 8319,
+        "text": "To make honey, the worker honeybee sucks nectar from flowers..."
+    },
+    {
+        "startTime": 8395,
+        "endTime": 10294,
+        "text": "...and stores it in its honey stomach."
+    },
+    {
+        "startTime": 10612,
+        "endTime": 12726,
+        "text": "Once the worker bee returns to the hive,..."
+    },
+    {
+        "startTime": 12929,
+        "endTime": 16409,
+        "text": "...it vomits the nectar into a processor honeybee's mouth."
+    },
+    {
+        "startTime": 18820,
+        "endTime": 20911,
+        "text": "In the processor bee's mouth and stomach,..."
+    },
+    {
+        "startTime": 21189,
+        "endTime": 24537,
+        "text": "...an enzyme called invertase is added to the nectar."
+    },
+    {
+        "startTime": 24785,
+        "endTime": 29009,
+        "text": "Invertase breaks some nectar into simple sugars like glucose and fructose."
+    },
+    {
+        "startTime": 30420,
+        "endTime": 34615,
+        "text": "Then it vomits the partially converted nectar into another processor bee's mouth."
+    },
+    {
+        "startTime": 34925,
+        "endTime": 38344,
+        "text": "Who also adds more invertase, helping breakdown more nectar."
+    },
+    {
+        "startTime": 38669,
+        "endTime": 42633,
+        "text": "This process goes on until most of the nectar is converted into simple sugars."
+    },
+    {
+        "startTime": 43145,
+        "endTime": 46199,
+        "text": "Then the mixture of simple sugars is stored in the honeycomb."
+    },
+    {
+        "startTime": 46297,
+        "endTime": 48876,
+        "text": "At this point, the mixture is still watery."
+    },
+    {
+        "startTime": 49181,
+        "endTime": 51861,
+        "text": "Hence, the bees flap their wings which evaporates water..."
+    },
+    {
+        "startTime": 51953,
+        "endTime": 54473,
+        "text": "...and thickens the mixture to eventually form honey."
+    }
+]

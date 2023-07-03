@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 1395,
+        "endTime": 2775,
+        "text": "Is that your friend, Sarah?"
+    },
+    {
+        "startTime": 4453,
+        "endTime": 5990,
+        "text": "Yes, that's my friend."
+    },
+    {
+        "startTime": 8074,
+        "endTime": 9330,
+        "text": "How about that girl?"
+    },
+    {
+        "startTime": 9815,
+        "endTime": 11066,
+        "text": "Is she your friend, too?"
+    },
+    {
+        "startTime": 12315,
+        "endTime": 13533,
+        "text": "Yes, she is."
+    },
+    {
+        "startTime": 13691,
+        "endTime": 14891,
+        "text": "She's my friend Mary."
+    },
+    {
+        "startTime": 16855,
+        "endTime": 18971,
+        "text": "John, are Tom and Bob your friends?"
+    },
+    {
+        "startTime": 20730,
+        "endTime": 22783,
+        "text": "Yes, they are my friends."
+    },
+    {
+        "startTime": 24711,
+        "endTime": 26358,
+        "text": "How about Lara and Penny?"
+    },
+    {
+        "startTime": 27594,
+        "endTime": 29411,
+        "text": "Yes, they are my friends, too."
+    }
+]

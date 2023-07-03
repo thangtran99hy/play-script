@@ -1,0 +1,137 @@
+[
+    {
+        "startTime": 9212,
+        "endTime": 10217,
+        "text": "Hello."
+    },
+    {
+        "startTime": 10693,
+        "endTime": 12889,
+        "text": "Let's talk about people."
+    },
+    {
+        "startTime": 15109,
+        "endTime": 16138,
+        "text": "Here we go."
+    },
+    {
+        "startTime": 17788,
+        "endTime": 18327,
+        "text": "Thin!"
+    },
+    {
+        "startTime": 19744,
+        "endTime": 20778,
+        "text": "Thin!"
+    },
+    {
+        "startTime": 21833,
+        "endTime": 22500,
+        "text": "Fat!"
+    },
+    {
+        "startTime": 23884,
+        "endTime": 24547,
+        "text": "Fat!"
+    },
+    {
+        "startTime": 26083,
+        "endTime": 27003,
+        "text": "Tall!"
+    },
+    {
+        "startTime": 28063,
+        "endTime": 29128,
+        "text": "Tall!"
+    },
+    {
+        "startTime": 30128,
+        "endTime": 30664,
+        "text": "Short."
+    },
+    {
+        "startTime": 32146,
+        "endTime": 33135,
+        "text": "Short."
+    },
+    {
+        "startTime": 34396,
+        "endTime": 35277,
+        "text": "Strong."
+    },
+    {
+        "startTime": 36485,
+        "endTime": 37457,
+        "text": "Strong."
+    },
+    {
+        "startTime": 38396,
+        "endTime": 38871,
+        "text": "Weak."
+    },
+    {
+        "startTime": 40471,
+        "endTime": 40966,
+        "text": "Weak."
+    },
+    {
+        "startTime": 42779,
+        "endTime": 43717,
+        "text": "Pretty."
+    },
+    {
+        "startTime": 44840,
+        "endTime": 45698,
+        "text": "Pretty."
+    },
+    {
+        "startTime": 46814,
+        "endTime": 47804,
+        "text": "Handsome."
+    },
+    {
+        "startTime": 48907,
+        "endTime": 49837,
+        "text": "Handsome."
+    },
+    {
+        "startTime": 51021,
+        "endTime": 52065,
+        "text": "Old."
+    },
+    {
+        "startTime": 53320,
+        "endTime": 54193,
+        "text": "Old."
+    },
+    {
+        "startTime": 55257,
+        "endTime": 56115,
+        "text": "Young!"
+    },
+    {
+        "startTime": 57105,
+        "endTime": 58245,
+        "text": "Young!"
+    },
+    {
+        "startTime": 59436,
+        "endTime": 60543,
+        "text": "Hairy."
+    },
+    {
+        "startTime": 61575,
+        "endTime": 62406,
+        "text": "Hairy."
+    },
+    {
+        "startTime": 63631,
+        "endTime": 64603,
+        "text": "Bald."
+    },
+    {
+        "startTime": 65763,
+        "endTime": 66560,
+        "text": "Bald."
+    }
+]

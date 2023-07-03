@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 88,
+        "endTime": 3384,
+        "text": "Let's learn about the time of the day or year."
+    },
+    {
+        "startTime": 6931,
+        "endTime": 7926,
+        "text": "It is morning."
+    },
+    {
+        "startTime": 10073,
+        "endTime": 12132,
+        "text": "The sun is coming up."
+    },
+    {
+        "startTime": 15697,
+        "endTime": 18395,
+        "text": "In the morning, we have breakfast."
+    },
+    {
+        "startTime": 22091,
+        "endTime": 23397,
+        "text": "It is afternoon."
+    },
+    {
+        "startTime": 28227,
+        "endTime": 30849,
+        "text": "In the afternoon, we eat lunch."
+    },
+    {
+        "startTime": 35070,
+        "endTime": 36068,
+        "text": "It is evening."
+    },
+    {
+        "startTime": 40525,
+        "endTime": 44314,
+        "text": "In the evening, we eat dinner."
+    },
+    {
+        "startTime": 47635,
+        "endTime": 48678,
+        "text": "It is winter."
+    },
+    {
+        "startTime": 50733,
+        "endTime": 51993,
+        "text": "It is cold."
+    },
+    {
+        "startTime": 56321,
+        "endTime": 57431,
+        "text": "It is spring."
+    },
+    {
+        "startTime": 59590,
+        "endTime": 60553,
+        "text": "It is warm."
+    },
+    {
+        "startTime": 65757,
+        "endTime": 66810,
+        "text": "It is summer."
+    },
+    {
+        "startTime": 68889,
+        "endTime": 70415,
+        "text": "It is hot."
+    },
+    {
+        "startTime": 74437,
+        "endTime": 75291,
+        "text": "It is fall."
+    },
+    {
+        "startTime": 77414,
+        "endTime": 78281,
+        "text": "It is cool."
+    }
+]

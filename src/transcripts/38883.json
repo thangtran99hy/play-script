@@ -1,0 +1,147 @@
+[
+    {
+        "startTime": 123,
+        "endTime": 999,
+        "text": "Good morning."
+    },
+    {
+        "startTime": 1379,
+        "endTime": 2335,
+        "text": "Oh, hello, good morning."
+    },
+    {
+        "startTime": 2445,
+        "endTime": 3357,
+        "text": "Can I help you?"
+    },
+    {
+        "startTime": 3700,
+        "endTime": 5233,
+        "text": "Yes, you can."
+    },
+    {
+        "startTime": 5754,
+        "endTime": 10588,
+        "text": "Actually, I'm looking for a present for my brother."
+    },
+    {
+        "startTime": 11102,
+        "endTime": 12878,
+        "text": "What about a T-shirt?"
+    },
+    {
+        "startTime": 13325,
+        "endTime": 15368,
+        "text": "No, not a T-shirt, no."
+    },
+    {
+        "startTime": 19411,
+        "endTime": 22395,
+        "text": "How about a denim jacket?"
+    },
+    {
+        "startTime": 23047,
+        "endTime": 26017,
+        "text": "Oh yes, actually that's lovely."
+    },
+    {
+        "startTime": 26099,
+        "endTime": 26891,
+        "text": "I like that."
+    },
+    {
+        "startTime": 27031,
+        "endTime": 28435,
+        "text": "What size does he take?"
+    },
+    {
+        "startTime": 29087,
+        "endTime": 31203,
+        "text": "He takes a small."
+    },
+    {
+        "startTime": 31591,
+        "endTime": 31960,
+        "text": "Okay."
+    },
+    {
+        "startTime": 37052,
+        "endTime": 37787,
+        "text": "How about this?"
+    },
+    {
+        "startTime": 38020,
+        "endTime": 38641,
+        "text": "Great!"
+    },
+    {
+        "startTime": 38788,
+        "endTime": 39568,
+        "text": "That's lovely."
+    },
+    {
+        "startTime": 39695,
+        "endTime": 40887,
+        "text": "I'll take that one."
+    },
+    {
+        "startTime": 41456,
+        "endTime": 42798,
+        "text": "It's 50 euros."
+    },
+    {
+        "startTime": 44013,
+        "endTime": 45413,
+        "text": "Is there a discount?"
+    },
+    {
+        "startTime": 45525,
+        "endTime": 48449,
+        "text": "There is today, and it's 40 euros with the discount."
+    },
+    {
+        "startTime": 49005,
+        "endTime": 49939,
+        "text": "Fantastic!"
+    },
+    {
+        "startTime": 50338,
+        "endTime": 51189,
+        "text": "I'll take it."
+    },
+    {
+        "startTime": 51342,
+        "endTime": 53354,
+        "text": "So, with the discount, that's 40 euros."
+    },
+    {
+        "startTime": 53537,
+        "endTime": 55865,
+        "text": "40 euros. One moment."
+    },
+    {
+        "startTime": 64848,
+        "endTime": 65756,
+        "text": "Here's 50."
+    },
+    {
+        "startTime": 65907,
+        "endTime": 66567,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 70985,
+        "endTime": 72298,
+        "text": "Here's your ten change."
+    },
+    {
+        "startTime": 72379,
+        "endTime": 73396,
+        "text": "Thank you very much."
+    },
+    {
+        "startTime": 73540,
+        "endTime": 75231,
+        "text": "You're welcome, and here's your jacket."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 2653,
+        "endTime": 3337,
+        "text": "Hello."
+    },
+    {
+        "startTime": 4378,
+        "endTime": 6565,
+        "text": "Hello. Who is calling please?"
+    },
+    {
+        "startTime": 7584,
+        "endTime": 10504,
+        "text": "This is Erica. Can I talk to Linda?"
+    },
+    {
+        "startTime": 11555,
+        "endTime": 12559,
+        "text": "Hold on, please."
+    },
+    {
+        "startTime": 13625,
+        "endTime": 15025,
+        "text": "This is she speaking."
+    },
+    {
+        "startTime": 16063,
+        "endTime": 19891,
+        "text": "Hi, This is Erica. What are you doing, Linda?"
+    },
+    {
+        "startTime": 20969,
+        "endTime": 23007,
+        "text": "I was just about to clean my room."
+    },
+    {
+        "startTime": 24051,
+        "endTime": 26490,
+        "text": "Why don't you go to see a movie with me?"
+    },
+    {
+        "startTime": 27523,
+        "endTime": 29862,
+        "text": "I do want to see a movie today!"
+    },
+    {
+        "startTime": 30921,
+        "endTime": 33727,
+        "text": "That sounds great. What time shall we meet?"
+    },
+    {
+        "startTime": 34791,
+        "endTime": 37384,
+        "text": "Let's meet at the bus stop at 3:00."
+    },
+    {
+        "startTime": 38439,
+        "endTime": 40276,
+        "text": "OK. See you then."
+    }
+]

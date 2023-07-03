@@ -1,0 +1,27 @@
+[
+    {
+        "startTime": 50,
+        "endTime": 2100,
+        "text": "What is your favorite American expression?"
+    },
+    {
+        "startTime": 17550,
+        "endTime": 20000,
+        "text": "August in Kansas City,..."
+    },
+    {
+        "startTime": 22300,
+        "endTime": 24750,
+        "text": "...it's hotter than 2 rats in a f---ing wool sock."
+    },
+    {
+        "startTime": 30000,
+        "endTime": 30900,
+        "text": "It's my favorite."
+    },
+    {
+        "startTime": 32600,
+        "endTime": 33800,
+        "text": "I have a bad teammate."
+    }
+]

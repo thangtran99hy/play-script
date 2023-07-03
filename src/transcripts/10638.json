@@ -1,0 +1,117 @@
+[
+    {
+        "startTime": 200,
+        "endTime": 2350,
+        "text": "Let's say I wanna plan a barbecue with my friends."
+    },
+    {
+        "startTime": 3050,
+        "endTime": 4350,
+        "text": "I'll create a new Wave..."
+    },
+    {
+        "startTime": 6150,
+        "endTime": 8000,
+        "text": "...and I'll add Greg as a participant."
+    },
+    {
+        "startTime": 8750,
+        "endTime": 10000,
+        "text": "Greg opens the Wave."
+    },
+    {
+        "startTime": 11500,
+        "endTime": 13350,
+        "text": "Greg can reply anywhere on the Wave."
+    },
+    {
+        "startTime": 18600,
+        "endTime": 22500,
+        "text": "When I have the Wave open I can see what Greg types as he types it."
+    },
+    {
+        "startTime": 24950,
+        "endTime": 26500,
+        "text": "I'll add Anna to the Wave."
+    },
+    {
+        "startTime": 28450,
+        "endTime": 30000,
+        "text": "She can see everything we see."
+    },
+    {
+        "startTime": 30600,
+        "endTime": 35600,
+        "text": "Because it's a hosted conversation, anyone on the Wave can edit any part of the Wave."
+    },
+    {
+        "startTime": 37400,
+        "endTime": 39700,
+        "text": "You can see Greg and Anna editing right now."
+    },
+    {
+        "startTime": 44750,
+        "endTime": 46900,
+        "text": "If I close the Wave and they keep editing it,..."
+    },
+    {
+        "startTime": 47050,
+        "endTime": 49250,
+        "text": "...their changes will be highlighted when I come back."
+    },
+    {
+        "startTime": 50250,
+        "endTime": 53500,
+        "text": "Let's say I wanna invite my friends to the barbecue, I'll create a new Wave."
+    },
+    {
+        "startTime": 54000,
+        "endTime": 58100,
+        "text": "I wanna know if they can attend so I'm going to add a Yes/No/Maybe Gadget to this Wave."
+    },
+    {
+        "startTime": 59050,
+        "endTime": 62450,
+        "text": "Gadgets are a way to present and collect information other than text."
+    },
+    {
+        "startTime": 63600,
+        "endTime": 66300,
+        "text": "Now, I'll add a group of my friends to the Wave, the Wavers."
+    },
+    {
+        "startTime": 70550,
+        "endTime": 74000,
+        "text": "Everyone in the group can see the Wave when they are online and respond."
+    },
+    {
+        "startTime": 75100,
+        "endTime": 76900,
+        "text": "You can see responses coming in now."
+    },
+    {
+        "startTime": 77850,
+        "endTime": 79900,
+        "text": "Why does Dan always say no to my barbecues?"
+    },
+    {
+        "startTime": 81300,
+        "endTime": 83200,
+        "text": "If I wanna show people where the barbecue is,..."
+    },
+    {
+        "startTime": 83250,
+        "endTime": 85550,
+        "text": "...I can highlight the address and add a map."
+    },
+    {
+        "startTime": 86650,
+        "endTime": 89500,
+        "text": "As I zoom in, you can see Greg's map changes too."
+    },
+    {
+        "startTime": 92100,
+        "endTime": 94050,
+        "text": "Any developer can build these gadgets."
+    }
+]

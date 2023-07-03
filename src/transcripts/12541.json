@@ -1,0 +1,117 @@
+[
+    {
+        "startTime": 2269,
+        "endTime": 5137,
+        "text": "Every company takes security very seriously..."
+    },
+    {
+        "startTime": 5295,
+        "endTime": 11318,
+        "text": "...so that company PCs may not have floppy disk drives nor any CD or DVD writable drives."
+    },
+    {
+        "startTime": 11835,
+        "endTime": 15455,
+        "text": "No one believes that their corporate computers don't have such devices..."
+    },
+    {
+        "startTime": 15695,
+        "endTime": 17537,
+        "text": "...because their company cannot afford them."
+    },
+    {
+        "startTime": 18179,
+        "endTime": 23344,
+        "text": "The reality is that your company is deathly afraid of confidential corporate secrets leaking out."
+    },
+    {
+        "startTime": 24041,
+        "endTime": 26644,
+        "text": "Moreover, some corporate notebooks won't work..."
+    },
+    {
+        "startTime": 26785,
+        "endTime": 29925,
+        "text": "...once they are away from the vicinity of the corporate wireless server..."
+    },
+    {
+        "startTime": 30259,
+        "endTime": 34121,
+        "text": "...and it makes it more difficult for industrial spies to steal valuable data."
+    },
+    {
+        "startTime": 34999,
+        "endTime": 36883,
+        "text": "Even high storage USBs,..."
+    },
+    {
+        "startTime": 37224,
+        "endTime": 40899,
+        "text": "...may perform only half of their normal function in some corporate computers:"
+    },
+    {
+        "startTime": 41461,
+        "endTime": 43599,
+        "text": "...employees can read information stored in them..."
+    },
+    {
+        "startTime": 43957,
+        "endTime": 47521,
+        "text": "...but cannot download information from their PCs to USB."
+    },
+    {
+        "startTime": 48404,
+        "endTime": 54251,
+        "text": "Some corporate e-mail systems are set up so that e-mails can be exchanged only among corporate PCs."
+    },
+    {
+        "startTime": 54867,
+        "endTime": 58243,
+        "text": "In addition, corporate documents are automatically encoded,...."
+    },
+    {
+        "startTime": 58600,
+        "endTime": 60341,
+        "text": "...so outsiders cannot read them."
+    },
+    {
+        "startTime": 60938,
+        "endTime": 66039,
+        "text": "They're stored only on corporate servers along with the names of employees who have accessed them."
+    },
+    {
+        "startTime": 66627,
+        "endTime": 69081,
+        "text": "Then, if important documents are leaked,..."
+    },
+    {
+        "startTime": 69341,
+        "endTime": 71293,
+        "text": "...your company can find the guilty party."
+    },
+    {
+        "startTime": 72286,
+        "endTime": 76411,
+        "text": "Yet, all this need for security hinders mobility and productivity."
+    },
+    {
+        "startTime": 77045,
+        "endTime": 82149,
+        "text": "More insidiously, employees are reminded of just how little trust their company has in them."
+    },
+    {
+        "startTime": 83106,
+        "endTime": 85613,
+        "text": "It's difficult to know which hurts morale more,..."
+    },
+    {
+        "startTime": 85985,
+        "endTime": 90369,
+        "text": "...the one bad apple that steals or leaks corporate secrets or Big Brother..."
+    },
+    {
+        "startTime": 90650,
+        "endTime": 95375,
+        "text": "...that watches and seeks to control its employees' every use of the tools of business."
+    }
+]

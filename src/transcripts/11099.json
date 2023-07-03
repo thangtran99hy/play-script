@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 3213,
+        "endTime": 7511,
+        "text": "Hi, Linda! I've been calling all morning, but the line has been busy."
+    },
+    {
+        "startTime": 8181,
+        "endTime": 10144,
+        "text": "Hello? Can you speak up?"
+    },
+    {
+        "startTime": 10543,
+        "endTime": 11931,
+        "text": "I can hardly hear you."
+    },
+    {
+        "startTime": 12292,
+        "endTime": 13468,
+        "text": "Who is calling, please?"
+    },
+    {
+        "startTime": 14173,
+        "endTime": 16749,
+        "text": "It's Diane! Can you hear me now?"
+    },
+    {
+        "startTime": 17294,
+        "endTime": 20405,
+        "text": "Hi, Diane! What's wrong with this phone line?"
+    },
+    {
+        "startTime": 20823,
+        "endTime": 22169,
+        "text": "Is your battery dying?"
+    },
+    {
+        "startTime": 22750,
+        "endTime": 24054,
+        "text": "It's not my cell phone."
+    },
+    {
+        "startTime": 24400,
+        "endTime": 25752,
+        "text": "This line is terrible."
+    },
+    {
+        "startTime": 26132,
+        "endTime": 28256,
+        "text": "Let me hang up and call you right back."
+    },
+    {
+        "startTime": 29108,
+        "endTime": 29665,
+        "text": "Hello?"
+    },
+    {
+        "startTime": 30323,
+        "endTime": 32323,
+        "text": "Who is this? Is this Linda?"
+    },
+    {
+        "startTime": 32737,
+        "endTime": 34281,
+        "text": "There's no Linda here."
+    },
+    {
+        "startTime": 34649,
+        "endTime": 36649,
+        "text": "I think you have the wrong number."
+    }
+]

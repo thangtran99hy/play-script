@@ -1,0 +1,132 @@
+[
+    {
+        "startTime": 1385,
+        "endTime": 1788,
+        "text": "Hello."
+    },
+    {
+        "startTime": 2209,
+        "endTime": 3219,
+        "text": "You're Julia, aren't you?"
+    },
+    {
+        "startTime": 3461,
+        "endTime": 3969,
+        "text": "Yes!"
+    },
+    {
+        "startTime": 4490,
+        "endTime": 5281,
+        "text": "Pleased to meet you."
+    },
+    {
+        "startTime": 6061,
+        "endTime": 6363,
+        "text": "I'm Gary."
+    },
+    {
+        "startTime": 6606,
+        "endTime": 7771,
+        "text": "Nice to meet you, Gary."
+    },
+    {
+        "startTime": 8409,
+        "endTime": 9015,
+        "text": "My name is Doug."
+    },
+    {
+        "startTime": 9135,
+        "endTime": 9701,
+        "text": "What's yours?"
+    },
+    {
+        "startTime": 9909,
+        "endTime": 10177,
+        "text": "Dan."
+    },
+    {
+        "startTime": 10613,
+        "endTime": 11692,
+        "text": "Hi, Dan! Nice to meet you."
+    },
+    {
+        "startTime": 11774,
+        "endTime": 12361,
+        "text": "Nice to meet you."
+    },
+    {
+        "startTime": 13093,
+        "endTime": 13527,
+        "text": "Hello."
+    },
+    {
+        "startTime": 13764,
+        "endTime": 14220,
+        "text": "Hello."
+    },
+    {
+        "startTime": 14970,
+        "endTime": 15784,
+        "text": "My name is Doug."
+    },
+    {
+        "startTime": 15858,
+        "endTime": 16614,
+        "text": "What's your name?"
+    },
+    {
+        "startTime": 16791,
+        "endTime": 17963,
+        "text": "My name is Christiana."
+    },
+    {
+        "startTime": 18627,
+        "endTime": 19363,
+        "text": "Hi, Christiana."
+    },
+    {
+        "startTime": 19507,
+        "endTime": 20367,
+        "text": "It's nice to meet you."
+    },
+    {
+        "startTime": 20516,
+        "endTime": 21710,
+        "text": "Nice to meet you too, Doug."
+    },
+    {
+        "startTime": 21839,
+        "endTime": 22496,
+        "text": "Good afternoon."
+    },
+    {
+        "startTime": 22886,
+        "endTime": 23861,
+        "text": "Good afternoon."
+    },
+    {
+        "startTime": 24297,
+        "endTime": 25237,
+        "text": "My name is Doug."
+    },
+    {
+        "startTime": 25556,
+        "endTime": 26619,
+        "text": "My name is Emma."
+    },
+    {
+        "startTime": 27113,
+        "endTime": 27560,
+        "text": "Hi, Emma."
+    },
+    {
+        "startTime": 27941,
+        "endTime": 29177,
+        "text": "Hi! Nice to meet you."
+    },
+    {
+        "startTime": 29298,
+        "endTime": 30258,
+        "text": "Nice to meet you."
+    }
+]

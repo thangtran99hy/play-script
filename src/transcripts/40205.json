@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 468,
+        "endTime": 1101,
+        "text": "Hi, Lisa."
+    },
+    {
+        "startTime": 1243,
+        "endTime": 2887,
+        "text": "I can't find some of my things."
+    },
+    {
+        "startTime": 3125,
+        "endTime": 3847,
+        "text": "I need your help."
+    },
+    {
+        "startTime": 4099,
+        "endTime": 5359,
+        "text": "What do you need to find?"
+    },
+    {
+        "startTime": 5935,
+        "endTime": 7374,
+        "text": "I'm looking for my pen."
+    },
+    {
+        "startTime": 7705,
+        "endTime": 8393,
+        "text": "Have you seen it?"
+    },
+    {
+        "startTime": 8785,
+        "endTime": 11354,
+        "text": "It was on the table next to yours, on your notebook."
+    },
+    {
+        "startTime": 11824,
+        "endTime": 13997,
+        "text": "And how about my phone?"
+    },
+    {
+        "startTime": 14417,
+        "endTime": 15699,
+        "text": "Have you also seen it?"
+    },
+    {
+        "startTime": 16115,
+        "endTime": 18396,
+        "text": "It was also on the table, next to the notebook."
+    },
+    {
+        "startTime": 18617,
+        "endTime": 19240,
+        "text": "Oh, right."
+    },
+    {
+        "startTime": 19583,
+        "endTime": 20385,
+        "text": "I left them there."
+    },
+    {
+        "startTime": 21198,
+        "endTime": 23048,
+        "text": "I keep forgetting things, thanks Lisa."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 4782,
+        "endTime": 6236,
+        "text": "Is there a monster?"
+    },
+    {
+        "startTime": 7416,
+        "endTime": 9347,
+        "text": "Yes, there is."
+    },
+    {
+        "startTime": 11232,
+        "endTime": 12223,
+        "text": "Is there a fish?"
+    },
+    {
+        "startTime": 12877,
+        "endTime": 14320,
+        "text": "Yes, there is a fish."
+    },
+    {
+        "startTime": 20813,
+        "endTime": 21885,
+        "text": "Are there horses?"
+    },
+    {
+        "startTime": 22479,
+        "endTime": 23403,
+        "text": "Yes, there are."
+    },
+    {
+        "startTime": 25086,
+        "endTime": 26089,
+        "text": "Are there hats?"
+    },
+    {
+        "startTime": 26588,
+        "endTime": 28175,
+        "text": "Yes, there are hats."
+    },
+    {
+        "startTime": 34567,
+        "endTime": 35507,
+        "text": "Is there a spoon?"
+    },
+    {
+        "startTime": 36055,
+        "endTime": 37429,
+        "text": "No, there isn't."
+    },
+    {
+        "startTime": 39147,
+        "endTime": 40143,
+        "text": "Are there children?"
+    },
+    {
+        "startTime": 40901,
+        "endTime": 42709,
+        "text": "No, there aren't."
+    }
+]

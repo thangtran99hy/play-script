@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 1351,
+        "endTime": 4145,
+        "text": "Hello students, I am the teacher."
+    },
+    {
+        "startTime": 5449,
+        "endTime": 8507,
+        "text": "Hello teacher, we are students."
+    },
+    {
+        "startTime": 9875,
+        "endTime": 11497,
+        "text": "What is your name?"
+    },
+    {
+        "startTime": 14554,
+        "endTime": 15907,
+        "text": "Please stand up."
+    },
+    {
+        "startTime": 16707,
+        "endTime": 18534,
+        "text": "My name is Paul."
+    },
+    {
+        "startTime": 19502,
+        "endTime": 20336,
+        "text": "Good, Paul."
+    },
+    {
+        "startTime": 21037,
+        "endTime": 22139,
+        "text": "Please sit down."
+    },
+    {
+        "startTime": 23350,
+        "endTime": 24716,
+        "text": "What is your name?"
+    },
+    {
+        "startTime": 26410,
+        "endTime": 28265,
+        "text": "My name is Penelope."
+    },
+    {
+        "startTime": 29196,
+        "endTime": 30910,
+        "text": "What is your name?"
+    },
+    {
+        "startTime": 32192,
+        "endTime": 34361,
+        "text": "My name is Penelope."
+    },
+    {
+        "startTime": 37061,
+        "endTime": 38628,
+        "text": "Please be quiet."
+    },
+    {
+        "startTime": 40181,
+        "endTime": 41524,
+        "text": "My name is George."
+    },
+    {
+        "startTime": 42312,
+        "endTime": 43381,
+        "text": "Hello George."
+    },
+    {
+        "startTime": 44057,
+        "endTime": 47364,
+        "text": "Now students, please take out your books."
+    },
+    {
+        "startTime": 48682,
+        "endTime": 49261,
+        "text": "Good."
+    }
+]

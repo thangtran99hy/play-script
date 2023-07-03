@@ -1,0 +1,157 @@
+[
+    {
+        "startTime": 769,
+        "endTime": 2571,
+        "text": "The overarching goal of Project Natick..."
+    },
+    {
+        "startTime": 2822,
+        "endTime": 5337,
+        "text": "...is to evaluate the feasibility of underwater data centers."
+    },
+    {
+        "startTime": 5807,
+        "endTime": 7417,
+        "text": "Phase one was just to be able to figure out,..."
+    },
+    {
+        "startTime": 7607,
+        "endTime": 9396,
+        "text": "...can we get computers into a container..."
+    },
+    {
+        "startTime": 9506,
+        "endTime": 11399,
+        "text": "...and can we deploy them in the water without it leaking,.."
+    },
+    {
+        "startTime": 11525,
+        "endTime": 14001,
+        "text": "...and do the computers survive and how well do they last?"
+    },
+    {
+        "startTime": 14495,
+        "endTime": 22523,
+        "text": "Phase two was to show that we can make it in a manufacturable production scale component."
+    },
+    {
+        "startTime": 22967,
+        "endTime": 27931,
+        "text": "So, the container behind me, it fits on a trailer, it fits on a cargo ship,..."
+    },
+    {
+        "startTime": 28038,
+        "endTime": 32780,
+        "text": "And it allows us to actually build up this data center to any size that we want."
+    },
+    {
+        "startTime": 33373,
+        "endTime": 38184,
+        "text": "Computers are not designed to work in an environment that we humans operate."
+    },
+    {
+        "startTime": 38371,
+        "endTime": 41920,
+        "text": "So, things like oxygen, moisture in the air,..."
+    },
+    {
+        "startTime": 42359,
+        "endTime": 45839,
+        "text": "...that is really bad for computers, it causes corrosion on the components."
+    },
+    {
+        "startTime": 46336,
+        "endTime": 48231,
+        "text": "You also get temperature fluctuations."
+    },
+    {
+        "startTime": 48347,
+        "endTime": 52597,
+        "text": "So, the heat from night to day and summer to winter can cause those components to fail..."
+    },
+    {
+        "startTime": 52713,
+        "endTime": 55225,
+        "text": "...and so we had this theory that if we're really in a stable environment,..."
+    },
+    {
+        "startTime": 55491,
+        "endTime": 57739,
+        "text": "...we're in this cylinder, we've taken all the oxygen out."
+    },
+    {
+        "startTime": 57818,
+        "endTime": 58972,
+        "text": "We've controlled the humidity."
+    },
+    {
+        "startTime": 59321,
+        "endTime": 60689,
+        "text": "No one's walking around."
+    },
+    {
+        "startTime": 60787,
+        "endTime": 63800,
+        "text": "There's nobody bumping things and causing any additional failures..."
+    },
+    {
+        "startTime": 63917,
+        "endTime": 65137,
+        "text": "...that we'd see better reliability."
+    },
+    {
+        "startTime": 65744,
+        "endTime": 69932,
+        "text": "And so far, as we've been monitoring this and the data center that we have on land..."
+    },
+    {
+        "startTime": 70399,
+        "endTime": 71758,
+        "text": "...that are using the same components,..."
+    },
+    {
+        "startTime": 71922,
+        "endTime": 76569,
+        "text": "...we see one-eighth the failure rate in the ocean data center than we do on land."
+    },
+    {
+        "startTime": 77465,
+        "endTime": 79655,
+        "text": "We got some good data on reliability."
+    },
+    {
+        "startTime": 79890,
+        "endTime": 82617,
+        "text": "We've proven out that we can do this whole deployment process."
+    },
+    {
+        "startTime": 83083,
+        "endTime": 86000,
+        "text": "Now, let's finish the story and let's show that we can do the retrieval..."
+    },
+    {
+        "startTime": 86076,
+        "endTime": 88847,
+        "text": "...and we can do the recycling once it does reach end of life..."
+    },
+    {
+        "startTime": 89120,
+        "endTime": 91957,
+        "text": "...and make sure that that entire cycle is possible,"
+    },
+    {
+        "startTime": 93446,
+        "endTime": 97681,
+        "text": "This project gives us the ability to feel like we're working not just on computers,..."
+    },
+    {
+        "startTime": 97776,
+        "endTime": 103263,
+        "text": "...not just on data centers, but on sort of moving forward environmental responsibility..."
+    },
+    {
+        "startTime": 103405,
+        "endTime": 105131,
+        "text": "...as a company and as individuals."
+    }
+]

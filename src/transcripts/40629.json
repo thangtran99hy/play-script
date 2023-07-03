@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 238,
+        "endTime": 2165,
+        "text": "Do you know who was at the party?"
+    },
+    {
+        "startTime": 2527,
+        "endTime": 3553,
+        "text": "Jason was there."
+    },
+    {
+        "startTime": 3789,
+        "endTime": 4654,
+        "text": "So was Sue."
+    },
+    {
+        "startTime": 4895,
+        "endTime": 5469,
+        "text": "Oh."
+    },
+    {
+        "startTime": 5883,
+        "endTime": 7332,
+        "text": "Were Tom and Katie there?"
+    },
+    {
+        "startTime": 7729,
+        "endTime": 9193,
+        "text": "No, they weren't there,..."
+    },
+    {
+        "startTime": 9437,
+        "endTime": 10693,
+        "text": "...but their son was."
+    },
+    {
+        "startTime": 10997,
+        "endTime": 11838,
+        "text": "Oh, I see."
+    },
+    {
+        "startTime": 12137,
+        "endTime": 13322,
+        "text": "So, was it fun?"
+    },
+    {
+        "startTime": 13677,
+        "endTime": 15269,
+        "text": "Yeah, it was a fun evening."
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "startTime": 151,
+        "endTime": 1770,
+        "text": "What can I do for you?"
+    },
+    {
+        "startTime": 2713,
+        "endTime": 6967,
+        "text": "Well I'm calling to book a table for four people,..."
+    },
+    {
+        "startTime": 7585,
+        "endTime": 10384,
+        "text": "...and also I'd like to ask you a few questions."
+    },
+    {
+        "startTime": 10912,
+        "endTime": 13852,
+        "text": "Certainly, sir. What do you need to know?"
+    },
+    {
+        "startTime": 14852,
+        "endTime": 17589,
+        "text": "Well, what are your opening hours?"
+    },
+    {
+        "startTime": 18413,
+        "endTime": 22326,
+        "text": "Our restaurant is open from Tuesday to Sunday."
+    },
+    {
+        "startTime": 22721,
+        "endTime": 23910,
+        "text": "We're closed on Mondays."
+    },
+    {
+        "startTime": 25096,
+        "endTime": 27139,
+        "text": "And is there a car park?"
+    },
+    {
+        "startTime": 27386,
+        "endTime": 30803,
+        "text": "Yes, the car park is at the back of the restaurant."
+    },
+    {
+        "startTime": 31902,
+        "endTime": 34938,
+        "text": "Great, and what time do you serve lunch?"
+    },
+    {
+        "startTime": 35243,
+        "endTime": 38661,
+        "text": "We serve lunch from 12:00 to 2:30."
+    },
+    {
+        "startTime": 39401,
+        "endTime": 41147,
+        "text": "From 12:00 to 2:30."
+    },
+    {
+        "startTime": 42148,
+        "endTime": 44759,
+        "text": "Well, then I'd like to make a reservation then."
+    },
+    {
+        "startTime": 45464,
+        "endTime": 46963,
+        "text": "Certainly sir. When for?"
+    },
+    {
+        "startTime": 48072,
+        "endTime": 49521,
+        "text": "For this coming Sunday."
+    },
+    {
+        "startTime": 51317,
+        "endTime": 53311,
+        "text": "Lunchtime or evening?"
+    },
+    {
+        "startTime": 53599,
+        "endTime": 57512,
+        "text": "For lunch. We'll be coming around 1 o'clock."
+    },
+    {
+        "startTime": 58125,
+        "endTime": 59685,
+        "text": "One o'clock. OK."
+    },
+    {
+        "startTime": 60848,
+        "endTime": 62077,
+        "text": "For how many people?"
+    },
+    {
+        "startTime": 62595,
+        "endTime": 63374,
+        "text": "For four."
+    },
+    {
+        "startTime": 64066,
+        "endTime": 65033,
+        "text": "Very well, sir."
+    },
+    {
+        "startTime": 65317,
+        "endTime": 67218,
+        "text": "What's the name please?"
+    },
+    {
+        "startTime": 67549,
+        "endTime": 68247,
+        "text": "Monaghan."
+    },
+    {
+        "startTime": 68933,
+        "endTime": 70230,
+        "text": "Could you spell that, please?"
+    },
+    {
+        "startTime": 70334,
+        "endTime": 79881,
+        "text": "Yeah. M O N A G H A N."
+    },
+    {
+        "startTime": 81157,
+        "endTime": 87094,
+        "text": "Alright Mr. Monaghan, one table for four for Sunday, 1:00 p.m."
+    },
+    {
+        "startTime": 87413,
+        "endTime": 89118,
+        "text": "Yeah, that's great."
+    }
+]

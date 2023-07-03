@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 2357,
+        "endTime": 3875,
+        "text": "It's six o'clock in the evening."
+    },
+    {
+        "startTime": 5783,
+        "endTime": 7323,
+        "text": "It's seven o'clock in the evening."
+    },
+    {
+        "startTime": 9045,
+        "endTime": 10358,
+        "text": "It's eight o'clock at night."
+    },
+    {
+        "startTime": 11069,
+        "endTime": 12423,
+        "text": "It's nine o'clock at night."
+    },
+    {
+        "startTime": 13433,
+        "endTime": 14373,
+        "text": "It's 10 p.m."
+    },
+    {
+        "startTime": 15259,
+        "endTime": 16386,
+        "text": "It's 11 p.m."
+    }
+]

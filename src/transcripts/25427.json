@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 451,
+        "endTime": 2785,
+        "text": "Let's go to the movies."
+    },
+    {
+        "startTime": 8179,
+        "endTime": 9635,
+        "text": "I like comedies."
+    },
+    {
+        "startTime": 14299,
+        "endTime": 17440,
+        "text": "Horror movies are scary."
+    },
+    {
+        "startTime": 21817,
+        "endTime": 24233,
+        "text": "Action movies are fun."
+    },
+    {
+        "startTime": 28481,
+        "endTime": 30829,
+        "text": "Do you like adventure movies?"
+    },
+    {
+        "startTime": 35130,
+        "endTime": 37844,
+        "text": "Romance movies are popular."
+    },
+    {
+        "startTime": 42363,
+        "endTime": 44426,
+        "text": "This is a war movie."
+    },
+    {
+        "startTime": 49071,
+        "endTime": 51270,
+        "text": "How about watching animation?"
+    },
+    {
+        "startTime": 55449,
+        "endTime": 57018,
+        "text": "This is a western."
+    },
+    {
+        "startTime": 61329,
+        "endTime": 63076,
+        "text": "Do you like watching musicals?"
+    },
+    {
+        "startTime": 67242,
+        "endTime": 70017,
+        "text": "\"The Lord of the Rings\" is a fantasy movie."
+    },
+    {
+        "startTime": 74580,
+        "endTime": 76675,
+        "text": "I like foreign films."
+    },
+    {
+        "startTime": 81183,
+        "endTime": 84424,
+        "text": "\"The Godfather\" is a gangster movie."
+    },
+    {
+        "startTime": 89229,
+        "endTime": 91280,
+        "text": "\"Forrest Gump\" is a drama."
+    },
+    {
+        "startTime": 95630,
+        "endTime": 97855,
+        "text": "Do you want to see a sci-fi movie?"
+    }
+]

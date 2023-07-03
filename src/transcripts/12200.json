@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 216,
+        "endTime": 1927,
+        "text": "I need to get to a post office."
+    },
+    {
+        "startTime": 2135,
+        "endTime": 3707,
+        "text": "Do you know where the nearest one is?"
+    },
+    {
+        "startTime": 4036,
+        "endTime": 6472,
+        "text": "Yes, there's one not too far from here."
+    },
+    {
+        "startTime": 6763,
+        "endTime": 8008,
+        "text": "Is it walking distance?"
+    },
+    {
+        "startTime": 8258,
+        "endTime": 11853,
+        "text": "Well, I suppose so, but it'd be a bit of a long walk."
+    },
+    {
+        "startTime": 12065,
+        "endTime": 12621,
+        "text": "How long?"
+    },
+    {
+        "startTime": 12896,
+        "endTime": 14553,
+        "text": "Maybe twenty minutes or so."
+    },
+    {
+        "startTime": 14773,
+        "endTime": 16942,
+        "text": "I'd rather get there a bit faster than that."
+    },
+    {
+        "startTime": 17171,
+        "endTime": 18187,
+        "text": "Is there another way?"
+    },
+    {
+        "startTime": 18411,
+        "endTime": 22340,
+        "text": "Sure, just hop on the bus at that bus stop across the street."
+    },
+    {
+        "startTime": 22463,
+        "endTime": 24290,
+        "text": "Okay, which bus do I get?"
+    },
+    {
+        "startTime": 24622,
+        "endTime": 28133,
+        "text": "I think both number 15 and number 17 go there."
+    },
+    {
+        "startTime": 28301,
+        "endTime": 30415,
+        "text": "They both come by every five minutes."
+    },
+    {
+        "startTime": 30548,
+        "endTime": 32461,
+        "text": "Sounds easy! Where do I get off?"
+    },
+    {
+        "startTime": 32751,
+        "endTime": 36371,
+        "text": "Just tell the driver that you want to get off at Commercial Street."
+    }
+]

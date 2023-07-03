@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1242,
+        "endTime": 3785,
+        "text": "I'm from Spain. I'm Spanish."
+    },
+    {
+        "startTime": 5316,
+        "endTime": 7117,
+        "text": "I speak Spanish."
+    },
+    {
+        "startTime": 9158,
+        "endTime": 12673,
+        "text": "He is from Turkey. He is Turkish."
+    },
+    {
+        "startTime": 14111,
+        "endTime": 16005,
+        "text": "He speaks Turkish."
+    },
+    {
+        "startTime": 17398,
+        "endTime": 19847,
+        "text": "I'm from India. I'm Indian."
+    },
+    {
+        "startTime": 21379,
+        "endTime": 22253,
+        "text": "I'm a pilot."
+    },
+    {
+        "startTime": 23156,
+        "endTime": 25653,
+        "text": "She is from Greece. She is Greek."
+    },
+    {
+        "startTime": 27326,
+        "endTime": 28507,
+        "text": "She is a doctor."
+    },
+    {
+        "startTime": 31244,
+        "endTime": 33041,
+        "text": "I am from the U.S."
+    },
+    {
+        "startTime": 34223,
+        "endTime": 35853,
+        "text": "She is from the UK."
+    },
+    {
+        "startTime": 37270,
+        "endTime": 40999,
+        "text": "We speak English. We are teachers."
+    }
+]

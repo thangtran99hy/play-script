@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 3019,
+        "endTime": 5017,
+        "text": "What shall we eat for lunch, Mom?"
+    },
+    {
+        "startTime": 6099,
+        "endTime": 7927,
+        "text": "How about some sandwiches?"
+    },
+    {
+        "startTime": 8976,
+        "endTime": 10149,
+        "text": "That sounds good."
+    },
+    {
+        "startTime": 10561,
+        "endTime": 12999,
+        "text": "What kind of sandwiches shall we eat?"
+    },
+    {
+        "startTime": 14035,
+        "endTime": 16487,
+        "text": "How about making some chicken sandwiches?"
+    },
+    {
+        "startTime": 17590,
+        "endTime": 20989,
+        "text": "Umm. I want ham and eggs on my sandwich."
+    },
+    {
+        "startTime": 22055,
+        "endTime": 25446,
+        "text": "OK. Let's make ham and egg sandwiches."
+    },
+    {
+        "startTime": 26589,
+        "endTime": 29427,
+        "text": "What do we need to make ham and egg sandwiches?"
+    },
+    {
+        "startTime": 30508,
+        "endTime": 34236,
+        "text": "We need some bread, lettuce, tomatoes, ham and eggs."
+    },
+    {
+        "startTime": 35313,
+        "endTime": 36683,
+        "text": "Do we have any cheese?"
+    },
+    {
+        "startTime": 37219,
+        "endTime": 39885,
+        "text": "I also want some cheese on my sandwich."
+    },
+    {
+        "startTime": 40898,
+        "endTime": 44209,
+        "text": "Sure. We have lots of cheese in the refrigerator."
+    }
+]

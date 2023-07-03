@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 217,
+        "endTime": 1575,
+        "text": "Have you seen Christine and Mary?"
+    },
+    {
+        "startTime": 1947,
+        "endTime": 3231,
+        "text": "They are in the meeting room."
+    },
+    {
+        "startTime": 4182,
+        "endTime": 5609,
+        "text": "Which meeting room are they in?"
+    },
+    {
+        "startTime": 6114,
+        "endTime": 7440,
+        "text": "The one beside the restroom."
+    },
+    {
+        "startTime": 9055,
+        "endTime": 9743,
+        "text": "Hi, Jenny."
+    },
+    {
+        "startTime": 10535,
+        "endTime": 11380,
+        "text": "Are you okay?"
+    },
+    {
+        "startTime": 11816,
+        "endTime": 12843,
+        "text": "Where are you, anyway?"
+    },
+    {
+        "startTime": 13327,
+        "endTime": 14160,
+        "text": "I'm in the clinic."
+    },
+    {
+        "startTime": 14422,
+        "endTime": 15442,
+        "text": "I'm feeling terrible."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 770,
+        "endTime": 3707,
+        "text": "The lungs bring oxygen into the body when you breathe."
+    },
+    {
+        "startTime": 3936,
+        "endTime": 6917,
+        "text": "From there, it has to find its way to every other part of your body,..."
+    },
+    {
+        "startTime": 7281,
+        "endTime": 9212,
+        "text": "...and the blood is its delivery service."
+    },
+    {
+        "startTime": 9523,
+        "endTime": 12181,
+        "text": "The heart pumps blood to the lungs to pick up oxygen..."
+    },
+    {
+        "startTime": 12412,
+        "endTime": 15511,
+        "text": "...then pumps the oxygenated blood out to the rest of the body."
+    },
+    {
+        "startTime": 15970,
+        "endTime": 18464,
+        "text": "After the blood has delivered all the oxygen,..."
+    },
+    {
+        "startTime": 18729,
+        "endTime": 21444,
+        "text": "...it picks up carbon dioxide, a waste product."
+    },
+    {
+        "startTime": 21841,
+        "endTime": 25367,
+        "text": "Then the blood goes back to the lungs to drop off the carbon dioxide..."
+    },
+    {
+        "startTime": 25443,
+        "endTime": 27123,
+        "text": "...and pick up more oxygen."
+    },
+    {
+        "startTime": 27462,
+        "endTime": 30219,
+        "text": "And the whole process begins again."
+    }
+]

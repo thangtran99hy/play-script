@@ -1,0 +1,92 @@
+[
+    {
+        "startTime": 3139,
+        "endTime": 4785,
+        "text": "Let's make a sandwich."
+    },
+    {
+        "startTime": 6068,
+        "endTime": 7061,
+        "text": "Get some bread."
+    },
+    {
+        "startTime": 8303,
+        "endTime": 10251,
+        "text": "Put some butter on the bread."
+    },
+    {
+        "startTime": 11691,
+        "endTime": 13788,
+        "text": "Put some lettuce on the butter."
+    },
+    {
+        "startTime": 15177,
+        "endTime": 17431,
+        "text": "Put some tomatoes on the lettuce."
+    },
+    {
+        "startTime": 18832,
+        "endTime": 21309,
+        "text": "Put some meat on the tomatoes."
+    },
+    {
+        "startTime": 22454,
+        "endTime": 24467,
+        "text": "Put some bread on the meat."
+    },
+    {
+        "startTime": 25819,
+        "endTime": 27978,
+        "text": "Now take a big bite."
+    },
+    {
+        "startTime": 28604,
+        "endTime": 29264,
+        "text": "Yummy!"
+    },
+    {
+        "startTime": 32623,
+        "endTime": 34182,
+        "text": "What are you doing?"
+    },
+    {
+        "startTime": 35539,
+        "endTime": 37156,
+        "text": "I am cleaning my room."
+    },
+    {
+        "startTime": 37935,
+        "endTime": 40326,
+        "text": "I put my books on the desk."
+    },
+    {
+        "startTime": 41666,
+        "endTime": 43549,
+        "text": "What is your dad doing?"
+    },
+    {
+        "startTime": 44929,
+        "endTime": 46710,
+        "text": "He is making a sandwich."
+    },
+    {
+        "startTime": 47227,
+        "endTime": 49396,
+        "text": "He puts cheese on the bread."
+    },
+    {
+        "startTime": 50748,
+        "endTime": 52783,
+        "text": "What is your sister doing?"
+    },
+    {
+        "startTime": 53498,
+        "endTime": 55039,
+        "text": "She is making salad."
+    },
+    {
+        "startTime": 55479,
+        "endTime": 57539,
+        "text": "She puts apples in the bowl."
+    }
+]

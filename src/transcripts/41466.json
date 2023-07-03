@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 5003,
+        "endTime": 7018,
+        "text": "Would you like to leave a message for Henry?"
+    },
+    {
+        "startTime": 7567,
+        "endTime": 8175,
+        "text": "Yes."
+    },
+    {
+        "startTime": 8610,
+        "endTime": 11282,
+        "text": "Please tell him to call me back when his meeting is finished."
+    },
+    {
+        "startTime": 14077,
+        "endTime": 16113,
+        "text": "Would you like me to give you an office tour?"
+    },
+    {
+        "startTime": 17209,
+        "endTime": 18383,
+        "text": "That would be great."
+    },
+    {
+        "startTime": 19545,
+        "endTime": 21183,
+        "text": "Would you like to see the pictures?"
+    },
+    {
+        "startTime": 22017,
+        "endTime": 22883,
+        "text": "Of course!"
+    },
+    {
+        "startTime": 25837,
+        "endTime": 27464,
+        "text": "Would you like to check the reports?"
+    },
+    {
+        "startTime": 28106,
+        "endTime": 28600,
+        "text": "Okay."
+    },
+    {
+        "startTime": 28786,
+        "endTime": 29671,
+        "text": "Let me see them."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 600,
+        "endTime": 2750,
+        "text": "The time for bickering is over."
+    },
+    {
+        "startTime": 3550,
+        "endTime": 6700,
+        "text": "The time for games has passed."
+    },
+    {
+        "startTime": 7350,
+        "endTime": 9800,
+        "text": "Now is the season for action."
+    },
+    {
+        "startTime": 10350,
+        "endTime": 14848,
+        "text": "Now is when we must bring the best ideas of both parties together..."
+    },
+    {
+        "startTime": 15400,
+        "endTime": 19500,
+        "text": "...and show the American people that we can still do what we were sent here to do."
+    },
+    {
+        "startTime": 19650,
+        "endTime": 21700,
+        "text": "Now is the time to deliver on healthcare."
+    }
+]

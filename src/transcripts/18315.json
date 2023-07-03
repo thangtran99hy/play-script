@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 685,
+        "endTime": 1948,
+        "text": "Hi there, my name is Earl."
+    },
+    {
+        "startTime": 2251,
+        "endTime": 2921,
+        "text": "And who are you?"
+    },
+    {
+        "startTime": 3940,
+        "endTime": 5418,
+        "text": "Good morning, my name is Jason."
+    },
+    {
+        "startTime": 5795,
+        "endTime": 6710,
+        "text": "And who might you be?"
+    },
+    {
+        "startTime": 8180,
+        "endTime": 9687,
+        "text": "Hello. You must be Matthew."
+    },
+    {
+        "startTime": 10047,
+        "endTime": 11691,
+        "text": "Nice to meet you. My name is Earl."
+    },
+    {
+        "startTime": 13029,
+        "endTime": 14167,
+        "text": "It's time for me to head out!"
+    },
+    {
+        "startTime": 14474,
+        "endTime": 15355,
+        "text": "See you guys tomorrow."
+    },
+    {
+        "startTime": 16379,
+        "endTime": 17310,
+        "text": "I must be going now."
+    },
+    {
+        "startTime": 17443,
+        "endTime": 18117,
+        "text": "Have a good evening."
+    },
+    {
+        "startTime": 19298,
+        "endTime": 19784,
+        "text": "Bye now."
+    },
+    {
+        "startTime": 19855,
+        "endTime": 20714,
+        "text": "See you next time."
+    }
+]

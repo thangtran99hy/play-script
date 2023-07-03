@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 95,
+        "endTime": 1294,
+        "text": "How was the movie?"
+    },
+    {
+        "startTime": 2417,
+        "endTime": 3869,
+        "text": "It was really good."
+    },
+    {
+        "startTime": 4933,
+        "endTime": 6093,
+        "text": "Was it scary?"
+    },
+    {
+        "startTime": 7353,
+        "endTime": 9697,
+        "text": "Yes, it was really scary."
+    },
+    {
+        "startTime": 9979,
+        "endTime": 10713,
+        "text": "Nice!"
+    },
+    {
+        "startTime": 11195,
+        "endTime": 12183,
+        "text": "Was it crowded?"
+    },
+    {
+        "startTime": 12468,
+        "endTime": 13747,
+        "text": "No, it wasn't."
+    },
+    {
+        "startTime": 14037,
+        "endTime": 16585,
+        "text": "There weren't many people there, surprisingly."
+    }
+]

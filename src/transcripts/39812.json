@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 285,
+        "endTime": 2636,
+        "text": "The sun rises in the morning."
+    },
+    {
+        "startTime": 4341,
+        "endTime": 6262,
+        "text": "My birthday is in November."
+    },
+    {
+        "startTime": 7762,
+        "endTime": 9389,
+        "text": "We ice skate in winter."
+    },
+    {
+        "startTime": 10300,
+        "endTime": 12668,
+        "text": "The party is on January 1st."
+    },
+    {
+        "startTime": 13563,
+        "endTime": 15263,
+        "text": "I wake up at 6:00."
+    },
+    {
+        "startTime": 16617,
+        "endTime": 18475,
+        "text": "School ends at two o'clock."
+    },
+    {
+        "startTime": 20045,
+        "endTime": 21293,
+        "text": "People sleep at night."
+    }
+]

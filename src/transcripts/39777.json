@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 503,
+        "endTime": 1427,
+        "text": "I'm Japanese."
+    },
+    {
+        "startTime": 1768,
+        "endTime": 3319,
+        "text": "I speak Japanese."
+    },
+    {
+        "startTime": 4723,
+        "endTime": 5600,
+        "text": "I'm Irish."
+    },
+    {
+        "startTime": 5987,
+        "endTime": 7355,
+        "text": "I speak English."
+    },
+    {
+        "startTime": 8782,
+        "endTime": 9685,
+        "text": "I'm Chinese."
+    },
+    {
+        "startTime": 10001,
+        "endTime": 11530,
+        "text": "I speak Chinese."
+    },
+    {
+        "startTime": 12581,
+        "endTime": 13532,
+        "text": "I'm Colombian."
+    },
+    {
+        "startTime": 13916,
+        "endTime": 14995,
+        "text": "I speak Spanish."
+    },
+    {
+        "startTime": 16095,
+        "endTime": 17048,
+        "text": "I'm Brazilian."
+    },
+    {
+        "startTime": 17324,
+        "endTime": 19019,
+        "text": "I speak Portuguese."
+    }
+]

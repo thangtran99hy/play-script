@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 121,
+        "endTime": 4679,
+        "text": "The word \"These\" tells us about two or more close things."
+    },
+    {
+        "startTime": 6371,
+        "endTime": 7683,
+        "text": "These are animals."
+    },
+    {
+        "startTime": 9356,
+        "endTime": 11155,
+        "text": "These are potatoes."
+    },
+    {
+        "startTime": 12951,
+        "endTime": 14887,
+        "text": "These animals are wolves."
+    },
+    {
+        "startTime": 16581,
+        "endTime": 18445,
+        "text": "These things are potatoes."
+    },
+    {
+        "startTime": 20273,
+        "endTime": 24841,
+        "text": "The word \"Those\" tells us about two or more things far away."
+    },
+    {
+        "startTime": 26633,
+        "endTime": 28138,
+        "text": "Those are animals."
+    },
+    {
+        "startTime": 29900,
+        "endTime": 31671,
+        "text": "Those animals are penguins."
+    },
+    {
+        "startTime": 33344,
+        "endTime": 35391,
+        "text": "Those places are stores."
+    }
+]

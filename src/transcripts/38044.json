@@ -1,0 +1,162 @@
+[
+    {
+        "startTime": 3397,
+        "endTime": 5687,
+        "text": "Autocomplete is a feature within Google search..."
+    },
+    {
+        "startTime": 5788,
+        "endTime": 8789,
+        "text": "...designed to make it faster to complete searches you're beginning to type."
+    },
+    {
+        "startTime": 9138,
+        "endTime": 13371,
+        "text": "We created it to help save people time, which it definitely does."
+    },
+    {
+        "startTime": 13709,
+        "endTime": 17560,
+        "text": "On average, Autocomplete reduces typing by about 25 percent."
+    },
+    {
+        "startTime": 18291,
+        "endTime": 20342,
+        "text": "How it works, at a very basic level,..."
+    },
+    {
+        "startTime": 20507,
+        "endTime": 22979,
+        "text": "...is by looking at what you're starting to type in the search bar,..."
+    },
+    {
+        "startTime": 23281,
+        "endTime": 25854,
+        "text": "...sorting through trillions of past Google searches..."
+    },
+    {
+        "startTime": 25930,
+        "endTime": 28303,
+        "text": "...to find ones that include the letters you just typed,..."
+    },
+    {
+        "startTime": 28875,
+        "endTime": 31061,
+        "text": "...then displaying some of the most common ones."
+    },
+    {
+        "startTime": 32054,
+        "endTime": 33663,
+        "text": "So, what you see in Autocomplete..."
+    },
+    {
+        "startTime": 33758,
+        "endTime": 37143,
+        "text": "...are predictions based on lots of data about how people search."
+    },
+    {
+        "startTime": 37871,
+        "endTime": 41661,
+        "text": "That's why the first queries you typically see are your own past searches,..."
+    },
+    {
+        "startTime": 41958,
+        "endTime": 44402,
+        "text": "...because data tell us users tend to repeat them."
+    },
+    {
+        "startTime": 44741,
+        "endTime": 47083,
+        "text": "Those predictions are indicated by a clock icon."
+    },
+    {
+        "startTime": 47303,
+        "endTime": 49085,
+        "text": "And you can delete them right in the search bar,..."
+    },
+    {
+        "startTime": 49333,
+        "endTime": 51429,
+        "text": "...or you can visit your Google Account page."
+    },
+    {
+        "startTime": 52514,
+        "endTime": 54803,
+        "text": "Another thing to know is that a common query..."
+    },
+    {
+        "startTime": 54905,
+        "endTime": 57944,
+        "text": "...in one part of the world may not be so common in another."
+    },
+    {
+        "startTime": 58738,
+        "endTime": 60855,
+        "text": "That's why Autocomplete considers location,..."
+    },
+    {
+        "startTime": 61067,
+        "endTime": 63991,
+        "text": "...as well as the language being used, when displaying predictions."
+    },
+    {
+        "startTime": 64621,
+        "endTime": 67729,
+        "text": "Autocomplete also takes into account what searches have been trending,..."
+    },
+    {
+        "startTime": 68085,
+        "endTime": 71159,
+        "text": "...which is why queries related to the news or recent events..."
+    },
+    {
+        "startTime": 71300,
+        "endTime": 73320,
+        "text": "...may move up the list of predictions when relevant."
+    },
+    {
+        "startTime": 74049,
+        "endTime": 77262,
+        "text": "The last thing Autocomplete factors in is what you won't see,..."
+    },
+    {
+        "startTime": 77714,
+        "endTime": 83339,
+        "text": "...predictions identified as inappropriate, harmful, or otherwise against our policies."
+    },
+    {
+        "startTime": 83768,
+        "endTime": 86467,
+        "text": "We don't stop anyone from searching for whatever they want."
+    },
+    {
+        "startTime": 86723,
+        "endTime": 90931,
+        "text": "We've simply designed policies so people won't be unintentionally surprised,..."
+    },
+    {
+        "startTime": 91109,
+        "endTime": 94963,
+        "text": "...shocked, or otherwise shown unhelpful predictions in Autocomplete,..."
+    },
+    {
+        "startTime": 95440,
+        "endTime": 98135,
+        "text": "...because Autocomplete has always been about getting you..."
+    },
+    {
+        "startTime": 98244,
+        "endTime": 100285,
+        "text": "...to what you're really looking for quicker."
+    },
+    {
+        "startTime": 100689,
+        "endTime": 103242,
+        "text": "And with billions of searches being completed every day,..."
+    },
+    {
+        "startTime": 103672,
+        "endTime": 108322,
+        "text": "...our predictions will keep getting better, getting you to results even faster."
+    }
+]

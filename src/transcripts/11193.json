@@ -1,0 +1,182 @@
+[
+    {
+        "startTime": 2300,
+        "endTime": 5950,
+        "text": "Robots are useful for exploring and working in space."
+    },
+    {
+        "startTime": 6250,
+        "endTime": 9800,
+        "text": "In particular, many robots have been sent to explore Mars."
+    },
+    {
+        "startTime": 10250,
+        "endTime": 13700,
+        "text": "Such robots have usually looked like a box with wheels."
+    },
+    {
+        "startTime": 14250,
+        "endTime": 15850,
+        "text": "Though these robots are useful,..."
+    },
+    {
+        "startTime": 16100,
+        "endTime": 21700,
+        "text": "...by their very nature they are unreliable, extremely expensive, and they break easily."
+    },
+    {
+        "startTime": 22150,
+        "endTime": 24850,
+        "text": "Also, they cannot do very many tasks."
+    },
+    {
+        "startTime": 25350,
+        "endTime": 31300,
+        "text": "Because of these problems, scientists have been developing a new and unusual kind of robot."
+    },
+    {
+        "startTime": 31900,
+        "endTime": 37150,
+        "text": "These new robots move like snakes, so they have been given the name \"snakebots.\""
+    },
+    {
+        "startTime": 37650,
+        "endTime": 43500,
+        "text": "The way a snake is shaped lets it get into very small spaces, like cracks in rocks."
+    },
+    {
+        "startTime": 44050,
+        "endTime": 50650,
+        "text": "It can also push its way below the ground or climb up different kinds of objects, like high rocks and trees."
+    },
+    {
+        "startTime": 51250,
+        "endTime": 55800,
+        "text": "Such abilities account for the usefulness of a robot designed like a snake."
+    },
+    {
+        "startTime": 56350,
+        "endTime": 59200,
+        "text": "A snakebot would be able to do these things, too,..."
+    },
+    {
+        "startTime": 59500,
+        "endTime": 63150,
+        "text": "...making it much more effective than regular robots with wheels,..."
+    },
+    {
+        "startTime": 63400,
+        "endTime": 65750,
+        "text": "...which easily get stuck or fall over."
+    },
+    {
+        "startTime": 66450,
+        "endTime": 71500,
+        "text": "Since they can carry tools, snakebots would be able to work in space, as well."
+    },
+    {
+        "startTime": 72050,
+        "endTime": 75800,
+        "text": "They could, for example, help repair the International Space Station."
+    },
+    {
+        "startTime": 76400,
+        "endTime": 78650,
+        "text": "But how can such a robot shape be made?"
+    },
+    {
+        "startTime": 79250,
+        "endTime": 84400,
+        "text": "A snakebot is built like a chain made of about thirty parts, or modules."
+    },
+    {
+        "startTime": 84950,
+        "endTime": 90600,
+        "text": "Each module is basically the same in that they all have a small computer and a wheel to aid movement."
+    },
+    {
+        "startTime": 91350,
+        "endTime": 96900,
+        "text": "The large computer in the \"head\" of the snake makes all of the modules in a snakebot work together."
+    },
+    {
+        "startTime": 97650,
+        "endTime": 101150,
+        "text": "The modular design of the snakebot has many advantages."
+    },
+    {
+        "startTime": 101550,
+        "endTime": 104700,
+        "text": "If one module fails, another can be added easily."
+    },
+    {
+        "startTime": 105350,
+        "endTime": 110250,
+        "text": "Snakebot modules can also carry different kinds of tools, as well as cameras."
+    },
+    {
+        "startTime": 110750,
+        "endTime": 113650,
+        "text": "Since each module is actually a robot in itself,..."
+    },
+    {
+        "startTime": 113900,
+        "endTime": 116850,
+        "text": "...one module can work apart from the rest if necessary."
+    },
+    {
+        "startTime": 117450,
+        "endTime": 120900,
+        "text": "That is, all the modules can separate and move on their own,..."
+    },
+    {
+        "startTime": 121150,
+        "endTime": 124200,
+        "text": "...and then later, reconnect back into a larger robot."
+    },
+    {
+        "startTime": 124850,
+        "endTime": 129600,
+        "text": "Researchers are also trying to develop snakebots made of a special kind of plastic..."
+    },
+    {
+        "startTime": 129900,
+        "endTime": 134100,
+        "text": "...that can change its shape using electricity, almost like animal muscles."
+    },
+    {
+        "startTime": 134550,
+        "endTime": 138750,
+        "text": "Snakebots made with this plastic will be very strong and hard to break."
+    },
+    {
+        "startTime": 139300,
+        "endTime": 143950,
+        "text": "Overall, the snakebot design is much simpler than that of common robots."
+    },
+    {
+        "startTime": 144400,
+        "endTime": 147600,
+        "text": "Thus, snakebots will be much less expensive to build."
+    },
+    {
+        "startTime": 148100,
+        "endTime": 153400,
+        "text": "For example, a robot recently sent to Mars cost over a hundred million dollars,..."
+    },
+    {
+        "startTime": 153750,
+        "endTime": 157500,
+        "text": "...whereas snakebots can cost as little as a few hundred dollars."
+    },
+    {
+        "startTime": 157950,
+        "endTime": 160200,
+        "text": "With their versatility and affordability,..."
+    },
+    {
+        "startTime": 160400,
+        "endTime": 166200,
+        "text": "...snakebots seem to be the wave of the future, at least as far as space robots are concerned."
+    }
+]

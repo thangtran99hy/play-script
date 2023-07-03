@@ -1,0 +1,117 @@
+[
+    {
+        "startTime": 1130,
+        "endTime": 5300,
+        "text": "Rakuten Travel operates Japan's largest internet hotel reservation site,..."
+    },
+    {
+        "startTime": 5630,
+        "endTime": 9670,
+        "text": "...serving an accumulative total of over 100 million users as of 2008."
+    },
+    {
+        "startTime": 10870,
+        "endTime": 14040,
+        "text": "The reason we upgraded to Oracle Database 11G..."
+    },
+    {
+        "startTime": 14580,
+        "endTime": 18450,
+        "text": "...was to serve more customers by expanding the system capability."
+    },
+    {
+        "startTime": 20680,
+        "endTime": 26990,
+        "text": "Another reason for upgrading to Oracle Database 11G was to boost data search speeds."
+    },
+    {
+        "startTime": 31890,
+        "endTime": 35030,
+        "text": "Currently, we are using Oracle Automatic Storage Management..."
+    },
+    {
+        "startTime": 35360,
+        "endTime": 39630,
+        "text": "...and Oracle Clusterware as a foundation for all our Rakuten Travel systems."
+    },
+    {
+        "startTime": 41000,
+        "endTime": 45440,
+        "text": "In addition, we are using Oracle Enterprise Manager for managing operations."
+    },
+    {
+        "startTime": 49150,
+        "endTime": 51180,
+        "text": "We chose Oracle Database products,..."
+    },
+    {
+        "startTime": 51380,
+        "endTime": 57120,
+        "text": "...primarily because they enable us to offer a more stable service to our customers on a continuous basis."
+    },
+    {
+        "startTime": 57850,
+        "endTime": 62260,
+        "text": "Also, we highly value Oracle's extremely comprehensive support system."
+    },
+    {
+        "startTime": 65360,
+        "endTime": 68460,
+        "text": "By investing in Oracle database and hardware upgrades,..."
+    },
+    {
+        "startTime": 68900,
+        "endTime": 72630,
+        "text": "...we have been able to achieve a 60% increase in performance,..."
+    },
+    {
+        "startTime": 73130,
+        "endTime": 76670,
+        "text": "...providing the maximum return for the least investment."
+    },
+    {
+        "startTime": 80410,
+        "endTime": 82780,
+        "text": "By using Automatic Storage Management,..."
+    },
+    {
+        "startTime": 83080,
+        "endTime": 86680,
+        "text": "...we have been able to reduce operational and management cost,..."
+    },
+    {
+        "startTime": 86880,
+        "endTime": 92650,
+        "text": "...by eliminating the work our database engineers had to perform two to three times a month."
+    },
+    {
+        "startTime": 95690,
+        "endTime": 100160,
+        "text": "In the past when we needed to add nodes, we had to shut down the database system."
+    },
+    {
+        "startTime": 100660,
+        "endTime": 105170,
+        "text": "But now with the adoption of Oracle Clusterware, we are able to add nodes online,..."
+    },
+    {
+        "startTime": 105430,
+        "endTime": 108140,
+        "text": "...reducing the amount of downtime to the bare minimum."
+    },
+    {
+        "startTime": 110270,
+        "endTime": 112670,
+        "text": "Amid the current austere economic conditions,..."
+    },
+    {
+        "startTime": 113140,
+        "endTime": 117450,
+        "text": "...Oracle has helped us a great deal: generating the maximum return..."
+    },
+    {
+        "startTime": 117910,
+        "endTime": 120750,
+        "text": "...whilst cutting downtime and keeping cost to the minimum."
+    }
+]

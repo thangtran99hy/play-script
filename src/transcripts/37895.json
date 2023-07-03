@@ -1,0 +1,117 @@
+[
+    {
+        "startTime": 155,
+        "endTime": 2727,
+        "text": "The Google Data Center in Dublin, Ireland."
+    },
+    {
+        "startTime": 3557,
+        "endTime": 6623,
+        "text": "The scale of what we do here can be kind of crazy."
+    },
+    {
+        "startTime": 7238,
+        "endTime": 9879,
+        "text": "Millions of searches a day goes through those machines."
+    },
+    {
+        "startTime": 10326,
+        "endTime": 12741,
+        "text": "That's why they're very loud and they produce lots of heat."
+    },
+    {
+        "startTime": 12783,
+        "endTime": 16056,
+        "text": "That means they're constantly working, constantly answering your queries."
+    },
+    {
+        "startTime": 17562,
+        "endTime": 20754,
+        "text": "And so how do we really store the web, so to speak?"
+    },
+    {
+        "startTime": 21718,
+        "endTime": 25543,
+        "text": "The way to think about it is we take the internet, download it,..."
+    },
+    {
+        "startTime": 25900,
+        "endTime": 33575,
+        "text": "...index it, and chop it into small pieces, and then each server has a small piece."
+    },
+    {
+        "startTime": 34585,
+        "endTime": 37467,
+        "text": "All of the servers for that data center work together..."
+    },
+    {
+        "startTime": 37524,
+        "endTime": 40275,
+        "text": "...to each search their little part of the internet."
+    },
+    {
+        "startTime": 41140,
+        "endTime": 44515,
+        "text": "And it literally takes millions of servers and hard drives..."
+    },
+    {
+        "startTime": 44659,
+        "endTime": 46649,
+        "text": "...to be able to support the world's websites."
+    },
+    {
+        "startTime": 47919,
+        "endTime": 52392,
+        "text": "So each of these data centers has a complete copy of the web."
+    },
+    {
+        "startTime": 53347,
+        "endTime": 57435,
+        "text": "So if you're in France or if you're in South Africa, you're not sending..."
+    },
+    {
+        "startTime": 57538,
+        "endTime": 60019,
+        "text": "...a query that goes through the wires on underwater cables..."
+    },
+    {
+        "startTime": 60143,
+        "endTime": 62849,
+        "text": "...and comes from Mountain View, asks that question, then we send it back."
+    },
+    {
+        "startTime": 63601,
+        "endTime": 64498,
+        "text": "That's just not possible."
+    },
+    {
+        "startTime": 64680,
+        "endTime": 66801,
+        "text": "That's never going to work as a solution that's fast."
+    },
+    {
+        "startTime": 67899,
+        "endTime": 71360,
+        "text": "How it actually works is you go into Google and you type in a search,.."
+    },
+    {
+        "startTime": 74349,
+        "endTime": 78555,
+        "text": "...then we direct your query to the data center that is closest."
+    },
+    {
+        "startTime": 79059,
+        "endTime": 82297,
+        "text": "And so that's actually the reason why we have data centers everywhere,..."
+    },
+    {
+        "startTime": 82595,
+        "endTime": 85065,
+        "text": "...because we want to be close to the users that we're serving."
+    },
+    {
+        "startTime": 85427,
+        "endTime": 89813,
+        "text": "Because that's the only way to get you the most accurate response as fast as possible."
+    }
+]

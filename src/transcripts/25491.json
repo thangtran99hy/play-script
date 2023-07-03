@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 308,
+        "endTime": 1259,
+        "text": "Hello, IT department."
+    },
+    {
+        "startTime": 1465,
+        "endTime": 1717,
+        "text": "Hi."
+    },
+    {
+        "startTime": 2006,
+        "endTime": 2861,
+        "text": "My mouse isn't working."
+    },
+    {
+        "startTime": 2948,
+        "endTime": 3863,
+        "text": "I've tried everything."
+    },
+    {
+        "startTime": 4031,
+        "endTime": 5284,
+        "text": "I think I know what your problem is."
+    },
+    {
+        "startTime": 7825,
+        "endTime": 8272,
+        "text": "How's that?"
+    },
+    {
+        "startTime": 8407,
+        "endTime": 9693,
+        "text": "That's much better, thanks!"
+    },
+    {
+        "startTime": 9779,
+        "endTime": 10257,
+        "text": "Of course!"
+    },
+    {
+        "startTime": 10839,
+        "endTime": 12169,
+        "text": "But now, my TV is broken."
+    }
+]

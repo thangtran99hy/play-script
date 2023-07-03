@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 3145,
+        "endTime": 5833,
+        "text": "I met Sam on my way home yesterday."
+    },
+    {
+        "startTime": 6949,
+        "endTime": 8589,
+        "text": "What was he doing then?"
+    },
+    {
+        "startTime": 9652,
+        "endTime": 12157,
+        "text": "He was walking his dog in the park."
+    },
+    {
+        "startTime": 15369,
+        "endTime": 17504,
+        "text": "What were you doing when I called you?"
+    },
+    {
+        "startTime": 18619,
+        "endTime": 20701,
+        "text": "I was doing my art homework."
+    },
+    {
+        "startTime": 21811,
+        "endTime": 24349,
+        "text": "Was your brother doing his homework, too?"
+    },
+    {
+        "startTime": 25403,
+        "endTime": 29479,
+        "text": "No, he wasn't doing his homework. He was watching TV."
+    },
+    {
+        "startTime": 32575,
+        "endTime": 35213,
+        "text": "We saw your mom on our way to school."
+    },
+    {
+        "startTime": 36314,
+        "endTime": 37705,
+        "text": "What was she doing?"
+    },
+    {
+        "startTime": 38807,
+        "endTime": 41661,
+        "text": "She was waiting for a bus at the bus stop."
+    }
+]

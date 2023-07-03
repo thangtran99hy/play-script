@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 3746,
+        "endTime": 5041,
+        "text": "Is it January?"
+    },
+    {
+        "startTime": 5835,
+        "endTime": 7087,
+        "text": "No, it is not."
+    },
+    {
+        "startTime": 8661,
+        "endTime": 10366,
+        "text": "Does Janet go to bed early?"
+    },
+    {
+        "startTime": 11005,
+        "endTime": 12878,
+        "text": "Yes, she does go to bed early."
+    },
+    {
+        "startTime": 18347,
+        "endTime": 19295,
+        "text": "What day is it?"
+    },
+    {
+        "startTime": 19940,
+        "endTime": 20864,
+        "text": "It's Thursday."
+    },
+    {
+        "startTime": 22449,
+        "endTime": 24315,
+        "text": "What season do you go skiing?"
+    },
+    {
+        "startTime": 24997,
+        "endTime": 26869,
+        "text": "I go skiing in winter."
+    },
+    {
+        "startTime": 32355,
+        "endTime": 33911,
+        "text": "When is the baseball game?"
+    },
+    {
+        "startTime": 34959,
+        "endTime": 36765,
+        "text": "It is on Friday at two o'clock."
+    },
+    {
+        "startTime": 38533,
+        "endTime": 39847,
+        "text": "When does the plane leave?"
+    },
+    {
+        "startTime": 40901,
+        "endTime": 42574,
+        "text": "The plane leaves at 3:15."
+    }
+]

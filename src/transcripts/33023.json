@@ -1,0 +1,122 @@
+[
+    {
+        "startTime": 153,
+        "endTime": 1014,
+        "text": "Hi friends!"
+    },
+    {
+        "startTime": 1093,
+        "endTime": 1651,
+        "text": "How are you?"
+    },
+    {
+        "startTime": 2741,
+        "endTime": 4729,
+        "text": "Today we are going to learn the days of the week."
+    },
+    {
+        "startTime": 5769,
+        "endTime": 6371,
+        "text": "Monday."
+    },
+    {
+        "startTime": 8075,
+        "endTime": 8755,
+        "text": "Tuesday."
+    },
+    {
+        "startTime": 9220,
+        "endTime": 9905,
+        "text": "Wednesday."
+    },
+    {
+        "startTime": 11201,
+        "endTime": 11811,
+        "text": "Thursday."
+    },
+    {
+        "startTime": 13021,
+        "endTime": 13560,
+        "text": "Friday."
+    },
+    {
+        "startTime": 15093,
+        "endTime": 16384,
+        "text": "Saturday and Sunday."
+    },
+    {
+        "startTime": 17555,
+        "endTime": 19126,
+        "text": "And then, the week starts again."
+    },
+    {
+        "startTime": 19763,
+        "endTime": 24172,
+        "text": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday."
+    },
+    {
+        "startTime": 24389,
+        "endTime": 25238,
+        "text": "And the months."
+    },
+    {
+        "startTime": 26761,
+        "endTime": 28847,
+        "text": "January, it's cold."
+    },
+    {
+        "startTime": 29881,
+        "endTime": 31491,
+        "text": "February, carnival!"
+    },
+    {
+        "startTime": 32132,
+        "endTime": 34249,
+        "text": "March, welcome spring."
+    },
+    {
+        "startTime": 35539,
+        "endTime": 36925,
+        "text": "April showers bring..."
+    },
+    {
+        "startTime": 37748,
+        "endTime": 38747,
+        "text": "...May flowers."
+    },
+    {
+        "startTime": 39753,
+        "endTime": 41654,
+        "text": "June, the sun shines."
+    },
+    {
+        "startTime": 42691,
+        "endTime": 44396,
+        "text": "July, let's go to the beach."
+    },
+    {
+        "startTime": 45414,
+        "endTime": 47060,
+        "text": "August, it's so hot."
+    },
+    {
+        "startTime": 48063,
+        "endTime": 49963,
+        "text": "September, back to school."
+    },
+    {
+        "startTime": 50860,
+        "endTime": 53751,
+        "text": "October, the leaves on the trees fall."
+    },
+    {
+        "startTime": 54594,
+        "endTime": 56773,
+        "text": "November starts with Halloween."
+    },
+    {
+        "startTime": 57642,
+        "endTime": 59612,
+        "text": "December, Christmas holidays."
+    }
+]

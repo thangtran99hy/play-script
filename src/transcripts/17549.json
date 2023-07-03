@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 2503,
+        "endTime": 4324,
+        "text": "Did you look for your shoe?"
+    },
+    {
+        "startTime": 5753,
+        "endTime": 7503,
+        "text": "I looked everywhere."
+    },
+    {
+        "startTime": 7977,
+        "endTime": 9998,
+        "text": "My shoe is not there."
+    },
+    {
+        "startTime": 11515,
+        "endTime": 13370,
+        "text": "Did you look under the bed?"
+    },
+    {
+        "startTime": 14765,
+        "endTime": 17077,
+        "text": "I looked everywhere."
+    },
+    {
+        "startTime": 17847,
+        "endTime": 19959,
+        "text": "My shoe is not there."
+    },
+    {
+        "startTime": 21806,
+        "endTime": 23858,
+        "text": "Did you look in your toy box?"
+    },
+    {
+        "startTime": 25066,
+        "endTime": 27038,
+        "text": "I looked everywhere."
+    },
+    {
+        "startTime": 27383,
+        "endTime": 29491,
+        "text": "My shoe is not there."
+    },
+    {
+        "startTime": 31070,
+        "endTime": 33165,
+        "text": "Did you look in your closet?"
+    },
+    {
+        "startTime": 34555,
+        "endTime": 35509,
+        "text": "Oh, no!"
+    },
+    {
+        "startTime": 36105,
+        "endTime": 38133,
+        "text": "I did not look everywhere."
+    },
+    {
+        "startTime": 38639,
+        "endTime": 40435,
+        "text": "I did not look there."
+    }
+]

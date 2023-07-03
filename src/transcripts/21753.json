@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 23159,
+        "endTime": 24474,
+        "text": "Hi there, my name is Earl."
+    },
+    {
+        "startTime": 27201,
+        "endTime": 29426,
+        "text": "My name is Cameron, but you can call me Cam."
+    },
+    {
+        "startTime": 31680,
+        "endTime": 35100,
+        "text": "Good morning, my name is Bond, James Bond."
+    },
+    {
+        "startTime": 40375,
+        "endTime": 42345,
+        "text": "Oh hello, you must be Luke."
+    },
+    {
+        "startTime": 45398,
+        "endTime": 49757,
+        "text": "Yes, you must be Alex. It's nice to finally meet you in person."
+    },
+    {
+        "startTime": 52425,
+        "endTime": 54650,
+        "text": "Excuse me, but you must be Mary?"
+    },
+    {
+        "startTime": 59177,
+        "endTime": 62938,
+        "text": "I'm Jack, VP of Sales. Very nice to meet you."
+    },
+    {
+        "startTime": 64644,
+        "endTime": 66657,
+        "text": "Mr. Coats, very nice to meet you."
+    },
+    {
+        "startTime": 72259,
+        "endTime": 73745,
+        "text": "A pleasure to meet you, Linda."
+    }
+]

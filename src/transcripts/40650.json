@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 3150,
+        "endTime": 5375,
+        "text": "Hi, my name is Carol."
+    },
+    {
+        "startTime": 6639,
+        "endTime": 7475,
+        "text": "Hi, Carol."
+    },
+    {
+        "startTime": 8162,
+        "endTime": 9402,
+        "text": "My name is Michael."
+    },
+    {
+        "startTime": 10043,
+        "endTime": 11237,
+        "text": "Where are you from?"
+    },
+    {
+        "startTime": 12524,
+        "endTime": 14242,
+        "text": "I am from York in England."
+    },
+    {
+        "startTime": 15049,
+        "endTime": 16558,
+        "text": "It's a nice place to live."
+    },
+    {
+        "startTime": 17373,
+        "endTime": 18511,
+        "text": "How about you?"
+    },
+    {
+        "startTime": 19247,
+        "endTime": 21113,
+        "text": "I'm from Dallas, Texas."
+    },
+    {
+        "startTime": 21737,
+        "endTime": 23841,
+        "text": "Everything there is very big."
+    }
+]

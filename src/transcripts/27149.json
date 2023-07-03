@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 543,
+        "endTime": 3345,
+        "text": "﻿Learn about different places in the airport."
+    },
+    {
+        "startTime": 8712,
+        "endTime": 11104,
+        "text": "We are in the departure lounge."
+    },
+    {
+        "startTime": 16682,
+        "endTime": 19448,
+        "text": "They held the old woman at security."
+    },
+    {
+        "startTime": 25221,
+        "endTime": 28407,
+        "text": "You need to show your ticket at the check-in counter."
+    },
+    {
+        "startTime": 33099,
+        "endTime": 36284,
+        "text": "Your passport is stamped at immigration."
+    },
+    {
+        "startTime": 40273,
+        "endTime": 43037,
+        "text": "Passengers are now boarding at gate 2."
+    },
+    {
+        "startTime": 47307,
+        "endTime": 50474,
+        "text": "Souvenirs are sold at duty-free shops."
+    },
+    {
+        "startTime": 55575,
+        "endTime": 57951,
+        "text": "I will meet you at the arrivals area."
+    }
+]

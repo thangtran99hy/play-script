@@ -1,0 +1,147 @@
+[
+    {
+        "startTime": 6337,
+        "endTime": 11103,
+        "text": "October 29th was the 40th anniversary of the very first message sent on the Internet."
+    },
+    {
+        "startTime": 11217,
+        "endTime": 13823,
+        "text": "Now of course, we send billions of these messages a day."
+    },
+    {
+        "startTime": 14279,
+        "endTime": 15970,
+        "text": "Hello, everybody. Welcome to 'Now You Know.'"
+    },
+    {
+        "startTime": 16086,
+        "endTime": 19751,
+        "text": "And do you know just what is the Internet? How does it work?"
+    },
+    {
+        "startTime": 20316,
+        "endTime": 22778,
+        "text": "Maybe we can thank the Soviet Union for the Internet."
+    },
+    {
+        "startTime": 23127,
+        "endTime": 28743,
+        "text": "In 1957, the USSR launched into space the first artificial satellite Sputnik I,..."
+    },
+    {
+        "startTime": 29242,
+        "endTime": 31294,
+        "text": "....that jolted the White House and the Pentagon."
+    },
+    {
+        "startTime": 31750,
+        "endTime": 34305,
+        "text": "If the Soviet Union could put a satellite into space,..."
+    },
+    {
+        "startTime": 34427,
+        "endTime": 38431,
+        "text": "...well, then they could put a nuclear ballistic missile into space,..."
+    },
+    {
+        "startTime": 38549,
+        "endTime": 41719,
+        "text": "...and they could basically attack us from space."
+    },
+    {
+        "startTime": 41867,
+        "endTime": 44717,
+        "text": "So in 1958, US President Dwight Eisenhower..."
+    },
+    {
+        "startTime": 44829,
+        "endTime": 49144,
+        "text": "...established the Pentagon's Advanced Research Projects Agency or ARPA..."
+    },
+    {
+        "startTime": 49665,
+        "endTime": 54708,
+        "text": "...to help solve the problem of a breakdown in command, control, and communication..."
+    },
+    {
+        "startTime": 54984,
+        "endTime": 61034,
+        "text": "...in the event that we were a victim of a Soviet nuclear ballistic attack."
+    },
+    {
+        "startTime": 61341,
+        "endTime": 64623,
+        "text": "And it was those people who came up with the basic ideas..."
+    },
+    {
+        "startTime": 64864,
+        "endTime": 67915,
+        "text": "...that eventually formed the framework and architecture for the Internet."
+    },
+    {
+        "startTime": 68077,
+        "endTime": 71101,
+        "text": "In 1969, ARPA gave birth to the ARPANET."
+    },
+    {
+        "startTime": 71244,
+        "endTime": 75120,
+        "text": "This was the very first fragment of the backbone of what is now our Internet."
+    },
+    {
+        "startTime": 75266,
+        "endTime": 77979,
+        "text": "It consisted of four nodes or computer systems."
+    },
+    {
+        "startTime": 78271,
+        "endTime": 80934,
+        "text": "Three nodes were in California, and one in Utah."
+    },
+    {
+        "startTime": 81282,
+        "endTime": 84170,
+        "text": "One node at the University of California, Los Angeles..."
+    },
+    {
+        "startTime": 84496,
+        "endTime": 88533,
+        "text": "...was staffed by a team of computer techies led by Leonard Kleinrock."
+    },
+    {
+        "startTime": 88785,
+        "endTime": 93359,
+        "text": "Kleinrock is absolutely one of the founding fathers and mothers of the Internet."
+    },
+    {
+        "startTime": 93566,
+        "endTime": 98965,
+        "text": "It was Kleinrock who conceived the way messages would transmit from one point to another on the Internet."
+    },
+    {
+        "startTime": 99277,
+        "endTime": 100769,
+        "text": "It's called packet switching,..."
+    },
+    {
+        "startTime": 101174,
+        "endTime": 104390,
+        "text": "...where a single message is broken up into smaller packets."
+    },
+    {
+        "startTime": 104595,
+        "endTime": 109158,
+        "text": "...independently making their way through the network, arriving at the other end...."
+    },
+    {
+        "startTime": 109446,
+        "endTime": 110829,
+        "text": "...being put back together again,..."
+    },
+    {
+        "startTime": 111047,
+        "endTime": 114269,
+        "text": "...and delivered to you as an entity, as a long message."
+    }
+]

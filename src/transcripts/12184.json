@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 1303,
+        "endTime": 3735,
+        "text": "I'm going to need to start looking for a place to live."
+    },
+    {
+        "startTime": 3977,
+        "endTime": 8123,
+        "text": "Good idea. You don't want to stay in that hotel the whole time you are here!"
+    },
+    {
+        "startTime": 8379,
+        "endTime": 10823,
+        "text": "Do you know a good way to find an apartment to rent?"
+    },
+    {
+        "startTime": 11121,
+        "endTime": 15329,
+        "text": "Well, I think the best thing to do is look at the rental ads in the newspapers."
+    },
+    {
+        "startTime": 15523,
+        "endTime": 17930,
+        "text": "Okay, I'll try that. Is there anything else?"
+    },
+    {
+        "startTime": 18208,
+        "endTime": 20951,
+        "text": "Sure, you could visit a real estate agency."
+    },
+    {
+        "startTime": 21211,
+        "endTime": 24887,
+        "text": "Hmm. Well, I think I will start by looking in the newspapers."
+    },
+    {
+        "startTime": 25132,
+        "endTime": 29873,
+        "text": "Let me look with you. Maybe I can give you a hand. I know this city pretty well."
+    },
+    {
+        "startTime": 30011,
+        "endTime": 31905,
+        "text": "Okay, what should I be looking for?"
+    },
+    {
+        "startTime": 32203,
+        "endTime": 36040,
+        "text": "Most of all, I think you should get a place that is in a nice neighborhood."
+    },
+    {
+        "startTime": 36461,
+        "endTime": 38713,
+        "text": "I also don't want to be too far from work."
+    },
+    {
+        "startTime": 38916,
+        "endTime": 39817,
+        "text": "Good point!"
+    }
+]

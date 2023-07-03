@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 3665,
+        "endTime": 4545,
+        "text": "﻿Wake up!"
+    },
+    {
+        "startTime": 5941,
+        "endTime": 6655,
+        "text": "Get up."
+    },
+    {
+        "startTime": 8955,
+        "endTime": 9697,
+        "text": "Get up."
+    },
+    {
+        "startTime": 12519,
+        "endTime": 14637,
+        "text": "I get up at 7:00."
+    },
+    {
+        "startTime": 20151,
+        "endTime": 21830,
+        "text": "Have breakfast."
+    },
+    {
+        "startTime": 23495,
+        "endTime": 25097,
+        "text": "Have breakfast."
+    },
+    {
+        "startTime": 27711,
+        "endTime": 29310,
+        "text": "I have breakfast."
+    },
+    {
+        "startTime": 35680,
+        "endTime": 37101,
+        "text": "Brush my teeth."
+    },
+    {
+        "startTime": 39061,
+        "endTime": 40457,
+        "text": "Brush my teeth."
+    },
+    {
+        "startTime": 41617,
+        "endTime": 43237,
+        "text": "I brush my teeth."
+    },
+    {
+        "startTime": 46567,
+        "endTime": 48077,
+        "text": "Wash my face."
+    },
+    {
+        "startTime": 50263,
+        "endTime": 51762,
+        "text": "Wash my face."
+    },
+    {
+        "startTime": 54003,
+        "endTime": 55663,
+        "text": "I wash my face."
+    },
+    {
+        "startTime": 62417,
+        "endTime": 63574,
+        "text": "Get dressed."
+    },
+    {
+        "startTime": 65905,
+        "endTime": 66959,
+        "text": "Get dressed."
+    },
+    {
+        "startTime": 69337,
+        "endTime": 70751,
+        "text": "I get dressed."
+    },
+    {
+        "startTime": 71527,
+        "endTime": 72465,
+        "text": "Hurry up!"
+    }
+]

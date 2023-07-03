@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 50,
+        "endTime": 3807,
+        "text": "Here are some phrases you can use when making a hotel reservation."
+    },
+    {
+        "startTime": 6011,
+        "endTime": 7532,
+        "text": "Do you have any rooms available?"
+    },
+    {
+        "startTime": 9401,
+        "endTime": 10915,
+        "text": "I'd like to make a reservation."
+    },
+    {
+        "startTime": 12820,
+        "endTime": 14376,
+        "text": "I'd like a single room, please."
+    },
+    {
+        "startTime": 16408,
+        "endTime": 17709,
+        "text": "Is breakfast included?"
+    },
+    {
+        "startTime": 19677,
+        "endTime": 21068,
+        "text": "Have you got anything...?"
+    },
+    {
+        "startTime": 23013,
+        "endTime": 24077,
+        "text": "Does the room have...?"
+    },
+    {
+        "startTime": 26024,
+        "endTime": 27213,
+        "text": "Is there a...?"
+    },
+    {
+        "startTime": 29054,
+        "endTime": 30425,
+        "text": "Okay, I'll take it."
+    },
+    {
+        "startTime": 32354,
+        "endTime": 33627,
+        "text": "Do you allow pets?"
+    },
+    {
+        "startTime": 35623,
+        "endTime": 37701,
+        "text": "What time is check-in and check-out?"
+    }
+]

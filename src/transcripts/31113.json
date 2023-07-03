@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 5215,
+        "endTime": 6378,
+        "text": "Can Helen paint?"
+    },
+    {
+        "startTime": 8035,
+        "endTime": 9343,
+        "text": "Yes, she can."
+    },
+    {
+        "startTime": 10807,
+        "endTime": 11886,
+        "text": "Can the boy swim?"
+    },
+    {
+        "startTime": 13484,
+        "endTime": 14715,
+        "text": "Yes, he can."
+    },
+    {
+        "startTime": 16275,
+        "endTime": 17121,
+        "text": "Can they sing?"
+    },
+    {
+        "startTime": 18787,
+        "endTime": 19969,
+        "text": "Yes, they can sing."
+    },
+    {
+        "startTime": 21504,
+        "endTime": 22581,
+        "text": "Can a snake paint?"
+    },
+    {
+        "startTime": 24178,
+        "endTime": 25965,
+        "text": "No, a snake can't paint."
+    },
+    {
+        "startTime": 27541,
+        "endTime": 28783,
+        "text": "Can a snowman swim?"
+    },
+    {
+        "startTime": 30365,
+        "endTime": 31657,
+        "text": "No, it cannot."
+    },
+    {
+        "startTime": 33115,
+        "endTime": 34281,
+        "text": "Can flowers sing?"
+    },
+    {
+        "startTime": 35866,
+        "endTime": 37483,
+        "text": "No, flowers can't sing."
+    }
+]

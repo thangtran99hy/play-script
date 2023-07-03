@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 350,
+        "endTime": 1445,
+        "text": "Hey, where's Eric?"
+    },
+    {
+        "startTime": 1585,
+        "endTime": 3300,
+        "text": "He's home, still sleeping."
+    },
+    {
+        "startTime": 3610,
+        "endTime": 5370,
+        "text": "He was up till two AM last night."
+    },
+    {
+        "startTime": 5900,
+        "endTime": 7100,
+        "text": "Oh really? How come?"
+    },
+    {
+        "startTime": 7680,
+        "endTime": 9830,
+        "text": "He wanted to catch up on all the episodes of \"Lost\"..."
+    },
+    {
+        "startTime": 9920,
+        "endTime": 11750,
+        "text": "...that he missed while he was on vacation."
+    },
+    {
+        "startTime": 12235,
+        "endTime": 13215,
+        "text": "He's funny!"
+    },
+    {
+        "startTime": 13385,
+        "endTime": 14780,
+        "text": "He's hooked on that show!"
+    },
+    {
+        "startTime": 15115,
+        "endTime": 17270,
+        "text": "Well, I just don't care for television."
+    },
+    {
+        "startTime": 17985,
+        "endTime": 19820,
+        "text": "Give me a good book any day!"
+    }
+]

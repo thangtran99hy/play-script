@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 1299,
+        "endTime": 5459,
+        "text": "These words help show where someone or something is."
+    },
+    {
+        "startTime": 9144,
+        "endTime": 10681,
+        "text": "﻿Where is the cat?"
+    },
+    {
+        "startTime": 16593,
+        "endTime": 18710,
+        "text": "The cat is in the box."
+    },
+    {
+        "startTime": 23672,
+        "endTime": 26657,
+        "text": "The cat is in front of the mouse."
+    },
+    {
+        "startTime": 32504,
+        "endTime": 34559,
+        "text": "The cat is on the table."
+    },
+    {
+        "startTime": 41693,
+        "endTime": 44429,
+        "text": "The cat is behind the rabbit."
+    },
+    {
+        "startTime": 53435,
+        "endTime": 55579,
+        "text": "The cats are beside the dog."
+    },
+    {
+        "startTime": 60469,
+        "endTime": 63206,
+        "text": "The cat is next to the tablet."
+    },
+    {
+        "startTime": 69636,
+        "endTime": 71691,
+        "text": "The cat is on the left."
+    },
+    {
+        "startTime": 77053,
+        "endTime": 79481,
+        "text": "The cat is on the right."
+    },
+    {
+        "startTime": 88314,
+        "endTime": 90741,
+        "text": "The cat is under the bed."
+    },
+    {
+        "startTime": 96723,
+        "endTime": 99150,
+        "text": "The cat is above the dog."
+    },
+    {
+        "startTime": 107129,
+        "endTime": 109741,
+        "text": "The game is between the cats."
+    }
+]

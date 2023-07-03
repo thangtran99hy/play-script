@@ -1,0 +1,112 @@
+[
+    {
+        "startTime": 560,
+        "endTime": 1186,
+        "text": "Good morning."
+    },
+    {
+        "startTime": 1708,
+        "endTime": 2468,
+        "text": "Can I help you?"
+    },
+    {
+        "startTime": 3339,
+        "endTime": 4164,
+        "text": "Yes, please."
+    },
+    {
+        "startTime": 4517,
+        "endTime": 6044,
+        "text": "I would like some cheese."
+    },
+    {
+        "startTime": 6789,
+        "endTime": 7897,
+        "text": "Cheese, certainly."
+    },
+    {
+        "startTime": 8166,
+        "endTime": 9711,
+        "text": "How much cheese would you like?"
+    },
+    {
+        "startTime": 10257,
+        "endTime": 12061,
+        "text": "I'd like half a kilogram."
+    },
+    {
+        "startTime": 12653,
+        "endTime": 13971,
+        "text": "Half a kilogram."
+    },
+    {
+        "startTime": 14456,
+        "endTime": 15041,
+        "text": "Okay."
+    },
+    {
+        "startTime": 20991,
+        "endTime": 21915,
+        "text": "Here you are."
+    },
+    {
+        "startTime": 22501,
+        "endTime": 24149,
+        "text": "Half a kilogram of cheese."
+    },
+    {
+        "startTime": 24702,
+        "endTime": 25286,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 27243,
+        "endTime": 28319,
+        "text": "Anything else?"
+    },
+    {
+        "startTime": 29448,
+        "endTime": 31223,
+        "text": "Yes, I'd like some oil."
+    },
+    {
+        "startTime": 32123,
+        "endTime": 33238,
+        "text": "Oil, certainly."
+    },
+    {
+        "startTime": 33531,
+        "endTime": 35045,
+        "text": "How much oil would you like?"
+    },
+    {
+        "startTime": 35951,
+        "endTime": 37944,
+        "text": "I'd like three liters."
+    },
+    {
+        "startTime": 38761,
+        "endTime": 40001,
+        "text": "Three liters."
+    },
+    {
+        "startTime": 40481,
+        "endTime": 41063,
+        "text": "Okay."
+    },
+    {
+        "startTime": 45331,
+        "endTime": 47091,
+        "text": "Three liters of oil."
+    },
+    {
+        "startTime": 47963,
+        "endTime": 48635,
+        "text": "Here you are."
+    },
+    {
+        "startTime": 50263,
+        "endTime": 51155,
+        "text": "Thanks."
+    }
+]

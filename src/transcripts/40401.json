@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 1077,
+        "endTime": 1812,
+        "text": "Do you like coffee?"
+    },
+    {
+        "startTime": 2380,
+        "endTime": 2955,
+        "text": "Coffee?"
+    },
+    {
+        "startTime": 3520,
+        "endTime": 4149,
+        "text": "Not really."
+    },
+    {
+        "startTime": 5971,
+        "endTime": 6538,
+        "text": "Oh, really?"
+    },
+    {
+        "startTime": 6643,
+        "endTime": 7127,
+        "text": "What do you like?"
+    },
+    {
+        "startTime": 7829,
+        "endTime": 8468,
+        "text": "I like tea."
+    },
+    {
+        "startTime": 9669,
+        "endTime": 11273,
+        "text": "Do you like tea with milk and sugar?"
+    },
+    {
+        "startTime": 11861,
+        "endTime": 13318,
+        "text": "No, I don't like sweet drinks."
+    },
+    {
+        "startTime": 13708,
+        "endTime": 16020,
+        "text": "I like tea with no milk and no sugar."
+    },
+    {
+        "startTime": 16413,
+        "endTime": 17347,
+        "text": "That's easy."
+    },
+    {
+        "startTime": 18589,
+        "endTime": 19685,
+        "text": "What do you like in the morning?"
+    },
+    {
+        "startTime": 20579,
+        "endTime": 21488,
+        "text": "I like coffee."
+    },
+    {
+        "startTime": 22030,
+        "endTime": 22570,
+        "text": "Black?"
+    },
+    {
+        "startTime": 23197,
+        "endTime": 23392,
+        "text": "No."
+    },
+    {
+        "startTime": 23493,
+        "endTime": 24411,
+        "text": "I like sweet drinks."
+    },
+    {
+        "startTime": 24689,
+        "endTime": 26697,
+        "text": "I like coffee with milk and sugar."
+    }
+]

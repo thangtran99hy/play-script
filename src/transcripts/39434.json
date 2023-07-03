@@ -1,0 +1,137 @@
+[
+    {
+        "startTime": 505,
+        "endTime": 3445,
+        "text": "Cold, distant and mysterious."
+    },
+    {
+        "startTime": 3739,
+        "endTime": 9881,
+        "text": "For decades after its discovery in 1930, little was known about the geology of Pluto."
+    },
+    {
+        "startTime": 10305,
+        "endTime": 15754,
+        "text": "NASA's New Horizons probe was the first spacecraft to explore Pluto up close..."
+    },
+    {
+        "startTime": 16097,
+        "endTime": 18617,
+        "text": "...and it sent back some fascinating images."
+    },
+    {
+        "startTime": 19087,
+        "endTime": 24238,
+        "text": "The patterns can be seen across the smooth surface of a basin filled with nitrogen ice."
+    },
+    {
+        "startTime": 24936,
+        "endTime": 30220,
+        "text": "Now, a team of researchers has a new explanation for Pluto's mysterious polygons."
+    },
+    {
+        "startTime": 36564,
+        "endTime": 39933,
+        "text": "Looking at New Horizons' high-resolution images of Pluto,..."
+    },
+    {
+        "startTime": 40182,
+        "endTime": 45365,
+        "text": "...several researchers were intrigued by markings in the region known as Sputnik Planitia,..."
+    },
+    {
+        "startTime": 45779,
+        "endTime": 50312,
+        "text": "...where dark lines formed geometric shapes several tens of kilometers wide."
+    },
+    {
+        "startTime": 50619,
+        "endTime": 53410,
+        "text": "Even though Sputnik Planitia is made of solid ice,..."
+    },
+    {
+        "startTime": 53642,
+        "endTime": 57400,
+        "text": "...slow-moving currents are still the most likely explanation."
+    },
+    {
+        "startTime": 57705,
+        "endTime": 60158,
+        "text": "The convection currents that make these kinds of patterns..."
+    },
+    {
+        "startTime": 60326,
+        "endTime": 62939,
+        "text": "...are usually driven by heating from below,..."
+    },
+    {
+        "startTime": 63478,
+        "endTime": 66604,
+        "text": "...but there was something about the patterns on Pluto's surface..."
+    },
+    {
+        "startTime": 66912,
+        "endTime": 69968,
+        "text": "...that didn't quite fit with the idea of convection currents..."
+    },
+    {
+        "startTime": 70095,
+        "endTime": 72429,
+        "text": "...being driven by Pluto's internal heat."
+    },
+    {
+        "startTime": 73137,
+        "endTime": 76582,
+        "text": "The visible lines delineating the polygons are troughs,..."
+    },
+    {
+        "startTime": 76837,
+        "endTime": 80751,
+        "text": "...showing that the convection currents must be rising up in the center of each shape..."
+    },
+    {
+        "startTime": 81000,
+        "endTime": 82557,
+        "text": "...and sinking at the edges,..."
+    },
+    {
+        "startTime": 82908,
+        "endTime": 85799,
+        "text": "...the opposite to what you'd get if you were heating from underneath."
+    },
+    {
+        "startTime": 86233,
+        "endTime": 90713,
+        "text": "To explain this cooling, Stephane and his team turned to sublimation."
+    },
+    {
+        "startTime": 91259,
+        "endTime": 93538,
+        "text": "This is the process, similar to evaporation,..."
+    },
+    {
+        "startTime": 93871,
+        "endTime": 99031,
+        "text": "...by which the nitrogen ice of Sputnik Planitia turns from a solid straight into a gas."
+    },
+    {
+        "startTime": 99309,
+        "endTime": 103686,
+        "text": "To test this theory, the team developed a computer simulation of the surface."
+    },
+    {
+        "startTime": 104502,
+        "endTime": 110239,
+        "text": "Their model shows, for the first time, that sublimation can drive planetary-scale patterns."
+    },
+    {
+        "startTime": 110873,
+        "endTime": 112905,
+        "text": "The team are confident in their findings,..."
+    },
+    {
+        "startTime": 113210,
+        "endTime": 117680,
+        "text": "...but it might be a while before all their hypotheses can be fully tested."
+    }
+]

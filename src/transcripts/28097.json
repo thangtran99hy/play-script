@@ -1,0 +1,177 @@
+[
+    {
+        "startTime": 3795,
+        "endTime": 4685,
+        "text": "﻿Good morning, Jarvis."
+    },
+    {
+        "startTime": 5149,
+        "endTime": 5964,
+        "text": "Good morning, Mark."
+    },
+    {
+        "startTime": 6669,
+        "endTime": 9377,
+        "text": "It's Saturday, so you only have five meetings."
+    },
+    {
+        "startTime": 9809,
+        "endTime": 13385,
+        "text": "Room temperature is set to a cool 68 degrees."
+    },
+    {
+        "startTime": 13760,
+        "endTime": 16697,
+        "text": "Earlier this year, I started building a simple AI to help run our home."
+    },
+    {
+        "startTime": 17216,
+        "endTime": 19161,
+        "text": "I talk to Jarvis using this app I built."
+    },
+    {
+        "startTime": 19426,
+        "endTime": 22689,
+        "text": "It uses artificial intelligence to understand me and figure out what to do."
+    },
+    {
+        "startTime": 23540,
+        "endTime": 24947,
+        "text": "Max woke up a few minutes ago."
+    },
+    {
+        "startTime": 25419,
+        "endTime": 26364,
+        "text": "I'm entertaining her."
+    },
+    {
+        "startTime": 26659,
+        "endTime": 27828,
+        "text": "Alright, let's go check on her."
+    },
+    {
+        "startTime": 28122,
+        "endTime": 29113,
+        "text": "Good morning, Max."
+    },
+    {
+        "startTime": 29335,
+        "endTime": 30856,
+        "text": "Let's practice our Mandarin."
+    },
+    {
+        "startTime": 33829,
+        "endTime": 35912,
+        "text": "Jarvis, your Mandarin is so soothing."
+    },
+    {
+        "startTime": 38079,
+        "endTime": 39911,
+        "text": "Jarvis also helps me get ready in the morning."
+    },
+    {
+        "startTime": 40131,
+        "endTime": 40583,
+        "text": "Fresh shirt!"
+    },
+    {
+        "startTime": 40899,
+        "endTime": 41514,
+        "text": "Fire in the hole!"
+    },
+    {
+        "startTime": 44641,
+        "endTime": 45191,
+        "text": "Hell yeah!"
+    },
+    {
+        "startTime": 46067,
+        "endTime": 47526,
+        "text": "Jarvis knows when to make me breakfast."
+    },
+    {
+        "startTime": 47604,
+        "endTime": 48900,
+        "text": "Your toast is ready."
+    },
+    {
+        "startTime": 50055,
+        "endTime": 50625,
+        "text": "Alright!"
+    },
+    {
+        "startTime": 51131,
+        "endTime": 52240,
+        "text": "It's time for my call with Schroep."
+    },
+    {
+        "startTime": 52493,
+        "endTime": 53801,
+        "text": "Can you get him on the video conference line?"
+    },
+    {
+        "startTime": 53901,
+        "endTime": 55246,
+        "text": "Setting up the VC room now."
+    },
+    {
+        "startTime": 55493,
+        "endTime": 58874,
+        "text": "Remember to check on the AI guidance system for Aquila."
+    },
+    {
+        "startTime": 59125,
+        "endTime": 62297,
+        "text": "One of the best things about Jarvis is it could recognize people at the gate,..."
+    },
+    {
+        "startTime": 62605,
+        "endTime": 64651,
+        "text": "...let them in automatically and then just tell me about it."
+    },
+    {
+        "startTime": 65683,
+        "endTime": 67245,
+        "text": "Mark, your parents are coming in."
+    },
+    {
+        "startTime": 68055,
+        "endTime": 68981,
+        "text": "Thanks, Jeffrey."
+    },
+    {
+        "startTime": 69263,
+        "endTime": 70151,
+        "text": "It's Jarvis."
+    },
+    {
+        "startTime": 70761,
+        "endTime": 72621,
+        "text": "And Jarvis can play all of our favorite music."
+    },
+    {
+        "startTime": 73174,
+        "endTime": 75112,
+        "text": "Hey, play us some good Nickelback songs."
+    },
+    {
+        "startTime": 75305,
+        "endTime": 76145,
+        "text": "I'm sorry, Mark."
+    },
+    {
+        "startTime": 76407,
+        "endTime": 77725,
+        "text": "I'm afraid I can't do that."
+    },
+    {
+        "startTime": 79321,
+        "endTime": 81228,
+        "text": "There are no good Nickelback songs."
+    },
+    {
+        "startTime": 82060,
+        "endTime": 85685,
+        "text": "And if I don't want to talk, I can just text Jarvis through a messenger bot that I built."
+    }
+]

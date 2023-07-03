@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 2450,
+        "endTime": 6000,
+        "text": "Every Friday after work, a group from the office goes out for Happy Hour."
+    },
+    {
+        "startTime": 6450,
+        "endTime": 8600,
+        "text": "I was wondering if you'd like to join us this evening."
+    },
+    {
+        "startTime": 8950,
+        "endTime": 10050,
+        "text": "I'd be delighted."
+    },
+    {
+        "startTime": 10250,
+        "endTime": 10900,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 11450,
+        "endTime": 16050,
+        "text": "Happy Hour starts at 5, we'll leave the office a little early. Say 4:50?"
+    },
+    {
+        "startTime": 16450,
+        "endTime": 17800,
+        "text": "That sounds fine with me."
+    },
+    {
+        "startTime": 18200,
+        "endTime": 19800,
+        "text": "Where exactly do you go?"
+    },
+    {
+        "startTime": 20250,
+        "endTime": 24000,
+        "text": "There is a bar and grill across the street that an old friend recommended to me."
+    },
+    {
+        "startTime": 24500,
+        "endTime": 28300,
+        "text": "The food there is great and the atmosphere is very relaxed and informal."
+    },
+    {
+        "startTime": 28850,
+        "endTime": 31000,
+        "text": "Great! I'm looking forward to it."
+    }
+]

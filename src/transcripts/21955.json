@@ -1,0 +1,137 @@
+[
+    {
+        "startTime": 50,
+        "endTime": 2703,
+        "text": "Some of the latest advancements in robotics are pretty impressive."
+    },
+    {
+        "startTime": 3228,
+        "endTime": 7217,
+        "text": "Just look at Atlas, a humanoid robot built for the US defense department."
+    },
+    {
+        "startTime": 7607,
+        "endTime": 10926,
+        "text": "Atlas is remarkable because it's built to look and act like a person."
+    },
+    {
+        "startTime": 11147,
+        "endTime": 13799,
+        "text": "But sometimes, engineers get a little carried away."
+    },
+    {
+        "startTime": 14186,
+        "endTime": 17041,
+        "text": "They end up with a creation that drifts into a no-man's-land..."
+    },
+    {
+        "startTime": 17203,
+        "endTime": 20737,
+        "text": "...between something that's lifelike and something that's actually alive."
+    },
+    {
+        "startTime": 21062,
+        "endTime": 24198,
+        "text": "This void is commonly referred to as the \"uncanny valley.\""
+    },
+    {
+        "startTime": 24525,
+        "endTime": 27829,
+        "text": "Journeying into the valley often elicits an emotional response..."
+    },
+    {
+        "startTime": 27917,
+        "endTime": 30597,
+        "text": "...that's somewhere between uncomfortable and creeped out."
+    },
+    {
+        "startTime": 31055,
+        "endTime": 35671,
+        "text": "Japanese robotics professor Masahiro Mori coined the phrase way back in 1970."
+    },
+    {
+        "startTime": 35853,
+        "endTime": 40354,
+        "text": "He noted that a positive reaction toward a humanlike robot can quickly turn to disgust."
+    },
+    {
+        "startTime": 40747,
+        "endTime": 41996,
+        "text": "Mori thought this response..."
+    },
+    {
+        "startTime": 42065,
+        "endTime": 44973,
+        "text": "...was triggered by subtle imperfections in the robot's appearance."
+    },
+    {
+        "startTime": 45321,
+        "endTime": 48061,
+        "text": "Another hypothesis has to do with our expectations..."
+    },
+    {
+        "startTime": 48145,
+        "endTime": 51056,
+        "text": "...of how people and robots are supposed to look and act."
+    },
+    {
+        "startTime": 51288,
+        "endTime": 53855,
+        "text": "Atlas, for example, clearly looks like a robot."
+    },
+    {
+        "startTime": 54128,
+        "endTime": 56525,
+        "text": "You'd have no problem leaving him in your garage overnight."
+    },
+    {
+        "startTime": 57008,
+        "endTime": 60769,
+        "text": "Animation also provides us with some examples of the uncanny valley effect."
+    },
+    {
+        "startTime": 61188,
+        "endTime": 64817,
+        "text": "Movies like The Polar Express and Beowulf were widely panned..."
+    },
+    {
+        "startTime": 64917,
+        "endTime": 67569,
+        "text": "...because their characters ventured in the uncanny territory."
+    },
+    {
+        "startTime": 67908,
+        "endTime": 70562,
+        "text": "It's especially difficult for roboticists and animators..."
+    },
+    {
+        "startTime": 70641,
+        "endTime": 73151,
+        "text": "...to render lifelike hair, eyes and skin tone."
+    },
+    {
+        "startTime": 73381,
+        "endTime": 75436,
+        "text": "It's even harder when you introduce motion."
+    },
+    {
+        "startTime": 76045,
+        "endTime": 80091,
+        "text": "New technologies promise to bridge the gap between the lifelike and the living,..."
+    },
+    {
+        "startTime": 80558,
+        "endTime": 82031,
+        "text": "...but they're trying to hit a moving target."
+    },
+    {
+        "startTime": 82798,
+        "endTime": 86398,
+        "text": "The uncanny valley begins and ends in different places for different people."
+    },
+    {
+        "startTime": 86985,
+        "endTime": 89703,
+        "text": "And besides, we like to think that humans can't be replicated."
+    }
+]

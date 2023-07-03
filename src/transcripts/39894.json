@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 423,
+        "endTime": 761,
+        "text": "Hello."
+    },
+    {
+        "startTime": 865,
+        "endTime": 1589,
+        "text": "May I help you?"
+    },
+    {
+        "startTime": 3688,
+        "endTime": 4232,
+        "text": "Yes."
+    },
+    {
+        "startTime": 4419,
+        "endTime": 6589,
+        "text": "Can you please give me ten black pens?"
+    },
+    {
+        "startTime": 8151,
+        "endTime": 8825,
+        "text": "All right."
+    },
+    {
+        "startTime": 9069,
+        "endTime": 9803,
+        "text": "Anything else?"
+    },
+    {
+        "startTime": 11245,
+        "endTime": 14705,
+        "text": "Give me two pink and one green notebooks, too, please."
+    },
+    {
+        "startTime": 16011,
+        "endTime": 17817,
+        "text": "Okay. Please wait here."
+    },
+    {
+        "startTime": 21266,
+        "endTime": 21927,
+        "text": "Good afternoon!"
+    },
+    {
+        "startTime": 22056,
+        "endTime": 22863,
+        "text": "May I help you?"
+    },
+    {
+        "startTime": 25372,
+        "endTime": 25987,
+        "text": "Yes."
+    },
+    {
+        "startTime": 26517,
+        "endTime": 28120,
+        "text": "Please give me one black shirt."
+    },
+    {
+        "startTime": 29246,
+        "endTime": 29681,
+        "text": "Okay."
+    },
+    {
+        "startTime": 29807,
+        "endTime": 31423,
+        "text": "Do you want to buy anything else?"
+    },
+    {
+        "startTime": 33040,
+        "endTime": 33473,
+        "text": "Yes."
+    },
+    {
+        "startTime": 33595,
+        "endTime": 36423,
+        "text": "I want to buy this pair of shorts, too, please."
+    },
+    {
+        "startTime": 38268,
+        "endTime": 38736,
+        "text": "All right."
+    }
+]

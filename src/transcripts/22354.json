@@ -1,0 +1,92 @@
+[
+    {
+        "startTime": 40,
+        "endTime": 4450,
+        "text": "Tight loops, soft ringlets or ribbony spirals,..."
+    },
+    {
+        "startTime": 4973,
+        "endTime": 7772,
+        "text": "...curly hair has a dynamic all its own."
+    },
+    {
+        "startTime": 8627,
+        "endTime": 12671,
+        "text": "And now, science has quantified its unique characteristics..."
+    },
+    {
+        "startTime": 12875,
+        "endTime": 17094,
+        "text": "...with applications that far outstrip a curly coif."
+    },
+    {
+        "startTime": 17781,
+        "endTime": 22551,
+        "text": "Researchers at MIT and the University Pierre and Marie Curie..."
+    },
+    {
+        "startTime": 22890,
+        "endTime": 27847,
+        "text": "...have created the world's first model of the 3-D shape of curly hair,..."
+    },
+    {
+        "startTime": 28131,
+        "endTime": 33241,
+        "text": "...utilizing lab experimentation, existing theory and computer simulation..."
+    },
+    {
+        "startTime": 33452,
+        "endTime": 36455,
+        "text": "...to identify the main parameters for curls."
+    },
+    {
+        "startTime": 37054,
+        "endTime": 40894,
+        "text": "These were then simplified into two dimensionless parameters:..."
+    },
+    {
+        "startTime": 41161,
+        "endTime": 43122,
+        "text": "...one for curvature, the other for weight."
+    },
+    {
+        "startTime": 43829,
+        "endTime": 46203,
+        "text": "When factored in with length and thickness,..."
+    },
+    {
+        "startTime": 46517,
+        "endTime": 51649,
+        "text": "...these can predict the shape of any curled strands suspended under its own weight."
+    },
+    {
+        "startTime": 52326,
+        "endTime": 54232,
+        "text": "How does a curl, curl?"
+    },
+    {
+        "startTime": 54956,
+        "endTime": 61061,
+        "text": "From the bottom it seems, where the hooklike curve becomes unstable under its own weight..."
+    },
+    {
+        "startTime": 61223,
+        "endTime": 64651,
+        "text": "...and falls out of a two-dimensional plane into a helix."
+    },
+    {
+        "startTime": 65199,
+        "endTime": 69261,
+        "text": "And because these dimensionless parameters are infinitely scalable,..."
+    },
+    {
+        "startTime": 69704,
+        "endTime": 74515,
+        "text": "...they can be used to predict the curliness of anything even remotely flexible,..."
+    },
+    {
+        "startTime": 75068,
+        "endTime": 78959,
+        "text": "...from a spool of wire to miles of oil pipeline."
+    }
+]

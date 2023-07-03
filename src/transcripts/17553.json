@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 3905,
+        "endTime": 5527,
+        "text": "Hi, Sarah. How are you?"
+    },
+    {
+        "startTime": 7015,
+        "endTime": 8299,
+        "text": "I'm so happy."
+    },
+    {
+        "startTime": 9006,
+        "endTime": 11616,
+        "text": "My mom bought me a notebook yesterday."
+    },
+    {
+        "startTime": 12404,
+        "endTime": 14592,
+        "text": "Wow. Show me the new notebook."
+    },
+    {
+        "startTime": 16731,
+        "endTime": 19005,
+        "text": "Oh, I left it at home."
+    },
+    {
+        "startTime": 19641,
+        "endTime": 23175,
+        "text": "I'll bring it to school and show it to you tomorrow."
+    },
+    {
+        "startTime": 24449,
+        "endTime": 26387,
+        "text": "OK. Don't forget to bring it."
+    },
+    {
+        "startTime": 27587,
+        "endTime": 28736,
+        "text": "Never ever!"
+    },
+    {
+        "startTime": 29321,
+        "endTime": 31975,
+        "text": "Anyway, how was your weekend, Daniel?"
+    },
+    {
+        "startTime": 32949,
+        "endTime": 34544,
+        "text": "Umm, not so good."
+    },
+    {
+        "startTime": 35011,
+        "endTime": 37102,
+        "text": "Dad took us to a Chinese restaurant."
+    },
+    {
+        "startTime": 37409,
+        "endTime": 39260,
+        "text": "The noodles we had were terrible."
+    }
+]

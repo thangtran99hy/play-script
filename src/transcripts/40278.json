@@ -1,0 +1,132 @@
+[
+    {
+        "startTime": 168,
+        "endTime": 799,
+        "text": "Good morning."
+    },
+    {
+        "startTime": 1205,
+        "endTime": 1878,
+        "text": "Could you help me?"
+    },
+    {
+        "startTime": 2510,
+        "endTime": 2750,
+        "text": "Sure."
+    },
+    {
+        "startTime": 2849,
+        "endTime": 3471,
+        "text": "What do you need?"
+    },
+    {
+        "startTime": 3723,
+        "endTime": 5987,
+        "text": "I need to get some items from the stock room."
+    },
+    {
+        "startTime": 6329,
+        "endTime": 7354,
+        "text": "Could you get them for me?"
+    },
+    {
+        "startTime": 7837,
+        "endTime": 8310,
+        "text": "Okay."
+    },
+    {
+        "startTime": 8621,
+        "endTime": 10141,
+        "text": "What items do you need from there?"
+    },
+    {
+        "startTime": 10451,
+        "endTime": 12219,
+        "text": "I need some colored markers."
+    },
+    {
+        "startTime": 12589,
+        "endTime": 13675,
+        "text": "Let me list that down."
+    },
+    {
+        "startTime": 14285,
+        "endTime": 15110,
+        "text": "Colored markers."
+    },
+    {
+        "startTime": 15235,
+        "endTime": 16007,
+        "text": "How many do you need?"
+    },
+    {
+        "startTime": 16278,
+        "endTime": 17783,
+        "text": "I need six pieces."
+    },
+    {
+        "startTime": 18118,
+        "endTime": 18853,
+        "text": "What else?"
+    },
+    {
+        "startTime": 19161,
+        "endTime": 20783,
+        "text": "I also need bond papers."
+    },
+    {
+        "startTime": 21343,
+        "endTime": 22235,
+        "text": "Do you need a lot of that?"
+    },
+    {
+        "startTime": 22619,
+        "endTime": 23124,
+        "text": "Yes."
+    },
+    {
+        "startTime": 23476,
+        "endTime": 24829,
+        "text": "Please get three packs."
+    },
+    {
+        "startTime": 25319,
+        "endTime": 27223,
+        "text": "Three packs of bond papers."
+    },
+    {
+        "startTime": 27421,
+        "endTime": 28170,
+        "text": "Anything else?"
+    },
+    {
+        "startTime": 29177,
+        "endTime": 29746,
+        "text": "No more."
+    },
+    {
+        "startTime": 29974,
+        "endTime": 30675,
+        "text": "Thanks for the help."
+    },
+    {
+        "startTime": 31354,
+        "endTime": 32679,
+        "text": "I'll get you something to drink."
+    },
+    {
+        "startTime": 32867,
+        "endTime": 33719,
+        "text": "What would you like?"
+    },
+    {
+        "startTime": 34041,
+        "endTime": 35227,
+        "text": "I'd like a cup of coffee."
+    },
+    {
+        "startTime": 35494,
+        "endTime": 36039,
+        "text": "Thanks."
+    }
+]

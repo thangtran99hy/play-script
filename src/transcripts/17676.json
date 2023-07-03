@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 2691,
+        "endTime": 4373,
+        "text": "When is your birthday, Jeff?"
+    },
+    {
+        "startTime": 5458,
+        "endTime": 7459,
+        "text": "My birthday is in September."
+    },
+    {
+        "startTime": 7903,
+        "endTime": 9840,
+        "text": "I was born on September 10th."
+    },
+    {
+        "startTime": 12935,
+        "endTime": 14471,
+        "text": "Where were you born, Sandy?"
+    },
+    {
+        "startTime": 15523,
+        "endTime": 18612,
+        "text": "I was born at a small hospital near my house."
+    },
+    {
+        "startTime": 19667,
+        "endTime": 21953,
+        "text": "I know your grandma lives in Japan."
+    },
+    {
+        "startTime": 22405,
+        "endTime": 24138,
+        "text": "Were you born in Japan then?"
+    },
+    {
+        "startTime": 25160,
+        "endTime": 27343,
+        "text": "Yes, I was born in Japan."
+    },
+    {
+        "startTime": 30431,
+        "endTime": 32622,
+        "text": "Were you born at a hospital, Andy?"
+    },
+    {
+        "startTime": 33868,
+        "endTime": 36201,
+        "text": "No, I was born at my grandma's house."
+    }
+]

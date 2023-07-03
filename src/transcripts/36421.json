@@ -1,0 +1,102 @@
+[
+    {
+        "startTime": 217,
+        "endTime": 789,
+        "text": "Hi."
+    },
+    {
+        "startTime": 1073,
+        "endTime": 1349,
+        "text": "Hi there!"
+    },
+    {
+        "startTime": 1445,
+        "endTime": 2047,
+        "text": "How can I help you?"
+    },
+    {
+        "startTime": 2475,
+        "endTime": 5435,
+        "text": "This basic response simply confirms an agent is available..."
+    },
+    {
+        "startTime": 5653,
+        "endTime": 8552,
+        "text": "...and lets the customer know it's okay to ask their question."
+    },
+    {
+        "startTime": 8823,
+        "endTime": 11709,
+        "text": "At times, a canned response will not be appropriate..."
+    },
+    {
+        "startTime": 11919,
+        "endTime": 15039,
+        "text": "...especially when online chat users skip the formalities..."
+    },
+    {
+        "startTime": 15144,
+        "endTime": 16367,
+        "text": "...and get straight to the point."
+    },
+    {
+        "startTime": 16938,
+        "endTime": 18591,
+        "text": "I need to find out your pricing."
+    },
+    {
+        "startTime": 18999,
+        "endTime": 19404,
+        "text": "Hey there."
+    },
+    {
+        "startTime": 19482,
+        "endTime": 20559,
+        "text": "Great to hear from you today."
+    },
+    {
+        "startTime": 20793,
+        "endTime": 22606,
+        "text": "This canned response isn't appropriate."
+    },
+    {
+        "startTime": 22889,
+        "endTime": 24482,
+        "text": "It's clearly an automated response..."
+    },
+    {
+        "startTime": 24583,
+        "endTime": 27115,
+        "text": "...that doesn't address the customer's specific question,..."
+    },
+    {
+        "startTime": 27381,
+        "endTime": 28905,
+        "text": "...but instead waste their time."
+    },
+    {
+        "startTime": 29498,
+        "endTime": 31200,
+        "text": "A better response in this situation..."
+    },
+    {
+        "startTime": 31458,
+        "endTime": 33522,
+        "text": "...would be to skip the canned greeting altogether..."
+    },
+    {
+        "startTime": 33691,
+        "endTime": 35145,
+        "text": "...and respond with something like:"
+    },
+    {
+        "startTime": 35763,
+        "endTime": 38255,
+        "text": "Hi, yes I can certainly assist with pricing."
+    },
+    {
+        "startTime": 38711,
+        "endTime": 40369,
+        "text": "Which product are you looking at?"
+    }
+]

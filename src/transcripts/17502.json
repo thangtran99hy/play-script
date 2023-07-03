@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 1427,
+        "endTime": 2193,
+        "text": "Hi, Bob."
+    },
+    {
+        "startTime": 3358,
+        "endTime": 5521,
+        "text": "Hi, Cindy. How are you today?"
+    },
+    {
+        "startTime": 6918,
+        "endTime": 8477,
+        "text": "I'm so angry."
+    },
+    {
+        "startTime": 10082,
+        "endTime": 11864,
+        "text": "What made you so angry?"
+    },
+    {
+        "startTime": 13333,
+        "endTime": 15900,
+        "text": "My brother broke my crayons."
+    },
+    {
+        "startTime": 16390,
+        "endTime": 19891,
+        "text": "He always uses my crayons without asking."
+    },
+    {
+        "startTime": 20325,
+        "endTime": 22065,
+        "text": "It makes me angry."
+    },
+    {
+        "startTime": 24161,
+        "endTime": 27927,
+        "text": "Calm down. He is just a three-year-old baby."
+    },
+    {
+        "startTime": 33657,
+        "endTime": 36780,
+        "text": "What, what, what, what do you need?"
+    },
+    {
+        "startTime": 37395,
+        "endTime": 40599,
+        "text": "Water, water, water, I need water to drink."
+    },
+    {
+        "startTime": 41148,
+        "endTime": 44499,
+        "text": "What, what, what, what do you want?"
+    },
+    {
+        "startTime": 44855,
+        "endTime": 48105,
+        "text": "Pasta, pasta, pasta, I want pasta to eat."
+    },
+    {
+        "startTime": 48643,
+        "endTime": 51784,
+        "text": "What, what, what, what do you need?"
+    },
+    {
+        "startTime": 52387,
+        "endTime": 55628,
+        "text": "Air, Air, Air, I need air to breathe."
+    },
+    {
+        "startTime": 56143,
+        "endTime": 59373,
+        "text": "What, what, what, what do you want?"
+    },
+    {
+        "startTime": 59899,
+        "endTime": 63567,
+        "text": "Bike, bike, bike, I want a bike to get to school."
+    }
+]

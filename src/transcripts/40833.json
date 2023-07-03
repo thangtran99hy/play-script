@@ -1,0 +1,142 @@
+[
+    {
+        "startTime": 405,
+        "endTime": 3752,
+        "text": "In life, being focused helps us ignore distractions,..."
+    },
+    {
+        "startTime": 4097,
+        "endTime": 7447,
+        "text": "...but this focus can cause us to overlook unexpected opportunities."
+    },
+    {
+        "startTime": 7827,
+        "endTime": 11867,
+        "text": "Similarly, when we focus our attention on finding a particular object,..."
+    },
+    {
+        "startTime": 12211,
+        "endTime": 14817,
+        "text": "...we often fail to notice other unexpected objects,..."
+    },
+    {
+        "startTime": 15082,
+        "endTime": 18071,
+        "text": "...a phenomenon referred to as inattentional blindness."
+    },
+    {
+        "startTime": 18467,
+        "endTime": 21075,
+        "text": "Dr. Trafton Drew and research colleagues..."
+    },
+    {
+        "startTime": 21140,
+        "endTime": 23539,
+        "text": "...from the Visual Attention Lab at Harvard Medical School..."
+    },
+    {
+        "startTime": 23808,
+        "endTime": 26290,
+        "text": "...decided to examine if inattentional blindness..."
+    },
+    {
+        "startTime": 26417,
+        "endTime": 30425,
+        "text": "...also exists in the eyes of trained experts such as radiologists."
+    },
+    {
+        "startTime": 30659,
+        "endTime": 33574,
+        "text": "In a recent study published in Psychological Science,..."
+    },
+    {
+        "startTime": 33719,
+        "endTime": 36133,
+        "text": "...Dr. Drew asked 24 radiologists..."
+    },
+    {
+        "startTime": 36323,
+        "endTime": 41275,
+        "text": "...to search for signs of lung cancer in 239 frames of a chest CT scan."
+    },
+    {
+        "startTime": 41617,
+        "endTime": 45064,
+        "text": "In this stack of images, he inserted five consecutive frames..."
+    },
+    {
+        "startTime": 45154,
+        "endTime": 46595,
+        "text": "...containing an image of a gorilla."
+    },
+    {
+        "startTime": 46976,
+        "endTime": 51030,
+        "text": "Despite superior ability of radiologists to detect lung cancer nodules,..."
+    },
+    {
+        "startTime": 51361,
+        "endTime": 55446,
+        "text": "...20 of the 24 radiologists did not report noticing the gorilla."
+    },
+    {
+        "startTime": 56206,
+        "endTime": 59759,
+        "text": "Interestingly, eye tracking revealed that most of the radiologists..."
+    },
+    {
+        "startTime": 59873,
+        "endTime": 63114,
+        "text": "...who missed noticing the gorilla had looked directly at it."
+    },
+    {
+        "startTime": 63398,
+        "endTime": 66663,
+        "text": "Looking right at something might not be enough to notice that it's there..."
+    },
+    {
+        "startTime": 66913,
+        "endTime": 68335,
+        "text": "...if you're looking for something else."
+    },
+    {
+        "startTime": 68533,
+        "endTime": 72922,
+        "text": "This study suggests that even experts who routinely detect cancer nodules,..."
+    },
+    {
+        "startTime": 73119,
+        "endTime": 76267,
+        "text": "...which are about 48 times smaller than the image of the gorilla,..."
+    },
+    {
+        "startTime": 76432,
+        "endTime": 79076,
+        "text": "...are also susceptible to limitations of attention."
+    },
+    {
+        "startTime": 79297,
+        "endTime": 81076,
+        "text": "By understanding these limitations,..."
+    },
+    {
+        "startTime": 81360,
+        "endTime": 84860,
+        "text": "...future research may help reduce errors committed by experts..."
+    },
+    {
+        "startTime": 85081,
+        "endTime": 87664,
+        "text": "...in diagnostic radiology, baggage screening,..."
+    },
+    {
+        "startTime": 87781,
+        "endTime": 90711,
+        "text": "...and many other professions that involve searching for items..."
+    },
+    {
+        "startTime": 90809,
+        "endTime": 92085,
+        "text": "...that are difficult to find."
+    }
+]

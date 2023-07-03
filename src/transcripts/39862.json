@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 1849,
+        "endTime": 5808,
+        "text": "Excuse me, I'd like two tickets to Los Angeles Union Station, please."
+    },
+    {
+        "startTime": 7561,
+        "endTime": 8871,
+        "text": "Single or return?"
+    },
+    {
+        "startTime": 10267,
+        "endTime": 11321,
+        "text": "Return, please."
+    },
+    {
+        "startTime": 12722,
+        "endTime": 14598,
+        "text": "That's five dollars and fifty cents."
+    },
+    {
+        "startTime": 15626,
+        "endTime": 16680,
+        "text": "What platform is it?"
+    },
+    {
+        "startTime": 17381,
+        "endTime": 18307,
+        "text": "Platform 2."
+    },
+    {
+        "startTime": 19241,
+        "endTime": 20027,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 22535,
+        "endTime": 24881,
+        "text": "Could I get a ticket to Wellington for May 8th?"
+    },
+    {
+        "startTime": 25878,
+        "endTime": 27578,
+        "text": "First class or second class?"
+    },
+    {
+        "startTime": 28871,
+        "endTime": 30087,
+        "text": "Second class, please."
+    },
+    {
+        "startTime": 31373,
+        "endTime": 33708,
+        "text": "That's a hundred and ninety-eight dollars."
+    },
+    {
+        "startTime": 34882,
+        "endTime": 35682,
+        "text": "Here it is."
+    },
+    {
+        "startTime": 37285,
+        "endTime": 38301,
+        "text": "Here is your ticket."
+    },
+    {
+        "startTime": 39465,
+        "endTime": 42079,
+        "text": "The train leaves at 7:45 in the morning."
+    },
+    {
+        "startTime": 42956,
+        "endTime": 45471,
+        "text": "Please be at the station thirty minutes before."
+    },
+    {
+        "startTime": 46250,
+        "endTime": 46738,
+        "text": "Thank you."
+    }
+]

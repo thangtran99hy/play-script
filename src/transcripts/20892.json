@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 3265,
+        "endTime": 6179,
+        "text": "Actually, I didn't try to solve the development problem that we had."
+    },
+    {
+        "startTime": 6550,
+        "endTime": 9543,
+        "text": "Brand new hardware, brand new software, you're testing the stuff out,..."
+    },
+    {
+        "startTime": 9900,
+        "endTime": 10891,
+        "text": "...it would hang up all the time."
+    },
+    {
+        "startTime": 11323,
+        "endTime": 14631,
+        "text": "So the only solution you have is to turn the power off, wait a few seconds,..."
+    },
+    {
+        "startTime": 14900,
+        "endTime": 18725,
+        "text": "...turn the power back on, and wait for it to go through the power-on self test."
+    },
+    {
+        "startTime": 18793,
+        "endTime": 22877,
+        "text": "I said, \"I'm writing all these codes for the keyboard, let's just shortcut it.\""
+    },
+    {
+        "startTime": 23343,
+        "endTime": 26934,
+        "text": "I originally intended for it to be what we would now call an Easter egg,..."
+    },
+    {
+        "startTime": 27250,
+        "endTime": 30105,
+        "text": "...just something we were using in development, it wouldn't be available elsewhere."
+    },
+    {
+        "startTime": 30319,
+        "endTime": 32109,
+        "text": "But then the pubs people found out about it,..."
+    },
+    {
+        "startTime": 32400,
+        "endTime": 33933,
+        "text": "...and they're trying to figure out how to tell somebody..."
+    },
+    {
+        "startTime": 34200,
+        "endTime": 36626,
+        "text": "...to start up one of their programs and they had the answer,..."
+    },
+    {
+        "startTime": 36900,
+        "endTime": 41005,
+        "text": "...just put the diskette in, hit ctrl+alt+delete, and by magic your program starts."
+    },
+    {
+        "startTime": 41573,
+        "endTime": 44701,
+        "text": "So it was like a five-minute job in doing it,..."
+    },
+    {
+        "startTime": 44785,
+        "endTime": 47626,
+        "text": "...I didn't realize that I was gonna create a cultural icon when I did it."
+    },
+    {
+        "startTime": 49431,
+        "endTime": 51351,
+        "text": "But I have to share the credit."
+    },
+    {
+        "startTime": 51600,
+        "endTime": 53931,
+        "text": "I may have invented it, but I think Bill made it famous."
+    }
+]

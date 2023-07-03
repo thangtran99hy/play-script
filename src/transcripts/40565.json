@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 18,
+        "endTime": 1210,
+        "text": "Where were you last night?"
+    },
+    {
+        "startTime": 1927,
+        "endTime": 3303,
+        "text": "I was at work."
+    },
+    {
+        "startTime": 4465,
+        "endTime": 5307,
+        "text": "Really?"
+    },
+    {
+        "startTime": 5655,
+        "endTime": 7043,
+        "text": "I was at your shop."
+    },
+    {
+        "startTime": 7460,
+        "endTime": 8535,
+        "text": "You weren't there."
+    },
+    {
+        "startTime": 8885,
+        "endTime": 11031,
+        "text": "No, I was in the back, working."
+    },
+    {
+        "startTime": 11296,
+        "endTime": 12185,
+        "text": "You were?"
+    },
+    {
+        "startTime": 13817,
+        "endTime": 14415,
+        "text": "Really?"
+    },
+    {
+        "startTime": 14577,
+        "endTime": 15479,
+        "text": "I was there."
+    }
+]

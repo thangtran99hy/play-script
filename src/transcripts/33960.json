@@ -1,0 +1,197 @@
+[
+    {
+        "startTime": 16121,
+        "endTime": 22216,
+        "text": "Up until now, our communication with machines has always been limited to conscious and direct forms."
+    },
+    {
+        "startTime": 22678,
+        "endTime": 25795,
+        "text": "Whether it's something simple like turning on the lights with a switch,..."
+    },
+    {
+        "startTime": 26257,
+        "endTime": 29034,
+        "text": "...or even as complex as programming robotics,..."
+    },
+    {
+        "startTime": 29590,
+        "endTime": 34129,
+        "text": "...we have always had to give a command to a machine, or even a series of commands,..."
+    },
+    {
+        "startTime": 34231,
+        "endTime": 36070,
+        "text": "...in order for it to do something for us."
+    },
+    {
+        "startTime": 36904,
+        "endTime": 39085,
+        "text": "Communication between people, on the other hand,..."
+    },
+    {
+        "startTime": 39371,
+        "endTime": 42322,
+        "text": "...is far more complex and a lot more interesting..."
+    },
+    {
+        "startTime": 42596,
+        "endTime": 46643,
+        "text": "...because we take into account so much more than what is explicitly expressed."
+    },
+    {
+        "startTime": 47283,
+        "endTime": 50203,
+        "text": "We observe facial expressions, body language,..."
+    },
+    {
+        "startTime": 50495,
+        "endTime": 54386,
+        "text": "...and we can intuit feelings and emotions from our dialogue with one another."
+    },
+    {
+        "startTime": 55285,
+        "endTime": 58362,
+        "text": "This actually forms a large part of our decision-making process."
+    },
+    {
+        "startTime": 59760,
+        "endTime": 63867,
+        "text": "Our vision is to introduce this whole new realm of human interaction..."
+    },
+    {
+        "startTime": 64281,
+        "endTime": 68193,
+        "text": "...into human-computer interaction so that computers can understand..."
+    },
+    {
+        "startTime": 68544,
+        "endTime": 70309,
+        "text": "...not only what you direct it to do,..."
+    },
+    {
+        "startTime": 70673,
+        "endTime": 75548,
+        "text": "...but it can also respond to your facial expressions and emotional experiences."
+    },
+    {
+        "startTime": 76323,
+        "endTime": 79773,
+        "text": "And what better way to do this than by interpreting the signals..."
+    },
+    {
+        "startTime": 79881,
+        "endTime": 84287,
+        "text": "...naturally produced by our brain, our center for control and experience."
+    },
+    {
+        "startTime": 85392,
+        "endTime": 89391,
+        "text": "Well, it sounds like a pretty good idea, but this task, as Bruno mentioned,..."
+    },
+    {
+        "startTime": 89513,
+        "endTime": 95023,
+        "text": "...isn't an easy one for two main reasons: First, the detection algorithms."
+    },
+    {
+        "startTime": 95796,
+        "endTime": 98911,
+        "text": "Our brain is made up of billions of active neurons,..."
+    },
+    {
+        "startTime": 99143,
+        "endTime": 103419,
+        "text": "...around 170,000 kilometers of combined axon length."
+    },
+    {
+        "startTime": 104179,
+        "endTime": 105804,
+        "text": "When these neurons interact,..."
+    },
+    {
+        "startTime": 106150,
+        "endTime": 109719,
+        "text": "...the chemical reaction emits an electrical impulse, which can be measured."
+    },
+    {
+        "startTime": 110785,
+        "endTime": 116624,
+        "text": "The majority of our functional brain is distributed over the outer surface layer of the brain,..."
+    },
+    {
+        "startTime": 117034,
+        "endTime": 120245,
+        "text": "...and to increase the area that's available for mental capacity,..."
+    },
+    {
+        "startTime": 120687,
+        "endTime": 122873,
+        "text": "...the brain surface is highly folded."
+    },
+    {
+        "startTime": 123465,
+        "endTime": 126891,
+        "text": "Now, this cortical folding presents a significant challenge..."
+    },
+    {
+        "startTime": 126968,
+        "endTime": 129989,
+        "text": "...for interpreting surface electrical impulses."
+    },
+    {
+        "startTime": 130727,
+        "endTime": 136073,
+        "text": "Each individual's cortex is folded differently, very much like a fingerprint."
+    },
+    {
+        "startTime": 136671,
+        "endTime": 140422,
+        "text": "So even though a signal may come from the same functional part of the brain,..."
+    },
+    {
+        "startTime": 140896,
+        "endTime": 142845,
+        "text": "...by the time the structure has been folded,..."
+    },
+    {
+        "startTime": 143257,
+        "endTime": 148705,
+        "text": "...its physical location is very different between individuals, even identical twins."
+    },
+    {
+        "startTime": 149997,
+        "endTime": 153211,
+        "text": "There is no longer any consistency in the surface signals."
+    },
+    {
+        "startTime": 154063,
+        "endTime": 158397,
+        "text": "Our breakthrough was to create an algorithm that unfolds the cortex,..."
+    },
+    {
+        "startTime": 158624,
+        "endTime": 161611,
+        "text": "... so that we can map the signals closer to its source,..."
+    },
+    {
+        "startTime": 161936,
+        "endTime": 165389,
+        "text": "...and therefore making it capable of working across a mass population."
+    },
+    {
+        "startTime": 166692,
+        "endTime": 171515,
+        "text": "The second challenge is the actual device for observing brainwaves."
+    },
+    {
+        "startTime": 171706,
+        "endTime": 176021,
+        "text": "EEG measurements typically involve a hairnet with an array of sensors,..."
+    },
+    {
+        "startTime": 176379,
+        "endTime": 178545,
+        "text": "...like the one that you can see here in the photo."
+    }
+]

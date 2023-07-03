@@ -1,0 +1,107 @@
+[
+    {
+        "startTime": 995,
+        "endTime": 1907,
+        "text": "Good morning, sir."
+    },
+    {
+        "startTime": 2155,
+        "endTime": 2691,
+        "text": "Hello."
+    },
+    {
+        "startTime": 2975,
+        "endTime": 5614,
+        "text": "Could I see your passport and visa documentation?"
+    },
+    {
+        "startTime": 5759,
+        "endTime": 6412,
+        "text": "Oh, yes."
+    },
+    {
+        "startTime": 6620,
+        "endTime": 7231,
+        "text": "Here they are."
+    },
+    {
+        "startTime": 9724,
+        "endTime": 12035,
+        "text": "Is this your first visit to the United Kingdom?"
+    },
+    {
+        "startTime": 12387,
+        "endTime": 13320,
+        "text": "Yes, it is."
+    },
+    {
+        "startTime": 14855,
+        "endTime": 16647,
+        "text": "And where will you be staying?"
+    },
+    {
+        "startTime": 17181,
+        "endTime": 18910,
+        "text": "With my friend in London."
+    },
+    {
+        "startTime": 19966,
+        "endTime": 21488,
+        "text": "And how long will you be staying?"
+    },
+    {
+        "startTime": 22225,
+        "endTime": 24327,
+        "text": "I'll be staying for two weeks."
+    },
+    {
+        "startTime": 26405,
+        "endTime": 27893,
+        "text": "Do you have anything to declare?"
+    },
+    {
+        "startTime": 28457,
+        "endTime": 28848,
+        "text": "No."
+    },
+    {
+        "startTime": 29007,
+        "endTime": 30783,
+        "text": "I do not have anything to declare."
+    },
+    {
+        "startTime": 31899,
+        "endTime": 32422,
+        "text": "Good."
+    },
+    {
+        "startTime": 32594,
+        "endTime": 33999,
+        "text": "Everything seems to be in order."
+    },
+    {
+        "startTime": 34863,
+        "endTime": 36030,
+        "text": "Please enjoy your stay."
+    },
+    {
+        "startTime": 36239,
+        "endTime": 36927,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 37833,
+        "endTime": 40059,
+        "text": "Could you tell me where is the baggage claim?"
+    },
+    {
+        "startTime": 40755,
+        "endTime": 42602,
+        "text": "Follow the signs to your left, please."
+    },
+    {
+        "startTime": 43037,
+        "endTime": 44194,
+        "text": "Okay, thank you."
+    }
+]

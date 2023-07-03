@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 4200,
+        "endTime": 9450,
+        "text": "The next slide we are going to look at shows the fluctuation of sales over the past two years."
+    },
+    {
+        "startTime": 9950,
+        "endTime": 13100,
+        "text": "Wow! Last quarter we hit quite a slump!"
+    },
+    {
+        "startTime": 13350,
+        "endTime": 14250,
+        "text": "Yes, we did."
+    },
+    {
+        "startTime": 14800,
+        "endTime": 20900,
+        "text": "And we can see in this graph that sales started to gradually worsen in the last quarter of the last year."
+    },
+    {
+        "startTime": 21500,
+        "endTime": 23600,
+        "text": "They recovered slightly in the first quarter,..."
+    },
+    {
+        "startTime": 23850,
+        "endTime": 26700,
+        "text": "...but then continued to fall until the present quarter."
+    },
+    {
+        "startTime": 27750,
+        "endTime": 31400,
+        "text": "Any idea what caused this deterioration in sales?"
+    },
+    {
+        "startTime": 32350,
+        "endTime": 34500,
+        "text": "One significant factor is the economy."
+    },
+    {
+        "startTime": 35050,
+        "endTime": 37400,
+        "text": "We're not the only ones facing this problem."
+    },
+    {
+        "startTime": 37900,
+        "endTime": 41700,
+        "text": "But the good news is that I think we've reached a low point,..."
+    },
+    {
+        "startTime": 41900,
+        "endTime": 44800,
+        "text": "...and things are going to improve in the next quarter."
+    }
+]

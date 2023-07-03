@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 62,
+        "endTime": 2365,
+        "text": "Hello, My name is Jacob Smith."
+    },
+    {
+        "startTime": 2773,
+        "endTime": 3585,
+        "text": "I am a teacher."
+    },
+    {
+        "startTime": 4028,
+        "endTime": 5211,
+        "text": "Nice to meet you."
+    },
+    {
+        "startTime": 6176,
+        "endTime": 7989,
+        "text": "Good morning. I am Ralph Martin."
+    },
+    {
+        "startTime": 8638,
+        "endTime": 9644,
+        "text": "I work as a doctor."
+    },
+    {
+        "startTime": 10121,
+        "endTime": 10927,
+        "text": "Good to meet you."
+    },
+    {
+        "startTime": 12157,
+        "endTime": 14161,
+        "text": "Hi, I'm Luis Cruz."
+    },
+    {
+        "startTime": 14783,
+        "endTime": 15912,
+        "text": "I am a restaurant owner."
+    },
+    {
+        "startTime": 16443,
+        "endTime": 18158,
+        "text": "It's a pleasure to meet you."
+    }
+]

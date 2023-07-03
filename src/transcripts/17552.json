@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 3117,
+        "endTime": 5435,
+        "text": "Did you have a good time last weekend?"
+    },
+    {
+        "startTime": 6871,
+        "endTime": 7797,
+        "text": "Yes, I did."
+    },
+    {
+        "startTime": 9245,
+        "endTime": 10548,
+        "text": "What did you do?"
+    },
+    {
+        "startTime": 11619,
+        "endTime": 13421,
+        "text": "I went hiking with my dad."
+    },
+    {
+        "startTime": 14629,
+        "endTime": 15735,
+        "text": "So did I."
+    },
+    {
+        "startTime": 18205,
+        "endTime": 20146,
+        "text": "You don't look happy. What's wrong?"
+    },
+    {
+        "startTime": 21180,
+        "endTime": 23986,
+        "text": "I was going to visit my grandma yesterday."
+    },
+    {
+        "startTime": 24419,
+        "endTime": 26987,
+        "text": "I made special cookies for my grandma."
+    },
+    {
+        "startTime": 28415,
+        "endTime": 30198,
+        "text": "Wow. That's very nice!"
+    },
+    {
+        "startTime": 31538,
+        "endTime": 34902,
+        "text": "But I couldn't visit her because it rained heavily."
+    },
+    {
+        "startTime": 36505,
+        "endTime": 37749,
+        "text": "That's too bad."
+    }
+]

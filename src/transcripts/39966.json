@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 629,
+        "endTime": 3653,
+        "text": "In order to solve full self-driving properly,..."
+    },
+    {
+        "startTime": 3740,
+        "endTime": 6384,
+        "text": "...you actually just have to solve real-world AI."
+    },
+    {
+        "startTime": 8633,
+        "endTime": 12577,
+        "text": "Because you're like, what are the road networks designed to work with?"
+    },
+    {
+        "startTime": 12843,
+        "endTime": 15996,
+        "text": "They're designed to work with a biological neural net, our brains,..."
+    },
+    {
+        "startTime": 16760,
+        "endTime": 19683,
+        "text": "...and with vision, our eyes."
+    },
+    {
+        "startTime": 20767,
+        "endTime": 25773,
+        "text": "And so, in order to make it work with computers,..."
+    },
+    {
+        "startTime": 25848,
+        "endTime": 30518,
+        "text": "...you basically need to solve real-world AI and vision."
+    },
+    {
+        "startTime": 31667,
+        "endTime": 38109,
+        "text": "Because we need cameras and silicon neural nets..."
+    },
+    {
+        "startTime": 39159,
+        "endTime": 44741,
+        "text": "...in order to have self-driving work for a system that was designed for eyes..."
+    },
+    {
+        "startTime": 44885,
+        "endTime": 46236,
+        "text": "...and biological neural nets."
+    },
+    {
+        "startTime": 48403,
+        "endTime": 49296,
+        "text": "I guess when you put it that way,..."
+    },
+    {
+        "startTime": 49367,
+        "endTime": 53056,
+        "text": "...it's quite obvious that the only way to solve full self-driving..."
+    },
+    {
+        "startTime": 53177,
+        "endTime": 57029,
+        "text": "...is to solve real-world AI and sophisticated vision."
+    }
+]

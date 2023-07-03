@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 407,
+        "endTime": 1491,
+        "text": "January"
+    },
+    {
+        "startTime": 3987,
+        "endTime": 4684,
+        "text": "February"
+    },
+    {
+        "startTime": 7404,
+        "endTime": 8182,
+        "text": "March"
+    },
+    {
+        "startTime": 10555,
+        "endTime": 11199,
+        "text": "April"
+    },
+    {
+        "startTime": 13115,
+        "endTime": 13984,
+        "text": "May"
+    },
+    {
+        "startTime": 15448,
+        "endTime": 16458,
+        "text": "June"
+    },
+    {
+        "startTime": 18079,
+        "endTime": 18859,
+        "text": "July"
+    },
+    {
+        "startTime": 20531,
+        "endTime": 21350,
+        "text": "August"
+    },
+    {
+        "startTime": 22274,
+        "endTime": 23219,
+        "text": "September"
+    },
+    {
+        "startTime": 24382,
+        "endTime": 25167,
+        "text": "October"
+    },
+    {
+        "startTime": 26721,
+        "endTime": 27362,
+        "text": "November"
+    },
+    {
+        "startTime": 28854,
+        "endTime": 29645,
+        "text": "December"
+    },
+    {
+        "startTime": 31942,
+        "endTime": 33555,
+        "text": "My business trip is in March."
+    },
+    {
+        "startTime": 35787,
+        "endTime": 37969,
+        "text": "My business trip is in September."
+    }
+]

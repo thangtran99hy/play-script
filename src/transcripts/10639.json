@@ -1,0 +1,147 @@
+[
+    {
+        "startTime": 150,
+        "endTime": 4900,
+        "text": "People always wanna drag-and-drop files directly from their desktop into Web applications."
+    },
+    {
+        "startTime": 5150,
+        "endTime": 6400,
+        "text": "With Wave, you can!"
+    },
+    {
+        "startTime": 7450,
+        "endTime": 9500,
+        "text": "Watch as Stephanie creates a new Wave..."
+    },
+    {
+        "startTime": 10050,
+        "endTime": 14500,
+        "text": "...and then, drag-and-drops a bunch of photos from iPhoto directly into Wave."
+    },
+    {
+        "startTime": 15500,
+        "endTime": 19700,
+        "text": "Thumbnails will appear on my machine as soon as they start uploading on hers."
+    },
+    {
+        "startTime": 20150,
+        "endTime": 24200,
+        "text": "I can then drag-and-drop photos from my machine directly into the Wave as well."
+    },
+    {
+        "startTime": 25150,
+        "endTime": 28400,
+        "text": "You can see at the bottom of the screen there's an images menu."
+    },
+    {
+        "startTime": 28550,
+        "endTime": 32200,
+        "text": "This menu allows you to operate on all of the images in the Wave..."
+    },
+    {
+        "startTime": 32250,
+        "endTime": 33950,
+        "text": "...not just the images you added."
+    },
+    {
+        "startTime": 34300,
+        "endTime": 38550,
+        "text": "This is an easy and convenient way to make a collaborative photo album using Wave."
+    },
+    {
+        "startTime": 39600,
+        "endTime": 42200,
+        "text": "Now that we have a Wave, with lots of images in it,..."
+    },
+    {
+        "startTime": 42250,
+        "endTime": 43600,
+        "text": "...we wanna share it with our friends."
+    },
+    {
+        "startTime": 44250,
+        "endTime": 46800,
+        "text": "Drag our friend, \"Bloggy\" onto the Wave."
+    },
+    {
+        "startTime": 47700,
+        "endTime": 50700,
+        "text": "This will publish the Wave on Steph's blog."
+    },
+    {
+        "startTime": 51000,
+        "endTime": 54800,
+        "text": "Embedding is an easy way to put Waves directly into any website."
+    },
+    {
+        "startTime": 54900,
+        "endTime": 57500,
+        "text": "Much the same way you can do with Maps today."
+    },
+    {
+        "startTime": 58400,
+        "endTime": 60200,
+        "text": "Watch as I go to Steph's blog."
+    },
+    {
+        "startTime": 61000,
+        "endTime": 65000,
+        "text": "You can see on Steph's blog that we embed the whole Wave, not just the images."
+    },
+    {
+        "startTime": 65500,
+        "endTime": 67300,
+        "text": "This includes all of the UI."
+    },
+    {
+        "startTime": 68000,
+        "endTime": 69550,
+        "text": "Watch as I leave a comment."
+    },
+    {
+        "startTime": 70600,
+        "endTime": 75400,
+        "text": "Everything that I type on the blog immediately appears in Steph's Wave client."
+    },
+    {
+        "startTime": 75450,
+        "endTime": 80000,
+        "text": "Steph can respond in her Wave client and her typing immediately appears on the blog."
+    },
+    {
+        "startTime": 80600,
+        "endTime": 83700,
+        "text": "Since I contributed to the blog, the Wave will also show up in my Wave client,..."
+    },
+    {
+        "startTime": 83800,
+        "endTime": 85750,
+        "text": "...and we can continue the conversation from there."
+    },
+    {
+        "startTime": 86900,
+        "endTime": 89000,
+        "text": "Embedding Waves is good for developers..."
+    },
+    {
+        "startTime": 89050,
+        "endTime": 91900,
+        "text": "...because it allows them to drop a rich, collaborative UI..."
+    },
+    {
+        "startTime": 92150,
+        "endTime": 94100,
+        "text": "...into websites with very little code."
+    },
+    {
+        "startTime": 94300,
+        "endTime": 98650,
+        "text": "It's great for users because it allows them to have a consistent UI..."
+    },
+    {
+        "startTime": 98700,
+        "endTime": 101900,
+        "text": "...as well as every conversations they care about all in one place."
+    }
+]

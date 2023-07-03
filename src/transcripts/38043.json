@@ -1,0 +1,102 @@
+[
+    {
+        "startTime": 2641,
+        "endTime": 7906,
+        "text": "A team of researchers from MIT, Harvard University and City University of Hong Kong..."
+    },
+    {
+        "startTime": 8218,
+        "endTime": 14353,
+        "text": "...have developed tiny agile drones who look, act and maneuver like actual insects."
+    },
+    {
+        "startTime": 16202,
+        "endTime": 21187,
+        "text": "This new generation of tiny drones are powered by a new class of soft actuator..."
+    },
+    {
+        "startTime": 21404,
+        "endTime": 25095,
+        "text": "...made of thin rubber cylinders coated in carbon nanotubes."
+    },
+    {
+        "startTime": 25365,
+        "endTime": 28109,
+        "text": "When voltage is applied to the carbon nanotubes,..."
+    },
+    {
+        "startTime": 28211,
+        "endTime": 33111,
+        "text": "...they produce an electrostatic force that squeezes and elongates the rubber cylinder."
+    },
+    {
+        "startTime": 34143,
+        "endTime": 39713,
+        "text": "Repeated elongation and contraction is what causes the drones' wings to beat very fast..."
+    },
+    {
+        "startTime": 40053,
+        "endTime": 43459,
+        "text": "...and with enough power density to actually support flight."
+    },
+    {
+        "startTime": 44718,
+        "endTime": 47752,
+        "text": "Typically, drones require wide, open spaces..."
+    },
+    {
+        "startTime": 47900,
+        "endTime": 51183,
+        "text": "...because they're neither nimble enough to navigate confined ones..."
+    },
+    {
+        "startTime": 51362,
+        "endTime": 54427,
+        "text": "...nor robust enough to withstand collisions in a crowd."
+    },
+    {
+        "startTime": 55231,
+        "endTime": 61709,
+        "text": "However, these insect-sized drones can flap its tiny wings nearly 500 times per second,..."
+    },
+    {
+        "startTime": 62220,
+        "endTime": 66053,
+        "text": "...giving it the ability to recover if hit or involved in a collision..."
+    },
+    {
+        "startTime": 67001,
+        "endTime": 70667,
+        "text": "...and do some aggressive maneuvers like somersaults in the air."
+    },
+    {
+        "startTime": 73575,
+        "endTime": 77971,
+        "text": "This insect-like resilience is packed into just 0.6 grams,..."
+    },
+    {
+        "startTime": 78356,
+        "endTime": 80951,
+        "text": "...the approximate weight of a large bumblebee."
+    },
+    {
+        "startTime": 82624,
+        "endTime": 84082,
+        "text": "The researchers hope one day,..."
+    },
+    {
+        "startTime": 84168,
+        "endTime": 87153,
+        "text": "...the robots could aid humans by pollinating crops..."
+    },
+    {
+        "startTime": 87449,
+        "endTime": 89578,
+        "text": "...or completing search-and-rescue missions..."
+    },
+    {
+        "startTime": 89795,
+        "endTime": 94541,
+        "text": "...and navigating complex machinery to ensure safety and functionality."
+    }
+]

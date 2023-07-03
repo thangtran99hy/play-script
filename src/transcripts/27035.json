@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 471,
+        "endTime": 2405,
+        "text": "Places in the Office"
+    },
+    {
+        "startTime": 9163,
+        "endTime": 11315,
+        "text": "The company has free parking."
+    },
+    {
+        "startTime": 16015,
+        "endTime": 18447,
+        "text": "Hey! No running in the hallway."
+    },
+    {
+        "startTime": 24963,
+        "endTime": 27605,
+        "text": "You can't stay here in the stockroom."
+    },
+    {
+        "startTime": 32850,
+        "endTime": 35673,
+        "text": "That workstation is cool."
+    },
+    {
+        "startTime": 40201,
+        "endTime": 42938,
+        "text": "He's not here. He's in the restroom."
+    },
+    {
+        "startTime": 47720,
+        "endTime": 49867,
+        "text": "Get the form at the front desk."
+    },
+    {
+        "startTime": 55831,
+        "endTime": 58315,
+        "text": "The conference room is being used."
+    },
+    {
+        "startTime": 61998,
+        "endTime": 64652,
+        "text": "Homer is having coffee in the pantry."
+    }
+]

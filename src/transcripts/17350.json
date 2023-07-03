@@ -1,0 +1,92 @@
+[
+    {
+        "startTime": 3004,
+        "endTime": 4756,
+        "text": "You and I swing."
+    },
+    {
+        "startTime": 5938,
+        "endTime": 7565,
+        "text": "You and I slide."
+    },
+    {
+        "startTime": 8987,
+        "endTime": 10547,
+        "text": "You and I ride."
+    },
+    {
+        "startTime": 11971,
+        "endTime": 13323,
+        "text": "You and I hike."
+    },
+    {
+        "startTime": 14627,
+        "endTime": 15965,
+        "text": "You and I bike."
+    },
+    {
+        "startTime": 17322,
+        "endTime": 18873,
+        "text": "You and I run."
+    },
+    {
+        "startTime": 20049,
+        "endTime": 21736,
+        "text": "You and I dance."
+    },
+    {
+        "startTime": 23037,
+        "endTime": 25228,
+        "text": "You and I have lots of fun."
+    },
+    {
+        "startTime": 28507,
+        "endTime": 29730,
+        "text": "What are you doing?"
+    },
+    {
+        "startTime": 31015,
+        "endTime": 31949,
+        "text": "I dance."
+    },
+    {
+        "startTime": 32238,
+        "endTime": 33457,
+        "text": "What about you?"
+    },
+    {
+        "startTime": 34893,
+        "endTime": 36176,
+        "text": "I dance, too."
+    },
+    {
+        "startTime": 36550,
+        "endTime": 38137,
+        "text": "You and I dance."
+    },
+    {
+        "startTime": 39359,
+        "endTime": 40931,
+        "text": "What is Amy doing?"
+    },
+    {
+        "startTime": 42188,
+        "endTime": 43382,
+        "text": "She hikes."
+    },
+    {
+        "startTime": 43629,
+        "endTime": 44896,
+        "text": "What about Tony?"
+    },
+    {
+        "startTime": 46154,
+        "endTime": 47322,
+        "text": "He hikes, too."
+    },
+    {
+        "startTime": 47609,
+        "endTime": 49008,
+        "text": "She and he hike."
+    }
+]

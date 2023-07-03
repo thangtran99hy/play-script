@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 1837,
+        "endTime": 12870,
+        "text": "Five plus zero equals one, two, three four, five."
+    },
+    {
+        "startTime": 15177,
+        "endTime": 17804,
+        "text": "Five plus zero equals five."
+    },
+    {
+        "startTime": 18236,
+        "endTime": 19703,
+        "text": "That was awesome."
+    },
+    {
+        "startTime": 20285,
+        "endTime": 30225,
+        "text": "Two plus two equals one, two, three, four."
+    },
+    {
+        "startTime": 31757,
+        "endTime": 34617,
+        "text": "Two plus two equals four."
+    },
+    {
+        "startTime": 34921,
+        "endTime": 36327,
+        "text": "You are the best."
+    },
+    {
+        "startTime": 36899,
+        "endTime": 44898,
+        "text": "One plus one equals one, two."
+    },
+    {
+        "startTime": 47034,
+        "endTime": 49616,
+        "text": "One plus one equals two."
+    },
+    {
+        "startTime": 50057,
+        "endTime": 51435,
+        "text": "That was awesome."
+    },
+    {
+        "startTime": 52184,
+        "endTime": 63775,
+        "text": "Three plus one equals one, two, three, four."
+    },
+    {
+        "startTime": 65712,
+        "endTime": 68293,
+        "text": "Three plus one equals four."
+    },
+    {
+        "startTime": 68685,
+        "endTime": 70183,
+        "text": "You are the best."
+    }
+]

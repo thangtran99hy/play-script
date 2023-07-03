@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 2269,
+        "endTime": 3445,
+        "text": "When you receive a voicemail,..."
+    },
+    {
+        "startTime": 4009,
+        "endTime": 8807,
+        "text": "...Google Voice will automatically transcribe it into text, so you can read what the voicemail is about."
+    },
+    {
+        "startTime": 11537,
+        "endTime": 13839,
+        "text": "You can see transcriptions in your inbox,..."
+    },
+    {
+        "startTime": 14978,
+        "endTime": 18118,
+        "text": "...and we'll even email and SMS them to you, if you want."
+    },
+    {
+        "startTime": 19336,
+        "endTime": 23100,
+        "text": "Transcriptions are fully automated, so they may include mistakes,..."
+    },
+    {
+        "startTime": 23194,
+        "endTime": 25529,
+        "text": "...and we plan to make accuracy improvements over time."
+    },
+    {
+        "startTime": 27297,
+        "endTime": 29052,
+        "text": "Hey, give me a call when you get a chance."
+    },
+    {
+        "startTime": 30443,
+        "endTime": 32397,
+        "text": "If you would like to turn transcription off,..."
+    },
+    {
+        "startTime": 32734,
+        "endTime": 39881,
+        "text": "...just go to your settings and uncheck the box next to \"Transcribe Voicemails.\""
+    }
+]

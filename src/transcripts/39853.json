@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 671,
+        "endTime": 2044,
+        "text": "Starliner, may I help you?"
+    },
+    {
+        "startTime": 2438,
+        "endTime": 3015,
+        "text": "Hello."
+    },
+    {
+        "startTime": 3422,
+        "endTime": 6115,
+        "text": "I'd like to make a reservation for a flight to Los Angeles."
+    },
+    {
+        "startTime": 7357,
+        "endTime": 8731,
+        "text": "Where will you depart from?"
+    },
+    {
+        "startTime": 9779,
+        "endTime": 13277,
+        "text": "From Chicago, Chicago O'Hare International Airport."
+    },
+    {
+        "startTime": 13581,
+        "endTime": 14924,
+        "text": "When do you plan to fly?"
+    },
+    {
+        "startTime": 16517,
+        "endTime": 17860,
+        "text": "On October 5th."
+    },
+    {
+        "startTime": 18618,
+        "endTime": 21338,
+        "text": "I'd like to book the earliest flight in the economy class."
+    },
+    {
+        "startTime": 21933,
+        "endTime": 25589,
+        "text": "That's flight 145 leaving Chicago at 7:00 AM."
+    },
+    {
+        "startTime": 26038,
+        "endTime": 27425,
+        "text": "Would you like to book this flight?"
+    },
+    {
+        "startTime": 27724,
+        "endTime": 29029,
+        "text": "Yes, that's fine."
+    }
+]

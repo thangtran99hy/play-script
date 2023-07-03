@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 893,
+        "endTime": 3365,
+        "text": "Excuse me, could you tell me what time it is?"
+    },
+    {
+        "startTime": 3912,
+        "endTime": 4815,
+        "text": "Oh, sure."
+    },
+    {
+        "startTime": 5020,
+        "endTime": 6318,
+        "text": "It's half past 4."
+    },
+    {
+        "startTime": 6800,
+        "endTime": 7471,
+        "text": "Oh, great!"
+    },
+    {
+        "startTime": 7603,
+        "endTime": 8396,
+        "text": "It is not late."
+    },
+    {
+        "startTime": 8559,
+        "endTime": 9868,
+        "text": "One more cup of tea, please."
+    },
+    {
+        "startTime": 10267,
+        "endTime": 11199,
+        "text": "All right, madam."
+    },
+    {
+        "startTime": 11739,
+        "endTime": 12443,
+        "text": "Thank you very much."
+    },
+    {
+        "startTime": 12977,
+        "endTime": 13989,
+        "text": "You're welcome."
+    },
+    {
+        "startTime": 16311,
+        "endTime": 17657,
+        "text": "What time is the meeting, Jenny?"
+    },
+    {
+        "startTime": 18462,
+        "endTime": 19634,
+        "text": "It's at 5 o'clock."
+    },
+    {
+        "startTime": 20649,
+        "endTime": 21715,
+        "text": "What time is it now?"
+    },
+    {
+        "startTime": 22289,
+        "endTime": 23624,
+        "text": "It's quarter past 5."
+    },
+    {
+        "startTime": 24129,
+        "endTime": 25308,
+        "text": "Oh no! I'm late!"
+    }
+]

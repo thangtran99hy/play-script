@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1930,
+        "endTime": 4830,
+        "text": "Did you see the memo that is circulating the office?"
+    },
+    {
+        "startTime": 5400,
+        "endTime": 8840,
+        "text": "Do you mean the one about the meeting tomorrow? Yeah, I saw it."
+    },
+    {
+        "startTime": 9470,
+        "endTime": 11940,
+        "text": "I'm still not sure what the meeting is about."
+    },
+    {
+        "startTime": 12340,
+        "endTime": 15680,
+        "text": "We're supposed to brainstorm ideas for better sales approaches."
+    },
+    {
+        "startTime": 15940,
+        "endTime": 18450,
+        "text": "Is it essential that everyone attend the meeting?"
+    },
+    {
+        "startTime": 18750,
+        "endTime": 21520,
+        "text": "I was planning to be out of the office tomorrow afternoon."
+    },
+    {
+        "startTime": 21780,
+        "endTime": 22950,
+        "text": "Of course, it's important."
+    },
+    {
+        "startTime": 23320,
+        "endTime": 24790,
+        "text": "Bob is going to chair the meeting."
+    },
+    {
+        "startTime": 25055,
+        "endTime": 27820,
+        "text": "I think he's going to propose an idea he came up with."
+    },
+    {
+        "startTime": 28220,
+        "endTime": 31290,
+        "text": "I guess the length of the meeting will be at least a few hours."
+    },
+    {
+        "startTime": 31530,
+        "endTime": 33130,
+        "text": "I hope we have refreshments."
+    }
+]

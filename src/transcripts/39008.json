@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 280,
+        "endTime": 1613,
+        "text": "Hi, I'm Anna."
+    },
+    {
+        "startTime": 3063,
+        "endTime": 4483,
+        "text": "I live in a small town."
+    },
+    {
+        "startTime": 5881,
+        "endTime": 8424,
+        "text": "Our house is near a river and a mountain."
+    },
+    {
+        "startTime": 9892,
+        "endTime": 12297,
+        "text": "We have a garden with trees and flowers."
+    },
+    {
+        "startTime": 13661,
+        "endTime": 15823,
+        "text": "There is also a forest nearby..."
+    },
+    {
+        "startTime": 16807,
+        "endTime": 18779,
+        "text": "...with lots of beautiful animals."
+    },
+    {
+        "startTime": 20696,
+        "endTime": 22791,
+        "text": "Not far from our home is a park."
+    },
+    {
+        "startTime": 24378,
+        "endTime": 26662,
+        "text": "We go on a picnic there on weekends."
+    }
+]

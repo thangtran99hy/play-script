@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 101,
+        "endTime": 1605,
+        "text": "What can I get started for you today?"
+    },
+    {
+        "startTime": 2019,
+        "endTime": 3431,
+        "text": "Espresso!"
+    },
+    {
+        "startTime": 3693,
+        "endTime": 4210,
+        "text": "What size?"
+    },
+    {
+        "startTime": 5854,
+        "endTime": 8368,
+        "text": "All right, three venti lattes."
+    },
+    {
+        "startTime": 8517,
+        "endTime": 10217,
+        "text": "Uh, would you care for a pastry?"
+    },
+    {
+        "startTime": 13856,
+        "endTime": 16231,
+        "text": "Mocha, three mocha lattes."
+    },
+    {
+        "startTime": 20526,
+        "endTime": 22272,
+        "text": "Double chocolate chip muffin coming."
+    },
+    {
+        "startTime": 28053,
+        "endTime": 30815,
+        "text": "You want three Paul McCartney CDs, awesome!"
+    },
+    {
+        "startTime": 31324,
+        "endTime": 34370,
+        "text": "I love the Beatles; they are my life."
+    },
+    {
+        "startTime": 39415,
+        "endTime": 41197,
+        "text": "Assassination, Abraham Lincoln."
+    },
+    {
+        "startTime": 42623,
+        "endTime": 46237,
+        "text": "You, me, gun, shoot."
+    },
+    {
+        "startTime": 48333,
+        "endTime": 49269,
+        "text": "Three shots!"
+    },
+    {
+        "startTime": 54261,
+        "endTime": 57786,
+        "text": "All right so three lattes, three mochas,..."
+    },
+    {
+        "startTime": 57942,
+        "endTime": 61981,
+        "text": "...double chocolate chip muffin and three shots, no assassination."
+    },
+    {
+        "startTime": 62835,
+        "endTime": 64657,
+        "text": "And oh ,three Paul McCartney CDs."
+    },
+    {
+        "startTime": 66066,
+        "endTime": 67607,
+        "text": "That's gonna be 68.12."
+    }
+]

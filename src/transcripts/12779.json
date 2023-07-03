@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 2208,
+        "endTime": 5264,
+        "text": "Hello, Hideaway Restaurant. How may I help you?"
+    },
+    {
+        "startTime": 5673,
+        "endTime": 8128,
+        "text": "Hello there, do I have to make a reservation?"
+    },
+    {
+        "startTime": 8633,
+        "endTime": 9362,
+        "text": "Yes, ma'am."
+    },
+    {
+        "startTime": 9741,
+        "endTime": 14173,
+        "text": "Then, I'd like to make a reservation for dinner there next Sunday night."
+    },
+    {
+        "startTime": 14809,
+        "endTime": 18915,
+        "text": "Next Sunday night? I'm sorry, it's already full."
+    },
+    {
+        "startTime": 19479,
+        "endTime": 22287,
+        "text": "Then, can I make a reservation for next Saturday?"
+    },
+    {
+        "startTime": 22667,
+        "endTime": 24182,
+        "text": "Is 8:30 available?"
+    },
+    {
+        "startTime": 24854,
+        "endTime": 28718,
+        "text": "Yes, 8:30 is fine. And for how many people?"
+    },
+    {
+        "startTime": 29119,
+        "endTime": 30497,
+        "text": "There will be four of us."
+    },
+    {
+        "startTime": 31064,
+        "endTime": 32743,
+        "text": "Okay, you're all set."
+    },
+    {
+        "startTime": 33228,
+        "endTime": 35435,
+        "text": "I'd like to confirm my reservation again."
+    },
+    {
+        "startTime": 35857,
+        "endTime": 39299,
+        "text": "It's 8:30 at Hideaway Restaurant next Saturday, right?"
+    },
+    {
+        "startTime": 39840,
+        "endTime": 41087,
+        "text": "Yes, that's correct."
+    }
+]

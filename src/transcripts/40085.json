@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 50,
+        "endTime": 3345,
+        "text": "Here are some phrases you can use to describe the weather."
+    },
+    {
+        "startTime": 5099,
+        "endTime": 6163,
+        "text": "What's the weather like?"
+    },
+    {
+        "startTime": 7932,
+        "endTime": 9043,
+        "text": "The weather's fine."
+    },
+    {
+        "startTime": 10827,
+        "endTime": 12049,
+        "text": "It's a sunny day today."
+    },
+    {
+        "startTime": 13838,
+        "endTime": 15310,
+        "text": "It's been raining all day."
+    },
+    {
+        "startTime": 17038,
+        "endTime": 18567,
+        "text": "It's freezing cold."
+    },
+    {
+        "startTime": 20113,
+        "endTime": 21553,
+        "text": "It looks like it's going to rain."
+    },
+    {
+        "startTime": 23417,
+        "endTime": 24820,
+        "text": "It's pouring out there."
+    },
+    {
+        "startTime": 26648,
+        "endTime": 27642,
+        "text": "The sun's come out."
+    },
+    {
+        "startTime": 29227,
+        "endTime": 30746,
+        "text": "What a nice day!"
+    },
+    {
+        "startTime": 32442,
+        "endTime": 33961,
+        "text": "That sounds like thunder."
+    }
+]

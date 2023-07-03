@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 1727,
+        "endTime": 4525,
+        "text": "Hello, may I speak to Mrs. Jones, please?"
+    },
+    {
+        "startTime": 4936,
+        "endTime": 7709,
+        "text": "I'm sorry, but Mrs. Jones isn't in at the moment."
+    },
+    {
+        "startTime": 7987,
+        "endTime": 9235,
+        "text": "May I ask who's calling?"
+    },
+    {
+        "startTime": 9617,
+        "endTime": 12087,
+        "text": "Yes, my name is Kathy Jackson."
+    },
+    {
+        "startTime": 12347,
+        "endTime": 16049,
+        "text": "I spoke with her last week about the possibility of working there."
+    },
+    {
+        "startTime": 16583,
+        "endTime": 20897,
+        "text": "Kathy Jackson. Yes, I think I recognize your name."
+    },
+    {
+        "startTime": 21399,
+        "endTime": 24642,
+        "text": "Do you happen to know if your company is looking for anyone now?"
+    },
+    {
+        "startTime": 25304,
+        "endTime": 28257,
+        "text": "I'm afraid I'm not the right person to ask about that."
+    },
+    {
+        "startTime": 28632,
+        "endTime": 31069,
+        "text": "You'll need to speak directly to Mrs. Jones."
+    },
+    {
+        "startTime": 31403,
+        "endTime": 33482,
+        "text": "But she can't answer the phone right now."
+    },
+    {
+        "startTime": 33863,
+        "endTime": 37888,
+        "text": "Okay, I understand. Well, could I leave a message for her, please?"
+    },
+    {
+        "startTime": 38218,
+        "endTime": 41485,
+        "text": "Certainly. Is there a number that she can reach you at?"
+    },
+    {
+        "startTime": 41901,
+        "endTime": 44467,
+        "text": "Actually, I don't have a number with me now."
+    },
+    {
+        "startTime": 44748,
+        "endTime": 45821,
+        "text": "I'll call back later."
+    },
+    {
+        "startTime": 46240,
+        "endTime": 49253,
+        "text": "Okay, I will give her the message that you will call back."
+    },
+    {
+        "startTime": 49569,
+        "endTime": 50848,
+        "text": "Thank you very much."
+    }
+]

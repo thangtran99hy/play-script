@@ -1,0 +1,102 @@
+[
+    {
+        "startTime": 2608,
+        "endTime": 4109,
+        "text": "I open the door."
+    },
+    {
+        "startTime": 5067,
+        "endTime": 6500,
+        "text": "You close the door."
+    },
+    {
+        "startTime": 7447,
+        "endTime": 9057,
+        "text": "I open the window."
+    },
+    {
+        "startTime": 10037,
+        "endTime": 11557,
+        "text": "You close the window."
+    },
+    {
+        "startTime": 12594,
+        "endTime": 14113,
+        "text": "I open the drawer."
+    },
+    {
+        "startTime": 15112,
+        "endTime": 16775,
+        "text": "You close the drawer."
+    },
+    {
+        "startTime": 17705,
+        "endTime": 19480,
+        "text": "I open the box."
+    },
+    {
+        "startTime": 20491,
+        "endTime": 22277,
+        "text": "You close the box."
+    },
+    {
+        "startTime": 23292,
+        "endTime": 24891,
+        "text": "I open the book."
+    },
+    {
+        "startTime": 25917,
+        "endTime": 27426,
+        "text": "You close the book."
+    },
+    {
+        "startTime": 28453,
+        "endTime": 30067,
+        "text": "I open the jar."
+    },
+    {
+        "startTime": 31062,
+        "endTime": 32725,
+        "text": "You close the jar."
+    },
+    {
+        "startTime": 33799,
+        "endTime": 35484,
+        "text": "I open the cage."
+    },
+    {
+        "startTime": 36478,
+        "endTime": 39373,
+        "text": "Quick, quick! Close the cage."
+    },
+    {
+        "startTime": 42657,
+        "endTime": 44381,
+        "text": "Do you open the door?"
+    },
+    {
+        "startTime": 45408,
+        "endTime": 49631,
+        "text": "No, I don't open the door. I close the door."
+    },
+    {
+        "startTime": 50627,
+        "endTime": 52546,
+        "text": "Does he close the box?"
+    },
+    {
+        "startTime": 53588,
+        "endTime": 57988,
+        "text": "No, he doesn't close the box. He closes the drawer."
+    },
+    {
+        "startTime": 58951,
+        "endTime": 60889,
+        "text": "Do they open the cage?"
+    },
+    {
+        "startTime": 61785,
+        "endTime": 64103,
+        "text": "Yes, they open the cage."
+    }
+]

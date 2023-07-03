@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 1986,
+        "endTime": 3686,
+        "text": "My hair is curly."
+    },
+    {
+        "startTime": 4854,
+        "endTime": 6633,
+        "text": "My hair is straight."
+    },
+    {
+        "startTime": 7777,
+        "endTime": 9515,
+        "text": "My hair is black."
+    },
+    {
+        "startTime": 10786,
+        "endTime": 12528,
+        "text": "My hair is blond."
+    },
+    {
+        "startTime": 13751,
+        "endTime": 15501,
+        "text": "My hair is braided."
+    },
+    {
+        "startTime": 16709,
+        "endTime": 18527,
+        "text": "My hair is short."
+    },
+    {
+        "startTime": 19779,
+        "endTime": 21334,
+        "text": "My hair is long."
+    },
+    {
+        "startTime": 22463,
+        "endTime": 24365,
+        "text": "What is your hair like?"
+    },
+    {
+        "startTime": 28695,
+        "endTime": 30248,
+        "text": "What is your hair like?"
+    },
+    {
+        "startTime": 31500,
+        "endTime": 33122,
+        "text": "My hair is curly."
+    },
+    {
+        "startTime": 34335,
+        "endTime": 36339,
+        "text": "What is your brother's hair like?"
+    },
+    {
+        "startTime": 37479,
+        "endTime": 39763,
+        "text": "His hair is short and straight."
+    },
+    {
+        "startTime": 40959,
+        "endTime": 43054,
+        "text": "What is your sister's hair like?"
+    },
+    {
+        "startTime": 44222,
+        "endTime": 46313,
+        "text": "Her hair is long and curly."
+    }
+]

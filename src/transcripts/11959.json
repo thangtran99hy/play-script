@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 720,
+        "endTime": 2550,
+        "text": "In the past, when we thought about computing,..."
+    },
+    {
+        "startTime": 2790,
+        "endTime": 3800,
+        "text": "...we thought about boxes."
+    },
+    {
+        "startTime": 4650,
+        "endTime": 7480,
+        "text": "On a smarter planet, computing has left the box,..."
+    },
+    {
+        "startTime": 7980,
+        "endTime": 11260,
+        "text": "...generating 2.5 quintillion bytes of data every day."
+    },
+    {
+        "startTime": 11580,
+        "endTime": 13150,
+        "text": "Today, everything computes."
+    },
+    {
+        "startTime": 13450,
+        "endTime": 15640,
+        "text": "Which means we need to think differently about computing."
+    },
+    {
+        "startTime": 15880,
+        "endTime": 16890,
+        "text": "How we manage it,..."
+    },
+    {
+        "startTime": 17040,
+        "endTime": 17660,
+        "text": "...how we deliver it,..."
+    },
+    {
+        "startTime": 17890,
+        "endTime": 19340,
+        "text": "...how we design it to run a railroad,..."
+    },
+    {
+        "startTime": 19460,
+        "endTime": 20380,
+        "text": "...spot a trend,..."
+    },
+    {
+        "startTime": 20630,
+        "endTime": 22520,
+        "text": "...spot a market change and act on it."
+    },
+    {
+        "startTime": 23000,
+        "endTime": 25390,
+        "text": "A smarter planet is built with smarter computing."
+    },
+    {
+        "startTime": 25770,
+        "endTime": 28490,
+        "text": "I'm an IBMer. Let's build a smarter planet."
+    }
+]

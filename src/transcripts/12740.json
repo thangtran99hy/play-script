@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 1851,
+        "endTime": 3997,
+        "text": "Hey, Changmin. Can you do me a favor?"
+    },
+    {
+        "startTime": 4185,
+        "endTime": 6501,
+        "text": "Sure, I'd be happy to. What's wrong?"
+    },
+    {
+        "startTime": 6877,
+        "endTime": 10321,
+        "text": "Well, I've been having a lot of trouble with my computer lately."
+    },
+    {
+        "startTime": 10767,
+        "endTime": 14425,
+        "text": "I'm not very good with computers, so I don't really know what to do."
+    },
+    {
+        "startTime": 14601,
+        "endTime": 16916,
+        "text": "I see. What is going wrong?"
+    },
+    {
+        "startTime": 17411,
+        "endTime": 20773,
+        "text": "It keeps shutting down whenever I open up a certain program."
+    },
+    {
+        "startTime": 21017,
+        "endTime": 24735,
+        "text": "Uh-oh. That doesn't sound very good. You might have a virus."
+    },
+    {
+        "startTime": 25006,
+        "endTime": 27140,
+        "text": "Have you had your computer checked for viruses?"
+    },
+    {
+        "startTime": 27455,
+        "endTime": 32431,
+        "text": "Viruses? No, I haven't. Would you mind checking my computer for viruses?"
+    },
+    {
+        "startTime": 32585,
+        "endTime": 35175,
+        "text": "Sure, I have a program on a disk that will help."
+    },
+    {
+        "startTime": 35713,
+        "endTime": 36999,
+        "text": "Why don't I go home and get it,..."
+    },
+    {
+        "startTime": 37299,
+        "endTime": 40173,
+        "text": "...then we can meet up and try using it on your computer?"
+    },
+    {
+        "startTime": 40406,
+        "endTime": 43489,
+        "text": "That sounds great, Changmin. I really appreciate your help!"
+    },
+    {
+        "startTime": 43785,
+        "endTime": 44801,
+        "text": "I owe you big."
+    }
+]

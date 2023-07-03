@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 2204,
+        "endTime": 4899,
+        "text": "Yes, do you have a question you'd like to ask me?"
+    },
+    {
+        "startTime": 5284,
+        "endTime": 8587,
+        "text": "Yes, sir. I have a few questions about the class requirements."
+    },
+    {
+        "startTime": 9045,
+        "endTime": 11048,
+        "text": "Sure, what would you like to know?"
+    },
+    {
+        "startTime": 11505,
+        "endTime": 13550,
+        "text": "Well, could you tell me how to use this?"
+    },
+    {
+        "startTime": 14067,
+        "endTime": 19043,
+        "text": "Okay, let me show you. First of all, you should insert your student ID."
+    },
+    {
+        "startTime": 19723,
+        "endTime": 22381,
+        "text": "Now, it will print out the class requirements."
+    },
+    {
+        "startTime": 22873,
+        "endTime": 24113,
+        "text": "Okay, I see."
+    },
+    {
+        "startTime": 24714,
+        "endTime": 28781,
+        "text": "There will also be a few quizzes and homework assignments during the semester."
+    },
+    {
+        "startTime": 29352,
+        "endTime": 30717,
+        "text": "And what will they be worth?"
+    },
+    {
+        "startTime": 31269,
+        "endTime": 37067,
+        "text": "They will count for 10% of your final grade. Attendance is also worth 10%."
+    }
+]

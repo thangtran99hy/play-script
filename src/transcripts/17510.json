@@ -1,0 +1,122 @@
+[
+    {
+        "startTime": 2475,
+        "endTime": 4463,
+        "text": "A nut falls from a tree."
+    },
+    {
+        "startTime": 5185,
+        "endTime": 6488,
+        "text": "The nut hits Rabbit."
+    },
+    {
+        "startTime": 7467,
+        "endTime": 9944,
+        "text": "Rabbit runs to tell Fox."
+    },
+    {
+        "startTime": 11577,
+        "endTime": 13080,
+        "text": "The sky is falling."
+    },
+    {
+        "startTime": 14823,
+        "endTime": 15837,
+        "text": "Says Rabbit."
+    },
+    {
+        "startTime": 16597,
+        "endTime": 18542,
+        "text": "Fox runs to tell Bear."
+    },
+    {
+        "startTime": 19811,
+        "endTime": 21405,
+        "text": "The sky is falling."
+    },
+    {
+        "startTime": 22764,
+        "endTime": 23846,
+        "text": "Says Fox."
+    },
+    {
+        "startTime": 24668,
+        "endTime": 26791,
+        "text": "Bear runs to tell Squirrel."
+    },
+    {
+        "startTime": 27333,
+        "endTime": 29269,
+        "text": "The sky is falling."
+    },
+    {
+        "startTime": 30484,
+        "endTime": 31331,
+        "text": "Says Bear."
+    },
+    {
+        "startTime": 32237,
+        "endTime": 34493,
+        "text": "Squirrel runs to tell Deer."
+    },
+    {
+        "startTime": 35897,
+        "endTime": 37419,
+        "text": "The sky is falling."
+    },
+    {
+        "startTime": 38753,
+        "endTime": 39813,
+        "text": "Says Squirrel."
+    },
+    {
+        "startTime": 41019,
+        "endTime": 43036,
+        "text": "Deer runs to tell Mouse."
+    },
+    {
+        "startTime": 44215,
+        "endTime": 45497,
+        "text": "The sky is falling."
+    },
+    {
+        "startTime": 46693,
+        "endTime": 47611,
+        "text": "Says Deer."
+    },
+    {
+        "startTime": 48332,
+        "endTime": 51054,
+        "text": "Mouse runs to tell Wise Old Owl."
+    },
+    {
+        "startTime": 52364,
+        "endTime": 53927,
+        "text": "The sky is falling."
+    },
+    {
+        "startTime": 55087,
+        "endTime": 56023,
+        "text": "Says Mouse."
+    },
+    {
+        "startTime": 56635,
+        "endTime": 58661,
+        "text": "No, it is not."
+    },
+    {
+        "startTime": 59984,
+        "endTime": 61617,
+        "text": "Says Wise Old Owl."
+    },
+    {
+        "startTime": 62921,
+        "endTime": 65096,
+        "text": "A nut fell from the tree."
+    },
+    {
+        "startTime": 65603,
+        "endTime": 67935,
+        "text": "It hit Rabbit on the head."
+    }
+]

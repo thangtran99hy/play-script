@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 375,
+        "endTime": 2288,
+        "text": "Likes and dislikes."
+    },
+    {
+        "startTime": 4588,
+        "endTime": 6099,
+        "text": "I like pizza."
+    },
+    {
+        "startTime": 10287,
+        "endTime": 12464,
+        "text": "I don't like pasta."
+    },
+    {
+        "startTime": 15611,
+        "endTime": 17185,
+        "text": "I like cats."
+    },
+    {
+        "startTime": 21766,
+        "endTime": 24587,
+        "text": "I don't like dogs."
+    },
+    {
+        "startTime": 28489,
+        "endTime": 30472,
+        "text": "I love the color green."
+    },
+    {
+        "startTime": 33693,
+        "endTime": 35047,
+        "text": "I don't like pink."
+    },
+    {
+        "startTime": 38840,
+        "endTime": 41016,
+        "text": "I'm a big hockey fan."
+    },
+    {
+        "startTime": 45141,
+        "endTime": 47128,
+        "text": "I don't like basketball much."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 3842,
+        "endTime": 4744,
+        "text": "They ate."
+    },
+    {
+        "startTime": 6365,
+        "endTime": 7657,
+        "text": "She didn't eat."
+    },
+    {
+        "startTime": 12694,
+        "endTime": 13742,
+        "text": "We went to Canada."
+    },
+    {
+        "startTime": 15317,
+        "endTime": 16693,
+        "text": "They ran fast."
+    },
+    {
+        "startTime": 18284,
+        "endTime": 19881,
+        "text": "John sat in a chair."
+    },
+    {
+        "startTime": 21460,
+        "endTime": 23217,
+        "text": "He swam really fast."
+    },
+    {
+        "startTime": 24863,
+        "endTime": 25956,
+        "text": "She taught Math."
+    },
+    {
+        "startTime": 27562,
+        "endTime": 29068,
+        "text": "She slept in class."
+    }
+]

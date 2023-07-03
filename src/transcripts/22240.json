@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 23615,
+        "endTime": 25375,
+        "text": "Hello, this is Dr. Miller."
+    },
+    {
+        "startTime": 28564,
+        "endTime": 32492,
+        "text": "Hello, this is Seita from AERA English TV. How may I assist your call?"
+    },
+    {
+        "startTime": 39005,
+        "endTime": 42889,
+        "text": "Good afternoon, JP&B Associates. How can I help you?"
+    },
+    {
+        "startTime": 46281,
+        "endTime": 49295,
+        "text": "Hello, Mr. Nesbitt's office. How can I help you?"
+    },
+    {
+        "startTime": 56325,
+        "endTime": 58903,
+        "text": "Hello? May I speak to Amanda, please?"
+    },
+    {
+        "startTime": 62354,
+        "endTime": 65668,
+        "text": "This is Maki. May I speak to Eric, please?"
+    },
+    {
+        "startTime": 71621,
+        "endTime": 75167,
+        "text": "He's not here. May I ask who's calling, please?"
+    },
+    {
+        "startTime": 78583,
+        "endTime": 82893,
+        "text": "I'm sorry, but Mrs. Jones isn't in at the moment. May I ask who's calling?"
+    },
+    {
+        "startTime": 89183,
+        "endTime": 90546,
+        "text": "Would you like to leave a message?"
+    },
+    {
+        "startTime": 94411,
+        "endTime": 96520,
+        "text": "Hey, sorry I missed you. Leave a message."
+    },
+    {
+        "startTime": 102413,
+        "endTime": 103809,
+        "text": "You must have dialed the wrong number."
+    }
+]

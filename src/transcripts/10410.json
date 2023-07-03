@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 150,
+        "endTime": 3300,
+        "text": "Your total's gonna be sixty-nine dollars and twenty-five cents."
+    },
+    {
+        "startTime": 3450,
+        "endTime": 5800,
+        "text": "Will you be using your Banana Republic card to pay?"
+    },
+    {
+        "startTime": 6150,
+        "endTime": 8900,
+        "text": "I can give you ten percent off if you use your card today."
+    },
+    {
+        "startTime": 9700,
+        "endTime": 10900,
+        "text": "Yes, okay."
+    },
+    {
+        "startTime": 11750,
+        "endTime": 14250,
+        "text": "If I could just have your signature right here."
+    },
+    {
+        "startTime": 15000,
+        "endTime": 15850,
+        "text": "Sure."
+    },
+    {
+        "startTime": 16700,
+        "endTime": 19300,
+        "text": "Thank you. Would you like your receipt in the bag?"
+    },
+    {
+        "startTime": 20100,
+        "endTime": 21200,
+        "text": "Yes, please."
+    },
+    {
+        "startTime": 21950,
+        "endTime": 25300,
+        "text": "Okay, you're all set. Enjoy your new sweater!"
+    },
+    {
+        "startTime": 26150,
+        "endTime": 26900,
+        "text": "Thanks!"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 2425,
+        "endTime": 3295,
+        "text": "Excuse me, sir."
+    },
+    {
+        "startTime": 3648,
+        "endTime": 7272,
+        "text": "I'm sorry to bother you, but could you tell me how to get to the Citibank?"
+    },
+    {
+        "startTime": 7824,
+        "endTime": 8941,
+        "text": "Yes, no problem."
+    },
+    {
+        "startTime": 9390,
+        "endTime": 12017,
+        "text": "There's a Citibank branch not too far from here."
+    },
+    {
+        "startTime": 12563,
+        "endTime": 14219,
+        "text": "How long does it take to get to the bank?"
+    },
+    {
+        "startTime": 14833,
+        "endTime": 16558,
+        "text": "It's about 5 minutes walking."
+    },
+    {
+        "startTime": 17151,
+        "endTime": 20304,
+        "text": "Do you see the department store up ahead one block?"
+    },
+    {
+        "startTime": 20843,
+        "endTime": 22602,
+        "text": "Yes, on the right side, right?"
+    },
+    {
+        "startTime": 22977,
+        "endTime": 28097,
+        "text": "Yes, that's it, just go past the department store and take your first right."
+    },
+    {
+        "startTime": 28675,
+        "endTime": 31475,
+        "text": "Okay, take a right after the department store?"
+    },
+    {
+        "startTime": 31943,
+        "endTime": 34867,
+        "text": "Yes, then go straight about a block and a half..."
+    },
+    {
+        "startTime": 35294,
+        "endTime": 37195,
+        "text": "...and you'll see Citibank on your left."
+    },
+    {
+        "startTime": 37571,
+        "endTime": 39476,
+        "text": "It's next to a sporting goods store."
+    },
+    {
+        "startTime": 39689,
+        "endTime": 40672,
+        "text": "You can't miss it!"
+    },
+    {
+        "startTime": 41221,
+        "endTime": 42545,
+        "text": "Thank you very much for your help!"
+    }
+]

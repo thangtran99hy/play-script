@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 11,
+        "endTime": 2965,
+        "text": "Harvard Pediatric Associates, good morning!"
+    },
+    {
+        "startTime": 3370,
+        "endTime": 4530,
+        "text": "How can I help you?"
+    },
+    {
+        "startTime": 5145,
+        "endTime": 7440,
+        "text": "Hi! Could I speak with Doctor Miller?"
+    },
+    {
+        "startTime": 8400,
+        "endTime": 12380,
+        "text": "This is Daniel Nelson's mom; Daniel is a patient at your practice."
+    },
+    {
+        "startTime": 13130,
+        "endTime": 15415,
+        "text": "One moment, I'll transfer you to the doctor."
+    },
+    {
+        "startTime": 16020,
+        "endTime": 18085,
+        "text": "Hello, this is Doctor Miller."
+    },
+    {
+        "startTime": 18485,
+        "endTime": 19500,
+        "text": "Hi, Doctor Miller."
+    },
+    {
+        "startTime": 19630,
+        "endTime": 21870,
+        "text": "This is Helen Nelson, Daniel's mom."
+    },
+    {
+        "startTime": 22220,
+        "endTime": 23600,
+        "text": "I'm sorry to bother you!"
+    },
+    {
+        "startTime": 23990,
+        "endTime": 26380,
+        "text": "That's alright, I'm here to help."
+    }
+]

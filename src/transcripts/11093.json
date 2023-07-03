@@ -1,0 +1,137 @@
+[
+    {
+        "startTime": 3300,
+        "endTime": 8650,
+        "text": "As computer use becomes more common, the need for security is more important than ever."
+    },
+    {
+        "startTime": 9150,
+        "endTime": 12800,
+        "text": "One of the greatest security threats in the online world is computer hacking."
+    },
+    {
+        "startTime": 13400,
+        "endTime": 18200,
+        "text": "Computer hacking is the unauthorized access to a computer or network of computers."
+    },
+    {
+        "startTime": 18650,
+        "endTime": 21500,
+        "text": "Hackers are people who illegally enter systems."
+    },
+    {
+        "startTime": 22000,
+        "endTime": 25700,
+        "text": "They may alter or delete information, steal private information,..."
+    },
+    {
+        "startTime": 26000,
+        "endTime": 29400,
+        "text": "...or spread viruses that can damage or destroy files."
+    },
+    {
+        "startTime": 30000,
+        "endTime": 33650,
+        "text": "But how exactly can a hacker get into a system to do these things?"
+    },
+    {
+        "startTime": 34250,
+        "endTime": 39400,
+        "text": "Most hackers use information called protocols that are built into computer software."
+    },
+    {
+        "startTime": 40050,
+        "endTime": 43350,
+        "text": "These protocols allow computers to interact with one another."
+    },
+    {
+        "startTime": 43850,
+        "endTime": 46800,
+        "text": "Protocols are sort of like computer police officers."
+    },
+    {
+        "startTime": 47200,
+        "endTime": 52200,
+        "text": "When a computer connects to another system, the protocols check to see if the access is valid."
+    },
+    {
+        "startTime": 52650,
+        "endTime": 57450,
+        "text": "The protocols can also determine how much information can be shared between the two systems."
+    },
+    {
+        "startTime": 57800,
+        "endTime": 62250,
+        "text": "Hackers can manipulate the protocols to get unlimited access to a computer system."
+    },
+    {
+        "startTime": 62800,
+        "endTime": 66900,
+        "text": "In fact, just the act of entering a computer network is considered hacking."
+    },
+    {
+        "startTime": 67450,
+        "endTime": 69900,
+        "text": "This is commonly called passive hacking."
+    },
+    {
+        "startTime": 70500,
+        "endTime": 76600,
+        "text": "Passive hackers get a rush from just being able to access a challenging system like a bank or military network."
+    },
+    {
+        "startTime": 77200,
+        "endTime": 80100,
+        "text": "Another kind of hacker tries to do damage to a system."
+    },
+    {
+        "startTime": 80650,
+        "endTime": 87150,
+        "text": "After hacking into systems, these hackers release viruses or alter, delete, or take information."
+    },
+    {
+        "startTime": 87800,
+        "endTime": 91700,
+        "text": "Known as active hackers, they are by far, the more dangerous of the two."
+    },
+    {
+        "startTime": 92500,
+        "endTime": 95800,
+        "text": "The easiest way to protect a system is with a good password."
+    },
+    {
+        "startTime": 96250,
+        "endTime": 99800,
+        "text": "Long and unusual passwords are harder for hackers to guess."
+    },
+    {
+        "startTime": 100250,
+        "endTime": 105450,
+        "text": "For even greater security, some online services now use \"password-plus\" systems."
+    },
+    {
+        "startTime": 105750,
+        "endTime": 108550,
+        "text": "In this case, users first put in a password..."
+    },
+    {
+        "startTime": 108600,
+        "endTime": 113200,
+        "text": "...and then put in a second code that changes after the user accesses the site."
+    },
+    {
+        "startTime": 113850,
+        "endTime": 119250,
+        "text": "Users either have special cards or devices that show them the new code to use the next time."
+    },
+    {
+        "startTime": 120000,
+        "endTime": 122900,
+        "text": "Even if a hacker steals the password, they won't have the code."
+    },
+    {
+        "startTime": 123400,
+        "endTime": 127100,
+        "text": "Or if the hacker somehow gets the code, they still don't know the password."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "startTime": 549,
+        "endTime": 2402,
+        "text": "Project Bloks is a research project,..."
+    },
+    {
+        "startTime": 2621,
+        "endTime": 4989,
+        "text": "...and our goal is to create an open hardware platform..."
+    },
+    {
+        "startTime": 5329,
+        "endTime": 7469,
+        "text": "...in which developers, makers and designers..."
+    },
+    {
+        "startTime": 7838,
+        "endTime": 10446,
+        "text": "...can create hands-on programming experiences for kids."
+    },
+    {
+        "startTime": 11540,
+        "endTime": 14817,
+        "text": "As a first step, we've created a system for tangible programming..."
+    },
+    {
+        "startTime": 15770,
+        "endTime": 18315,
+        "text": "...and this system consists of three main components:..."
+    },
+    {
+        "startTime": 18636,
+        "endTime": 21663,
+        "text": "...the brain board, base boards and pucks."
+    },
+    {
+        "startTime": 22839,
+        "endTime": 25067,
+        "text": "The base board works by placing a puck onto it,..."
+    },
+    {
+        "startTime": 25830,
+        "endTime": 28215,
+        "text": "...and pucks can be programmed with different instructions..."
+    },
+    {
+        "startTime": 28311,
+        "endTime": 32887,
+        "text": "...like turn on or off, move in a direction or increase amount."
+    },
+    {
+        "startTime": 33895,
+        "endTime": 36395,
+        "text": "The board then simply reads that puck's instruction."
+    },
+    {
+        "startTime": 37361,
+        "endTime": 40057,
+        "text": "The brain board provides power and connectivity,..."
+    },
+    {
+        "startTime": 40609,
+        "endTime": 43909,
+        "text": "...and when you connect base boards to it, it can read their instructions..."
+    },
+    {
+        "startTime": 44041,
+        "endTime": 47372,
+        "text": "...and send them to connected objects like a toy or a tablet."
+    },
+    {
+        "startTime": 48157,
+        "endTime": 50427,
+        "text": "The boards can be rearranged in different ways..."
+    },
+    {
+        "startTime": 51011,
+        "endTime": 52955,
+        "text": "...and wrapped in different forms and materials..."
+    },
+    {
+        "startTime": 53491,
+        "endTime": 55841,
+        "text": "...to create all sorts of physical coding experiences."
+    },
+    {
+        "startTime": 56615,
+        "endTime": 60603,
+        "text": "Like a music maker, where you use physical code to compose music..."
+    },
+    {
+        "startTime": 61143,
+        "endTime": 62677,
+        "text": "...and send it to a wireless speaker."
+    },
+    {
+        "startTime": 63483,
+        "endTime": 66759,
+        "text": "The ultimate aim of Project Bloks is to give all the work we've done..."
+    },
+    {
+        "startTime": 66868,
+        "endTime": 70573,
+        "text": "...back to the education research and development community for free..."
+    },
+    {
+        "startTime": 70929,
+        "endTime": 73132,
+        "text": "...to accelerate the field of physical programming for kids."
+    }
+]

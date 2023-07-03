@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 511,
+        "endTime": 2125,
+        "text": "Directory Assistance."
+    },
+    {
+        "startTime": 2473,
+        "endTime": 5970,
+        "text": "May I have the number for Tom Leeds in Denver, Colorado?"
+    },
+    {
+        "startTime": 6310,
+        "endTime": 7469,
+        "text": "Just a moment."
+    },
+    {
+        "startTime": 7933,
+        "endTime": 14667,
+        "text": "The number is 515-739-0882."
+    },
+    {
+        "startTime": 15200,
+        "endTime": 17290,
+        "text": "May I help you with anything else?"
+    },
+    {
+        "startTime": 17595,
+        "endTime": 18093,
+        "text": "No."
+    },
+    {
+        "startTime": 18174,
+        "endTime": 19389,
+        "text": "That's all, thank you."
+    },
+    {
+        "startTime": 19884,
+        "endTime": 20925,
+        "text": "Have a great day."
+    }
+]

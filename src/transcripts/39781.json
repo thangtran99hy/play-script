@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 608,
+        "endTime": 2053,
+        "text": "What is the date today?"
+    },
+    {
+        "startTime": 3781,
+        "endTime": 5487,
+        "text": "Today is June 28th."
+    },
+    {
+        "startTime": 7006,
+        "endTime": 8686,
+        "text": "What is the date today?"
+    },
+    {
+        "startTime": 10467,
+        "endTime": 12672,
+        "text": "It's October 22nd."
+    },
+    {
+        "startTime": 14007,
+        "endTime": 15545,
+        "text": "Is it July 8th today?"
+    },
+    {
+        "startTime": 17100,
+        "endTime": 17957,
+        "text": "Yes, it is."
+    },
+    {
+        "startTime": 19688,
+        "endTime": 21246,
+        "text": "Is it March 5th today?"
+    },
+    {
+        "startTime": 22201,
+        "endTime": 23802,
+        "text": "No, it's March 6th."
+    }
+]

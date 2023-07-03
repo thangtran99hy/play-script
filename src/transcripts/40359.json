@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 256,
+        "endTime": 3877,
+        "text": "Let's learn phrases you can use at a bus or train station."
+    },
+    {
+        "startTime": 5649,
+        "endTime": 6866,
+        "text": "I'd like to go to..."
+    },
+    {
+        "startTime": 8791,
+        "endTime": 10673,
+        "text": "Is this the right platform for...?"
+    },
+    {
+        "startTime": 12583,
+        "endTime": 14178,
+        "text": "What time is the last train?"
+    },
+    {
+        "startTime": 16071,
+        "endTime": 17535,
+        "text": "Where do I change for...?"
+    },
+    {
+        "startTime": 19476,
+        "endTime": 20765,
+        "text": "Where can I buy a ticket?"
+    },
+    {
+        "startTime": 22649,
+        "endTime": 23936,
+        "text": "How much is it to...?"
+    },
+    {
+        "startTime": 25787,
+        "endTime": 27678,
+        "text": "Does this bus go to...?"
+    },
+    {
+        "startTime": 29484,
+        "endTime": 31101,
+        "text": "What time is the next bus?"
+    },
+    {
+        "startTime": 32966,
+        "endTime": 34568,
+        "text": "The train is running late."
+    },
+    {
+        "startTime": 36466,
+        "endTime": 37976,
+        "text": "Where are the ticket machines?"
+    }
+]

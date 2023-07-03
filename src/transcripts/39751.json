@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 345,
+        "endTime": 1159,
+        "text": "Hi, Janine!"
+    },
+    {
+        "startTime": 1931,
+        "endTime": 3820,
+        "text": "Could you show me my schedule this month?"
+    },
+    {
+        "startTime": 5985,
+        "endTime": 7571,
+        "text": "Yes, Mr. Williams."
+    },
+    {
+        "startTime": 11125,
+        "endTime": 13425,
+        "text": "You have a meeting with sales on May 3rd."
+    },
+    {
+        "startTime": 16674,
+        "endTime": 18935,
+        "text": "You have an interview on May 15th."
+    },
+    {
+        "startTime": 20893,
+        "endTime": 23757,
+        "text": "There is a company party on May 24th."
+    },
+    {
+        "startTime": 25171,
+        "endTime": 25866,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 28407,
+        "endTime": 30405,
+        "text": "When is my dinner with Mr. Jones?"
+    },
+    {
+        "startTime": 31005,
+        "endTime": 32493,
+        "text": "Oh. That's next month."
+    },
+    {
+        "startTime": 32908,
+        "endTime": 34015,
+        "text": "That's on June 10th."
+    },
+    {
+        "startTime": 36393,
+        "endTime": 38695,
+        "text": "When is my conference call with HR?"
+    },
+    {
+        "startTime": 39890,
+        "endTime": 41215,
+        "text": "That's also next month."
+    },
+    {
+        "startTime": 41578,
+        "endTime": 42820,
+        "text": "That's on June 16th."
+    },
+    {
+        "startTime": 44907,
+        "endTime": 45432,
+        "text": "Thanks!"
+    },
+    {
+        "startTime": 46157,
+        "endTime": 47031,
+        "text": "You're welcome, sir."
+    }
+]

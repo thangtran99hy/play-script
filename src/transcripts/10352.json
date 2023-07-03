@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 150,
+        "endTime": 3200,
+        "text": "Sorry Rebecca, I can't meet you for lunch tomorrow."
+    },
+    {
+        "startTime": 3950,
+        "endTime": 6600,
+        "text": "Steve asked me to play tennis with him."
+    },
+    {
+        "startTime": 7050,
+        "endTime": 9050,
+        "text": "I didn't know you played tennis."
+    },
+    {
+        "startTime": 9600,
+        "endTime": 12600,
+        "text": "I don't- but Steve does!"
+    },
+    {
+        "startTime": 12800,
+        "endTime": 14900,
+        "text": "Did you tell him you are a beginner?"
+    },
+    {
+        "startTime": 15250,
+        "endTime": 19000,
+        "text": "Well, no, I 'forgot' to mention that."
+    },
+    {
+        "startTime": 19500,
+        "endTime": 21800,
+        "text": "You might want to practice first."
+    },
+    {
+        "startTime": 22650,
+        "endTime": 25300,
+        "text": "Meet me at the tennis court today at three o'clock."
+    },
+    {
+        "startTime": 26100,
+        "endTime": 28000,
+        "text": "I'll give you a quick tennis lesson."
+    },
+    {
+        "startTime": 28150,
+        "endTime": 30700,
+        "text": "Thank you, that sounds like a good idea."
+    }
+]

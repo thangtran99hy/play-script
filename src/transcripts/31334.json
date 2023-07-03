@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 3677,
+        "endTime": 5355,
+        "text": "It is three o'clock."
+    },
+    {
+        "startTime": 6829,
+        "endTime": 7868,
+        "text": "It's night."
+    },
+    {
+        "startTime": 9389,
+        "endTime": 10513,
+        "text": "It is winter."
+    },
+    {
+        "startTime": 15697,
+        "endTime": 16736,
+        "text": "It's sunny."
+    },
+    {
+        "startTime": 18280,
+        "endTime": 19475,
+        "text": "It is rainy."
+    },
+    {
+        "startTime": 21013,
+        "endTime": 21974,
+        "text": "It's windy."
+    },
+    {
+        "startTime": 27273,
+        "endTime": 27978,
+        "text": "Is it summer?"
+    },
+    {
+        "startTime": 28783,
+        "endTime": 29649,
+        "text": "Yes, it is."
+    },
+    {
+        "startTime": 31273,
+        "endTime": 32647,
+        "text": "Is it six o'clock?"
+    },
+    {
+        "startTime": 33197,
+        "endTime": 35067,
+        "text": "No, it is seven o'clock."
+    },
+    {
+        "startTime": 36795,
+        "endTime": 37859,
+        "text": "Is it cloudy?"
+    },
+    {
+        "startTime": 38361,
+        "endTime": 39983,
+        "text": "No, it's sunny."
+    }
+]

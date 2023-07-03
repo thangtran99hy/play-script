@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 3383,
+        "endTime": 7002,
+        "text": "Excuse me ma'am, I'm looking for an international phone card."
+    },
+    {
+        "startTime": 7285,
+        "endTime": 10098,
+        "text": "Okay, we have many you can choose from here."
+    },
+    {
+        "startTime": 10373,
+        "endTime": 12384,
+        "text": "What country are you planning to call?"
+    },
+    {
+        "startTime": 12616,
+        "endTime": 16310,
+        "text": "Mostly Korea, I want to call my family and friends back home."
+    },
+    {
+        "startTime": 16667,
+        "endTime": 20902,
+        "text": "Korea, okay, we have a few cards that would work well for you then."
+    },
+    {
+        "startTime": 21093,
+        "endTime": 23347,
+        "text": "Hmm... they are all too expensive."
+    },
+    {
+        "startTime": 23597,
+        "endTime": 25787,
+        "text": "Do you have a card called \"Asian Express\"?"
+    },
+    {
+        "startTime": 25999,
+        "endTime": 26886,
+        "text": "Yes, we have."
+    },
+    {
+        "startTime": 27441,
+        "endTime": 30328,
+        "text": "It gives the best rates for calling countries in Asia."
+    },
+    {
+        "startTime": 30667,
+        "endTime": 32545,
+        "text": "What are the rates to call Korea with it?"
+    },
+    {
+        "startTime": 32837,
+        "endTime": 37747,
+        "text": "Let's see... well, it depends if you use a cell phone or a landline."
+    },
+    {
+        "startTime": 37950,
+        "endTime": 39955,
+        "text": "How much is it if I use a cell phone?"
+    },
+    {
+        "startTime": 40239,
+        "endTime": 42554,
+        "text": "With a cell phone it's six cents a minute."
+    },
+    {
+        "startTime": 43020,
+        "endTime": 46034,
+        "text": "If you can use a landline, it's only three cents a minute."
+    },
+    {
+        "startTime": 46223,
+        "endTime": 47789,
+        "text": "Okay, I'll take that one."
+    },
+    {
+        "startTime": 48055,
+        "endTime": 48676,
+        "text": "How much is it?"
+    },
+    {
+        "startTime": 49061,
+        "endTime": 50121,
+        "text": "Ten dollars, sir."
+    }
+]

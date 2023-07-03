@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 339,
+        "endTime": 935,
+        "text": "Hello."
+    },
+    {
+        "startTime": 1933,
+        "endTime": 2501,
+        "text": "Hi."
+    },
+    {
+        "startTime": 3567,
+        "endTime": 5316,
+        "text": "Hello! How are you?"
+    },
+    {
+        "startTime": 5849,
+        "endTime": 7595,
+        "text": "Hi! How are you doing?"
+    },
+    {
+        "startTime": 8393,
+        "endTime": 9591,
+        "text": "Pleased to meet you."
+    },
+    {
+        "startTime": 10892,
+        "endTime": 12155,
+        "text": "I'm fine, thanks."
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 2403,
+        "endTime": 4227,
+        "text": "Maria has one pumpkin."
+    },
+    {
+        "startTime": 5359,
+        "endTime": 7294,
+        "text": "Maria has two pumpkins."
+    },
+    {
+        "startTime": 8395,
+        "endTime": 10465,
+        "text": "Maria has three pumpkins."
+    },
+    {
+        "startTime": 11587,
+        "endTime": 13547,
+        "text": "Maria has four pumpkins."
+    },
+    {
+        "startTime": 14721,
+        "endTime": 16719,
+        "text": "Maria has five pumpkins."
+    },
+    {
+        "startTime": 17817,
+        "endTime": 19769,
+        "text": "Maria has six pumpkins."
+    },
+    {
+        "startTime": 20900,
+        "endTime": 22943,
+        "text": "Maria has seven pumpkins."
+    },
+    {
+        "startTime": 24080,
+        "endTime": 26750,
+        "text": "Maria has too many pumpkins!"
+    },
+    {
+        "startTime": 30753,
+        "endTime": 32334,
+        "text": "Do you have pumpkins?"
+    },
+    {
+        "startTime": 33457,
+        "endTime": 35369,
+        "text": "Yes, I have one pumpkin."
+    },
+    {
+        "startTime": 36449,
+        "endTime": 38953,
+        "text": "Does your sister have one pumpkin, too?"
+    },
+    {
+        "startTime": 40121,
+        "endTime": 42454,
+        "text": "No, she doesn't have any pumpkins."
+    },
+    {
+        "startTime": 42791,
+        "endTime": 44113,
+        "text": "She has apples."
+    },
+    {
+        "startTime": 45251,
+        "endTime": 48233,
+        "text": "Then how many apples does she have?"
+    },
+    {
+        "startTime": 49212,
+        "endTime": 51183,
+        "text": "She has three apples."
+    }
+]

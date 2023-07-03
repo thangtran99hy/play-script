@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 3802,
+        "endTime": 5053,
+        "text": "Do you want chocolate?"
+    },
+    {
+        "startTime": 5845,
+        "endTime": 7963,
+        "text": "No, I don't want any chocolate."
+    },
+    {
+        "startTime": 8930,
+        "endTime": 10373,
+        "text": "Does the woman want chocolate?"
+    },
+    {
+        "startTime": 11063,
+        "endTime": 11987,
+        "text": "No, she doesn't."
+    },
+    {
+        "startTime": 13730,
+        "endTime": 14685,
+        "text": "Does it fly?"
+    },
+    {
+        "startTime": 15204,
+        "endTime": 16393,
+        "text": "Yes, it does."
+    },
+    {
+        "startTime": 17402,
+        "endTime": 18900,
+        "text": "Does the helicopter fly?"
+    },
+    {
+        "startTime": 19543,
+        "endTime": 21226,
+        "text": "Yes, the helicopter flies."
+    },
+    {
+        "startTime": 23083,
+        "endTime": 24643,
+        "text": "Do we wash the windows?"
+    },
+    {
+        "startTime": 25623,
+        "endTime": 27121,
+        "text": "Yes, we wash the windows."
+    },
+    {
+        "startTime": 27950,
+        "endTime": 29448,
+        "text": "Does he wash the windows?"
+    },
+    {
+        "startTime": 30018,
+        "endTime": 30793,
+        "text": "Yes, he does."
+    }
+]

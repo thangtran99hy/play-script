@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 2261,
+        "endTime": 3523,
+        "text": "﻿What time is it?"
+    },
+    {
+        "startTime": 8620,
+        "endTime": 9940,
+        "text": "It's one o'clock."
+    },
+    {
+        "startTime": 18059,
+        "endTime": 19927,
+        "text": "It's quarter past twelve."
+    },
+    {
+        "startTime": 29332,
+        "endTime": 30547,
+        "text": "It's quarter to one."
+    },
+    {
+        "startTime": 39747,
+        "endTime": 41185,
+        "text": "It's 12:30."
+    },
+    {
+        "startTime": 50387,
+        "endTime": 52904,
+        "text": "It's two forty-six in the afternoon."
+    },
+    {
+        "startTime": 62177,
+        "endTime": 64546,
+        "text": "It's ten past seven in the morning."
+    },
+    {
+        "startTime": 70647,
+        "endTime": 72221,
+        "text": "It's ten to five."
+    },
+    {
+        "startTime": 85603,
+        "endTime": 86901,
+        "text": "It's 12 PM."
+    },
+    {
+        "startTime": 87229,
+        "endTime": 88037,
+        "text": "It's noon."
+    },
+    {
+        "startTime": 96745,
+        "endTime": 98049,
+        "text": "It's 12 AM."
+    },
+    {
+        "startTime": 98491,
+        "endTime": 99532,
+        "text": "It's midnight."
+    },
+    {
+        "startTime": 106965,
+        "endTime": 108243,
+        "text": "It's 11:40."
+    },
+    {
+        "startTime": 126235,
+        "endTime": 127043,
+        "text": "Time's up!"
+    }
+]

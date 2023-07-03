@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 2500,
+        "endTime": 3450,
+        "text": "Good afternoon."
+    },
+    {
+        "startTime": 3650,
+        "endTime": 5600,
+        "text": "I have an appointment with Mr. Miller."
+    },
+    {
+        "startTime": 7250,
+        "endTime": 8300,
+        "text": "Please, take a seat."
+    },
+    {
+        "startTime": 8550,
+        "endTime": 11250,
+        "text": "Mr. Miller is taking a conference call at the moment."
+    },
+    {
+        "startTime": 12300,
+        "endTime": 13900,
+        "text": "Mr. Miller, are you free?"
+    },
+    {
+        "startTime": 14700,
+        "endTime": 15800,
+        "text": "You may go in now."
+    },
+    {
+        "startTime": 17300,
+        "endTime": 18700,
+        "text": "How do you do, Miss..."
+    },
+    {
+        "startTime": 18950,
+        "endTime": 20700,
+        "text": "I'm sorry, I didn't catch your name."
+    },
+    {
+        "startTime": 21000,
+        "endTime": 21950,
+        "text": "Linda Strait."
+    },
+    {
+        "startTime": 22200,
+        "endTime": 23300,
+        "text": "Please call me Linda."
+    },
+    {
+        "startTime": 23600,
+        "endTime": 25000,
+        "text": "A pleasure to meet you, Linda."
+    },
+    {
+        "startTime": 25400,
+        "endTime": 29300,
+        "text": "I hope you have a chance to look around our beautiful city before you fly back."
+    },
+    {
+        "startTime": 29800,
+        "endTime": 31600,
+        "text": "How was the flight coming here, by the way?"
+    },
+    {
+        "startTime": 31950,
+        "endTime": 32800,
+        "text": "It was fine."
+    },
+    {
+        "startTime": 33200,
+        "endTime": 37700,
+        "text": "I thought I might be late because the flight was delayed by the miserable weather back home."
+    },
+    {
+        "startTime": 38050,
+        "endTime": 40900,
+        "text": "But the pilot somehow managed to make up the time."
+    }
+]

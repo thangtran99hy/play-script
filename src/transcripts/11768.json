@@ -1,0 +1,122 @@
+[
+    {
+        "startTime": 2723,
+        "endTime": 3669,
+        "text": "Hi! Welcome to Starbucks."
+    },
+    {
+        "startTime": 3834,
+        "endTime": 5420,
+        "text": "This is Olivia and Janice."
+    },
+    {
+        "startTime": 5501,
+        "endTime": 7565,
+        "text": "Can I interest you in trying a Spiced Chai Mocha?"
+    },
+    {
+        "startTime": 12334,
+        "endTime": 15403,
+        "text": "I need a Caramel Macchiato, so make it a grande;..."
+    },
+    {
+        "startTime": 15629,
+        "endTime": 18385,
+        "text": "...a double shot espresso, extra whip on a latte;..."
+    },
+    {
+        "startTime": 18476,
+        "endTime": 20855,
+        "text": "...a Tazo Passion or Green Shaken Iced Tea;..."
+    },
+    {
+        "startTime": 21337,
+        "endTime": 23496,
+        "text": "...and while you're at it, heat up a muffin for me."
+    },
+    {
+        "startTime": 23770,
+        "endTime": 26710,
+        "text": "I wanna Peppermint White Chocolate soy milk Mocha;..."
+    },
+    {
+        "startTime": 26965,
+        "endTime": 29706,
+        "text": "...don't make it too hot, 'cause I don't wanna choke - a."
+    },
+    {
+        "startTime": 29809,
+        "endTime": 32147,
+        "text": "I want something else, wait a second or three."
+    },
+    {
+        "startTime": 32361,
+        "endTime": 34851,
+        "text": "Yeah, a Pumpkin Spice Frap light blended coffee."
+    },
+    {
+        "startTime": 35121,
+        "endTime": 37749,
+        "text": "I wanna triple grande cinnamon latte with soy,..."
+    },
+    {
+        "startTime": 37965,
+        "endTime": 40529,
+        "text": "...and a copy of Sheff's book, \"Beautiful Boy\"."
+    },
+    {
+        "startTime": 41195,
+        "endTime": 43325,
+        "text": "Give me something now, I want something to eat..."
+    },
+    {
+        "startTime": 43522,
+        "endTime": 46100,
+        "text": "...'cause a Seven Layer Bar is my favorite treat."
+    },
+    {
+        "startTime": 46280,
+        "endTime": 48980,
+        "text": "I want a Cream Cheese Danish and a hot cross bun..."
+    },
+    {
+        "startTime": 49253,
+        "endTime": 51887,
+        "text": "...and then a poppy seed bagel, just for fun."
+    },
+    {
+        "startTime": 52439,
+        "endTime": 57499,
+        "text": "Now that I have plenty of food, I got one more order so make it good:..."
+    },
+    {
+        "startTime": 58039,
+        "endTime": 60580,
+        "text": "...a tall caramel frap with caramel on top,..."
+    },
+    {
+        "startTime": 60767,
+        "endTime": 63474,
+        "text": "...'cause I'm flat like two napkins, won't spill a drop."
+    },
+    {
+        "startTime": 63896,
+        "endTime": 66365,
+        "text": "Don't worry 'bout payment 'cause I got a gift card,..."
+    },
+    {
+        "startTime": 66467,
+        "endTime": 69283,
+        "text": "...hope this complicated order isn't too hard."
+    },
+    {
+        "startTime": 69421,
+        "endTime": 72055,
+        "text": "But I really do hope I get my order for free..."
+    },
+    {
+        "startTime": 72293,
+        "endTime": 74693,
+        "text": "...'cause if not, you all gotta spit a rap back at me."
+    }
+]

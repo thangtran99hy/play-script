@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 1032,
+        "endTime": 2190,
+        "text": "My name is Tom."
+    },
+    {
+        "startTime": 3302,
+        "endTime": 5047,
+        "text": "I live in Los Angeles."
+    },
+    {
+        "startTime": 6263,
+        "endTime": 7541,
+        "text": "I work as a pilot."
+    },
+    {
+        "startTime": 8360,
+        "endTime": 10161,
+        "text": "I know how to fly planes."
+    },
+    {
+        "startTime": 11560,
+        "endTime": 14134,
+        "text": "On weekends, I can play football,..."
+    },
+    {
+        "startTime": 14879,
+        "endTime": 17297,
+        "text": "...I can ride a motorcycle with my girlfriend..."
+    },
+    {
+        "startTime": 18469,
+        "endTime": 20299,
+        "text": "...or I can drive my car."
+    },
+    {
+        "startTime": 21963,
+        "endTime": 24842,
+        "text": "I know how to cook Asian and Italian food."
+    },
+    {
+        "startTime": 26033,
+        "endTime": 28368,
+        "text": "I'm able to run very fast."
+    },
+    {
+        "startTime": 29403,
+        "endTime": 31375,
+        "text": "I also know how to fix computers."
+    },
+    {
+        "startTime": 32851,
+        "endTime": 35731,
+        "text": "I am good at singing and dancing."
+    },
+    {
+        "startTime": 36921,
+        "endTime": 38789,
+        "text": "I can do a lot of things."
+    }
+]

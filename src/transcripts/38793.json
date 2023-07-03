@@ -1,0 +1,137 @@
+[
+    {
+        "startTime": 139,
+        "endTime": 1389,
+        "text": "Hello, can I help you?"
+    },
+    {
+        "startTime": 2335,
+        "endTime": 4513,
+        "text": "Hi, I'm looking for a coat."
+    },
+    {
+        "startTime": 5875,
+        "endTime": 7121,
+        "text": "What kind are you looking for?"
+    },
+    {
+        "startTime": 7953,
+        "endTime": 11184,
+        "text": "Something nice and warm."
+    },
+    {
+        "startTime": 12222,
+        "endTime": 13467,
+        "text": "How about this black coat?"
+    },
+    {
+        "startTime": 13999,
+        "endTime": 15368,
+        "text": "It's very popular right now."
+    },
+    {
+        "startTime": 16541,
+        "endTime": 18196,
+        "text": "How much is it?"
+    },
+    {
+        "startTime": 18877,
+        "endTime": 20249,
+        "text": "It's $300."
+    },
+    {
+        "startTime": 20726,
+        "endTime": 24231,
+        "text": "$300? That's too expensive for me."
+    },
+    {
+        "startTime": 24560,
+        "endTime": 26099,
+        "text": "Do you have anything cheaper?"
+    },
+    {
+        "startTime": 27551,
+        "endTime": 28974,
+        "text": "Here's a brown coat."
+    },
+    {
+        "startTime": 29301,
+        "endTime": 31045,
+        "text": "This one's $150."
+    },
+    {
+        "startTime": 31469,
+        "endTime": 32535,
+        "text": "I love it!"
+    },
+    {
+        "startTime": 33381,
+        "endTime": 35373,
+        "text": "Do you have it in a bigger size?"
+    },
+    {
+        "startTime": 35881,
+        "endTime": 37397,
+        "text": "Sure. Here it is."
+    },
+    {
+        "startTime": 38127,
+        "endTime": 40927,
+        "text": "I also need black shoes."
+    },
+    {
+        "startTime": 41053,
+        "endTime": 42236,
+        "text": "Do you have any?"
+    },
+    {
+        "startTime": 43309,
+        "endTime": 46356,
+        "text": "We have ones on sale for $45."
+    },
+    {
+        "startTime": 46782,
+        "endTime": 50107,
+        "text": "Awesome! I'd like them in size 10, please."
+    },
+    {
+        "startTime": 51057,
+        "endTime": 53918,
+        "text": "OK. Would there be anything else?"
+    },
+    {
+        "startTime": 54911,
+        "endTime": 57153,
+        "text": "No, that would be all. Thanks."
+    },
+    {
+        "startTime": 58123,
+        "endTime": 61045,
+        "text": "The total amount is $195."
+    },
+    {
+        "startTime": 61555,
+        "endTime": 63391,
+        "text": "Are you paying in cash or credit card?"
+    },
+    {
+        "startTime": 63728,
+        "endTime": 66402,
+        "text": "Credit card. Here it is."
+    },
+    {
+        "startTime": 67122,
+        "endTime": 68311,
+        "text": "Please sign here."
+    },
+    {
+        "startTime": 69016,
+        "endTime": 70972,
+        "text": "Thank you so much."
+    },
+    {
+        "startTime": 71843,
+        "endTime": 73464,
+        "text": "No problem. Have a great day!"
+    }
+]

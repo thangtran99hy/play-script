@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 3850,
+        "endTime": 6111,
+        "text": "There are two round cookies."
+    },
+    {
+        "startTime": 7295,
+        "endTime": 9220,
+        "text": "There are three square cookies."
+    },
+    {
+        "startTime": 10699,
+        "endTime": 12498,
+        "text": "The cat has a blue eye."
+    },
+    {
+        "startTime": 13808,
+        "endTime": 15271,
+        "text": "It is a small monkey."
+    },
+    {
+        "startTime": 16792,
+        "endTime": 18801,
+        "text": "It is a big banana."
+    },
+    {
+        "startTime": 20153,
+        "endTime": 22413,
+        "text": "The old dog is my pet."
+    },
+    {
+        "startTime": 23725,
+        "endTime": 25608,
+        "text": "The young dog is your pet."
+    },
+    {
+        "startTime": 27002,
+        "endTime": 28926,
+        "text": "The hot coffee is in a mug."
+    },
+    {
+        "startTime": 30371,
+        "endTime": 32665,
+        "text": "The cold ice cream is in bowls."
+    },
+    {
+        "startTime": 34334,
+        "endTime": 36795,
+        "text": "The happy boy has a big gift."
+    },
+    {
+        "startTime": 38168,
+        "endTime": 40693,
+        "text": "The sad girl has a small gift."
+    }
+]

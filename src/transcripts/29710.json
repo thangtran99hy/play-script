@@ -1,0 +1,127 @@
+[
+    {
+        "startTime": 2804,
+        "endTime": 3307,
+        "text": "﻿Good evening."
+    },
+    {
+        "startTime": 3391,
+        "endTime": 5071,
+        "text": "It was cloudy with occasional rain today."
+    },
+    {
+        "startTime": 5362,
+        "endTime": 9247,
+        "text": "A warm and humid maritime airstream is affecting the coastal areas of Guangdong."
+    },
+    {
+        "startTime": 9637,
+        "endTime": 11920,
+        "text": "Meanwhile, pressure is rising over central China."
+    },
+    {
+        "startTime": 12393,
+        "endTime": 16127,
+        "text": "Today's temperatures ranged from 20 to 21.9 degrees Celsius..."
+    },
+    {
+        "startTime": 16385,
+        "endTime": 19491,
+        "text": "...with a relative humidity between 95 and 98 percent,..."
+    },
+    {
+        "startTime": 19735,
+        "endTime": 21444,
+        "text": "...moderate to fresh easterly winds."
+    },
+    {
+        "startTime": 21831,
+        "endTime": 25279,
+        "text": "The current temperature is now standing at 21.9 degrees Celsius..."
+    },
+    {
+        "startTime": 25543,
+        "endTime": 27849,
+        "text": "...with a relative humidity at 97 percent."
+    },
+    {
+        "startTime": 28103,
+        "endTime": 31073,
+        "text": "10.7 millimeters of rain has been recorded since midnight."
+    },
+    {
+        "startTime": 31498,
+        "endTime": 32999,
+        "text": "Cloudy with a few rain patches tonight."
+    },
+    {
+        "startTime": 33081,
+        "endTime": 37456,
+        "text": "Tomorrow, it'll cool significantly and temperatures will range from 18 to 23 degrees,..."
+    },
+    {
+        "startTime": 37766,
+        "endTime": 40073,
+        "text": "...and it will be mainly cloudy in the following few days."
+    },
+    {
+        "startTime": 40383,
+        "endTime": 43389,
+        "text": "Tomorrow's API is forecast at 20 to 70,..."
+    },
+    {
+        "startTime": 43657,
+        "endTime": 45865,
+        "text": "...and the pollution level will range from low to high."
+    },
+    {
+        "startTime": 46188,
+        "endTime": 49337,
+        "text": "The maximum UV index forecast for tomorrow will be about 3."
+    },
+    {
+        "startTime": 49693,
+        "endTime": 51569,
+        "text": "Now, to the latest global weather update."
+    },
+    {
+        "startTime": 54581,
+        "endTime": 56257,
+        "text": "Cloudy in Shanghai and Xiamen."
+    },
+    {
+        "startTime": 59563,
+        "endTime": 61465,
+        "text": "Showers in Guangzhou, rainy in Macau."
+    },
+    {
+        "startTime": 65867,
+        "endTime": 67363,
+        "text": "Rainy in Seoul and Tokyo."
+    },
+    {
+        "startTime": 70427,
+        "endTime": 72427,
+        "text": "Thunderstorms in Bangkok, sunny in Manila."
+    },
+    {
+        "startTime": 75443,
+        "endTime": 77386,
+        "text": "Thunderstorms in Kuala Lumpur and Singapore."
+    },
+    {
+        "startTime": 80853,
+        "endTime": 83145,
+        "text": "Sunny in New Delhi, Karachi and Mumbai."
+    },
+    {
+        "startTime": 86031,
+        "endTime": 87835,
+        "text": "Sunny in Cairo, showers in Nairobi..."
+    },
+    {
+        "startTime": 91313,
+        "endTime": 93232,
+        "text": "...and it's bright in Sydney and Auckland."
+    }
+]

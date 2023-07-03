@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 436,
+        "endTime": 2173,
+        "text": "It's twelve o'clock in the morning."
+    },
+    {
+        "startTime": 3152,
+        "endTime": 4710,
+        "text": "It's one o'clock in the morning."
+    },
+    {
+        "startTime": 5761,
+        "endTime": 7497,
+        "text": "It's two o'clock in the morning."
+    },
+    {
+        "startTime": 8369,
+        "endTime": 10106,
+        "text": "It's three o'clock in the morning."
+    },
+    {
+        "startTime": 10978,
+        "endTime": 12643,
+        "text": "It's four o'clock in the morning."
+    },
+    {
+        "startTime": 13801,
+        "endTime": 15395,
+        "text": "It's five o'clock in the morning."
+    },
+    {
+        "startTime": 16374,
+        "endTime": 17575,
+        "text": "It's 6 a.m."
+    },
+    {
+        "startTime": 18625,
+        "endTime": 19991,
+        "text": "It's 7 a.m."
+    },
+    {
+        "startTime": 21067,
+        "endTime": 22464,
+        "text": "It's 8 a.m."
+    },
+    {
+        "startTime": 23449,
+        "endTime": 24635,
+        "text": "It's 9 a.m."
+    },
+    {
+        "startTime": 25649,
+        "endTime": 26899,
+        "text": "It's 10 a.m."
+    },
+    {
+        "startTime": 27813,
+        "endTime": 29029,
+        "text": "It's 11 a.m."
+    }
+]

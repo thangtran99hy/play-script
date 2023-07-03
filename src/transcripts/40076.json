@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 172,
+        "endTime": 2853,
+        "text": "I'm planning to go on a trip with my sister."
+    },
+    {
+        "startTime": 3455,
+        "endTime": 4855,
+        "text": "You two must be excited."
+    },
+    {
+        "startTime": 5231,
+        "endTime": 5834,
+        "text": "Yes!"
+    },
+    {
+        "startTime": 6141,
+        "endTime": 7836,
+        "text": "Do you have a brother or sister?"
+    },
+    {
+        "startTime": 8231,
+        "endTime": 9615,
+        "text": "I have one older brother."
+    },
+    {
+        "startTime": 10581,
+        "endTime": 13419,
+        "text": "When was the last time you went on a trip with him?"
+    },
+    {
+        "startTime": 14512,
+        "endTime": 15977,
+        "text": "Gee, I can't remember."
+    },
+    {
+        "startTime": 16986,
+        "endTime": 19892,
+        "text": "My sister and I go on a trip every summer."
+    },
+    {
+        "startTime": 21579,
+        "endTime": 24341,
+        "text": "Maybe I should plan a trip with my brother, too."
+    }
+]

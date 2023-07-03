@@ -1,0 +1,117 @@
+[
+    {
+        "startTime": 1580,
+        "endTime": 2345,
+        "text": "I like math."
+    },
+    {
+        "startTime": 3472,
+        "endTime": 4509,
+        "text": "I like modeling."
+    },
+    {
+        "startTime": 5400,
+        "endTime": 6823,
+        "text": "I like computers."
+    },
+    {
+        "startTime": 8191,
+        "endTime": 10674,
+        "text": "But what I wanna do is be able to use it to help people,..."
+    },
+    {
+        "startTime": 10916,
+        "endTime": 14399,
+        "text": "...and so, it's really interesting or kind of exciting..."
+    },
+    {
+        "startTime": 14480,
+        "endTime": 19465,
+        "text": "...that we can use these tools in helping in this humanitarian cause."
+    },
+    {
+        "startTime": 23467,
+        "endTime": 26999,
+        "text": "Although the food bank of Central and Eastern North Carolina is the largest..."
+    },
+    {
+        "startTime": 27078,
+        "endTime": 29545,
+        "text": "...in the state, they still can't reach everyone."
+    },
+    {
+        "startTime": 30635,
+        "endTime": 32643,
+        "text": "Enter Dr. Ivy and Dr. Davis."
+    },
+    {
+        "startTime": 33805,
+        "endTime": 35567,
+        "text": "They're engineers who realized analytics..."
+    },
+    {
+        "startTime": 35637,
+        "endTime": 37821,
+        "text": "...could revolutionize how food banks operate."
+    },
+    {
+        "startTime": 38411,
+        "endTime": 39745,
+        "text": "They reached out to see how they could help."
+    },
+    {
+        "startTime": 41522,
+        "endTime": 44023,
+        "text": "The food bank gave us tons of data,..."
+    },
+    {
+        "startTime": 44631,
+        "endTime": 47166,
+        "text": "...and initially, we're like, \"Data, data, data,\"..."
+    },
+    {
+        "startTime": 47451,
+        "endTime": 49420,
+        "text": "...but data can be a blessing and a curse."
+    },
+    {
+        "startTime": 51229,
+        "endTime": 52700,
+        "text": "They mined through millions of records..."
+    },
+    {
+        "startTime": 52778,
+        "endTime": 55071,
+        "text": "...and translated the numbers into useful information."
+    },
+    {
+        "startTime": 56083,
+        "endTime": 58284,
+        "text": "Some of the models that we have developed..."
+    },
+    {
+        "startTime": 58419,
+        "endTime": 61564,
+        "text": "...try to predict the amount of food that might be donated."
+    },
+    {
+        "startTime": 63802,
+        "endTime": 68955,
+        "text": "The other type of models also try to estimate how many people might be in need of food."
+    },
+    {
+        "startTime": 69893,
+        "endTime": 74911,
+        "text": "We tried to pull in data about unemployment, poverty,..."
+    },
+    {
+        "startTime": 75405,
+        "endTime": 79042,
+        "text": "...to see if we can get a better estimate of the true need..."
+    },
+    {
+        "startTime": 79421,
+        "endTime": 80607,
+        "text": "...in the counties that they serve."
+    }
+]

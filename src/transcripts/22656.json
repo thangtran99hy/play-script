@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 3355,
+        "endTime": 4486,
+        "text": "May I take your menus?"
+    },
+    {
+        "startTime": 7107,
+        "endTime": 9253,
+        "text": "May I see that for a minute? Watch this."
+    },
+    {
+        "startTime": 11712,
+        "endTime": 13361,
+        "text": "May I sit next to you, Sally?"
+    },
+    {
+        "startTime": 18356,
+        "endTime": 22706,
+        "text": "Yes, Doctor, thank you.  Can I leave my stick just here?"
+    },
+    {
+        "startTime": 24822,
+        "endTime": 27184,
+        "text": "And can I have a little look? I'll just put my gloves on."
+    },
+    {
+        "startTime": 29553,
+        "endTime": 31247,
+        "text": "Mom, can I play outside?"
+    },
+    {
+        "startTime": 35430,
+        "endTime": 38515,
+        "text": "Do you mind if I spend some time looking around after my shift?"
+    },
+    {
+        "startTime": 40836,
+        "endTime": 42019,
+        "text": "Do you mind if I smoke?"
+    },
+    {
+        "startTime": 44295,
+        "endTime": 47431,
+        "text": "Do you mind if I ask how long you've been with KH Communications?"
+    }
+]

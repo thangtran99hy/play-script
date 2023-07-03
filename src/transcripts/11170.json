@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 1600,
+        "endTime": 6270,
+        "text": "Let me reiterate, if you guarantee a minimum order, the discount is higher."
+    },
+    {
+        "startTime": 7100,
+        "endTime": 11940,
+        "text": "We understand, but we have to consider realistic expectations of our market."
+    },
+    {
+        "startTime": 12640,
+        "endTime": 19010,
+        "text": "What would be the minimum acceptable order to receive an 8.5% discount on the total order?"
+    },
+    {
+        "startTime": 19620,
+        "endTime": 21960,
+        "text": "We'd be willing to offer that kind of discount..."
+    },
+    {
+        "startTime": 22220,
+        "endTime": 27160,
+        "text": "...with the proviso that your company guaranteed an order of 800 units."
+    },
+    {
+        "startTime": 28320,
+        "endTime": 30560,
+        "text": "I think our company could go along with that."
+    },
+    {
+        "startTime": 31130,
+        "endTime": 32690,
+        "text": "Then, do we have a deal?"
+    }
+]

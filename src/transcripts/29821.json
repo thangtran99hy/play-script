@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 655,
+        "endTime": 1735,
+        "text": "﻿Excuse me, ma'am."
+    },
+    {
+        "startTime": 2036,
+        "endTime": 3537,
+        "text": "Something is wrong with the engine."
+    },
+    {
+        "startTime": 4324,
+        "endTime": 6847,
+        "text": "I'm awfully sorry, but could you change taxis?"
+    },
+    {
+        "startTime": 8069,
+        "endTime": 10502,
+        "text": "Let me get you another taxi to take you to the airport."
+    },
+    {
+        "startTime": 11451,
+        "endTime": 13629,
+        "text": "It's our fault, so we won't charge you for this."
+    },
+    {
+        "startTime": 17191,
+        "endTime": 18930,
+        "text": "It will be here in about five minutes."
+    },
+    {
+        "startTime": 19603,
+        "endTime": 20271,
+        "text": "All right."
+    },
+    {
+        "startTime": 20583,
+        "endTime": 21456,
+        "text": "No problem."
+    },
+    {
+        "startTime": 22053,
+        "endTime": 24241,
+        "text": "Thank you very much for your cooperation."
+    }
+]

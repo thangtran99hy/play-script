@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 4565,
+        "endTime": 5741,
+        "text": "I am Suzy."
+    },
+    {
+        "startTime": 6016,
+        "endTime": 7514,
+        "text": "My father is a cook."
+    },
+    {
+        "startTime": 9360,
+        "endTime": 10901,
+        "text": "You are a student."
+    },
+    {
+        "startTime": 11595,
+        "endTime": 13217,
+        "text": "Your teacher is Mrs. Hill."
+    },
+    {
+        "startTime": 14745,
+        "endTime": 16367,
+        "text": "He is a firefighter."
+    },
+    {
+        "startTime": 17127,
+        "endTime": 18625,
+        "text": "His wife is a doctor."
+    },
+    {
+        "startTime": 20018,
+        "endTime": 21454,
+        "text": "She is a doctor."
+    },
+    {
+        "startTime": 22441,
+        "endTime": 24249,
+        "text": "Her husband is a firefighter."
+    },
+    {
+        "startTime": 25846,
+        "endTime": 27035,
+        "text": "It is a dog."
+    },
+    {
+        "startTime": 27583,
+        "endTime": 28895,
+        "text": "Its lunch is a bone."
+    },
+    {
+        "startTime": 30617,
+        "endTime": 31867,
+        "text": "We are students."
+    },
+    {
+        "startTime": 32614,
+        "endTime": 34360,
+        "text": "Our teacher is Mrs. Hill."
+    },
+    {
+        "startTime": 35945,
+        "endTime": 37216,
+        "text": "They are vets."
+    },
+    {
+        "startTime": 37868,
+        "endTime": 39614,
+        "text": "Their friends are animals."
+    }
+]

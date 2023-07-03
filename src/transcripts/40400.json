@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 916,
+        "endTime": 1426,
+        "text": "Hello."
+    },
+    {
+        "startTime": 1889,
+        "endTime": 3399,
+        "text": "Can I get you something to drink?"
+    },
+    {
+        "startTime": 4105,
+        "endTime": 6129,
+        "text": "A black coffee with two sugars, please."
+    },
+    {
+        "startTime": 7190,
+        "endTime": 8227,
+        "text": "And what about you?"
+    },
+    {
+        "startTime": 8992,
+        "endTime": 10225,
+        "text": "I'll have tea."
+    },
+    {
+        "startTime": 11094,
+        "endTime": 12628,
+        "text": "Would you like milk or lemon?"
+    },
+    {
+        "startTime": 13524,
+        "endTime": 14539,
+        "text": "Lemon, please."
+    },
+    {
+        "startTime": 15735,
+        "endTime": 16031,
+        "text": "Great."
+    },
+    {
+        "startTime": 16439,
+        "endTime": 17977,
+        "text": "I'll be back in a few minutes."
+    }
+]

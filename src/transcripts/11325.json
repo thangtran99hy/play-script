@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 600,
+        "endTime": 6200,
+        "text": "Henry Ford was the leading manufacturer of American automobiles in the early 1900s."
+    },
+    {
+        "startTime": 9700,
+        "endTime": 12400,
+        "text": "He revolutionized the young automobile industry..."
+    },
+    {
+        "startTime": 12600,
+        "endTime": 15400,
+        "text": "...by developing the assembly line method of production."
+    },
+    {
+        "startTime": 16650,
+        "endTime": 18800,
+        "text": "By manufacturing his own parts..."
+    },
+    {
+        "startTime": 19150,
+        "endTime": 23700,
+        "text": "...and developing a huge system of conveyors to bring the parts to the assembly line,..."
+    },
+    {
+        "startTime": 24100,
+        "endTime": 27400,
+        "text": "...Ford reduced the cost of manufacturing automobiles."
+    },
+    {
+        "startTime": 27700,
+        "endTime": 32900,
+        "text": "And Ford passed on much of the savings created by the assembly line production to his customers."
+    },
+    {
+        "startTime": 34350,
+        "endTime": 38250,
+        "text": "In 1908, when the Ford Motor Company introduced the Model T,..."
+    },
+    {
+        "startTime": 38600,
+        "endTime": 40850,
+        "text": "...it cost $850."
+    },
+    {
+        "startTime": 41300,
+        "endTime": 48500,
+        "text": "By 1924, assembly line innovations helped reduce the price of a Model T to $290..."
+    },
+    {
+        "startTime": 48900,
+        "endTime": 52400,
+        "text": "...and automobile was now within reach of the average family."
+    }
+]

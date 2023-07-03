@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 102,
+        "endTime": 712,
+        "text": "Hello, Billie!"
+    },
+    {
+        "startTime": 2978,
+        "endTime": 3886,
+        "text": "Hi, Justin!"
+    },
+    {
+        "startTime": 6215,
+        "endTime": 7184,
+        "text": "Hi, Jennifer!"
+    },
+    {
+        "startTime": 9498,
+        "endTime": 10409,
+        "text": "Hello, Robert!"
+    },
+    {
+        "startTime": 12798,
+        "endTime": 13967,
+        "text": "Hi there, Ariana!"
+    },
+    {
+        "startTime": 16217,
+        "endTime": 17473,
+        "text": "Hello there, Roger!"
+    },
+    {
+        "startTime": 19713,
+        "endTime": 20953,
+        "text": "Hello there, Taylor!"
+    },
+    {
+        "startTime": 23044,
+        "endTime": 24055,
+        "text": "Hi there, Ed!"
+    },
+    {
+        "startTime": 26227,
+        "endTime": 27671,
+        "text": "Hello, Rihanna!"
+    },
+    {
+        "startTime": 29741,
+        "endTime": 30903,
+        "text": "Hi, Stephen!"
+    }
+]

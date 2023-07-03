@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 1143,
+        "endTime": 2733,
+        "text": "This is the Sales Department."
+    },
+    {
+        "startTime": 3113,
+        "endTime": 7095,
+        "text": "Its phone number is 647-52187."
+    },
+    {
+        "startTime": 10081,
+        "endTime": 11712,
+        "text": "This is the Marketing Department."
+    },
+    {
+        "startTime": 12014,
+        "endTime": 16147,
+        "text": "Its phone number is 647-52174."
+    },
+    {
+        "startTime": 18073,
+        "endTime": 21009,
+        "text": "This is the Information Technology Department."
+    },
+    {
+        "startTime": 21641,
+        "endTime": 25665,
+        "text": "Its phone number is 647-52179."
+    },
+    {
+        "startTime": 28486,
+        "endTime": 30705,
+        "text": "This is the Human Resource Department."
+    },
+    {
+        "startTime": 31113,
+        "endTime": 35459,
+        "text": "Its phone number is 647-52177."
+    },
+    {
+        "startTime": 37977,
+        "endTime": 39788,
+        "text": "This is the Production Department."
+    },
+    {
+        "startTime": 39970,
+        "endTime": 44015,
+        "text": "Its phone number is 647-52162."
+    },
+    {
+        "startTime": 46041,
+        "endTime": 48858,
+        "text": "This is the Research and Development Department."
+    },
+    {
+        "startTime": 49209,
+        "endTime": 53213,
+        "text": "Its phone number is 647-52196."
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "startTime": 3342,
+        "endTime": 5031,
+        "text": "My dog can jump."
+    },
+    {
+        "startTime": 6286,
+        "endTime": 8036,
+        "text": "My dog can run."
+    },
+    {
+        "startTime": 9245,
+        "endTime": 11184,
+        "text": "My dog can swim."
+    },
+    {
+        "startTime": 12602,
+        "endTime": 14137,
+        "text": "My dog can dig."
+    },
+    {
+        "startTime": 15264,
+        "endTime": 17127,
+        "text": "My dog can climb."
+    },
+    {
+        "startTime": 18325,
+        "endTime": 19888,
+        "text": "My dog can sit."
+    },
+    {
+        "startTime": 21271,
+        "endTime": 23371,
+        "text": "My dog can roll over."
+    },
+    {
+        "startTime": 24599,
+        "endTime": 26143,
+        "text": "My dog can hug."
+    },
+    {
+        "startTime": 30465,
+        "endTime": 31901,
+        "text": "Do you have a dog?"
+    },
+    {
+        "startTime": 33479,
+        "endTime": 35463,
+        "text": "Yes, I have a dog."
+    },
+    {
+        "startTime": 35814,
+        "endTime": 37273,
+        "text": "My dog can run."
+    },
+    {
+        "startTime": 38413,
+        "endTime": 39964,
+        "text": "Do they have a cat?"
+    },
+    {
+        "startTime": 41227,
+        "endTime": 43083,
+        "text": "Yes, they have a cat."
+    },
+    {
+        "startTime": 43594,
+        "endTime": 45017,
+        "text": "Their cat can jump."
+    },
+    {
+        "startTime": 46492,
+        "endTime": 48187,
+        "text": "I have a cat, too."
+    },
+    {
+        "startTime": 49577,
+        "endTime": 50268,
+        "text": "I know."
+    },
+    {
+        "startTime": 50655,
+        "endTime": 52869,
+        "text": "Your cat can jump and dig."
+    }
+]

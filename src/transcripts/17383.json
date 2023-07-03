@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 1869,
+        "endTime": 3910,
+        "text": "What is your sister doing?"
+    },
+    {
+        "startTime": 4881,
+        "endTime": 7174,
+        "text": "She is playing the piano now."
+    },
+    {
+        "startTime": 7646,
+        "endTime": 12069,
+        "text": "Oh, she stops playing the piano and begins to sing."
+    },
+    {
+        "startTime": 13225,
+        "endTime": 14824,
+        "text": "Is she a good singer?"
+    },
+    {
+        "startTime": 15887,
+        "endTime": 18574,
+        "text": "Yes, she sings very well."
+    },
+    {
+        "startTime": 19628,
+        "endTime": 21449,
+        "text": "What is your brother doing?"
+    },
+    {
+        "startTime": 22475,
+        "endTime": 24422,
+        "text": "He is making a snowman."
+    },
+    {
+        "startTime": 25465,
+        "endTime": 29755,
+        "text": "Oh, he stops making a snowman and begins dancing."
+    },
+    {
+        "startTime": 35914,
+        "endTime": 39127,
+        "text": "It is getting cold, cold, cold outside."
+    },
+    {
+        "startTime": 39431,
+        "endTime": 42527,
+        "text": "The wind is blowing, blowing, blowing hard."
+    },
+    {
+        "startTime": 43409,
+        "endTime": 46624,
+        "text": "White flakes begin falling, falling, falling."
+    },
+    {
+        "startTime": 46943,
+        "endTime": 50395,
+        "text": "The snow begins falling, falling, falling fast."
+    },
+    {
+        "startTime": 50681,
+        "endTime": 54157,
+        "text": "The snow gets deeper, deeper, deeper and deeper."
+    },
+    {
+        "startTime": 54503,
+        "endTime": 57865,
+        "text": "The wind blows harder, harder, harder and harder."
+    },
+    {
+        "startTime": 58466,
+        "endTime": 61617,
+        "text": "It gets colder, colder, colder and colder."
+    },
+    {
+        "startTime": 62122,
+        "endTime": 64678,
+        "text": "Let's go into the house!"
+    }
+]

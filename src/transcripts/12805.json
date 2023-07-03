@@ -1,0 +1,97 @@
+[
+    {
+        "startTime": 2929,
+        "endTime": 4461,
+        "text": "Good evening ma'am, may I help you?"
+    },
+    {
+        "startTime": 4816,
+        "endTime": 7347,
+        "text": "Yes, I have a reservation for tonight."
+    },
+    {
+        "startTime": 7667,
+        "endTime": 9290,
+        "text": "My name is Kathy Jackson."
+    },
+    {
+        "startTime": 9511,
+        "endTime": 10895,
+        "text": "I'd like to check in, please."
+    },
+    {
+        "startTime": 11179,
+        "endTime": 14079,
+        "text": "Okay, Ms. Jackson, please wait just a moment."
+    },
+    {
+        "startTime": 14801,
+        "endTime": 17909,
+        "text": "Yes, I see you have booked a single room for one night."
+    },
+    {
+        "startTime": 18363,
+        "endTime": 19401,
+        "text": "Yes, that's right."
+    },
+    {
+        "startTime": 19589,
+        "endTime": 21749,
+        "text": "I asked for a nonsmoking room, too."
+    },
+    {
+        "startTime": 21933,
+        "endTime": 24131,
+        "text": "May I extend my stay for one more night?"
+    },
+    {
+        "startTime": 24283,
+        "endTime": 28865,
+        "text": "Sure, we will book a nonsmoking room for you for two nights."
+    },
+    {
+        "startTime": 29113,
+        "endTime": 31587,
+        "text": "It's Room 414 on the fourth floor."
+    },
+    {
+        "startTime": 32956,
+        "endTime": 34007,
+        "text": "Hello, Ms. Jackson."
+    },
+    {
+        "startTime": 34403,
+        "endTime": 35485,
+        "text": "Are you ready to check out?"
+    },
+    {
+        "startTime": 35833,
+        "endTime": 36669,
+        "text": "Yes, I am."
+    },
+    {
+        "startTime": 36816,
+        "endTime": 37655,
+        "text": "Here is the key."
+    },
+    {
+        "startTime": 37846,
+        "endTime": 38320,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 38773,
+        "endTime": 40532,
+        "text": "The total is $65."
+    },
+    {
+        "startTime": 40795,
+        "endTime": 43380,
+        "text": "Would you like to pay with your credit card or in cash?"
+    },
+    {
+        "startTime": 43701,
+        "endTime": 45533,
+        "text": "I'd like to pay with my credit card."
+    }
+]

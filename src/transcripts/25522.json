@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 395,
+        "endTime": 2885,
+        "text": "Let's learn about school subjects."
+    },
+    {
+        "startTime": 4986,
+        "endTime": 6660,
+        "text": "They are learning math."
+    },
+    {
+        "startTime": 9044,
+        "endTime": 11052,
+        "text": "They are studying science."
+    },
+    {
+        "startTime": 13392,
+        "endTime": 15984,
+        "text": "He is reading for English class."
+    },
+    {
+        "startTime": 19352,
+        "endTime": 21637,
+        "text": "She teaches social studies."
+    },
+    {
+        "startTime": 25918,
+        "endTime": 27933,
+        "text": "They are in music class."
+    },
+    {
+        "startTime": 32155,
+        "endTime": 34413,
+        "text": "They are in drama class."
+    },
+    {
+        "startTime": 37942,
+        "endTime": 39736,
+        "text": "He is taking art."
+    },
+    {
+        "startTime": 46002,
+        "endTime": 47831,
+        "text": "They are in gym class."
+    },
+    {
+        "startTime": 54934,
+        "endTime": 57671,
+        "text": "They are doing computer science homework."
+    }
+]

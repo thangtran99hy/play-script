@@ -1,0 +1,137 @@
+[
+    {
+        "startTime": 2384,
+        "endTime": 2861,
+        "text": "Block"
+    },
+    {
+        "startTime": 3667,
+        "endTime": 4791,
+        "text": "I have a block."
+    },
+    {
+        "startTime": 6218,
+        "endTime": 7872,
+        "text": "I have a large block."
+    },
+    {
+        "startTime": 9331,
+        "endTime": 9730,
+        "text": "Clock"
+    },
+    {
+        "startTime": 10479,
+        "endTime": 12411,
+        "text": "I put the clock on my desk."
+    },
+    {
+        "startTime": 13857,
+        "endTime": 16274,
+        "text": "I put the new clock on my desk."
+    },
+    {
+        "startTime": 17606,
+        "endTime": 18259,
+        "text": "Glass"
+    },
+    {
+        "startTime": 19121,
+        "endTime": 20969,
+        "text": "Can I have a glass of water?"
+    },
+    {
+        "startTime": 22450,
+        "endTime": 24719,
+        "text": "Can I have a glass of cold water?"
+    },
+    {
+        "startTime": 26027,
+        "endTime": 26606,
+        "text": "Plane"
+    },
+    {
+        "startTime": 27402,
+        "endTime": 29114,
+        "text": "I flew on a plane."
+    },
+    {
+        "startTime": 30533,
+        "endTime": 32429,
+        "text": "I flew on an airplane."
+    },
+    {
+        "startTime": 38252,
+        "endTime": 39738,
+        "text": "Cherry, cherry, cherry."
+    },
+    {
+        "startTime": 40125,
+        "endTime": 41491,
+        "text": "This is a cherry."
+    },
+    {
+        "startTime": 42009,
+        "endTime": 43253,
+        "text": "Pear, pear, pear."
+    },
+    {
+        "startTime": 43855,
+        "endTime": 45219,
+        "text": "This is a pear."
+    },
+    {
+        "startTime": 45508,
+        "endTime": 47232,
+        "text": "Banana, banana, banana."
+    },
+    {
+        "startTime": 47629,
+        "endTime": 48977,
+        "text": "This is a banana."
+    },
+    {
+        "startTime": 49510,
+        "endTime": 51031,
+        "text": "Apple, apple, apple."
+    },
+    {
+        "startTime": 51381,
+        "endTime": 52857,
+        "text": "This is an apple."
+    },
+    {
+        "startTime": 53264,
+        "endTime": 54779,
+        "text": "Orange, orange, orange."
+    },
+    {
+        "startTime": 55123,
+        "endTime": 56668,
+        "text": "This is an orange."
+    },
+    {
+        "startTime": 56991,
+        "endTime": 58354,
+        "text": "Lemon, lemon, lemon."
+    },
+    {
+        "startTime": 58865,
+        "endTime": 60239,
+        "text": "This is a lemon."
+    },
+    {
+        "startTime": 60753,
+        "endTime": 64158,
+        "text": "Cherry, pear, banana, apple and orange."
+    },
+    {
+        "startTime": 64491,
+        "endTime": 65758,
+        "text": "Fruit, fruit, fruit."
+    },
+    {
+        "startTime": 66359,
+        "endTime": 67686,
+        "text": "All of them are fruit!"
+    }
+]

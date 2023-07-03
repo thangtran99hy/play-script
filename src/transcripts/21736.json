@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1242,
+        "endTime": 2478,
+        "text": "Have you seen a green pen anywhere?"
+    },
+    {
+        "startTime": 2627,
+        "endTime": 3942,
+        "text": "I'm sorry? I didn't quite catch that."
+    },
+    {
+        "startTime": 6041,
+        "endTime": 7427,
+        "text": "Could you say that again?"
+    },
+    {
+        "startTime": 7977,
+        "endTime": 9505,
+        "text": "Green pen, see it anywhere?"
+    },
+    {
+        "startTime": 10170,
+        "endTime": 12074,
+        "text": "I'm sorry, I still didn't get that."
+    },
+    {
+        "startTime": 16230,
+        "endTime": 17269,
+        "text": "Could you say that again?"
+    },
+    {
+        "startTime": 19754,
+        "endTime": 20553,
+        "text": "One more time?"
+    },
+    {
+        "startTime": 23223,
+        "endTime": 24499,
+        "text": "No, sorry. Nothing."
+    },
+    {
+        "startTime": 27545,
+        "endTime": 29559,
+        "text": "Look, I can't hear a word you're saying."
+    },
+    {
+        "startTime": 29653,
+        "endTime": 31176,
+        "text": "I said, \"Have you seen a green pen?\""
+    },
+    {
+        "startTime": 31435,
+        "endTime": 32610,
+        "text": "Oh, there it is!"
+    }
+]

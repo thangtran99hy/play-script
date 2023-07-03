@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 1250,
+        "endTime": 8250,
+        "text": "Farm Fun. By Alyssa Liang, Carlene Hamley."
+    },
+    {
+        "startTime": 9500,
+        "endTime": 12050,
+        "text": "This is a rooster."
+    },
+    {
+        "startTime": 13200,
+        "endTime": 16800,
+        "text": "The rooster is singing."
+    },
+    {
+        "startTime": 20550,
+        "endTime": 23450,
+        "text": "That is a cow."
+    },
+    {
+        "startTime": 26500,
+        "endTime": 30500,
+        "text": "The cow is eating."
+    },
+    {
+        "startTime": 32550,
+        "endTime": 35700,
+        "text": "This is a horse."
+    },
+    {
+        "startTime": 38750,
+        "endTime": 42700,
+        "text": "The horse is running."
+    },
+    {
+        "startTime": 44850,
+        "endTime": 47850,
+        "text": "That is a bird."
+    },
+    {
+        "startTime": 50500,
+        "endTime": 54550,
+        "text": "The bird is flying."
+    },
+    {
+        "startTime": 57250,
+        "endTime": 60550,
+        "text": "This is a cat."
+    },
+    {
+        "startTime": 63050,
+        "endTime": 66900,
+        "text": "The cat is laughing."
+    },
+    {
+        "startTime": 71250,
+        "endTime": 74600,
+        "text": "That is a mouse."
+    },
+    {
+        "startTime": 75300,
+        "endTime": 79400,
+        "text": "The mouse is hiding."
+    }
+]

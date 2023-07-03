@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 2310,
+        "endTime": 5013,
+        "text": "﻿Let's talk about the weather."
+    },
+    {
+        "startTime": 8416,
+        "endTime": 10393,
+        "text": "It's sunny outside."
+    },
+    {
+        "startTime": 16156,
+        "endTime": 18438,
+        "text": "It's rainy this evening."
+    },
+    {
+        "startTime": 22049,
+        "endTime": 23485,
+        "text": "It's cloudy."
+    },
+    {
+        "startTime": 28108,
+        "endTime": 30338,
+        "text": "It's partly cloudy in Paris."
+    },
+    {
+        "startTime": 34635,
+        "endTime": 38293,
+        "text": "It's clear and calm."
+    },
+    {
+        "startTime": 42411,
+        "endTime": 44999,
+        "text": "It's a stormy night."
+    },
+    {
+        "startTime": 49696,
+        "endTime": 51279,
+        "text": "It's snowy out there."
+    },
+    {
+        "startTime": 55307,
+        "endTime": 59725,
+        "text": "It's very, very windy."
+    },
+    {
+        "startTime": 67104,
+        "endTime": 68934,
+        "text": "It's hot in the office."
+    },
+    {
+        "startTime": 74042,
+        "endTime": 75641,
+        "text": "It's cold outside."
+    },
+    {
+        "startTime": 82693,
+        "endTime": 85447,
+        "text": "It's freezing cold."
+    }
+]

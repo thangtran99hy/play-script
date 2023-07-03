@@ -1,0 +1,92 @@
+[
+    {
+        "startTime": 550,
+        "endTime": 1441,
+        "text": "Stop."
+    },
+    {
+        "startTime": 1951,
+        "endTime": 6760,
+        "text": "When you see a stop sign, do not do what you are doing."
+    },
+    {
+        "startTime": 8963,
+        "endTime": 9920,
+        "text": "Police Line."
+    },
+    {
+        "startTime": 10778,
+        "endTime": 14406,
+        "text": "Do not go into the area that this line is around."
+    },
+    {
+        "startTime": 16623,
+        "endTime": 17279,
+        "text": "Yield."
+    },
+    {
+        "startTime": 19457,
+        "endTime": 21733,
+        "text": "Wait for others to pass."
+    },
+    {
+        "startTime": 23983,
+        "endTime": 25004,
+        "text": "Fire Alarm."
+    },
+    {
+        "startTime": 25401,
+        "endTime": 28563,
+        "text": "Do not pull a fire alarm."
+    },
+    {
+        "startTime": 29157,
+        "endTime": 33038,
+        "text": "If you hear the alarm, you have to get out of the building."
+    },
+    {
+        "startTime": 34975,
+        "endTime": 36511,
+        "text": "Danger of death."
+    },
+    {
+        "startTime": 36865,
+        "endTime": 40019,
+        "text": "Do not go into this area."
+    },
+    {
+        "startTime": 41482,
+        "endTime": 43291,
+        "text": "Pedestrian Crossing."
+    },
+    {
+        "startTime": 44670,
+        "endTime": 47869,
+        "text": "You may walk across the road when you see this sign."
+    },
+    {
+        "startTime": 50670,
+        "endTime": 51792,
+        "text": "Danger."
+    },
+    {
+        "startTime": 52861,
+        "endTime": 55960,
+        "text": "You may get hurt if you go to where this sign is."
+    },
+    {
+        "startTime": 57677,
+        "endTime": 58357,
+        "text": "Walk."
+    },
+    {
+        "startTime": 58683,
+        "endTime": 62321,
+        "text": "You may cross the street when you see this sign."
+    },
+    {
+        "startTime": 62777,
+        "endTime": 66628,
+        "text": "But when you see the hand, you need to hurry."
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 607,
+        "endTime": 1540,
+        "text": "To compete with Airbus,..."
+    },
+    {
+        "startTime": 1744,
+        "endTime": 6290,
+        "text": "...Boeing's obvious move was to upgrade the engine on their single-aisle plane, the 737,..."
+    },
+    {
+        "startTime": 6530,
+        "endTime": 7710,
+        "text": "...but there is one issue."
+    },
+    {
+        "startTime": 8603,
+        "endTime": 11915,
+        "text": "Here's a sketch of the 737 next to the Airbus A320."
+    },
+    {
+        "startTime": 13399,
+        "endTime": 16751,
+        "text": "Notice how the 737 is lower to the ground than the A320."
+    },
+    {
+        "startTime": 17385,
+        "endTime": 20621,
+        "text": "This meant Airbus could slide a new engine under the wing of their A320,..."
+    },
+    {
+        "startTime": 21894,
+        "endTime": 24920,
+        "text": "...but there wasn't enough room under the wing of the Boeing 737."
+    },
+    {
+        "startTime": 26263,
+        "endTime": 30768,
+        "text": "Their solution was to move up the engine on the wing so that it would be slightly higher...."
+    },
+    {
+        "startTime": 31267,
+        "endTime": 32957,
+        "text": "...and it would fit on their 737s."
+    },
+    {
+        "startTime": 34195,
+        "endTime": 37477,
+        "text": "When the 737 MAX was in full thrust, like during takeoff,..."
+    },
+    {
+        "startTime": 37998,
+        "endTime": 41175,
+        "text": "...the nose tended to point too far upward, which could lead to a stall."
+    },
+    {
+        "startTime": 41849,
+        "endTime": 46287,
+        "text": "This was a problem because these planes were supposed to behave exactly like the old ones,..."
+    },
+    {
+        "startTime": 46889,
+        "endTime": 48471,
+        "text": "...so Boeing came up with a workaround."
+    },
+    {
+        "startTime": 49634,
+        "endTime": 51333,
+        "text": "Instead of re-engineering the planes,..."
+    },
+    {
+        "startTime": 51750,
+        "endTime": 55009,
+        "text": "...they installed software that automatically pushed the nose downward..."
+    },
+    {
+        "startTime": 55107,
+        "endTime": 57321,
+        "text": "...if the pilot flew the plane at too high of an angle."
+    }
+]

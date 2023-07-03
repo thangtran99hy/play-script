@@ -1,0 +1,197 @@
+[
+    {
+        "startTime": 2927,
+        "endTime": 6625,
+        "text": "Here in Gothenburg, one team are trying to solve this,..."
+    },
+    {
+        "startTime": 6794,
+        "endTime": 10673,
+        "text": "...and they're using technology that's a bit like a 3D printer."
+    },
+    {
+        "startTime": 11058,
+        "endTime": 14161,
+        "text": "Their aim, well, is to grow organs from cells..."
+    },
+    {
+        "startTime": 14293,
+        "endTime": 16959,
+        "text": "...here in this lab, no donor necessary."
+    },
+    {
+        "startTime": 19090,
+        "endTime": 23517,
+        "text": "Today, we are going to look at printing skin."
+    },
+    {
+        "startTime": 23799,
+        "endTime": 26217,
+        "text": "The skin is composed of different layers."
+    },
+    {
+        "startTime": 26567,
+        "endTime": 26941,
+        "text": "Okay."
+    },
+    {
+        "startTime": 27021,
+        "endTime": 30799,
+        "text": "And every layer has different types of cells in combination."
+    },
+    {
+        "startTime": 31872,
+        "endTime": 34726,
+        "text": "It is the human body's largest organ..."
+    },
+    {
+        "startTime": 35069,
+        "endTime": 38999,
+        "text": "...but even a small skin model requires millions of cells."
+    },
+    {
+        "startTime": 39413,
+        "endTime": 42850,
+        "text": "They're mixed into different bio-inks for the machine to choose between."
+    },
+    {
+        "startTime": 43925,
+        "endTime": 49634,
+        "text": "You really design a code that tells the printer what to print,..."
+    },
+    {
+        "startTime": 49734,
+        "endTime": 52025,
+        "text": "...when, and then, which structure."
+    },
+    {
+        "startTime": 54336,
+        "endTime": 57480,
+        "text": "It's a lot more visible than I expected with the naked eye."
+    },
+    {
+        "startTime": 58381,
+        "endTime": 62180,
+        "text": "A hollow blood vessel structure has been layered inside this one..."
+    },
+    {
+        "startTime": 62501,
+        "endTime": 65463,
+        "text": "...and a syringe-like print head has a different purpose."
+    },
+    {
+        "startTime": 65969,
+        "endTime": 70891,
+        "text": "So you can actually print cells or hair follicles to really replicate the skin."
+    },
+    {
+        "startTime": 72100,
+        "endTime": 74262,
+        "text": "At this stage it kind of looks like a bit of toothpaste,..."
+    },
+    {
+        "startTime": 74343,
+        "endTime": 77517,
+        "text": "...but actually it's seriously complicated cells in here."
+    },
+    {
+        "startTime": 79781,
+        "endTime": 85298,
+        "text": "While 3D printed skin could be applied in surgical grafts, drug, and cosmetic testing,..."
+    },
+    {
+        "startTime": 85617,
+        "endTime": 87575,
+        "text": "...the cells have to mature first."
+    },
+    {
+        "startTime": 88071,
+        "endTime": 90613,
+        "text": "This is where we culture the samples we've printed."
+    },
+    {
+        "startTime": 91789,
+        "endTime": 94481,
+        "text": "They are kept in incubators for several weeks..."
+    },
+    {
+        "startTime": 94866,
+        "endTime": 96721,
+        "text": "...and this tray is about a week old."
+    },
+    {
+        "startTime": 97334,
+        "endTime": 101015,
+        "text": "The top part, which is mimicking the top of our skin, is on top."
+    },
+    {
+        "startTime": 101949,
+        "endTime": 107433,
+        "text": "A mix of proteins and nutrient molecules is fed in and the waste is removed,..."
+    },
+    {
+        "startTime": 107628,
+        "endTime": 109596,
+        "text": "...all while being closely monitored."
+    },
+    {
+        "startTime": 110015,
+        "endTime": 113503,
+        "text": "The beauty with this microscope is you can actually watch your sample..."
+    },
+    {
+        "startTime": 113866,
+        "endTime": 118763,
+        "text": "...through an iPad so it's no longer looking through those small eye things."
+    },
+    {
+        "startTime": 119831,
+        "endTime": 122930,
+        "text": "Green dots for living cells, red for dead."
+    },
+    {
+        "startTime": 123233,
+        "endTime": 125382,
+        "text": "So there's not that many dead cells here that you can see."
+    },
+    {
+        "startTime": 125488,
+        "endTime": 126909,
+        "text": "Which is a very good sign."
+    },
+    {
+        "startTime": 127280,
+        "endTime": 130785,
+        "text": "Close analysis of the end results is needed to fine-tune."
+    },
+    {
+        "startTime": 131195,
+        "endTime": 133806,
+        "text": "Cell ink has been printing cancer tumors..."
+    },
+    {
+        "startTime": 134001,
+        "endTime": 136789,
+        "text": "...so that patients could receive personalized treatments..."
+    },
+    {
+        "startTime": 137025,
+        "endTime": 139573,
+        "text": "...without enduring drug trials themselves."
+    },
+    {
+        "startTime": 140597,
+        "endTime": 143835,
+        "text": "They've also made liver models for drug screening campaigns..."
+    },
+    {
+        "startTime": 144192,
+        "endTime": 147593,
+        "text": "...and are helping beauty brands become animal cruelty-free,..."
+    },
+    {
+        "startTime": 147955,
+        "endTime": 150359,
+        "text": "...thanks to testing on lab-grown skin."
+    }
+]

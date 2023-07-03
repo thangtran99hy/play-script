@@ -1,0 +1,322 @@
+[
+    {
+        "startTime": 1627,
+        "endTime": 4764,
+        "text": "How powerful can scientists make a computer chip?"
+    },
+    {
+        "startTime": 6111,
+        "endTime": 9397,
+        "text": "By the turn of the millennium, experts said that tiny chips..."
+    },
+    {
+        "startTime": 9653,
+        "endTime": 15029,
+        "text": "...packed more and more densely with hundreds of millions of transistors would generate too much heat."
+    },
+    {
+        "startTime": 15749,
+        "endTime": 21572,
+        "text": "So scientists at Intel developed technologies that enable a microprocessor to do more."
+    },
+    {
+        "startTime": 22384,
+        "endTime": 25477,
+        "text": "Well, the Core i7 is a pretty radical redesign."
+    },
+    {
+        "startTime": 25983,
+        "endTime": 30637,
+        "text": "In fact, it's one of the biggest changes in the way the PC works in quite a while."
+    },
+    {
+        "startTime": 31106,
+        "endTime": 36659,
+        "text": "So the things we've done are kind of open it up so that it can be fed..."
+    },
+    {
+        "startTime": 36747,
+        "endTime": 39585,
+        "text": "...open the processor up so that you can feed it with the data better."
+    },
+    {
+        "startTime": 39980,
+        "endTime": 43416,
+        "text": "Intel did this with a number of innovations such as:..."
+    },
+    {
+        "startTime": 43523,
+        "endTime": 48087,
+        "text": "...moving the memory controller onto the chip to achieve higher memory bandwidth,..."
+    },
+    {
+        "startTime": 48455,
+        "endTime": 55519,
+        "text": "...turbo boost technology, which increases frequency when the processor detects it has available power headroom,..."
+    },
+    {
+        "startTime": 56203,
+        "endTime": 61727,
+        "text": "...and an integrated power gate, which shuts off power to those cores which aren't in use."
+    },
+    {
+        "startTime": 64540,
+        "endTime": 71383,
+        "text": "Scientists like Intel Fellow Glenn Hinton say the technology has increased performance and energy efficiency."
+    },
+    {
+        "startTime": 71798,
+        "endTime": 76209,
+        "text": "The guys in the power management team did a lot of work to reduce the overall..."
+    },
+    {
+        "startTime": 77185,
+        "endTime": 81557,
+        "text": "...and actively manage the power so that if one core is running we get a lot of power to that sort,..."
+    },
+    {
+        "startTime": 81691,
+        "endTime": 83639,
+        "text": "...run really high-performance, that's turbo mode."
+    },
+    {
+        "startTime": 83745,
+        "endTime": 90811,
+        "text": "And if all the cores are working, we adjust the frequency and voltage to make everything work well."
+    },
+    {
+        "startTime": 90983,
+        "endTime": 97685,
+        "text": "And so, that whole very active power management went way beyond anything we've done on any of our previous chips."
+    },
+    {
+        "startTime": 98261,
+        "endTime": 108381,
+        "text": "At Intel's lab in Silicon Valley, engineers test the Core i7 in a variety of hardware and software configurations especially in high-end gaming."
+    },
+    {
+        "startTime": 109303,
+        "endTime": 117201,
+        "text": "I manage a group of guys that our job is to look at the products that Intel is going to be producing and try to explain the benefits..."
+    },
+    {
+        "startTime": 117281,
+        "endTime": 121733,
+        "text": "...in terms that people can understand, that they can relate to things they really do with the PC."
+    },
+    {
+        "startTime": 122187,
+        "endTime": 130137,
+        "text": "So instead of just talking about this thing is 50 percent faster, we try to find ways to say, \"Okay, what can I do with that 50 percent?\""
+    },
+    {
+        "startTime": 130779,
+        "endTime": 137369,
+        "text": "So what Regina is doing here is she's actually going in and playing this game that recently was released."
+    },
+    {
+        "startTime": 137801,
+        "endTime": 145431,
+        "text": "And she'll try out a variety of different settings, whether it's the screen resolution or the quality settings in the game."
+    },
+    {
+        "startTime": 145922,
+        "endTime": 150234,
+        "text": "So whenever a new game is launched, she has to spend just hours in here."
+    },
+    {
+        "startTime": 150399,
+        "endTime": 157977,
+        "text": "It's a terrible job, going through and playing that game over and over and over again until she comes up with the right settings."
+    },
+    {
+        "startTime": 158350,
+        "endTime": 158861,
+        "text": "It's hard."
+    },
+    {
+        "startTime": 159073,
+        "endTime": 159876,
+        "text": "And the right test."
+    },
+    {
+        "startTime": 159994,
+        "endTime": 161011,
+        "text": "And the right test."
+    },
+    {
+        "startTime": 163813,
+        "endTime": 168567,
+        "text": "Francois Piednoel is testing the Core i7 here on an Intel motherboard."
+    },
+    {
+        "startTime": 169129,
+        "endTime": 175215,
+        "text": "So far, he has observed bandwidth that is two times higher than on a previous quad-core microprocessor."
+    },
+    {
+        "startTime": 176413,
+        "endTime": 183568,
+        "text": "So you got the processor, you got the board and for six months you try to figure out where's the problem. Here or here?"
+    },
+    {
+        "startTime": 184344,
+        "endTime": 190136,
+        "text": "And it's a ping-pong between the architecture team. And I'm sitting in the middle,..."
+    },
+    {
+        "startTime": 190425,
+        "endTime": 193997,
+        "text": "...taking from the right hand to the left hand and trying to exchange."
+    },
+    {
+        "startTime": 194655,
+        "endTime": 197810,
+        "text": "We've got a lot of smart people working on this; it's a huge team."
+    },
+    {
+        "startTime": 198295,
+        "endTime": 205891,
+        "text": "This is the lab where we're doing a lot of the functional validation of Nehalem, making sure that it's a good, robust part as we launch it..."
+    },
+    {
+        "startTime": 206058,
+        "endTime": 211123,
+        "text": "...and bring it to consumers. We also check our performance and labs just like this up here in Oregon..."
+    },
+    {
+        "startTime": 211516,
+        "endTime": 214837,
+        "text": "...as we have our architecture design and validation teams all co-located here."
+    },
+    {
+        "startTime": 215269,
+        "endTime": 222237,
+        "text": "The design of the Core i7, code-named \"Nehalem\" in the lab, involved thousands of engineers in places such as..."
+    },
+    {
+        "startTime": 222321,
+        "endTime": 227324,
+        "text": "...Oregon, California and Arizona, and in Malaysia and Costa Rica."
+    },
+    {
+        "startTime": 228287,
+        "endTime": 233619,
+        "text": "Rani Borkar oversaw the development of the microprocessor across Intel's many organizations,..."
+    },
+    {
+        "startTime": 233885,
+        "endTime": 238827,
+        "text": "...handling tasks like architecture and design, manufacturing, testing and debugging."
+    },
+    {
+        "startTime": 239092,
+        "endTime": 243750,
+        "text": "Of course we have structures and over time we've learned to make these structures..."
+    },
+    {
+        "startTime": 243825,
+        "endTime": 248079,
+        "text": "...better and better so that it really progresses very seamlessly."
+    },
+    {
+        "startTime": 248298,
+        "endTime": 251645,
+        "text": "Because the timelines, one thing which is constant is the timeline,..."
+    },
+    {
+        "startTime": 251718,
+        "endTime": 254676,
+        "text": "...when you're going to deliver and what you said you will deliver."
+    },
+    {
+        "startTime": 255003,
+        "endTime": 257847,
+        "text": "Intel delivers chips on its Tick Tock model."
+    },
+    {
+        "startTime": 258154,
+        "endTime": 264425,
+        "text": "The Tick represents advances and processed technologies such as from 65 nanometer to 45,..."
+    },
+    {
+        "startTime": 264771,
+        "endTime": 271291,
+        "text": "...which was Penryn in 2007. The Tock is a new micro architecture, in this case \"Nehalem.\""
+    },
+    {
+        "startTime": 271692,
+        "endTime": 277187,
+        "text": "With the Tock processor, we get the chance to overhaul complete micro architecture as well as the platform."
+    },
+    {
+        "startTime": 277309,
+        "endTime": 283417,
+        "text": "The internal of the core has been changed significantly for added performance as well as for better energy efficiency."
+    },
+    {
+        "startTime": 284683,
+        "endTime": 289838,
+        "text": "So one of the fun things we've been doing even on the previous projects is from an individual contributor's role,..."
+    },
+    {
+        "startTime": 290247,
+        "endTime": 294840,
+        "text": "...when their piece of the design is done and what we locally call \"putting it in the freezer\",..."
+    },
+    {
+        "startTime": 295489,
+        "endTime": 297520,
+        "text": "...you go and give them a gold balloon."
+    },
+    {
+        "startTime": 297601,
+        "endTime": 302109,
+        "text": "I've been working on Nehalem since 2003 and so when we eventually get silicon,..."
+    },
+    {
+        "startTime": 302197,
+        "endTime": 304949,
+        "text": "...one of the key moments is the first silicon in the lab..."
+    },
+    {
+        "startTime": 305044,
+        "endTime": 309220,
+        "text": "...and getting it to actually boot a real operating system and run real applications."
+    },
+    {
+        "startTime": 311171,
+        "endTime": 313894,
+        "text": "People compare it to a parent, seeing their baby for the first time."
+    },
+    {
+        "startTime": 314049,
+        "endTime": 321027,
+        "text": "It's both the design engineers, the circuit technology folks, the circuit designers, the validation people,..."
+    },
+    {
+        "startTime": 321225,
+        "endTime": 326019,
+        "text": "...architects, all of the design team; it's a huge project, a huge team."
+    },
+    {
+        "startTime": 328816,
+        "endTime": 331342,
+        "text": "This is rocket science, this is hard stuff."
+    },
+    {
+        "startTime": 331745,
+        "endTime": 333555,
+        "text": "This is our baby, our new baby."
+    },
+    {
+        "startTime": 333658,
+        "endTime": 339255,
+        "text": "This is our new baby, this is the Intel Core i7 microprocessor."
+    },
+    {
+        "startTime": 342179,
+        "endTime": 344397,
+        "text": "This is the fastest processor on the planet."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 2204,
+        "endTime": 4957,
+        "text": "Hello there. What seems to be the problem today?"
+    },
+    {
+        "startTime": 5231,
+        "endTime": 8563,
+        "text": "Hello, doctor. My throat has been sore for two days."
+    },
+    {
+        "startTime": 9049,
+        "endTime": 11552,
+        "text": "I see. Do you have a fever as well?"
+    },
+    {
+        "startTime": 11723,
+        "endTime": 14934,
+        "text": "I think so, but I haven't actually taken my temperature."
+    },
+    {
+        "startTime": 15425,
+        "endTime": 17021,
+        "text": "Have you been able to eat okay?"
+    },
+    {
+        "startTime": 17297,
+        "endTime": 19199,
+        "text": "Are you having any stomach problems?"
+    },
+    {
+        "startTime": 19517,
+        "endTime": 24109,
+        "text": "No, my stomach feels fine now, but I had a stomachache yesterday."
+    },
+    {
+        "startTime": 24579,
+        "endTime": 27377,
+        "text": "Right. Let me take a look at your throat."
+    },
+    {
+        "startTime": 27550,
+        "endTime": 29518,
+        "text": "Open up and say \"aahhhh\" please."
+    },
+    {
+        "startTime": 29871,
+        "endTime": 32507,
+        "text": "\"Aaahhhh.\" Ouch!"
+    },
+    {
+        "startTime": 32837,
+        "endTime": 35191,
+        "text": "Yes, your throat isn't doing so well."
+    },
+    {
+        "startTime": 35523,
+        "endTime": 38638,
+        "text": "But don't worry, I will give you some medicine to make it better."
+    },
+    {
+        "startTime": 38901,
+        "endTime": 41733,
+        "text": "Thank you, doctor. I'm feeling much better already."
+    }
+]

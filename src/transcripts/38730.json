@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 6590,
+        "endTime": 9671,
+        "text": "I'll match the invoice with the purchase order and delivery note."
+    },
+    {
+        "startTime": 11628,
+        "endTime": 14454,
+        "text": "Could you match the contract with client type?"
+    },
+    {
+        "startTime": 16715,
+        "endTime": 20572,
+        "text": "Make sure to receive approval from the project manager beforehand."
+    },
+    {
+        "startTime": 22530,
+        "endTime": 25799,
+        "text": "Did you receive approval for the schedule from the supplier?"
+    },
+    {
+        "startTime": 33974,
+        "endTime": 38585,
+        "text": "Active voice: I sort the invoices from our suppliers."
+    },
+    {
+        "startTime": 39701,
+        "endTime": 44267,
+        "text": "Passive voice: The invoices from our suppliers were sorted."
+    },
+    {
+        "startTime": 45769,
+        "endTime": 49417,
+        "text": "Active voice: He checks the purchase order numbers."
+    },
+    {
+        "startTime": 50931,
+        "endTime": 54723,
+        "text": "Passive voice: The purchase order numbers are checked."
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 2100,
+        "endTime": 6100,
+        "text": "Good afternoon! JP&B Associates. How can I help you?"
+    },
+    {
+        "startTime": 6500,
+        "endTime": 8940,
+        "text": "I'd like to speak with Larry Smith, please."
+    },
+    {
+        "startTime": 9470,
+        "endTime": 11670,
+        "text": "Please hold while I put your call through."
+    },
+    {
+        "startTime": 13110,
+        "endTime": 17010,
+        "text": "I'm sorry. I'm afraid Mr. Smith is out of the office at the moment."
+    },
+    {
+        "startTime": 17350,
+        "endTime": 18880,
+        "text": "Would you like to leave a message?"
+    },
+    {
+        "startTime": 19220,
+        "endTime": 22960,
+        "text": "I wanted to check to make sure he remembered our meeting tomorrow."
+    },
+    {
+        "startTime": 23390,
+        "endTime": 28060,
+        "text": "If you leave your name and number, I'll ask him to call you back when he gets in."
+    },
+    {
+        "startTime": 28330,
+        "endTime": 31190,
+        "text": "Certainly. My name is Linda Strait."
+    }
+]

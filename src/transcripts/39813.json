@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 273,
+        "endTime": 647,
+        "text": "Hi!"
+    },
+    {
+        "startTime": 2867,
+        "endTime": 3407,
+        "text": "Hello!"
+    },
+    {
+        "startTime": 5580,
+        "endTime": 6555,
+        "text": "Hello, Angela!"
+    },
+    {
+        "startTime": 8793,
+        "endTime": 9711,
+        "text": "Hi, Elon!"
+    },
+    {
+        "startTime": 12034,
+        "endTime": 12637,
+        "text": "Hi, Michelle!"
+    },
+    {
+        "startTime": 15006,
+        "endTime": 15915,
+        "text": "Hello, Bill!"
+    },
+    {
+        "startTime": 18003,
+        "endTime": 19072,
+        "text": "Hi there, Vera!"
+    },
+    {
+        "startTime": 21280,
+        "endTime": 22389,
+        "text": "Hello there, Mark!"
+    },
+    {
+        "startTime": 24437,
+        "endTime": 25765,
+        "text": "Hello there, Donatella!"
+    },
+    {
+        "startTime": 27999,
+        "endTime": 29159,
+        "text": "Hi there, Warren!"
+    },
+    {
+        "startTime": 31318,
+        "endTime": 32387,
+        "text": "Hello, Anna!"
+    },
+    {
+        "startTime": 34505,
+        "endTime": 35349,
+        "text": "Hi, Tim!"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 50,
+        "endTime": 2988,
+        "text": "Here are some sentences you might hear in a job interview."
+    },
+    {
+        "startTime": 4941,
+        "endTime": 6625,
+        "text": "Tell me a little bit about yourself."
+    },
+    {
+        "startTime": 8525,
+        "endTime": 9955,
+        "text": "How did you hear about the position?"
+    },
+    {
+        "startTime": 11943,
+        "endTime": 14044,
+        "text": "Why are you interested in this position?"
+    },
+    {
+        "startTime": 15982,
+        "endTime": 17391,
+        "text": "Why should we hire you?"
+    },
+    {
+        "startTime": 19249,
+        "endTime": 22604,
+        "text": "What do you consider your strengths and weaknesses?"
+    },
+    {
+        "startTime": 24602,
+        "endTime": 27834,
+        "text": "Tell me about a time when you overcame a challenge at work."
+    },
+    {
+        "startTime": 29627,
+        "endTime": 31311,
+        "text": "What are your career goals?"
+    },
+    {
+        "startTime": 33205,
+        "endTime": 35553,
+        "text": "Where do you see yourself in five years?"
+    },
+    {
+        "startTime": 37509,
+        "endTime": 38951,
+        "text": "Why do you want to work here?"
+    },
+    {
+        "startTime": 40970,
+        "endTime": 42646,
+        "text": "Do you have any questions for me?"
+    }
+]

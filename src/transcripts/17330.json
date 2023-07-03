@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 3487,
+        "endTime": 4919,
+        "text": "I go to the park."
+    },
+    {
+        "startTime": 6021,
+        "endTime": 7739,
+        "text": "I go to the store."
+    },
+    {
+        "startTime": 8819,
+        "endTime": 10473,
+        "text": "I go to the movies."
+    },
+    {
+        "startTime": 11623,
+        "endTime": 13167,
+        "text": "I go to the zoo."
+    },
+    {
+        "startTime": 14315,
+        "endTime": 16385,
+        "text": "I go to the ice cream shop."
+    },
+    {
+        "startTime": 17527,
+        "endTime": 19336,
+        "text": "I go to the library."
+    },
+    {
+        "startTime": 20451,
+        "endTime": 22157,
+        "text": "I go to my room."
+    },
+    {
+        "startTime": 23227,
+        "endTime": 24477,
+        "text": "I go to sleep."
+    },
+    {
+        "startTime": 28485,
+        "endTime": 29738,
+        "text": "Where do you go?"
+    },
+    {
+        "startTime": 30811,
+        "endTime": 32457,
+        "text": "I go to the playground."
+    },
+    {
+        "startTime": 33506,
+        "endTime": 35379,
+        "text": "Where does your sister go?"
+    },
+    {
+        "startTime": 36397,
+        "endTime": 38649,
+        "text": "She goes to the supermarket."
+    },
+    {
+        "startTime": 39673,
+        "endTime": 41933,
+        "text": "Where do your mom and dad go?"
+    },
+    {
+        "startTime": 42989,
+        "endTime": 45119,
+        "text": "They go to the restaurant."
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 2450,
+        "endTime": 4450,
+        "text": "This coffee shop is wonderful."
+    },
+    {
+        "startTime": 4700,
+        "endTime": 6000,
+        "text": "Thanks for bringing me here."
+    },
+    {
+        "startTime": 6450,
+        "endTime": 7400,
+        "text": "My pleasure, Linda."
+    },
+    {
+        "startTime": 7850,
+        "endTime": 10900,
+        "text": "So, Bob tells me you joined the company recently."
+    },
+    {
+        "startTime": 11150,
+        "endTime": 11800,
+        "text": "That's right."
+    },
+    {
+        "startTime": 12300,
+        "endTime": 16300,
+        "text": "I started applying for jobs last January and was hired in March."
+    },
+    {
+        "startTime": 16900,
+        "endTime": 18300,
+        "text": "What did you do before that?"
+    },
+    {
+        "startTime": 18700,
+        "endTime": 21100,
+        "text": "Before that, I was a freelance consultant."
+    },
+    {
+        "startTime": 21400,
+        "endTime": 24550,
+        "text": "Really? I heard consultants earn great salaries."
+    },
+    {
+        "startTime": 24950,
+        "endTime": 26050,
+        "text": "Why did you quit that?"
+    },
+    {
+        "startTime": 26350,
+        "endTime": 29100,
+        "text": "It was too stressful moving from job to job."
+    },
+    {
+        "startTime": 29450,
+        "endTime": 30850,
+        "text": "I wanted steadier work..."
+    },
+    {
+        "startTime": 31250,
+        "endTime": 35400,
+        "text": "...and I have found the work I'm involved in now is very interesting and exciting."
+    }
+]

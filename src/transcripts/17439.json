@@ -1,0 +1,132 @@
+[
+    {
+        "startTime": 2167,
+        "endTime": 2673,
+        "text": "Fruit"
+    },
+    {
+        "startTime": 3546,
+        "endTime": 5031,
+        "text": "I like to eat fruit."
+    },
+    {
+        "startTime": 6455,
+        "endTime": 8412,
+        "text": "I like to eat sweet fruit."
+    },
+    {
+        "startTime": 9920,
+        "endTime": 10426,
+        "text": "Juice"
+    },
+    {
+        "startTime": 11334,
+        "endTime": 12585,
+        "text": "I drink juice."
+    },
+    {
+        "startTime": 14063,
+        "endTime": 15777,
+        "text": "I drink apple juice."
+    },
+    {
+        "startTime": 17205,
+        "endTime": 17752,
+        "text": "Suit"
+    },
+    {
+        "startTime": 18593,
+        "endTime": 19798,
+        "text": "I wear a suit."
+    },
+    {
+        "startTime": 21254,
+        "endTime": 22905,
+        "text": "I wear a new suit."
+    },
+    {
+        "startTime": 24166,
+        "endTime": 24823,
+        "text": "Suitor"
+    },
+    {
+        "startTime": 25748,
+        "endTime": 27727,
+        "text": "A prince is a good suitor."
+    },
+    {
+        "startTime": 29055,
+        "endTime": 31431,
+        "text": "A prince is a very good suitor."
+    },
+    {
+        "startTime": 37843,
+        "endTime": 39213,
+        "text": "Dog, dog, dog."
+    },
+    {
+        "startTime": 39525,
+        "endTime": 41247,
+        "text": "A dog is in a house."
+    },
+    {
+        "startTime": 41613,
+        "endTime": 43124,
+        "text": "Cow, cow, cow."
+    },
+    {
+        "startTime": 43301,
+        "endTime": 44845,
+        "text": "A cow is in a barn."
+    },
+    {
+        "startTime": 45368,
+        "endTime": 46726,
+        "text": "Pig, pig, pig."
+    },
+    {
+        "startTime": 47052,
+        "endTime": 48584,
+        "text": "A pig is in the mud."
+    },
+    {
+        "startTime": 49130,
+        "endTime": 50435,
+        "text": "Goat, goat, goat."
+    },
+    {
+        "startTime": 50781,
+        "endTime": 52295,
+        "text": "A goat is on a field."
+    },
+    {
+        "startTime": 52833,
+        "endTime": 54045,
+        "text": "Duck, duck, duck."
+    },
+    {
+        "startTime": 54517,
+        "endTime": 56095,
+        "text": "A duck is on a pond."
+    },
+    {
+        "startTime": 56505,
+        "endTime": 57766,
+        "text": "Sheep, sheep, sheep."
+    },
+    {
+        "startTime": 58292,
+        "endTime": 59834,
+        "text": "A sheep is on a hill."
+    },
+    {
+        "startTime": 60361,
+        "endTime": 63433,
+        "text": "Dog, cow, pig, goat, duck, and sheep."
+    },
+    {
+        "startTime": 63972,
+        "endTime": 67476,
+        "text": "Many animals are on a farm."
+    }
+]

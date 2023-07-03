@@ -1,0 +1,107 @@
+[
+    {
+        "startTime": 2668,
+        "endTime": 4735,
+        "text": "Can you help clean the house?"
+    },
+    {
+        "startTime": 5814,
+        "endTime": 6891,
+        "text": "Yes, I can."
+    },
+    {
+        "startTime": 8287,
+        "endTime": 10512,
+        "text": "Can you help wash the dishes?"
+    },
+    {
+        "startTime": 11670,
+        "endTime": 12886,
+        "text": "Yes, I can."
+    },
+    {
+        "startTime": 13965,
+        "endTime": 16111,
+        "text": "Can you help pull the weeds?"
+    },
+    {
+        "startTime": 17447,
+        "endTime": 18683,
+        "text": "Yes, I can."
+    },
+    {
+        "startTime": 19784,
+        "endTime": 21653,
+        "text": "Can you help make the bed?"
+    },
+    {
+        "startTime": 22553,
+        "endTime": 23711,
+        "text": "Yes, I can."
+    },
+    {
+        "startTime": 25007,
+        "endTime": 26876,
+        "text": "Can you help carry the bag?"
+    },
+    {
+        "startTime": 28211,
+        "endTime": 29210,
+        "text": "Yes, I can."
+    },
+    {
+        "startTime": 30467,
+        "endTime": 32336,
+        "text": "Can you help wash the dog?"
+    },
+    {
+        "startTime": 33613,
+        "endTime": 34769,
+        "text": "Yes, I can."
+    },
+    {
+        "startTime": 36007,
+        "endTime": 37797,
+        "text": "Can you help feed the chickens?"
+    },
+    {
+        "startTime": 38837,
+        "endTime": 39993,
+        "text": "Yes, I can."
+    },
+    {
+        "startTime": 41231,
+        "endTime": 43119,
+        "text": "Can you help clean your room?"
+    },
+    {
+        "startTime": 46429,
+        "endTime": 48812,
+        "text": "What can you do to help Mom?"
+    },
+    {
+        "startTime": 50010,
+        "endTime": 51602,
+        "text": "I can clean my room."
+    },
+    {
+        "startTime": 52423,
+        "endTime": 54609,
+        "text": "Can you help wash the dishes?"
+    },
+    {
+        "startTime": 55707,
+        "endTime": 57003,
+        "text": "Yes, I can."
+    },
+    {
+        "startTime": 57974,
+        "endTime": 60397,
+        "text": "Can you help feed the chickens?"
+    },
+    {
+        "startTime": 61456,
+        "endTime": 64413,
+        "text": "No, I can't. I'm afraid of them."
+    }
+]

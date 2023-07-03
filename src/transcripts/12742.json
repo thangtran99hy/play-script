@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 1856,
+        "endTime": 3622,
+        "text": "Hello, Kathy? This is Changmin."
+    },
+    {
+        "startTime": 4011,
+        "endTime": 7544,
+        "text": "Changmin! Hey, are you all right? You sound terrible!"
+    },
+    {
+        "startTime": 7850,
+        "endTime": 11095,
+        "text": "I think I'm coming down with something. That's why I called you."
+    },
+    {
+        "startTime": 11579,
+        "endTime": 14573,
+        "text": "Oh, I'm really sorry to hear that. What's wrong?"
+    },
+    {
+        "startTime": 15481,
+        "endTime": 18639,
+        "text": "I'm not sure. I've had a terrible headache all day."
+    },
+    {
+        "startTime": 19050,
+        "endTime": 21439,
+        "text": "Really? Did you take any painkillers?"
+    },
+    {
+        "startTime": 21796,
+        "endTime": 24013,
+        "text": "Yes, but I don't think they're working."
+    },
+    {
+        "startTime": 25002,
+        "endTime": 28440,
+        "text": "Anyway, we're supposed to meet today to go to the museum,..."
+    },
+    {
+        "startTime": 28881,
+        "endTime": 30581,
+        "text": "...but I'm afraid I can't make it."
+    },
+    {
+        "startTime": 30897,
+        "endTime": 32977,
+        "text": "Can we postpone our meeting to tomorrow?"
+    },
+    {
+        "startTime": 33259,
+        "endTime": 37320,
+        "text": "Please Changmin, take care first. We can meet up some other time, then."
+    },
+    {
+        "startTime": 37754,
+        "endTime": 41121,
+        "text": "I'm sorry that you don't feel well and I hope that you get better soon."
+    },
+    {
+        "startTime": 42603,
+        "endTime": 44887,
+        "text": "Sorry, Kathy. It won't happen again."
+    }
+]

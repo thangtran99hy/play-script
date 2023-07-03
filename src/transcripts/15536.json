@@ -1,0 +1,217 @@
+[
+    {
+        "startTime": 7111,
+        "endTime": 9923,
+        "text": "Hi, I'm Ashwin Vasavada, the deputy project scientist..."
+    },
+    {
+        "startTime": 10097,
+        "endTime": 12985,
+        "text": "...for the Mars Science Laboratory mission and its Curiosity rover."
+    },
+    {
+        "startTime": 13799,
+        "endTime": 17435,
+        "text": "So, a lot of people wonder why Curiosity doesn't have solar panels,..."
+    },
+    {
+        "startTime": 17982,
+        "endTime": 20262,
+        "text": "...like the Mars exploration rover, Spirit, and Opportunity."
+    },
+    {
+        "startTime": 20899,
+        "endTime": 23779,
+        "text": "The Mars exploration rovers often found themselves short on power..."
+    },
+    {
+        "startTime": 23869,
+        "endTime": 25344,
+        "text": "...as dust settled on their solar panels."
+    },
+    {
+        "startTime": 25969,
+        "endTime": 28152,
+        "text": "This was especially a problem in the short days of winter."
+    },
+    {
+        "startTime": 28791,
+        "endTime": 31319,
+        "text": "We need a good, strong, and reliable source of power..."
+    },
+    {
+        "startTime": 31581,
+        "endTime": 33856,
+        "text": "...to keep Curiosity going for over two years on Mars."
+    },
+    {
+        "startTime": 34804,
+        "endTime": 39837,
+        "text": "Curiosity is two times bigger, five times heavier and has 15 times the weight of scientific equipment,..."
+    },
+    {
+        "startTime": 40077,
+        "endTime": 41437,
+        "text": "...relative to Spirit and Opportunity."
+    },
+    {
+        "startTime": 42090,
+        "endTime": 46196,
+        "text": "Like those rovers, Curiosity surveys the landscape and examines rocks and cliffs."
+    },
+    {
+        "startTime": 47301,
+        "endTime": 53053,
+        "text": "Curiosity's scientific mission involves driving around its landing site, perhaps up to 15 or 20 miles,..."
+    },
+    {
+        "startTime": 53491,
+        "endTime": 59079,
+        "text": "...collecting samples of rocks and soils with a big jackhammer drill located on the end of a six foot robotic arm."
+    },
+    {
+        "startTime": 59613,
+        "endTime": 63187,
+        "text": "Those samples are delivered to the rover and analyzed with some very sophisticated..."
+    },
+    {
+        "startTime": 63556,
+        "endTime": 66183,
+        "text": "...and power hungry, analytical laboratory instruments."
+    },
+    {
+        "startTime": 66910,
+        "endTime": 69139,
+        "text": "And that's where the \"MMRTG\" comes in."
+    },
+    {
+        "startTime": 69755,
+        "endTime": 72689,
+        "text": "The \"Multi Mission Radioisotope Thermoelectric Generator\"..."
+    },
+    {
+        "startTime": 73099,
+        "endTime": 74961,
+        "text": "...is a power source that we've used for years..."
+    },
+    {
+        "startTime": 75173,
+        "endTime": 77767,
+        "text": "...to power a spacecraft that have gone to the outer planets,..."
+    },
+    {
+        "startTime": 78146,
+        "endTime": 80123,
+        "text": "...and even the Apollo missions used it on the moon."
+    },
+    {
+        "startTime": 81131,
+        "endTime": 85303,
+        "text": "Behind me, you can see a full-scale model of Curiosity, including the generator in the back."
+    },
+    {
+        "startTime": 86323,
+        "endTime": 89153,
+        "text": "On this half scale model of the generator, you can see what's inside."
+    },
+    {
+        "startTime": 89814,
+        "endTime": 93475,
+        "text": "The generator contains a specially produced form of plutonium dioxide."
+    },
+    {
+        "startTime": 93989,
+        "endTime": 96684,
+        "text": "The natural decay of this radioisotope gives off heat,..."
+    },
+    {
+        "startTime": 97153,
+        "endTime": 99397,
+        "text": "...which these thermocouples can turn into electricity."
+    },
+    {
+        "startTime": 100182,
+        "endTime": 103175,
+        "text": "The generator provides both electrical power and heat to the rover."
+    },
+    {
+        "startTime": 103518,
+        "endTime": 108023,
+        "text": "About a hundred watts of electrical power is used to continuously charge the rovers battery."
+    },
+    {
+        "startTime": 108615,
+        "endTime": 113747,
+        "text": "Also, heat can be pumped off of the generator using pipes to keep the rover's inside warm."
+    },
+    {
+        "startTime": 114022,
+        "endTime": 115445,
+        "text": "Including the scientific instruments."
+    },
+    {
+        "startTime": 116272,
+        "endTime": 119769,
+        "text": "With Curiosity's generator, there's a guaranteed way of charging the battery..."
+    },
+    {
+        "startTime": 119882,
+        "endTime": 121687,
+        "text": "...year round in all sorts of conditions."
+    },
+    {
+        "startTime": 122772,
+        "endTime": 125431,
+        "text": "Curiosity's generator was developed by the Department of Energy..."
+    },
+    {
+        "startTime": 125573,
+        "endTime": 128036,
+        "text": "...and will be installed on the rover just a few days before launch."
+    },
+    {
+        "startTime": 128619,
+        "endTime": 132553,
+        "text": "But to make sure everything works together properly, the engineers install the actual generator..."
+    },
+    {
+        "startTime": 132871,
+        "endTime": 134065,
+        "text": "...on the rover for the first time."
+    },
+    {
+        "startTime": 134522,
+        "endTime": 136458,
+        "text": "The blue light that you see was just additional lighting..."
+    },
+    {
+        "startTime": 136549,
+        "endTime": 138414,
+        "text": "...to help them make sure they could see what they were doing."
+    },
+    {
+        "startTime": 139504,
+        "endTime": 143422,
+        "text": "The Curiosity rover and the spacecraft that will take it to Mars are currently in Florida,..."
+    },
+    {
+        "startTime": 143740,
+        "endTime": 145694,
+        "text": "...undergoing its final preparations for launch."
+    },
+    {
+        "startTime": 146213,
+        "endTime": 150651,
+        "text": "Everything's going well and all of us in the science team can't wait for its launch later this year..."
+    },
+    {
+        "startTime": 150976,
+        "endTime": 152469,
+        "text": "...and its arrival to Mars next summer."
+    },
+    {
+        "startTime": 153217,
+        "endTime": 156235,
+        "text": "I'm Ashwin Vasavada and this has been your \"Building Curiosity\" update."
+    }
+]

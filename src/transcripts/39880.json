@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 541,
+        "endTime": 1710,
+        "text": "It is Monday."
+    },
+    {
+        "startTime": 2751,
+        "endTime": 3802,
+        "text": "What day is it?"
+    },
+    {
+        "startTime": 4365,
+        "endTime": 5226,
+        "text": "It's Sunday."
+    },
+    {
+        "startTime": 6110,
+        "endTime": 7677,
+        "text": "So, what day is it?"
+    },
+    {
+        "startTime": 8928,
+        "endTime": 9435,
+        "text": "It's Thursday."
+    },
+    {
+        "startTime": 11337,
+        "endTime": 13135,
+        "text": "What day is it?"
+    },
+    {
+        "startTime": 16395,
+        "endTime": 16985,
+        "text": "It's Friday."
+    }
+]

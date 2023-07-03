@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 2204,
+        "endTime": 3832,
+        "text": "Hey there, what can I get you?"
+    },
+    {
+        "startTime": 3918,
+        "endTime": 7057,
+        "text": "Hi, could I get a double espresso, to go please?"
+    },
+    {
+        "startTime": 7259,
+        "endTime": 8021,
+        "text": "Right away, miss."
+    },
+    {
+        "startTime": 11001,
+        "endTime": 11740,
+        "text": "Voila!"
+    },
+    {
+        "startTime": 11863,
+        "endTime": 12496,
+        "text": "Thanks."
+    },
+    {
+        "startTime": 13098,
+        "endTime": 13711,
+        "text": "See you."
+    },
+    {
+        "startTime": 15817,
+        "endTime": 16678,
+        "text": "Hey there, sir."
+    },
+    {
+        "startTime": 16870,
+        "endTime": 18236,
+        "text": "Hello, young boy or girl."
+    },
+    {
+        "startTime": 18431,
+        "endTime": 20893,
+        "text": "I'd like a latte to take out, please."
+    },
+    {
+        "startTime": 21031,
+        "endTime": 21771,
+        "text": "No problem."
+    },
+    {
+        "startTime": 24321,
+        "endTime": 25426,
+        "text": "Hey presto!"
+    },
+    {
+        "startTime": 25598,
+        "endTime": 27216,
+        "text": "Delicious, creamy nectar."
+    },
+    {
+        "startTime": 27687,
+        "endTime": 28215,
+        "text": "Goodbye."
+    },
+    {
+        "startTime": 28373,
+        "endTime": 29025,
+        "text": "See you soon."
+    },
+    {
+        "startTime": 30557,
+        "endTime": 32271,
+        "text": "Hey friend, what can I get you?"
+    },
+    {
+        "startTime": 34107,
+        "endTime": 35793,
+        "text": "Coffee."
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 4590,
+        "endTime": 6057,
+        "text": "Welcome to the Mega Diner."
+    },
+    {
+        "startTime": 6177,
+        "endTime": 7570,
+        "text": "What can I get for you gentlemen?"
+    },
+    {
+        "startTime": 7670,
+        "endTime": 9090,
+        "text": "I want something with style."
+    },
+    {
+        "startTime": 9900,
+        "endTime": 11850,
+        "text": "I wanna shake it up until it pops."
+    },
+    {
+        "startTime": 12380,
+        "endTime": 14610,
+        "text": "I'll take the biggest, baddest, freshest thing you got."
+    },
+    {
+        "startTime": 15270,
+        "endTime": 16560,
+        "text": "One Mega special!"
+    },
+    {
+        "startTime": 18300,
+        "endTime": 19080,
+        "text": "Mega Fresh."
+    }
+]

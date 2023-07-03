@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 701,
+        "endTime": 4680,
+        "text": "So, I've downloaded Tor, which looks like a normal web browser..."
+    },
+    {
+        "startTime": 4935,
+        "endTime": 7015,
+        "text": "...and seems to behave like one too."
+    },
+    {
+        "startTime": 7163,
+        "endTime": 8877,
+        "text": "I can visit any site I like."
+    },
+    {
+        "startTime": 9192,
+        "endTime": 13707,
+        "text": "But unlike normal web browsers which would register my IP address straightaway,..."
+    },
+    {
+        "startTime": 14050,
+        "endTime": 16829,
+        "text": "...the Tor browser bounces my request to enter the site..."
+    },
+    {
+        "startTime": 16973,
+        "endTime": 19554,
+        "text": "...via several computers around the world,..."
+    },
+    {
+        "startTime": 19727,
+        "endTime": 23579,
+        "text": "...encrypting and decrypting my identification as it goes..."
+    },
+    {
+        "startTime": 23805,
+        "endTime": 26511,
+        "text": "...so that no one knows where the request has come from."
+    },
+    {
+        "startTime": 26923,
+        "endTime": 31406,
+        "text": "Now that I'm browsing the internet anonymously, certain websites have become accessible."
+    },
+    {
+        "startTime": 31559,
+        "endTime": 34233,
+        "text": "Websites like the infamous Silk Road."
+    },
+    {
+        "startTime": 34976,
+        "endTime": 37885,
+        "text": "The Silk Road was one of the first online black markets..."
+    },
+    {
+        "startTime": 38147,
+        "endTime": 40852,
+        "text": "...where you can buy drugs, guns and child pornography."
+    },
+    {
+        "startTime": 41253,
+        "endTime": 46528,
+        "text": "Two years after starting the site, the founder, Ross Ulbricht was arrested in 2013..."
+    },
+    {
+        "startTime": 46788,
+        "endTime": 52001,
+        "text": "...and sentenced to life in prison for money laundering, drug trafficking, hacking and fraud."
+    },
+    {
+        "startTime": 52241,
+        "endTime": 56649,
+        "text": "This was quickly followed by a shutdown of its successor, Silk Road 2.0,..."
+    },
+    {
+        "startTime": 56946,
+        "endTime": 61726,
+        "text": "...along with similar sites such as Project Black Flag and Black Market Reloaded."
+    }
+]

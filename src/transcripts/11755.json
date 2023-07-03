@@ -1,0 +1,147 @@
+[
+    {
+        "startTime": 3835,
+        "endTime": 5263,
+        "text": "Hi! My name is Paul McDonald."
+    },
+    {
+        "startTime": 5573,
+        "endTime": 6937,
+        "text": "I'm the product manager of Gmail."
+    },
+    {
+        "startTime": 7474,
+        "endTime": 10575,
+        "text": "Over the past decade, advances like touch screen technology..."
+    },
+    {
+        "startTime": 10723,
+        "endTime": 13587,
+        "text": "...have transformed the way we interact with personal electronics."
+    },
+    {
+        "startTime": 14395,
+        "endTime": 15901,
+        "text": "However, when it comes to e-mail,..."
+    },
+    {
+        "startTime": 16000,
+        "endTime": 19307,
+        "text": "...we still rely on outdated technologies like the keyboard and mouse."
+    },
+    {
+        "startTime": 19889,
+        "endTime": 22531,
+        "text": "At Google, we've been thinking about how to solve this problem."
+    },
+    {
+        "startTime": 22664,
+        "endTime": 25187,
+        "text": "And today, I'm excited to share a new development with you."
+    },
+    {
+        "startTime": 26000,
+        "endTime": 27362,
+        "text": "We call it Gmail Motion."
+    },
+    {
+        "startTime": 28086,
+        "endTime": 31148,
+        "text": "Using your computer's camera and a spatial tracking algorithm,..."
+    },
+    {
+        "startTime": 31558,
+        "endTime": 35527,
+        "text": "...Gmail Motion interprets physical movement and turns it into actionable commands."
+    },
+    {
+        "startTime": 36291,
+        "endTime": 40543,
+        "text": "For example, to open a message, make a motion as if you were opening an envelope."
+    },
+    {
+        "startTime": 41610,
+        "endTime": 44154,
+        "text": "To reply, simply point backward with your thumb."
+    },
+    {
+        "startTime": 44935,
+        "endTime": 46685,
+        "text": "To reply all, use both hands."
+    },
+    {
+        "startTime": 47759,
+        "endTime": 50358,
+        "text": "To send a message, lick a stamp and place it down."
+    },
+    {
+        "startTime": 52924,
+        "endTime": 56149,
+        "text": "We've been working with experts in motion technology and semiotics..."
+    },
+    {
+        "startTime": 56217,
+        "endTime": 59551,
+        "text": "...to develop a language of movements that replaces type entirely."
+    },
+    {
+        "startTime": 60165,
+        "endTime": 63741,
+        "text": "The movements are designed to be intuitive, ergonomic, and easy to do."
+    },
+    {
+        "startTime": 64415,
+        "endTime": 68400,
+        "text": "Studies over the past 24 years have indicated that..."
+    },
+    {
+        "startTime": 68969,
+        "endTime": 73269,
+        "text": "...more than 80% of our total communication is body language."
+    },
+    {
+        "startTime": 73386,
+        "endTime": 77481,
+        "text": "When you can incorporate a shake of the head, a gesture of some kind,..."
+    },
+    {
+        "startTime": 77893,
+        "endTime": 80623,
+        "text": "...you're making that communication far more effective."
+    },
+    {
+        "startTime": 80910,
+        "endTime": 86129,
+        "text": "Our bodies did not evolve to sit at a desk in a rigid position all day..."
+    },
+    {
+        "startTime": 86531,
+        "endTime": 91139,
+        "text": "...and it is my feeling that Gmail Motion will free the regular user..."
+    },
+    {
+        "startTime": 91627,
+        "endTime": 95133,
+        "text": "...from the constraints that modern society,..."
+    },
+    {
+        "startTime": 95225,
+        "endTime": 98397,
+        "text": "...and our interface with our machines have put on the human body."
+    },
+    {
+        "startTime": 98807,
+        "endTime": 100870,
+        "text": "We've spent a long time perfecting Gmail Motion..."
+    },
+    {
+        "startTime": 101132,
+        "endTime": 104869,
+        "text": "...and we're excited about the potential for it to help improve your e-mail experience."
+    },
+    {
+        "startTime": 105697,
+        "endTime": 108781,
+        "text": "For more information, visit gmail.com/motion."
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "startTime": 811,
+        "endTime": 2745,
+        "text": "What time is the football match tomorrow?"
+    },
+    {
+        "startTime": 3147,
+        "endTime": 4482,
+        "text": "It's 2 p.m."
+    },
+    {
+        "startTime": 4923,
+        "endTime": 5610,
+        "text": "Great!"
+    },
+    {
+        "startTime": 6045,
+        "endTime": 7366,
+        "text": "And what time does it finish?"
+    },
+    {
+        "startTime": 7808,
+        "endTime": 9415,
+        "text": "It finishes at 4 p.m."
+    },
+    {
+        "startTime": 9785,
+        "endTime": 10459,
+        "text": "Thanks, Mike."
+    },
+    {
+        "startTime": 11048,
+        "endTime": 12941,
+        "text": "What time is the party in the evening?"
+    },
+    {
+        "startTime": 13311,
+        "endTime": 14711,
+        "text": "It's at 7 p.m."
+    },
+    {
+        "startTime": 15142,
+        "endTime": 17251,
+        "text": "It finishes at 11 p.m."
+    },
+    {
+        "startTime": 18101,
+        "endTime": 18646,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 18779,
+        "endTime": 19501,
+        "text": "See you there!"
+    },
+    {
+        "startTime": 19828,
+        "endTime": 21095,
+        "text": "See you there, Jane!"
+    },
+    {
+        "startTime": 25288,
+        "endTime": 27273,
+        "text": "What time is the concert on Sunday?"
+    },
+    {
+        "startTime": 27621,
+        "endTime": 29152,
+        "text": "It starts at 8 p.m."
+    },
+    {
+        "startTime": 29769,
+        "endTime": 30800,
+        "text": "Is there a break?"
+    },
+    {
+        "startTime": 30918,
+        "endTime": 31400,
+        "text": "Yes."
+    },
+    {
+        "startTime": 31633,
+        "endTime": 33555,
+        "text": "The break is at half past nine."
+    },
+    {
+        "startTime": 34051,
+        "endTime": 36273,
+        "text": "And what time does it start again?"
+    },
+    {
+        "startTime": 36570,
+        "endTime": 38636,
+        "text": "It starts again at 10 p.m."
+    },
+    {
+        "startTime": 39814,
+        "endTime": 40507,
+        "text": "Thank you."
+    },
+    {
+        "startTime": 40941,
+        "endTime": 42729,
+        "text": "Does it finish at 11 p.m.?"
+    },
+    {
+        "startTime": 42912,
+        "endTime": 43301,
+        "text": "No."
+    },
+    {
+        "startTime": 43555,
+        "endTime": 45654,
+        "text": "It finishes at half past 11."
+    }
+]

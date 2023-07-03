@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 1660,
+        "endTime": 5900,
+        "text": "Is this Pizza House? We ordered a pizza over an hour ago!"
+    },
+    {
+        "startTime": 6240,
+        "endTime": 9440,
+        "text": "I apologize for that, sir. Can I get your name?"
+    },
+    {
+        "startTime": 9840,
+        "endTime": 11410,
+        "text": "It's Sam Strait."
+    },
+    {
+        "startTime": 11870,
+        "endTime": 16090,
+        "text": "I'm sorry, Mr. Strait, but I can't find your order on our computer."
+    },
+    {
+        "startTime": 16450,
+        "endTime": 17050,
+        "text": "What?"
+    },
+    {
+        "startTime": 17300,
+        "endTime": 18750,
+        "text": "I think there was an error."
+    },
+    {
+        "startTime": 18980,
+        "endTime": 21880,
+        "text": "By some oversight, your order was never recorded."
+    },
+    {
+        "startTime": 22220,
+        "endTime": 26260,
+        "text": "I don't know who is to blame for this. Do you know who took the order?"
+    },
+    {
+        "startTime": 26420,
+        "endTime": 30820,
+        "text": "No, I can't remember. This kind of service is totally unacceptable."
+    },
+    {
+        "startTime": 31030,
+        "endTime": 34500,
+        "text": "I assure you, Mr. Strait, this kind of thing rarely happens."
+    },
+    {
+        "startTime": 34730,
+        "endTime": 37170,
+        "text": "We'll get a pizza to your house immediately."
+    },
+    {
+        "startTime": 37370,
+        "endTime": 39600,
+        "text": "We're very sorry for the inconvenience."
+    }
+]

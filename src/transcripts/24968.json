@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 644,
+        "endTime": 3903,
+        "text": "Let's learn about wild animals."
+    },
+    {
+        "startTime": 8007,
+        "endTime": 10550,
+        "text": "The wolf really likes snow."
+    },
+    {
+        "startTime": 19443,
+        "endTime": 21494,
+        "text": "The bear is wet."
+    },
+    {
+        "startTime": 28075,
+        "endTime": 31151,
+        "text": "The tiger is yawning."
+    },
+    {
+        "startTime": 39238,
+        "endTime": 42306,
+        "text": "The lion is roaring."
+    },
+    {
+        "startTime": 48438,
+        "endTime": 50491,
+        "text": "The fox is jumping."
+    },
+    {
+        "startTime": 57464,
+        "endTime": 59527,
+        "text": "The deer is in the river."
+    },
+    {
+        "startTime": 66970,
+        "endTime": 70059,
+        "text": "The polar bear is getting into the pool."
+    },
+    {
+        "startTime": 76154,
+        "endTime": 79392,
+        "text": "The moose is getting out of the pool."
+    },
+    {
+        "startTime": 87626,
+        "endTime": 89879,
+        "text": "The raccoon is eating."
+    },
+    {
+        "startTime": 97785,
+        "endTime": 101115,
+        "text": "The coyote is falling asleep."
+    }
+]

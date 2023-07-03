@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 451,
+        "endTime": 7424,
+        "text": "The train now approaching platform two is the 11:07 southern service to London Bridge."
+    },
+    {
+        "startTime": 7891,
+        "endTime": 10385,
+        "text": "This train is the service from Horsham."
+    },
+    {
+        "startTime": 12927,
+        "endTime": 14666,
+        "text": "Redhill, this is Redhill."
+    },
+    {
+        "startTime": 15182,
+        "endTime": 22187,
+        "text": "The train now standing at platform two is the 11:07 southern service to London Bridge."
+    },
+    {
+        "startTime": 22963,
+        "endTime": 26537,
+        "text": "Calling at Merstham, Coulsdon South, Purley,..."
+    },
+    {
+        "startTime": 26788,
+        "endTime": 31887,
+        "text": "...East Croydon, Norwood Junction, New Cross Gate and London Bridge."
+    },
+    {
+        "startTime": 34215,
+        "endTime": 39062,
+        "text": "Southern are sorry to announce that the 1300 hours southern service..."
+    },
+    {
+        "startTime": 39137,
+        "endTime": 45418,
+        "text": "...to Southampton Central and Bognor Regis is delayed by approximately 12 minutes..."
+    },
+    {
+        "startTime": 45561,
+        "endTime": 47758,
+        "text": "...due to awaiting of a portion of the train."
+    },
+    {
+        "startTime": 48231,
+        "endTime": 50300,
+        "text": "Please listen for further announcements."
+    },
+    {
+        "startTime": 50621,
+        "endTime": 53762,
+        "text": "Southern are very sorry for the delay to this service."
+    },
+    {
+        "startTime": 54225,
+        "endTime": 60129,
+        "text": "The next service from this platform will be the 13:10 southern service to Horsham."
+    }
+]

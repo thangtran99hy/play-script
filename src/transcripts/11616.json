@@ -1,0 +1,132 @@
+[
+    {
+        "startTime": 1706,
+        "endTime": 4944,
+        "text": "My name is Josh Wiseman, I've been at Facebook for two years now."
+    },
+    {
+        "startTime": 6753,
+        "endTime": 8983,
+        "text": "Photos is my favorite application on the site."
+    },
+    {
+        "startTime": 9111,
+        "endTime": 10924,
+        "text": "It's, by far, the most popular application."
+    },
+    {
+        "startTime": 11065,
+        "endTime": 13381,
+        "text": "We didn't necessarily expect it be as huge as it was."
+    },
+    {
+        "startTime": 13506,
+        "endTime": 14449,
+        "text": "But as soon as we launched it..."
+    },
+    {
+        "startTime": 14520,
+        "endTime": 16827,
+        "text": "...and we started to see that growth curve, it was pretty clear that..."
+    },
+    {
+        "startTime": 17015,
+        "endTime": 19965,
+        "text": "...we were soon gonna overtake everyone as far as photo sharing on the Internet."
+    },
+    {
+        "startTime": 20413,
+        "endTime": 24221,
+        "text": "We're receiving almost 2,000 photo uploads per second."
+    },
+    {
+        "startTime": 24720,
+        "endTime": 28188,
+        "text": "We get 40 million photos uploaded every single day."
+    },
+    {
+        "startTime": 28675,
+        "endTime": 30057,
+        "text": "So, that's well over a billion a month."
+    },
+    {
+        "startTime": 30736,
+        "endTime": 33931,
+        "text": "Storing 40 billion files is a pretty daunting task."
+    },
+    {
+        "startTime": 34159,
+        "endTime": 38432,
+        "text": "As with any of these kinds of systems, they are simple in very small scale."
+    },
+    {
+        "startTime": 38735,
+        "endTime": 40984,
+        "text": "They get infinitely complex in large scale."
+    },
+    {
+        "startTime": 41411,
+        "endTime": 45719,
+        "text": "I get the most satisfaction just from seeing how much my friends and family have started to use it."
+    },
+    {
+        "startTime": 46561,
+        "endTime": 48442,
+        "text": "We're allowing people to share this information..."
+    },
+    {
+        "startTime": 48565,
+        "endTime": 50760,
+        "text": "...and these experiences that they couldn't share before,..."
+    },
+    {
+        "startTime": 51956,
+        "endTime": 55383,
+        "text": "...you know, photos of their friends having fun, taking them with like a cellphone camera..."
+    },
+    {
+        "startTime": 55586,
+        "endTime": 59047,
+        "text": "That's something that really, there was no great way to do it before Facebook."
+    },
+    {
+        "startTime": 60260,
+        "endTime": 63415,
+        "text": "There's a huge amount of room for engineers to come in and..."
+    },
+    {
+        "startTime": 63903,
+        "endTime": 66677,
+        "text": "...not just help out on some of these projects, but start these projects..."
+    },
+    {
+        "startTime": 67390,
+        "endTime": 70507,
+        "text": "...and brainstorm new ones, and I think Photos is a really good example."
+    },
+    {
+        "startTime": 71954,
+        "endTime": 74451,
+        "text": "It was started by one person a few years ago and..."
+    },
+    {
+        "startTime": 75087,
+        "endTime": 76759,
+        "text": "...a few of us have dabbled in it since then."
+    },
+    {
+        "startTime": 77414,
+        "endTime": 79705,
+        "text": "With a team of three or four people which sounds..."
+    },
+    {
+        "startTime": 80219,
+        "endTime": 84127,
+        "text": "...pretty small by industry standards, we could accomplish so much more with Facebook Photos."
+    },
+    {
+        "startTime": 84531,
+        "endTime": 87351,
+        "text": "There's just much more room for the engineering department to grow."
+    }
+]

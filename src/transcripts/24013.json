@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 534,
+        "endTime": 3773,
+        "text": "Green level floor lights will help guide you to the nearest exit."
+    },
+    {
+        "startTime": 4279,
+        "endTime": 6370,
+        "text": "The exits are marked with amber lights."
+    },
+    {
+        "startTime": 6800,
+        "endTime": 11108,
+        "text": "The safety card details the location and operation of the exit nearest you."
+    },
+    {
+        "startTime": 11669,
+        "endTime": 13564,
+        "text": "Remember, it may be behind you."
+    },
+    {
+        "startTime": 14150,
+        "endTime": 16016,
+        "text": "If you are seated behind row 11,..."
+    },
+    {
+        "startTime": 16300,
+        "endTime": 20710,
+        "text": "...there will be red arrows on top of the green floor level lights to direct you forward..."
+    },
+    {
+        "startTime": 21015,
+        "endTime": 23473,
+        "text": "...since there are no aft exits on the aircraft."
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "startTime": 12873,
+        "endTime": 15519,
+        "text": "What do you think of when I say the word \"design\"?"
+    },
+    {
+        "startTime": 17001,
+        "endTime": 22011,
+        "text": "You probably think of things like this: finely crafted objects that you can hold in your hand,..."
+    },
+    {
+        "startTime": 22334,
+        "endTime": 26990,
+        "text": "...or maybe logos and posters and maps that visually explain things,..."
+    },
+    {
+        "startTime": 27314,
+        "endTime": 29621,
+        "text": "...classic icons of timeless design,..."
+    },
+    {
+        "startTime": 30357,
+        "endTime": 32686,
+        "text": "...but I'm not here to talk about that kind of design."
+    },
+    {
+        "startTime": 33198,
+        "endTime": 37897,
+        "text": "I want to talk about the kind that you probably use every day and may not give much thought to,..."
+    },
+    {
+        "startTime": 38695,
+        "endTime": 42070,
+        "text": "...designs that change all the time and that live inside your pocket."
+    },
+    {
+        "startTime": 42913,
+        "endTime": 49379,
+        "text": "I'm talking about the design of digital experiences and specifically the design of systems..."
+    },
+    {
+        "startTime": 49482,
+        "endTime": 52569,
+        "text": "...that are so big that their scale can be hard to comprehend."
+    },
+    {
+        "startTime": 53536,
+        "endTime": 58737,
+        "text": "Consider the fact that Google processes over one billion search queries every day,..."
+    },
+    {
+        "startTime": 59209,
+        "endTime": 63320,
+        "text": "...that every minute, over 100 hours of footage are uploaded to YouTube."
+    },
+    {
+        "startTime": 63660,
+        "endTime": 70751,
+        "text": "That's more in a single day than all three major US networks broadcast in the last five years combined,..."
+    },
+    {
+        "startTime": 71349,
+        "endTime": 77643,
+        "text": "...and Facebook transmitting the photos, messages and stories of over 1.23 billion people,..."
+    },
+    {
+        "startTime": 78111,
+        "endTime": 82125,
+        "text": "...that's almost half of the Internet population and a sixth of humanity."
+    },
+    {
+        "startTime": 83435,
+        "endTime": 87005,
+        "text": "These are some of the products that I've helped design over the course of my career,..."
+    },
+    {
+        "startTime": 87300,
+        "endTime": 92466,
+        "text": "...and their scale is so massive that they've produced unprecedented design challenges,..."
+    },
+    {
+        "startTime": 93629,
+        "endTime": 97677,
+        "text": "...but what is really hard about designing at scale is this:..."
+    },
+    {
+        "startTime": 98217,
+        "endTime": 105066,
+        "text": "...It's hard in part because it requires a combination of two things: audacity and humility;..."
+    },
+    {
+        "startTime": 105788,
+        "endTime": 109264,
+        "text": "...audacity to believe that the thing that you're making..."
+    },
+    {
+        "startTime": 109549,
+        "endTime": 112222,
+        "text": "...is something that the entire world wants and needs,..."
+    },
+    {
+        "startTime": 112725,
+        "endTime": 115621,
+        "text": "...and humility to understand that as a designer,..."
+    },
+    {
+        "startTime": 115951,
+        "endTime": 120647,
+        "text": "...it's not about you or your portfolio; it's about the people that you're designing for,..."
+    },
+    {
+        "startTime": 120949,
+        "endTime": 123759,
+        "text": "...and how your work just might help them live better lives."
+    },
+    {
+        "startTime": 124645,
+        "endTime": 130315,
+        "text": "Now, unfortunately, there's no school that offers the course Designing for Humanity 101."
+    },
+    {
+        "startTime": 131393,
+        "endTime": 134292,
+        "text": "I and the other designers who work on these kinds of products..."
+    },
+    {
+        "startTime": 134518,
+        "endTime": 137327,
+        "text": "...have had to kind of invent it as we go along,..."
+    },
+    {
+        "startTime": 137707,
+        "endTime": 142673,
+        "text": "...and we are teaching ourselves the emerging best practices of designing at scale,..."
+    },
+    {
+        "startTime": 143366,
+        "endTime": 146742,
+        "text": "...and today, I'd like to share some of the things that we've learned over the years."
+    },
+    {
+        "startTime": 147237,
+        "endTime": 149624,
+        "text": "Now, the first thing that you need to know about designing at scale..."
+    },
+    {
+        "startTime": 149683,
+        "endTime": 152012,
+        "text": "...is that the little things really matter."
+    },
+    {
+        "startTime": 152316,
+        "endTime": 157481,
+        "text": "Here's a really good example of how a very tiny design element can make a big impact."
+    },
+    {
+        "startTime": 158047,
+        "endTime": 162865,
+        "text": "Now, the team at Facebook that manages the Facebook \"Like\" button..."
+    },
+    {
+        "startTime": 163462,
+        "endTime": 165793,
+        "text": "...decided that it needed to be redesigned."
+    },
+    {
+        "startTime": 165905,
+        "endTime": 169721,
+        "text": "The button had kind of gotten out of sync with the evolution of our brand..."
+    },
+    {
+        "startTime": 169785,
+        "endTime": 171147,
+        "text": "...and it needed to be modernized."
+    },
+    {
+        "startTime": 171599,
+        "endTime": 173449,
+        "text": "Now, you might think, well, it's a tiny little button,..."
+    },
+    {
+        "startTime": 173543,
+        "endTime": 177757,
+        "text": "...it probably is a pretty straightforward, easy design assignment, but it wasn't."
+    },
+    {
+        "startTime": 178257,
+        "endTime": 181648,
+        "text": "Turns out, there were all kinds of constraints for the design of this button."
+    }
+]

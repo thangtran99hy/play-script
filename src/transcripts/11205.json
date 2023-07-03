@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 600,
+        "endTime": 1850,
+        "text": "And there came a day ..."
+    },
+    {
+        "startTime": 4350,
+        "endTime": 6350,
+        "text": "...a day unlike any other..."
+    },
+    {
+        "startTime": 7900,
+        "endTime": 12250,
+        "text": "...when Earth's mightiest heroes found themselves united against a common threat..."
+    },
+    {
+        "startTime": 13700,
+        "endTime": 17850,
+        "text": "...to fight the foes no single superhero could withstand."
+    },
+    {
+        "startTime": 19250,
+        "endTime": 20000,
+        "text": "On that day,..."
+    },
+    {
+        "startTime": 23650,
+        "endTime": 25600,
+        "text": "...the Avengers were born."
+    }
+]

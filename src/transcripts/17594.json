@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 2377,
+        "endTime": 4573,
+        "text": "What do you see in the woods?"
+    },
+    {
+        "startTime": 5787,
+        "endTime": 7651,
+        "text": "I see trees in the woods."
+    },
+    {
+        "startTime": 8071,
+        "endTime": 10628,
+        "text": "What do you see when you go to the mountain?"
+    },
+    {
+        "startTime": 11837,
+        "endTime": 14481,
+        "text": "I see a fox when I go to the mountain."
+    },
+    {
+        "startTime": 15090,
+        "endTime": 17125,
+        "text": "The fox goes into a log."
+    },
+    {
+        "startTime": 18407,
+        "endTime": 20397,
+        "text": "What do you see in the forest?"
+    },
+    {
+        "startTime": 21603,
+        "endTime": 23527,
+        "text": "I see bugs in the forest."
+    },
+    {
+        "startTime": 23993,
+        "endTime": 26100,
+        "text": "The bugs crawl in the grass."
+    },
+    {
+        "startTime": 32967,
+        "endTime": 37244,
+        "text": "Birds, birds, I see birds when I go to the woods."
+    },
+    {
+        "startTime": 37423,
+        "endTime": 39927,
+        "text": "The birds fly around, and they see me."
+    },
+    {
+        "startTime": 40463,
+        "endTime": 43682,
+        "text": "Fox, fox, I see a fox in the woods."
+    },
+    {
+        "startTime": 43980,
+        "endTime": 47429,
+        "text": "The fox goes into a log, and it sees me."
+    },
+    {
+        "startTime": 47952,
+        "endTime": 51155,
+        "text": "Bugs, bugs, I see bugs in the woods."
+    },
+    {
+        "startTime": 51459,
+        "endTime": 54918,
+        "text": "The bugs crawl in the grass, and they see me."
+    },
+    {
+        "startTime": 55465,
+        "endTime": 58803,
+        "text": "Bear, bear, I see a bear in the woods."
+    },
+    {
+        "startTime": 58973,
+        "endTime": 62424,
+        "text": "The bear sees me, and I run from the bear."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 2100,
+        "endTime": 5640,
+        "text": "Could you give Sam a message for me when he gets in? Ready?"
+    },
+    {
+        "startTime": 5940,
+        "endTime": 6540,
+        "text": "Go ahead."
+    },
+    {
+        "startTime": 6940,
+        "endTime": 11010,
+        "text": "His sister, Myra is arriving tonight, but I'm tied up at work."
+    },
+    {
+        "startTime": 11910,
+        "endTime": 14740,
+        "text": "Excuse me, could you spell her name for me?"
+    },
+    {
+        "startTime": 15080,
+        "endTime": 18250,
+        "text": "That's M Y R A."
+    },
+    {
+        "startTime": 18650,
+        "endTime": 21220,
+        "text": "She's on the 7:50 flight from Denver."
+    },
+    {
+        "startTime": 21620,
+        "endTime": 24620,
+        "text": "Pardon me, did you say 7:15?"
+    },
+    {
+        "startTime": 24820,
+        "endTime": 28590,
+        "text": "No. 50. Five zero. From Denver."
+    },
+    {
+        "startTime": 28960,
+        "endTime": 32985,
+        "text": "It's very important that he get this information and there are not any mistakes."
+    },
+    {
+        "startTime": 33300,
+        "endTime": 35200,
+        "text": "Can you read that back to me, please?"
+    },
+    {
+        "startTime": 35460,
+        "endTime": 40000,
+        "text": "OK. Myra is arriving tonight from Denver at 7:50."
+    },
+    {
+        "startTime": 40500,
+        "endTime": 41670,
+        "text": "I'll give him the message."
+    }
+]

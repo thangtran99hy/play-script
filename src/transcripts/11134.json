@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": 1900,
+        "endTime": 4890,
+        "text": "That covers everything I wanted to accomplish at this meeting."
+    },
+    {
+        "startTime": 5460,
+        "endTime": 6400,
+        "text": "Just to sum up,..."
+    },
+    {
+        "startTime": 6800,
+        "endTime": 12260,
+        "text": "...Karen will make sure everyone at this meeting gets a copy of the minutes outlining all of the ideas."
+    },
+    {
+        "startTime": 12800,
+        "endTime": 17930,
+        "text": "Then, we'll meet again next week and look into how some of the ideas can be implemented."
+    },
+    {
+        "startTime": 18400,
+        "endTime": 22040,
+        "text": "I wanna thank you all for your contribution of stimulating ideas."
+    },
+    {
+        "startTime": 22630,
+        "endTime": 26600,
+        "text": "I thought this was a very productive meeting. Let's call it a day, folks."
+    }
+]

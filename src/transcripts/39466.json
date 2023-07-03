@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 304,
+        "endTime": 908,
+        "text": "Hello!"
+    },
+    {
+        "startTime": 1198,
+        "endTime": 1545,
+        "text": "Hi!"
+    },
+    {
+        "startTime": 2369,
+        "endTime": 3635,
+        "text": "What is your name?"
+    },
+    {
+        "startTime": 3980,
+        "endTime": 4937,
+        "text": "My name is Elizabeth."
+    },
+    {
+        "startTime": 5187,
+        "endTime": 5891,
+        "text": "What is your name?"
+    },
+    {
+        "startTime": 6195,
+        "endTime": 7194,
+        "text": "My name is Tom."
+    },
+    {
+        "startTime": 7891,
+        "endTime": 8902,
+        "text": "Where are you from?"
+    },
+    {
+        "startTime": 9462,
+        "endTime": 10358,
+        "text": "I am from Canada."
+    },
+    {
+        "startTime": 10518,
+        "endTime": 11395,
+        "text": "Where are you from?"
+    },
+    {
+        "startTime": 11690,
+        "endTime": 13572,
+        "text": "I am from the United States."
+    },
+    {
+        "startTime": 13950,
+        "endTime": 15099,
+        "text": "It is nice to meet you."
+    },
+    {
+        "startTime": 15491,
+        "endTime": 17154,
+        "text": "It is nice to meet you, too!"
+    }
+]

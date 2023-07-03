@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 1595,
+        "endTime": 3838,
+        "text": "Let's learn about fruits."
+    },
+    {
+        "startTime": 8158,
+        "endTime": 10643,
+        "text": "The cats like apples."
+    },
+    {
+        "startTime": 17863,
+        "endTime": 19999,
+        "text": "These are bananas."
+    },
+    {
+        "startTime": 26429,
+        "endTime": 28935,
+        "text": "These are oranges."
+    },
+    {
+        "startTime": 38745,
+        "endTime": 41698,
+        "text": "The grapes are now raisins."
+    },
+    {
+        "startTime": 52493,
+        "endTime": 54387,
+        "text": "Do you like peach pie?"
+    },
+    {
+        "startTime": 64257,
+        "endTime": 66344,
+        "text": "The pear is happy."
+    },
+    {
+        "startTime": 75743,
+        "endTime": 78369,
+        "text": "He really likes grapefruit."
+    },
+    {
+        "startTime": 85551,
+        "endTime": 88495,
+        "text": "Strawberry is good with chocolate."
+    },
+    {
+        "startTime": 100022,
+        "endTime": 102601,
+        "text": "The cat split the watermelon."
+    },
+    {
+        "startTime": 111776,
+        "endTime": 114991,
+        "text": "Lemonade is made with lemons."
+    }
+]

@@ -1,0 +1,287 @@
+[
+    {
+        "startTime": 393,
+        "endTime": 3864,
+        "text": "Wikipedia, on the other hand, begins with a very radical idea..."
+    },
+    {
+        "startTime": 4583,
+        "endTime": 8155,
+        "text": "...and that's for all of us to imagine a world in which every single person on the planet..."
+    },
+    {
+        "startTime": 8672,
+        "endTime": 11171,
+        "text": "...is given free access to the sum of all human knowledge."
+    },
+    {
+        "startTime": 11245,
+        "endTime": 12157,
+        "text": "And that's what we're doing."
+    },
+    {
+        "startTime": 13447,
+        "endTime": 16230,
+        "text": "So Wikipedia ; you just saw the little demonstration of it."
+    },
+    {
+        "startTime": 17134,
+        "endTime": 19027,
+        "text": "It's a freely licensed encyclopedia."
+    },
+    {
+        "startTime": 19163,
+        "endTime": 22612,
+        "text": "It's written by thousands of volunteers all over the world in many, many languages."
+    },
+    {
+        "startTime": 23771,
+        "endTime": 27250,
+        "text": "It's written using Wiki software which is the type of software he just demonstrated..."
+    },
+    {
+        "startTime": 27333,
+        "endTime": 31207,
+        "text": "...so anyone can quickly edit and save and it goes live on the Internet immediately."
+    },
+    {
+        "startTime": 32998,
+        "endTime": 37557,
+        "text": "And everything about Wikipedia is managed by virtually an all - volunteer staff."
+    },
+    {
+        "startTime": 37633,
+        "endTime": 42119,
+        "text": "So, when Yochai is talking about new methods of organization,..."
+    },
+    {
+        "startTime": 42206,
+        "endTime": 44140,
+        "text": "...he's exactly describing Wikipedia."
+    },
+    {
+        "startTime": 44621,
+        "endTime": 49268,
+        "text": "And what I'm gonna do today is tell you a little bit more about how it really works on the inside."
+    },
+    {
+        "startTime": 50349,
+        "endTime": 54300,
+        "text": "So Wikipedia's owned by the Wikimedia Foundation, which I founded,..."
+    },
+    {
+        "startTime": 54561,
+        "endTime": 56002,
+        "text": "...a nonprofit organization."
+    },
+    {
+        "startTime": 56169,
+        "endTime": 59755,
+        "text": "And our goal, the core aim of the Wikimedia Foundation,..."
+    },
+    {
+        "startTime": 60235,
+        "endTime": 63127,
+        "text": "...is to get a free encyclopedia to every single person on the planet."
+    },
+    {
+        "startTime": 63206,
+        "endTime": 64895,
+        "text": "And so if you think about what that means,..."
+    },
+    {
+        "startTime": 65213,
+        "endTime": 67515,
+        "text": "...it means a lot more than just building a cool website."
+    },
+    {
+        "startTime": 67785,
+        "endTime": 71927,
+        "text": "We're really interested in all the issues of the digital divide, poverty worldwide;..."
+    },
+    {
+        "startTime": 72682,
+        "endTime": 77023,
+        "text": "...empowering people everywhere to have the information that they need to make good decisions."
+    },
+    {
+        "startTime": 77093,
+        "endTime": 81370,
+        "text": "And so we're gonna have to do a lot of work that goes beyond just the Internet."
+    },
+    {
+        "startTime": 81440,
+        "endTime": 84295,
+        "text": "And so that's a big part of why we've chosen the free licensing model..."
+    },
+    {
+        "startTime": 84686,
+        "endTime": 87633,
+        "text": "...because that empowers local entrepreneurs or anyone who wants to..."
+    },
+    {
+        "startTime": 87993,
+        "endTime": 89917,
+        "text": "...can take our content and do anything they like with it."
+    },
+    {
+        "startTime": 90000,
+        "endTime": 94333,
+        "text": "You can copy it, redistribute it and you can do it commercially or non - commercially."
+    },
+    {
+        "startTime": 94413,
+        "endTime": 96697,
+        "text": "So, there's a lot of opportunities that are going to arise..."
+    },
+    {
+        "startTime": 96873,
+        "endTime": 99671,
+        "text": "...around Wikipedia all over the world."
+    },
+    {
+        "startTime": 100905,
+        "endTime": 102585,
+        "text": "We're funded by donations from the public..."
+    },
+    {
+        "startTime": 102774,
+        "endTime": 108733,
+        "text": "...and one of the more interesting things about that is how little money it actually takes to run Wikipedia."
+    },
+    {
+        "startTime": 109197,
+        "endTime": 113267,
+        "text": "So, Yochai showed you the graph of what the cost of a printing press was."
+    },
+    {
+        "startTime": 113764,
+        "endTime": 117163,
+        "text": "And I'm gonna tell you what the cost of Wikipedia is,..."
+    },
+    {
+        "startTime": 117239,
+        "endTime": 118838,
+        "text": "...but first I'll show you how big it is."
+    },
+    {
+        "startTime": 118829,
+        "endTime": 122891,
+        "text": "So, we've got over 600,000 articles in English."
+    },
+    {
+        "startTime": 123433,
+        "endTime": 127551,
+        "text": "We've got two million total articles across many, many different languages."
+    },
+    {
+        "startTime": 127907,
+        "endTime": 130318,
+        "text": "The biggest languages are German, Japanese, French."
+    },
+    {
+        "startTime": 131207,
+        "endTime": 133569,
+        "text": "All the Western European languages are quite big."
+    },
+    {
+        "startTime": 134916,
+        "endTime": 139829,
+        "text": "But only around one-third of all of our traffic to our web clusters to the English Wikipedia,..."
+    },
+    {
+        "startTime": 139953,
+        "endTime": 141360,
+        "text": "...which is surprising to a lot of people."
+    },
+    {
+        "startTime": 141421,
+        "endTime": 144740,
+        "text": "A lot of people think in a very English - centric way on the Internet,..."
+    },
+    {
+        "startTime": 145224,
+        "endTime": 147046,
+        "text": "...but for us, we're truly global."
+    },
+    {
+        "startTime": 147133,
+        "endTime": 148217,
+        "text": "We're in many, many languages."
+    },
+    {
+        "startTime": 149280,
+        "endTime": 154383,
+        "text": "How popular we've gotten to be: we're a top 50 website and we're more popular than the New York Times."
+    },
+    {
+        "startTime": 154449,
+        "endTime": 158796,
+        "text": "So, this is where we get to Yochai's discussion."
+    },
+    {
+        "startTime": 159367,
+        "endTime": 162599,
+        "text": "This shows the growth of Wikipedia, we're the blue line there..."
+    },
+    {
+        "startTime": 162673,
+        "endTime": 164705,
+        "text": "...and then this is the New York Times over there."
+    },
+    {
+        "startTime": 165430,
+        "endTime": 168652,
+        "text": "And what's interesting about this is the New York Times website..."
+    },
+    {
+        "startTime": 168742,
+        "endTime": 170869,
+        "text": "...is a huge, enormous corporate operation..."
+    },
+    {
+        "startTime": 171135,
+        "endTime": 173459,
+        "text": "...with, I have no idea how many, hundreds of employees."
+    },
+    {
+        "startTime": 174051,
+        "endTime": 178265,
+        "text": "We have exactly one employee and that employee is our lead software developer."
+    },
+    {
+        "startTime": 178565,
+        "endTime": 183083,
+        "text": "And he's only been our employee since January 2005, all the other growth before that."
+    },
+    {
+        "startTime": 183615,
+        "endTime": 187199,
+        "text": "So, the servers are managed by a ragtag band of volunteers,..."
+    },
+    {
+        "startTime": 187289,
+        "endTime": 188964,
+        "text": "...all the editing is done by volunteers."
+    },
+    {
+        "startTime": 189295,
+        "endTime": 193160,
+        "text": "And the way that we're organized is not like any traditional organization you can imagine."
+    },
+    {
+        "startTime": 193254,
+        "endTime": 196913,
+        "text": "People are always asking, \"Well, who's in charge of this?\" or \"Who does that?\""
+    },
+    {
+        "startTime": 197261,
+        "endTime": 199435,
+        "text": "And the answer is, anybody who wants to pitch in."
+    },
+    {
+        "startTime": 199527,
+        "endTime": 203141,
+        "text": "It's a very unusual and chaotic thing."
+    }
+]

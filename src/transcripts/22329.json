@@ -1,0 +1,162 @@
+[
+    {
+        "startTime": 1572,
+        "endTime": 5367,
+        "text": "I'm Ann, I'm 16 and I live in British Columbia, Canada."
+    },
+    {
+        "startTime": 6137,
+        "endTime": 9413,
+        "text": "I think the biggest mistake people make about kids who enter science fairs..."
+    },
+    {
+        "startTime": 9511,
+        "endTime": 11739,
+        "text": "...is that we are top of the class, straight A students."
+    },
+    {
+        "startTime": 12659,
+        "endTime": 15771,
+        "text": "I am not the genius nerd some people expect me to be."
+    },
+    {
+        "startTime": 16217,
+        "endTime": 19337,
+        "text": "I think the only difference is that we're always questioning how things work."
+    },
+    {
+        "startTime": 20199,
+        "endTime": 23946,
+        "text": "I've always enjoyed science because science is, well, everything."
+    },
+    {
+        "startTime": 24949,
+        "endTime": 28425,
+        "text": "This is no more obvious to me than with insects. I love them!"
+    },
+    {
+        "startTime": 28771,
+        "endTime": 29877,
+        "text": "Ever since I was a kid,..."
+    },
+    {
+        "startTime": 29957,
+        "endTime": 33577,
+        "text": "...I have been interested in how they are so small but so complicated."
+    },
+    {
+        "startTime": 34161,
+        "endTime": 37276,
+        "text": "You could say it's what first got me interested in science."
+    },
+    {
+        "startTime": 38975,
+        "endTime": 41623,
+        "text": "I believe to be truly environmentally conscious,..."
+    },
+    {
+        "startTime": 41766,
+        "endTime": 44617,
+        "text": "...you must be willing to think of ways to create change."
+    },
+    {
+        "startTime": 45450,
+        "endTime": 46991,
+        "text": "My mom is from the Philippines."
+    },
+    {
+        "startTime": 47163,
+        "endTime": 49710,
+        "text": "A friend there told me how she had failed at school..."
+    },
+    {
+        "startTime": 49777,
+        "endTime": 52117,
+        "text": "...because their family could not afford electricity."
+    },
+    {
+        "startTime": 52313,
+        "endTime": 56587,
+        "text": "Without it, there was no light for her to study and her grades suffered."
+    },
+    {
+        "startTime": 58237,
+        "endTime": 60397,
+        "text": "I really wanted to do something about it..."
+    },
+    {
+        "startTime": 60598,
+        "endTime": 64126,
+        "text": "...but she needed an energy source that wasn't dependent on money."
+    },
+    {
+        "startTime": 64910,
+        "endTime": 68643,
+        "text": "I found out that humans are a great source of untapped energy."
+    },
+    {
+        "startTime": 69189,
+        "endTime": 72105,
+        "text": "So, I figured it would be amazing to make a flashlight..."
+    },
+    {
+        "startTime": 72203,
+        "endTime": 74599,
+        "text": "...that runs on the heat of the human hand alone."
+    },
+    {
+        "startTime": 76107,
+        "endTime": 80836,
+        "text": "I discovered that the palm radiates more than enough milliwatts per centimeter squared of heat..."
+    },
+    {
+        "startTime": 81206,
+        "endTime": 83717,
+        "text": "...to create a bright light from an LED."
+    },
+    {
+        "startTime": 84399,
+        "endTime": 87363,
+        "text": "I used Peltier tiles to utilize this heat flow."
+    },
+    {
+        "startTime": 87795,
+        "endTime": 90418,
+        "text": "The tiles are a thermoelectric device..."
+    },
+    {
+        "startTime": 90948,
+        "endTime": 96091,
+        "text": "...which means that when one side is heated and one side cooled, electricity is generated."
+    },
+    {
+        "startTime": 97339,
+        "endTime": 100191,
+        "text": "I encased the Peltier tiles within a hollow tube,..."
+    },
+    {
+        "startTime": 100397,
+        "endTime": 105239,
+        "text": "...so that the hand heats one side and ambient air flows through and cools the other."
+    },
+    {
+        "startTime": 106666,
+        "endTime": 110029,
+        "text": "It was so amazing when the flashlight finally lit."
+    },
+    {
+        "startTime": 110935,
+        "endTime": 115266,
+        "text": "I've learned that we shouldn't be scared by how crazy our ideas seem."
+    },
+    {
+        "startTime": 115592,
+        "endTime": 117192,
+        "text": "Harvesting human heat?"
+    },
+    {
+        "startTime": 117515,
+        "endTime": 119684,
+        "text": "I thought that only happened in the movies."
+    }
+]

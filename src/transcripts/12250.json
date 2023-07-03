@@ -1,0 +1,97 @@
+[
+    {
+        "startTime": 2139,
+        "endTime": 3455,
+        "text": "How can I help you today?"
+    },
+    {
+        "startTime": 3965,
+        "endTime": 5397,
+        "text": "I just got here today,..."
+    },
+    {
+        "startTime": 5505,
+        "endTime": 7604,
+        "text": "...and I'd like to rent a car while I'm here."
+    },
+    {
+        "startTime": 7805,
+        "endTime": 10463,
+        "text": "Very good! You have come to the right place."
+    },
+    {
+        "startTime": 10607,
+        "endTime": 12887,
+        "text": "We have the best rental cars in the city."
+    },
+    {
+        "startTime": 13037,
+        "endTime": 13936,
+        "text": "That's good to hear!"
+    },
+    {
+        "startTime": 14132,
+        "endTime": 15812,
+        "text": "What kinds of cars are available?"
+    },
+    {
+        "startTime": 16015,
+        "endTime": 17465,
+        "text": "We have many kinds."
+    },
+    {
+        "startTime": 17616,
+        "endTime": 19550,
+        "text": "What kind of car would you like to rent?"
+    },
+    {
+        "startTime": 19879,
+        "endTime": 22834,
+        "text": "A small car with good gas mileage, if possible."
+    },
+    {
+        "startTime": 23017,
+        "endTime": 25962,
+        "text": "Okay, our Novas are very popular."
+    },
+    {
+        "startTime": 26161,
+        "endTime": 28517,
+        "text": "Here, take a look at this picture of one."
+    },
+    {
+        "startTime": 28705,
+        "endTime": 29831,
+        "text": "Yes, that looks good."
+    },
+    {
+        "startTime": 30220,
+        "endTime": 32155,
+        "text": "And you say it gets good gas mileage?"
+    },
+    {
+        "startTime": 32333,
+        "endTime": 35102,
+        "text": "Very good. The best of any of our cars."
+    },
+    {
+        "startTime": 35323,
+        "endTime": 37231,
+        "text": "Okay, I'll rent one of those then."
+    },
+    {
+        "startTime": 37695,
+        "endTime": 39547,
+        "text": "Is it possible to rent a convertible?"
+    },
+    {
+        "startTime": 39768,
+        "endTime": 42995,
+        "text": "I'm sorry, but those are not available in a convertible."
+    },
+    {
+        "startTime": 43154,
+        "endTime": 46119,
+        "text": "No problem. I'll just take the regular sedan, then."
+    }
+]

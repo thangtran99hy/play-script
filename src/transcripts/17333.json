@@ -1,0 +1,102 @@
+[
+    {
+        "startTime": 2007,
+        "endTime": 2500,
+        "text": "Bed."
+    },
+    {
+        "startTime": 3318,
+        "endTime": 4753,
+        "text": "It is time for bed."
+    },
+    {
+        "startTime": 6122,
+        "endTime": 8140,
+        "text": "It is almost time for bed."
+    },
+    {
+        "startTime": 9563,
+        "endTime": 10137,
+        "text": "Hen."
+    },
+    {
+        "startTime": 10935,
+        "endTime": 12489,
+        "text": "The hen is big."
+    },
+    {
+        "startTime": 13912,
+        "endTime": 16251,
+        "text": "The hen is big and red."
+    },
+    {
+        "startTime": 17673,
+        "endTime": 18229,
+        "text": "Jet."
+    },
+    {
+        "startTime": 19145,
+        "endTime": 21241,
+        "text": "I can see a jet plane."
+    },
+    {
+        "startTime": 22662,
+        "endTime": 25353,
+        "text": "I can see a blue jet plane."
+    },
+    {
+        "startTime": 26737,
+        "endTime": 27311,
+        "text": "Leg."
+    },
+    {
+        "startTime": 28180,
+        "endTime": 29552,
+        "text": "I hurt my leg."
+    },
+    {
+        "startTime": 31024,
+        "endTime": 32960,
+        "text": "I hurt my left leg."
+    },
+    {
+        "startTime": 40793,
+        "endTime": 43249,
+        "text": "Does the bird go over the tree?"
+    },
+    {
+        "startTime": 44553,
+        "endTime": 47757,
+        "text": "Yes, yes, yes, it goes over the tree."
+    },
+    {
+        "startTime": 48305,
+        "endTime": 50739,
+        "text": "Does the bird go over the park?"
+    },
+    {
+        "startTime": 51970,
+        "endTime": 55328,
+        "text": "No, no, no, it goes over the farm."
+    },
+    {
+        "startTime": 55811,
+        "endTime": 58071,
+        "text": "Does the bird go over the city?"
+    },
+    {
+        "startTime": 59553,
+        "endTime": 62843,
+        "text": "Yes, yes, yes, it goes over the city."
+    },
+    {
+        "startTime": 63075,
+        "endTime": 66522,
+        "text": "The bird goes over the tree and city."
+    },
+    {
+        "startTime": 66801,
+        "endTime": 70257,
+        "text": "The bird doesn't go over the park."
+    }
+]

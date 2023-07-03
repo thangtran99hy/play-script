@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 1542,
+        "endTime": 2187,
+        "text": "It's raining."
+    },
+    {
+        "startTime": 2700,
+        "endTime": 3666,
+        "text": "Can I borrow an umbrella?"
+    },
+    {
+        "startTime": 3902,
+        "endTime": 5187,
+        "text": "Sure, here you are."
+    },
+    {
+        "startTime": 5308,
+        "endTime": 5767,
+        "text": "Thanks."
+    },
+    {
+        "startTime": 7110,
+        "endTime": 7947,
+        "text": "Can I borrow your car?"
+    },
+    {
+        "startTime": 8491,
+        "endTime": 9257,
+        "text": "Sure!"
+    },
+    {
+        "startTime": 10215,
+        "endTime": 10799,
+        "text": "Thanks."
+    },
+    {
+        "startTime": 11713,
+        "endTime": 14343,
+        "text": "Yo, man, do you think I can borrow a pen?"
+    },
+    {
+        "startTime": 16576,
+        "endTime": 17185,
+        "text": "Yeah."
+    },
+    {
+        "startTime": 21510,
+        "endTime": 22133,
+        "text": "Thanks, man."
+    },
+    {
+        "startTime": 26003,
+        "endTime": 26425,
+        "text": "Yo, Logan."
+    },
+    {
+        "startTime": 26578,
+        "endTime": 27605,
+        "text": "Do you have a jacket that I can borrow?"
+    },
+    {
+        "startTime": 28219,
+        "endTime": 29791,
+        "text": "Yeah, bro, I guess you could wear my jacket."
+    },
+    {
+        "startTime": 30792,
+        "endTime": 31201,
+        "text": "Are you sure?"
+    },
+    {
+        "startTime": 31315,
+        "endTime": 31603,
+        "text": "Yeah."
+    }
+]

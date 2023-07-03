@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 1599,
+        "endTime": 3405,
+        "text": "So what would you like to have for dinner?"
+    },
+    {
+        "startTime": 3761,
+        "endTime": 6498,
+        "text": "I don't know. Have you ever tried Italian food?"
+    },
+    {
+        "startTime": 6947,
+        "endTime": 9522,
+        "text": "This restaurant has many delicious dishes."
+    },
+    {
+        "startTime": 9849,
+        "endTime": 14545,
+        "text": "Yes, I love Italian food, and everything on the menu looks very delicious!"
+    },
+    {
+        "startTime": 15004,
+        "endTime": 18491,
+        "text": "Excuse me, does this seafood pasta come with a salad?"
+    },
+    {
+        "startTime": 18886,
+        "endTime": 19651,
+        "text": "Yes, ma'am."
+    },
+    {
+        "startTime": 20033,
+        "endTime": 25703,
+        "text": "Every main course meal comes with a cup of our soup of the day or a house salad."
+    },
+    {
+        "startTime": 26011,
+        "endTime": 27390,
+        "text": "What's the soup today?"
+    },
+    {
+        "startTime": 27735,
+        "endTime": 28845,
+        "text": "Cream of broccoli."
+    },
+    {
+        "startTime": 29267,
+        "endTime": 34197,
+        "text": "I will have today's special, please. And I would like to have ranch dressing on my salad."
+    },
+    {
+        "startTime": 34382,
+        "endTime": 36522,
+        "text": "Yes, ma'am. And for you, sir?"
+    },
+    {
+        "startTime": 36917,
+        "endTime": 40909,
+        "text": "I'll have a New York steak, please. And I'll take a house salad with that, too."
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "startTime": 350,
+        "endTime": 2000,
+        "text": "Hi! My name is Danica McKellar."
+    },
+    {
+        "startTime": 2200,
+        "endTime": 5250,
+        "text": "I'm the author of this math book called \"Math Doesn't Suck\"..."
+    },
+    {
+        "startTime": 5700,
+        "endTime": 7450,
+        "text": "...to help middle school girls with math."
+    },
+    {
+        "startTime": 7950,
+        "endTime": 11800,
+        "text": "And I'd like to tell you how to pronounce some numbers in English."
+    },
+    {
+        "startTime": 13350,
+        "endTime": 15000,
+        "text": "525..."
+    },
+    {
+        "startTime": 15300,
+        "endTime": 18050,
+        "text": "...times 10,056..."
+    },
+    {
+        "startTime": 18450,
+        "endTime": 19200,
+        "text": "...equals..."
+    },
+    {
+        "startTime": 19600,
+        "endTime": 23700,
+        "text": "...5,279,400."
+    },
+    {
+        "startTime": 24800,
+        "endTime": 25800,
+        "text": "Now, some fractions."
+    },
+    {
+        "startTime": 26450,
+        "endTime": 27450,
+        "text": "2/3..."
+    },
+    {
+        "startTime": 27550,
+        "endTime": 29550,
+        "text": "...times 4/5..."
+    },
+    {
+        "startTime": 29800,
+        "endTime": 32050,
+        "text": "...equals 8/15."
+    },
+    {
+        "startTime": 33450,
+        "endTime": 35150,
+        "text": "1 3/7..."
+    },
+    {
+        "startTime": 35550,
+        "endTime": 37200,
+        "text": "...times 1/3..."
+    },
+    {
+        "startTime": 37500,
+        "endTime": 39900,
+        "text": "...equals 10/21."
+    },
+    {
+        "startTime": 41550,
+        "endTime": 43100,
+        "text": "5,010..."
+    },
+    {
+        "startTime": 43550,
+        "endTime": 45700,
+        "text": "...divided by 200..."
+    },
+    {
+        "startTime": 46100,
+        "endTime": 49500,
+        "text": "...equals 25.05."
+    },
+    {
+        "startTime": 50800,
+        "endTime": 52650,
+        "text": "5.05..."
+    },
+    {
+        "startTime": 52950,
+        "endTime": 56800,
+        "text": "...times 7.009..."
+    },
+    {
+        "startTime": 57150,
+        "endTime": 62150,
+        "text": "...equals 35.39545."
+    },
+    {
+        "startTime": 63300,
+        "endTime": 64400,
+        "text": "Some more fractions."
+    },
+    {
+        "startTime": 65100,
+        "endTime": 68400,
+        "text": "4/8 is greater than 3/8..."
+    },
+    {
+        "startTime": 69200,
+        "endTime": 74050,
+        "text": "...and 15/24 is less than 16/24."
+    },
+    {
+        "startTime": 74350,
+        "endTime": 75550,
+        "text": "I hope this has been helpful."
+    },
+    {
+        "startTime": 76650,
+        "endTime": 77200,
+        "text": "Thank you."
+    }
+]

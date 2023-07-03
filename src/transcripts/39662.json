@@ -1,0 +1,142 @@
+[
+    {
+        "startTime": 559,
+        "endTime": 1682,
+        "text": "It was sunny."
+    },
+    {
+        "startTime": 3161,
+        "endTime": 4503,
+        "text": "It was not cloudy."
+    },
+    {
+        "startTime": 5909,
+        "endTime": 7471,
+        "text": "They were at home."
+    },
+    {
+        "startTime": 8986,
+        "endTime": 10658,
+        "text": "They weren't at the park."
+    },
+    {
+        "startTime": 12503,
+        "endTime": 13589,
+        "text": "Were you at school?"
+    },
+    {
+        "startTime": 14958,
+        "endTime": 15940,
+        "text": "Yes, I was."
+    },
+    {
+        "startTime": 17590,
+        "endTime": 18900,
+        "text": "Was your dog sick?"
+    },
+    {
+        "startTime": 20134,
+        "endTime": 21645,
+        "text": "No, he was not sick."
+    },
+    {
+        "startTime": 24329,
+        "endTime": 25428,
+        "text": "I was here."
+    },
+    {
+        "startTime": 26144,
+        "endTime": 27039,
+        "text": "I was there."
+    },
+    {
+        "startTime": 28122,
+        "endTime": 29407,
+        "text": "I was in the office."
+    },
+    {
+        "startTime": 30819,
+        "endTime": 31740,
+        "text": "I was at home."
+    },
+    {
+        "startTime": 33056,
+        "endTime": 34327,
+        "text": "I was with my friend."
+    },
+    {
+        "startTime": 35467,
+        "endTime": 36226,
+        "text": "He was here."
+    },
+    {
+        "startTime": 37347,
+        "endTime": 38115,
+        "text": "He was there."
+    },
+    {
+        "startTime": 39358,
+        "endTime": 40921,
+        "text": "He was in the office."
+    },
+    {
+        "startTime": 41551,
+        "endTime": 42366,
+        "text": "He was at home."
+    },
+    {
+        "startTime": 43251,
+        "endTime": 44653,
+        "text": "He was with his friends."
+    },
+    {
+        "startTime": 46093,
+        "endTime": 46896,
+        "text": "She was here."
+    },
+    {
+        "startTime": 47869,
+        "endTime": 48694,
+        "text": "She was there."
+    },
+    {
+        "startTime": 49547,
+        "endTime": 50791,
+        "text": "She was in the office."
+    },
+    {
+        "startTime": 51442,
+        "endTime": 52335,
+        "text": "She was at home."
+    },
+    {
+        "startTime": 52935,
+        "endTime": 54332,
+        "text": "She was with her friends."
+    },
+    {
+        "startTime": 55053,
+        "endTime": 55919,
+        "text": "We were here."
+    },
+    {
+        "startTime": 56868,
+        "endTime": 57789,
+        "text": "We were there."
+    },
+    {
+        "startTime": 58425,
+        "endTime": 59954,
+        "text": "We were in the office."
+    },
+    {
+        "startTime": 60639,
+        "endTime": 61495,
+        "text": "We were at home."
+    },
+    {
+        "startTime": 62638,
+        "endTime": 64263,
+        "text": "We were with our friends."
+    }
+]

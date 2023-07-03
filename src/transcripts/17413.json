@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 2581,
+        "endTime": 4363,
+        "text": "I pick up my ball."
+    },
+    {
+        "startTime": 5458,
+        "endTime": 6917,
+        "text": "I pick up my book."
+    },
+    {
+        "startTime": 7957,
+        "endTime": 9795,
+        "text": "I pick up my shoes."
+    },
+    {
+        "startTime": 10805,
+        "endTime": 12151,
+        "text": "I pick up my hat."
+    },
+    {
+        "startTime": 13221,
+        "endTime": 15019,
+        "text": "I pick up my teddy bear."
+    },
+    {
+        "startTime": 16091,
+        "endTime": 17853,
+        "text": "I pick up my cars."
+    },
+    {
+        "startTime": 18984,
+        "endTime": 20642,
+        "text": "I pick up my blanket."
+    },
+    {
+        "startTime": 21727,
+        "endTime": 23731,
+        "text": "My room is all picked up!"
+    },
+    {
+        "startTime": 27114,
+        "endTime": 28464,
+        "text": "What do you pick up?"
+    },
+    {
+        "startTime": 29620,
+        "endTime": 31357,
+        "text": "I pick up my blanket."
+    },
+    {
+        "startTime": 32081,
+        "endTime": 33255,
+        "text": "What do you pick up?"
+    },
+    {
+        "startTime": 34472,
+        "endTime": 36267,
+        "text": "I pick up my teddy bear."
+    },
+    {
+        "startTime": 36897,
+        "endTime": 38381,
+        "text": "What do you put down?"
+    },
+    {
+        "startTime": 39629,
+        "endTime": 41574,
+        "text": "I put down my hat."
+    },
+    {
+        "startTime": 42013,
+        "endTime": 43541,
+        "text": "What do you put down?"
+    },
+    {
+        "startTime": 44700,
+        "endTime": 46556,
+        "text": "I put down my pencil."
+    }
+]

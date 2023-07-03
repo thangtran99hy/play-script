@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 2337,
+        "endTime": 3541,
+        "text": "Next number, please!"
+    },
+    {
+        "startTime": 3936,
+        "endTime": 4659,
+        "text": "Good afternoon."
+    },
+    {
+        "startTime": 4929,
+        "endTime": 6010,
+        "text": "Good afternoon, sir."
+    },
+    {
+        "startTime": 6124,
+        "endTime": 7563,
+        "text": "What can I do for you today?"
+    },
+    {
+        "startTime": 7882,
+        "endTime": 10092,
+        "text": "I'd like to open up an account here, please."
+    },
+    {
+        "startTime": 10379,
+        "endTime": 11336,
+        "text": "Certainly, sir."
+    },
+    {
+        "startTime": 11573,
+        "endTime": 13971,
+        "text": "What sort of account are you looking to open?"
+    },
+    {
+        "startTime": 14178,
+        "endTime": 16195,
+        "text": "I want to open up a checking account."
+    },
+    {
+        "startTime": 16799,
+        "endTime": 22101,
+        "text": "Okay, do you want an unlimited checking account, or a fixed monthly checking account?"
+    },
+    {
+        "startTime": 22309,
+        "endTime": 23209,
+        "text": "What is the difference?"
+    },
+    {
+        "startTime": 23636,
+        "endTime": 28402,
+        "text": "With an unlimited checking account, you can write as many checks as you like every month."
+    },
+    {
+        "startTime": 28680,
+        "endTime": 30717,
+        "text": "Is there a monthly fee with that account?"
+    },
+    {
+        "startTime": 31031,
+        "endTime": 34693,
+        "text": "You need to maintain a minimum balance of one thousand dollars."
+    },
+    {
+        "startTime": 34900,
+        "endTime": 39167,
+        "text": "Okay, so as long as I maintain the minimum balance, there's no fee."
+    },
+    {
+        "startTime": 39673,
+        "endTime": 41353,
+        "text": "I think that would work out better for me."
+    },
+    {
+        "startTime": 41710,
+        "endTime": 42623,
+        "text": "Let's go that route."
+    }
+]

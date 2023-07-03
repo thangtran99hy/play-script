@@ -1,0 +1,32 @@
+[
+    {
+        "startTime": -50,
+        "endTime": 1829,
+        "text": "Today is Thursday, April 2nd."
+    },
+    {
+        "startTime": 2047,
+        "endTime": 4470,
+        "text": "A lot of sunshine on this Wednesday."
+    },
+    {
+        "startTime": 5165,
+        "endTime": 6753,
+        "text": "What day is it today?"
+    },
+    {
+        "startTime": 7023,
+        "endTime": 9330,
+        "text": "Today is Monday."
+    },
+    {
+        "startTime": 10292,
+        "endTime": 11635,
+        "text": "What is the date today?"
+    },
+    {
+        "startTime": 12443,
+        "endTime": 15220,
+        "text": "March 14th, 2013."
+    }
+]

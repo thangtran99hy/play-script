@@ -1,0 +1,112 @@
+[
+    {
+        "startTime": 2464,
+        "endTime": 4366,
+        "text": "Cows like to eat grass."
+    },
+    {
+        "startTime": 5426,
+        "endTime": 6621,
+        "text": "Munch, munch."
+    },
+    {
+        "startTime": 7580,
+        "endTime": 9684,
+        "text": "Birds like to eat seeds."
+    },
+    {
+        "startTime": 10676,
+        "endTime": 12006,
+        "text": "Crunch, crunch."
+    },
+    {
+        "startTime": 13015,
+        "endTime": 15085,
+        "text": "Pandas like to eat leaves."
+    },
+    {
+        "startTime": 16122,
+        "endTime": 17368,
+        "text": "Munch, munch."
+    },
+    {
+        "startTime": 18360,
+        "endTime": 20498,
+        "text": "Frogs like to eat bugs."
+    },
+    {
+        "startTime": 21457,
+        "endTime": 22769,
+        "text": "Zap, zap."
+    },
+    {
+        "startTime": 23796,
+        "endTime": 25815,
+        "text": "Monkeys like to eat fruit."
+    },
+    {
+        "startTime": 26796,
+        "endTime": 28159,
+        "text": "Slurp, slurp."
+    },
+    {
+        "startTime": 29169,
+        "endTime": 30936,
+        "text": "Seals like to eat fish."
+    },
+    {
+        "startTime": 31996,
+        "endTime": 33174,
+        "text": "Gulp, gulp."
+    },
+    {
+        "startTime": 34217,
+        "endTime": 36680,
+        "text": "Goats like to eat everything."
+    },
+    {
+        "startTime": 37706,
+        "endTime": 41167,
+        "text": "Hey, stop! That's my sock."
+    },
+    {
+        "startTime": 42126,
+        "endTime": 45593,
+        "text": "Hey, stop! That's my shoe."
+    },
+    {
+        "startTime": 46653,
+        "endTime": 50391,
+        "text": "Hey, stop! That's my book."
+    },
+    {
+        "startTime": 53791,
+        "endTime": 55524,
+        "text": "What do you like to do?"
+    },
+    {
+        "startTime": 56550,
+        "endTime": 58318,
+        "text": "I like to play soccer."
+    },
+    {
+        "startTime": 59301,
+        "endTime": 61388,
+        "text": "Do you like watching TV?"
+    },
+    {
+        "startTime": 62347,
+        "endTime": 64980,
+        "text": "Yes, I like watching TV."
+    },
+    {
+        "startTime": 66040,
+        "endTime": 68884,
+        "text": "Do your sisters like to eat hamburgers?"
+    },
+    {
+        "startTime": 69944,
+        "endTime": 72991,
+        "text": "No, they don't like to eat hamburgers."
+    }
+]

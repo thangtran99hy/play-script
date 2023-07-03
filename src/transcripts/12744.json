@@ -1,0 +1,52 @@
+[
+    {
+        "startTime": 2297,
+        "endTime": 5235,
+        "text": "Hello there. Is there something I can help you with?"
+    },
+    {
+        "startTime": 5682,
+        "endTime": 10057,
+        "text": "Yes, I was wondering if it would be possible to reserve a classroom."
+    },
+    {
+        "startTime": 10265,
+        "endTime": 13537,
+        "text": "You need to use a classroom? Is this for personal use?"
+    },
+    {
+        "startTime": 13779,
+        "endTime": 17951,
+        "text": "No, it's for my club. I'm the president of \"Friends of the Disabled\"..."
+    },
+    {
+        "startTime": 18101,
+        "endTime": 20944,
+        "text": "...and we were hoping to use a room for our next meeting."
+    },
+    {
+        "startTime": 21117,
+        "endTime": 26135,
+        "text": "I see. You need to ask the professor for permission, then it shouldn't be a problem."
+    },
+    {
+        "startTime": 26414,
+        "endTime": 30092,
+        "text": "Okay, sounds great. Do you happen to know how big the room is?"
+    },
+    {
+        "startTime": 30367,
+        "endTime": 35829,
+        "text": "It's a regular lecture hall, so I imagine it has about 50 to 60 desks in it."
+    },
+    {
+        "startTime": 36436,
+        "endTime": 40120,
+        "text": "That will be plenty big enough for us. Thank you very much for your help."
+    },
+    {
+        "startTime": 40302,
+        "endTime": 44081,
+        "text": "No trouble at all. Feel free to see me when you have questions."
+    }
+]

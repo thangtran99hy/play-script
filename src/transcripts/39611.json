@@ -1,0 +1,82 @@
+[
+    {
+        "startTime": 1475,
+        "endTime": 1708,
+        "text": "Hi."
+    },
+    {
+        "startTime": 2661,
+        "endTime": 3033,
+        "text": "How are you?"
+    },
+    {
+        "startTime": 3304,
+        "endTime": 3882,
+        "text": "Good, sir. How are you?"
+    },
+    {
+        "startTime": 4068,
+        "endTime": 4255,
+        "text": "Good."
+    },
+    {
+        "startTime": 4913,
+        "endTime": 6841,
+        "text": "I'll have the Teen Burger."
+    },
+    {
+        "startTime": 7545,
+        "endTime": 8236,
+        "text": "It's for here or to go, sir?"
+    },
+    {
+        "startTime": 8651,
+        "endTime": 9348,
+        "text": "To go, please."
+    },
+    {
+        "startTime": 11193,
+        "endTime": 12716,
+        "text": "And the combo, please."
+    },
+    {
+        "startTime": 12819,
+        "endTime": 13612,
+        "text": "Fries and root beer?"
+    },
+    {
+        "startTime": 13888,
+        "endTime": 15405,
+        "text": "Fries and root beer would be good, yup."
+    },
+    {
+        "startTime": 17078,
+        "endTime": 17422,
+        "text": "That's everything?"
+    },
+    {
+        "startTime": 17585,
+        "endTime": 17980,
+        "text": "That's everything."
+    },
+    {
+        "startTime": 18131,
+        "endTime": 18956,
+        "text": "Can I have a name for the order?"
+    },
+    {
+        "startTime": 19440,
+        "endTime": 19593,
+        "text": "Bob."
+    },
+    {
+        "startTime": 19903,
+        "endTime": 20231,
+        "text": "Bob?"
+    },
+    {
+        "startTime": 21931,
+        "endTime": 22917,
+        "text": "It's 11.96, sir."
+    }
+]

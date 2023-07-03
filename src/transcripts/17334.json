@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 3339,
+        "endTime": 4745,
+        "text": "He runs to the bus."
+    },
+    {
+        "startTime": 5945,
+        "endTime": 7489,
+        "text": "He runs to the train."
+    },
+    {
+        "startTime": 8632,
+        "endTime": 9827,
+        "text": "He runs to the boat."
+    },
+    {
+        "startTime": 10971,
+        "endTime": 12588,
+        "text": "He runs to the plane."
+    },
+    {
+        "startTime": 13720,
+        "endTime": 15475,
+        "text": "He runs to the school."
+    },
+    {
+        "startTime": 16558,
+        "endTime": 18223,
+        "text": "He runs to the store."
+    },
+    {
+        "startTime": 19341,
+        "endTime": 21059,
+        "text": "He runs to the pool."
+    },
+    {
+        "startTime": 22231,
+        "endTime": 23451,
+        "text": "He runs home."
+    },
+    {
+        "startTime": 26761,
+        "endTime": 28603,
+        "text": "Where does Amy go?"
+    },
+    {
+        "startTime": 29731,
+        "endTime": 31999,
+        "text": "She runs to the supermarket."
+    },
+    {
+        "startTime": 33163,
+        "endTime": 36532,
+        "text": "Does Brian also run to the supermarket?"
+    },
+    {
+        "startTime": 37666,
+        "endTime": 40399,
+        "text": "No, he runs to the playground."
+    },
+    {
+        "startTime": 41607,
+        "endTime": 44936,
+        "text": "Do Betty and Eric run to the playground too?"
+    },
+    {
+        "startTime": 46134,
+        "endTime": 47315,
+        "text": "Yes, they do."
+    }
+]

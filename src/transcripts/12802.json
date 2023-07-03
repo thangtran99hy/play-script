@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 3883,
+        "endTime": 6978,
+        "text": "Hello, Sky Travel and Tours. How may I help you?"
+    },
+    {
+        "startTime": 7195,
+        "endTime": 10517,
+        "text": "Hello there. I'd like to book a flight to Seoul, Korea, please."
+    },
+    {
+        "startTime": 10836,
+        "endTime": 14461,
+        "text": "Seoul, Korea. Okay. What class would you like to book?"
+    },
+    {
+        "startTime": 14738,
+        "endTime": 15705,
+        "text": "Economy, please."
+    },
+    {
+        "startTime": 16111,
+        "endTime": 19118,
+        "text": "Okay, and will that be one-way or round-trip?"
+    },
+    {
+        "startTime": 19472,
+        "endTime": 21443,
+        "text": "I'd like to book a round-trip ticket, please."
+    },
+    {
+        "startTime": 21919,
+        "endTime": 24034,
+        "text": "How much is a round-trip ticket to Seoul, Korea?"
+    },
+    {
+        "startTime": 24683,
+        "endTime": 29739,
+        "text": "It's 1200 US dollars. What are the dates that you'd like to travel on?"
+    },
+    {
+        "startTime": 30031,
+        "endTime": 34655,
+        "text": "I'd like to leave here around June 15th and be back here by August 20th."
+    },
+    {
+        "startTime": 35245,
+        "endTime": 36547,
+        "text": "Do you have any aisle seats left?"
+    },
+    {
+        "startTime": 36866,
+        "endTime": 40743,
+        "text": "Yes, sir. I can book you on Korean Airlines on June 15th,..."
+    },
+    {
+        "startTime": 41018,
+        "endTime": 44198,
+        "text": "...leaving here at 6:45 a.m. with an aisle seat."
+    },
+    {
+        "startTime": 44443,
+        "endTime": 46506,
+        "text": "Okay, is that a direct flight?"
+    },
+    {
+        "startTime": 46743,
+        "endTime": 49420,
+        "text": "No, you will be transferring in Los Angeles."
+    }
+]

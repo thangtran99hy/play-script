@@ -1,0 +1,77 @@
+[
+    {
+        "startTime": 2753,
+        "endTime": 5315,
+        "text": "Ted and Peg go on a picnic."
+    },
+    {
+        "startTime": 6637,
+        "endTime": 8889,
+        "text": "Peg gets a picnic basket."
+    },
+    {
+        "startTime": 10331,
+        "endTime": 12087,
+        "text": "Ted puts in cheese."
+    },
+    {
+        "startTime": 13401,
+        "endTime": 15477,
+        "text": "Peg puts in sandwiches."
+    },
+    {
+        "startTime": 16743,
+        "endTime": 18563,
+        "text": "Ted puts in chips."
+    },
+    {
+        "startTime": 19795,
+        "endTime": 21763,
+        "text": "Peg puts in soda pop."
+    },
+    {
+        "startTime": 23281,
+        "endTime": 25219,
+        "text": "Ted puts in apples."
+    },
+    {
+        "startTime": 26481,
+        "endTime": 28391,
+        "text": "Peg puts in cookies."
+    },
+    {
+        "startTime": 29811,
+        "endTime": 32424,
+        "text": "Who put the mouse in the basket?"
+    },
+    {
+        "startTime": 36457,
+        "endTime": 38630,
+        "text": "What are Ted and Peg doing?"
+    },
+    {
+        "startTime": 39603,
+        "endTime": 42161,
+        "text": "They are getting a picnic basket."
+    },
+    {
+        "startTime": 43377,
+        "endTime": 45093,
+        "text": "Who puts in sandwiches?"
+    },
+    {
+        "startTime": 46691,
+        "endTime": 48825,
+        "text": "Peg puts in sandwiches."
+    },
+    {
+        "startTime": 50008,
+        "endTime": 51686,
+        "text": "What does Ted put in?"
+    },
+    {
+        "startTime": 52966,
+        "endTime": 54651,
+        "text": "He puts in chips."
+    }
+]

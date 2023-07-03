@@ -1,0 +1,107 @@
+[
+    {
+        "startTime": 2900,
+        "endTime": 7200,
+        "text": "Companies these days spend thousands of dollars on their computer security."
+    },
+    {
+        "startTime": 7650,
+        "endTime": 10650,
+        "text": "They buy the best firewalls and computer programs."
+    },
+    {
+        "startTime": 11100,
+        "endTime": 16600,
+        "text": "However, Kevin Mitnick thinks the biggest danger these days is not a weakness in technology."
+    },
+    {
+        "startTime": 17400,
+        "endTime": 20600,
+        "text": "In the 1990s, Kevin Mitnick was an infamous hacker."
+    },
+    {
+        "startTime": 21050,
+        "endTime": 24150,
+        "text": "He hacked into government and corporate computer systems."
+    },
+    {
+        "startTime": 24550,
+        "endTime": 28750,
+        "text": "After being sent to prison, Mitnick decided to use his skills in a different way."
+    },
+    {
+        "startTime": 29250,
+        "endTime": 31700,
+        "text": "He started his own computer security firm."
+    },
+    {
+        "startTime": 32250,
+        "endTime": 35200,
+        "text": "He now advises people on how to keep their computers safe."
+    },
+    {
+        "startTime": 35900,
+        "endTime": 39100,
+        "text": "According to Mitnick, the biggest danger to security is people."
+    },
+    {
+        "startTime": 39500,
+        "endTime": 41750,
+        "text": "However by this, he doesn't mean hackers."
+    },
+    {
+        "startTime": 42050,
+        "endTime": 44800,
+        "text": "In fact, he means the people using the programs."
+    },
+    {
+        "startTime": 45550,
+        "endTime": 51250,
+        "text": "\"If an attacker can get one trusting person to give his or her information, the attacker gets in.\""
+    },
+    {
+        "startTime": 51550,
+        "endTime": 53800,
+        "text": "\"All that money spent is basically wasted.\""
+    },
+    {
+        "startTime": 54250,
+        "endTime": 58550,
+        "text": "A hacker can get around everything with just one person within the company."
+    },
+    {
+        "startTime": 59450,
+        "endTime": 61950,
+        "text": "Unfortunately, people are still too trusting."
+    },
+    {
+        "startTime": 62350,
+        "endTime": 65650,
+        "text": "In a recent test of the US tax office (the IRS),..."
+    },
+    {
+        "startTime": 65950,
+        "endTime": 68850,
+        "text": "...security experts called 100 managers."
+    },
+    {
+        "startTime": 69300,
+        "endTime": 71800,
+        "text": "They posed as IRS computer technicians."
+    },
+    {
+        "startTime": 72300,
+        "endTime": 75700,
+        "text": "The experts were able to fool 35 of the managers."
+    },
+    {
+        "startTime": 76100,
+        "endTime": 78350,
+        "text": "They gave both their passwords and IDs."
+    },
+    {
+        "startTime": 78950,
+        "endTime": 82000,
+        "text": "In the hands of real hackers, this would have been a disaster!"
+    }
+]

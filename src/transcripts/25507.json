@@ -1,0 +1,42 @@
+[
+    {
+        "startTime": 291,
+        "endTime": 1737,
+        "text": "This is the word \"red\"."
+    },
+    {
+        "startTime": 2024,
+        "endTime": 4683,
+        "text": "The word \"red\" starts with the letter R."
+    },
+    {
+        "startTime": 5269,
+        "endTime": 6700,
+        "text": "This is the letter R."
+    },
+    {
+        "startTime": 7301,
+        "endTime": 7651,
+        "text": "R."
+    },
+    {
+        "startTime": 8183,
+        "endTime": 8487,
+        "text": "E."
+    },
+    {
+        "startTime": 9069,
+        "endTime": 9346,
+        "text": "D."
+    },
+    {
+        "startTime": 9648,
+        "endTime": 10843,
+        "text": "What does that spell?"
+    },
+    {
+        "startTime": 11431,
+        "endTime": 11801,
+        "text": "Red."
+    }
+]

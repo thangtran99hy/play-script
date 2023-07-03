@@ -1,0 +1,92 @@
+[
+    {
+        "startTime": 223,
+        "endTime": 1728,
+        "text": "Okay, here's probably a good one."
+    },
+    {
+        "startTime": 3207,
+        "endTime": 4648,
+        "text": "Can you tell Spot what to do?"
+    },
+    {
+        "startTime": 5118,
+        "endTime": 8093,
+        "text": "So, yes, Spot does not have a mind of its own."
+    },
+    {
+        "startTime": 8259,
+        "endTime": 12401,
+        "text": "You have a controller where you can directly command Spot,..."
+    },
+    {
+        "startTime": 12497,
+        "endTime": 14033,
+        "text": "...kind of like an Xbox controller..."
+    },
+    {
+        "startTime": 14189,
+        "endTime": 16399,
+        "text": "...or you can program it to do an autonomous mission."
+    },
+    {
+        "startTime": 16613,
+        "endTime": 20135,
+        "text": "But all of these things, you are setting up and defining for Spot."
+    },
+    {
+        "startTime": 21630,
+        "endTime": 26132,
+        "text": "Can I drive the robot into or over a trash can or a classmate?"
+    },
+    {
+        "startTime": 26760,
+        "endTime": 27829,
+        "text": "It's a great question..."
+    },
+    {
+        "startTime": 28113,
+        "endTime": 34387,
+        "text": "...and we try to bake in obstacle avoidance into our robots..."
+    },
+    {
+        "startTime": 34977,
+        "endTime": 37394,
+        "text": "...from a software and vision perspective."
+    },
+    {
+        "startTime": 37705,
+        "endTime": 40530,
+        "text": "You know, if a human lays down on the floor and you're not very big,..."
+    },
+    {
+        "startTime": 40621,
+        "endTime": 43351,
+        "text": "...it might think you're a step that it could walk over."
+    },
+    {
+        "startTime": 43436,
+        "endTime": 44719,
+        "text": "So, I wouldn't say to try that."
+    },
+    {
+        "startTime": 44986,
+        "endTime": 46411,
+        "text": "Does Spot have a favorite color?"
+    },
+    {
+        "startTime": 47629,
+        "endTime": 49462,
+        "text": "Well, I would like to think that it's yellow,..."
+    },
+    {
+        "startTime": 50133,
+        "endTime": 53913,
+        "text": "...but since robots can't think, I'm just going to decide for it."
+    },
+    {
+        "startTime": 53998,
+        "endTime": 55067,
+        "text": "Yes, it's yellow."
+    }
+]

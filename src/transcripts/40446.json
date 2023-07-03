@@ -1,0 +1,57 @@
+[
+    {
+        "startTime": 511,
+        "endTime": 4073,
+        "text": "Here are some phrases on how to ask for information."
+    },
+    {
+        "startTime": 5789,
+        "endTime": 6957,
+        "text": "Do you know...?"
+    },
+    {
+        "startTime": 8825,
+        "endTime": 10181,
+        "text": "Is this the right way?"
+    },
+    {
+        "startTime": 11875,
+        "endTime": 13311,
+        "text": "Would you happen to know...?"
+    },
+    {
+        "startTime": 15174,
+        "endTime": 16504,
+        "text": "I'm looking for..."
+    },
+    {
+        "startTime": 18363,
+        "endTime": 19751,
+        "text": "I suppose you know...?"
+    },
+    {
+        "startTime": 21611,
+        "endTime": 22923,
+        "text": "I'd like to know..."
+    },
+    {
+        "startTime": 24700,
+        "endTime": 26112,
+        "text": "Can anyone tell me...?"
+    },
+    {
+        "startTime": 27947,
+        "endTime": 29308,
+        "text": "I'm interested in..."
+    },
+    {
+        "startTime": 31233,
+        "endTime": 32585,
+        "text": "I was wondering..."
+    },
+    {
+        "startTime": 34455,
+        "endTime": 35669,
+        "text": "Would you mind...?"
+    }
+]

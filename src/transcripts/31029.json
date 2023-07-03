@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 768,
+        "endTime": 1167,
+        "text": "Look at that."
+    },
+    {
+        "startTime": 2793,
+        "endTime": 3269,
+        "text": "A."
+    },
+    {
+        "startTime": 4279,
+        "endTime": 4827,
+        "text": "Apple."
+    },
+    {
+        "startTime": 5595,
+        "endTime": 6005,
+        "text": "Ant."
+    },
+    {
+        "startTime": 6803,
+        "endTime": 7736,
+        "text": "Airplane."
+    },
+    {
+        "startTime": 9027,
+        "endTime": 9440,
+        "text": "B."
+    },
+    {
+        "startTime": 10503,
+        "endTime": 10895,
+        "text": "Bus."
+    },
+    {
+        "startTime": 11841,
+        "endTime": 12403,
+        "text": "Bird."
+    },
+    {
+        "startTime": 12963,
+        "endTime": 13506,
+        "text": "Ball."
+    },
+    {
+        "startTime": 15954,
+        "endTime": 16467,
+        "text": "C."
+    },
+    {
+        "startTime": 17305,
+        "endTime": 17952,
+        "text": "Cow."
+    },
+    {
+        "startTime": 18827,
+        "endTime": 19222,
+        "text": "Cake."
+    },
+    {
+        "startTime": 19949,
+        "endTime": 20547,
+        "text": "Car."
+    }
+]

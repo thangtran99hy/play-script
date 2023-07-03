@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 5639,
+        "endTime": 9343,
+        "text": "Drivers know that accidents, construction, stalled vehicles..."
+    },
+    {
+        "startTime": 9422,
+        "endTime": 12947,
+        "text": "...and just the sheer number of people on the road all contribute to traffic."
+    },
+    {
+        "startTime": 13343,
+        "endTime": 15388,
+        "text": "The real culprit, however, is speed..."
+    },
+    {
+        "startTime": 15700,
+        "endTime": 18711,
+        "text": "...or rather, sudden random fluctuations in speed."
+    },
+    {
+        "startTime": 19424,
+        "endTime": 22815,
+        "text": "When drivers travel at a constant rate, traffic flows freely."
+    },
+    {
+        "startTime": 24719,
+        "endTime": 27847,
+        "text": "But when even a single driver hits the brakes, the flow is interrupted,..."
+    },
+    {
+        "startTime": 28121,
+        "endTime": 30777,
+        "text": "...causing a chain reaction among the vehicles behind that driver."
+    },
+    {
+        "startTime": 31565,
+        "endTime": 34338,
+        "text": "A traffic jam occurs when drivers brake abruptly."
+    },
+    {
+        "startTime": 34567,
+        "endTime": 37938,
+        "text": "This causes the vehicles behind them to slow down or even come to a stop."
+    },
+    {
+        "startTime": 38817,
+        "endTime": 41615,
+        "text": "Vehicles enter the back of the jam at a faster rate..."
+    },
+    {
+        "startTime": 41829,
+        "endTime": 44610,
+        "text": "...than the slower moving lead vehicles can accelerate out of it."
+    },
+    {
+        "startTime": 45333,
+        "endTime": 49628,
+        "text": "The result: a traffic jam persists until the volume of incoming vehicles..."
+    },
+    {
+        "startTime": 49887,
+        "endTime": 52767,
+        "text": "...drops low enough to allow the lead vehicles to restore the flow."
+    }
+]

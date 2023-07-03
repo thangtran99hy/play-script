@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 2470,
+        "endTime": 5700,
+        "text": "So, if I may summarize your company's position,..."
+    },
+    {
+        "startTime": 5970,
+        "endTime": 10210,
+        "text": "...the new contract would require us to guarantee a higher annual order."
+    },
+    {
+        "startTime": 10910,
+        "endTime": 11870,
+        "text": "That's right!"
+    },
+    {
+        "startTime": 12170,
+        "endTime": 14630,
+        "text": "As you can see from the figure we've calculated,..."
+    },
+    {
+        "startTime": 14940,
+        "endTime": 21050,
+        "text": "...in order to deliver at the current discount rate, we need a minimum order of 10,000 units."
+    },
+    {
+        "startTime": 21850,
+        "endTime": 25190,
+        "text": "Of course, we are sympathetic to the position your company is in."
+    },
+    {
+        "startTime": 25490,
+        "endTime": 30460,
+        "text": "However, there are certain factors needing consideration on our end as well."
+    },
+    {
+        "startTime": 30730,
+        "endTime": 35560,
+        "text": "For example, we have to take into account the growth we expect in sales next year."
+    },
+    {
+        "startTime": 36000,
+        "endTime": 40300,
+        "text": "The greater cost of the order is really of secondary importance to us."
+    }
+]

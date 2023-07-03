@@ -1,0 +1,37 @@
+[
+    {
+        "startTime": 479,
+        "endTime": 1927,
+        "text": "Please give me this shirt."
+    },
+    {
+        "startTime": 2967,
+        "endTime": 4487,
+        "text": "Please give me these pants."
+    },
+    {
+        "startTime": 7145,
+        "endTime": 9171,
+        "text": "Can I have this dress, please?"
+    },
+    {
+        "startTime": 9897,
+        "endTime": 11876,
+        "text": "Can I have that skirt, please?"
+    },
+    {
+        "startTime": 15403,
+        "endTime": 17640,
+        "text": "Mike, can I have this jacket, please?"
+    },
+    {
+        "startTime": 19005,
+        "endTime": 19622,
+        "text": "Okay."
+    },
+    {
+        "startTime": 19791,
+        "endTime": 20518,
+        "text": "You can have it."
+    }
+]

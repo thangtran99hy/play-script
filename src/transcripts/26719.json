@@ -1,0 +1,67 @@
+[
+    {
+        "startTime": 1880,
+        "endTime": 4646,
+        "text": "Hello Bobby! What's wrong?"
+    },
+    {
+        "startTime": 7067,
+        "endTime": 8627,
+        "text": "Are your tires flat?"
+    },
+    {
+        "startTime": 11856,
+        "endTime": 13725,
+        "text": "Are your windows broken?"
+    },
+    {
+        "startTime": 16782,
+        "endTime": 19333,
+        "text": "Have your lights stopped working?"
+    },
+    {
+        "startTime": 22246,
+        "endTime": 24549,
+        "text": "What do you think is wrong with Bobby?"
+    },
+    {
+        "startTime": 27139,
+        "endTime": 30433,
+        "text": "It sounds like your fuel tank is nearly empty."
+    },
+    {
+        "startTime": 30919,
+        "endTime": 32262,
+        "text": "Shall we give you a top-up?"
+    },
+    {
+        "startTime": 34417,
+        "endTime": 37586,
+        "text": "Fill, fill, fill, let's fill up your tank."
+    },
+    {
+        "startTime": 37974,
+        "endTime": 41144,
+        "text": "For all of this fuel, I'm sure you'll thank."
+    },
+    {
+        "startTime": 41640,
+        "endTime": 44190,
+        "text": "Let's fix that light that was so dim."
+    },
+    {
+        "startTime": 44726,
+        "endTime": 47819,
+        "text": "Full, full, full, full to the brim!"
+    },
+    {
+        "startTime": 49519,
+        "endTime": 52889,
+        "text": "There! All filled up and ready to go."
+    },
+    {
+        "startTime": 54907,
+        "endTime": 57825,
+        "text": "Bye-bye Bobby! See you again soon!"
+    }
+]

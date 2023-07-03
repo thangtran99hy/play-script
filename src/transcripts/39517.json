@@ -1,0 +1,72 @@
+[
+    {
+        "startTime": 213,
+        "endTime": 1295,
+        "text": "What is your job?"
+    },
+    {
+        "startTime": 2759,
+        "endTime": 3461,
+        "text": "I'm a teacher."
+    },
+    {
+        "startTime": 4542,
+        "endTime": 5191,
+        "text": "I'm a student."
+    },
+    {
+        "startTime": 6195,
+        "endTime": 6937,
+        "text": "I'm a doctor."
+    },
+    {
+        "startTime": 7630,
+        "endTime": 8654,
+        "text": "I'm a manager."
+    },
+    {
+        "startTime": 9986,
+        "endTime": 11393,
+        "text": "I am a music producer."
+    },
+    {
+        "startTime": 12368,
+        "endTime": 13371,
+        "text": "I'm a journalist."
+    },
+    {
+        "startTime": 14399,
+        "endTime": 15502,
+        "text": "I'm a television producer."
+    },
+    {
+        "startTime": 16320,
+        "endTime": 17144,
+        "text": "I'm an architect."
+    },
+    {
+        "startTime": 17857,
+        "endTime": 18637,
+        "text": "I'm a student."
+    },
+    {
+        "startTime": 19589,
+        "endTime": 20635,
+        "text": "I work in an office."
+    },
+    {
+        "startTime": 21549,
+        "endTime": 22459,
+        "text": "I work in IT."
+    },
+    {
+        "startTime": 23323,
+        "endTime": 24183,
+        "text": "I'm a student."
+    },
+    {
+        "startTime": 25143,
+        "endTime": 26003,
+        "text": "I'm an engineer."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "startTime": 150,
+        "endTime": 2237,
+        "text": "Ladies and gentlemen, this is your captain speaking."
+    },
+    {
+        "startTime": 2726,
+        "endTime": 8636,
+        "text": "We have decided to discontinue the approach into Singapore Changi Airport..."
+    },
+    {
+        "startTime": 9304,
+        "endTime": 11514,
+        "text": "...and this was because I was informed..."
+    },
+    {
+        "startTime": 12202,
+        "endTime": 14292,
+        "text": "...that we still have got passengers..."
+    },
+    {
+        "startTime": 14395,
+        "endTime": 17741,
+        "text": "...who are not seated with your seatbelts securely fastened,..."
+    },
+    {
+        "startTime": 18128,
+        "endTime": 24947,
+        "text": "...and we are legally not able to land an aircraft if the cabin isn't secure."
+    },
+    {
+        "startTime": 25430,
+        "endTime": 28317,
+        "text": "We are now turning around again for another approach,..."
+    },
+    {
+        "startTime": 28407,
+        "endTime": 34805,
+        "text": "...and if we have to do another missed approach for the same reason,..."
+    },
+    {
+        "startTime": 34948,
+        "endTime": 41811,
+        "text": "...the airport police will be involved and they will take the necessary action."
+    }
+]

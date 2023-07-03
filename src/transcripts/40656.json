@@ -1,0 +1,62 @@
+[
+    {
+        "startTime": 202,
+        "endTime": 1256,
+        "text": "Where do you work?"
+    },
+    {
+        "startTime": 1839,
+        "endTime": 5751,
+        "text": "I work for ABC Limited as a software engineer."
+    },
+    {
+        "startTime": 6641,
+        "endTime": 10383,
+        "text": "It's a good job for me because I like working with computers."
+    },
+    {
+        "startTime": 11278,
+        "endTime": 12263,
+        "text": "How about you?"
+    },
+    {
+        "startTime": 12901,
+        "endTime": 14161,
+        "text": "I'm a journalist."
+    },
+    {
+        "startTime": 14867,
+        "endTime": 19686,
+        "text": "I interview people and write stories for a famous American newspaper."
+    },
+    {
+        "startTime": 20042,
+        "endTime": 22084,
+        "text": "What do you do in your free time?"
+    },
+    {
+        "startTime": 22971,
+        "endTime": 25267,
+        "text": "At the moment, I'm learning Italian."
+    },
+    {
+        "startTime": 25991,
+        "endTime": 27659,
+        "text": "It's fun but difficult."
+    },
+    {
+        "startTime": 28457,
+        "endTime": 29428,
+        "text": "How about you?"
+    },
+    {
+        "startTime": 30042,
+        "endTime": 31775,
+        "text": "I like to go rock climbing."
+    },
+    {
+        "startTime": 32499,
+        "endTime": 36395,
+        "text": "It's good exercise and I can enjoy the fresh air too."
+    }
+]
